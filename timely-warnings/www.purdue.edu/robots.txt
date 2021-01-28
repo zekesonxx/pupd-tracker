@@ -45,6 +45,11 @@ Disallow: /discoverypark/wghi/events/
 Disallow: /discoverypark/wghi/news/
 
 #
+# Gradschool
+#
+Disallow: /gradschool/gsdb/
+
+#
 # HHS
 #
 #    Updated by Lisa Stein 1/27/2017 - FP 764035
