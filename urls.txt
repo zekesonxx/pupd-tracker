@@ -1,8 +1,3 @@
-https://www.purdue.edu/ehps/police/message.html
-https://www.purdue.edu/ehps/police/assistance/stats/statsdaily.html
-https://www.purdue.edu/ehps/police/assistance/stats/statsmonth.html
-https://www.purdue.edu/ehps/police/assistance/stats/statsyears.html
-https://www.purdue.edu/ehps/police/docs/crime-stat-four-year.pdf
-https://www.purdue.edu/ehps/police/assistance/stats/warrants.html
-https://www.purdue.edu/ehps/police/assistance/stats/personanongrata.html
-
+https://www.purdue.edu/ehps/police/statistics-policies/daily-crime-log.php
+https://www.purdue.edu/ehps/police/images/reports/west-lafayette.pdf
+https://www.purdue.edu/ehps/police/statistics-policies/crime-security-procedures.php
