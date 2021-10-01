@@ -637,7 +637,106 @@
   
     	<section class="content__group">
   					<h3>Friday, October 1, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Vehicle</td>
+<td style="font-weight: 400;" width="154">2021PU00994</td>
+<td style="font-weight: 400;" width="168">9/25/21 2:10 PM</td>
+<td style="font-weight: 400;" width="166">9/25/21 3:39 PM</td>
+<td style="font-weight: 400;" width="207">Rankin Track and Field</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01030</td>
+<td style="font-weight: 400;" width="168">9/5/21 1:51 AM</td>
+<td style="font-weight: 400;" width="166">9/30/21 8:03 AM</td>
+<td style="font-weight: 400;" width="207">CoRec</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01031</td>
+<td style="font-weight: 400;" width="168">9/29/21 5:30 PM</td>
+<td style="font-weight: 400;" width="166">9/30/21 8:05 AM</td>
+<td style="font-weight: 400;" width="207">Lynn Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2021PU01038</td>
+<td style="font-weight: 400;" width="168">10/1/21 3:48 AM</td>
+<td style="font-weight: 400;" width="166">10/1/21 4:24 AM</td>
+<td style="font-weight: 400;" width="207">Lynn Hall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-133066</td>
+<td style="font-weight: 400;" width="168">9/28/21 1:34 PM</td>
+<td style="font-weight: 400;" width="166">09/28/2021 1334</td>
+<td style="font-weight: 400;" width="207">1st St/Waldron St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">2 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">9/24/21 7:30 PM</td>
+<td style="font-weight: 400;" width="166">9/24/21 8:18 PM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">9/24/21 8:15 PM</td>
+<td style="font-weight: 400;" width="166">9/24/21 8:59 PM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">8 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">9/25/21 12:22 AM</td>
+<td style="font-weight: 400;" width="166">9/25/21 2:38 AM</td>
+<td style="font-weight: 400;" width="207">Honors Residence Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">9 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">9/25/21 12:45 AM</td>
+<td style="font-weight: 400;" width="166">9/25/21 2:15 AM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">7 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">9/25/21 1:17 AM</td>
+<td style="font-weight: 400;" width="166">9/25/21 2:25 AM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">4 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">9/25/21 8:30 PM</td>
+<td style="font-weight: 400;" width="166">9/25/21 9:07 PM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -760,7 +859,7 @@
 <td style="font-weight: 400;" width="168">9/25/21 4:12 AM</td>
 <td style="font-weight: 400;" width="166">9/25/21 4:48 AM</td>
 <td style="font-weight: 400;" width="207">Shreve Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Weapons Violation</td>
@@ -861,7 +960,7 @@
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Intimidation</td>
+<td style="font-weight: 400;" width="157">Fraud</td>
 <td style="font-weight: 400;" width="154">2021PU00985</td>
 <td style="font-weight: 400;" width="168">9/21/21 6:00 PM</td>
 <td style="font-weight: 400;" width="166">9/24/21 9:13 AM</td>
@@ -949,7 +1048,7 @@
 <td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Public Intoxication</td>
+<td style="font-weight: 400;" width="157">Public Intoxication/ Theft-Vehicle</td>
 <td style="font-weight: 400;" width="154">2021PU01003</td>
 <td style="font-weight: 400;" width="168">9/26/21 2:22 AM</td>
 <td style="font-weight: 400;" width="166">9/26/21 2:51 AM</td>
@@ -977,7 +1076,7 @@
 <td style="font-weight: 400;" width="154">2021PU01006</td>
 <td style="font-weight: 400;" width="168">9/26/21 11:57 AM</td>
 <td style="font-weight: 400;" width="166">9/26/21 12:08 PM</td>
-<td style="font-weight: 400;" width="207">PUPD</td>
+<td style="font-weight: 400;" width="207">Witherill Hall</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
