@@ -785,7 +785,7 @@
 <td style="font-weight: 400;">8/24/21 7:30 PM</td>
 <td style="font-weight: 400;">8/24/21 7:54 PM</td>
 <td style="font-weight: 400;" width="205">Hilltop Apartments</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft-Bike</td>
@@ -809,7 +809,7 @@
 <td style="font-weight: 400;">8/25/21 12:04 AM</td>
 <td style="font-weight: 400;">8/25/21 12:27 AM</td>
 <td style="font-weight: 400;" width="205">Purdue Village</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Fraud</td>

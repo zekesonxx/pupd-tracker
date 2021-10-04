@@ -1255,7 +1255,7 @@
 <td style="font-weight: 400;" width="168">8/25/21 4:00 PM</td>
 <td style="font-weight: 400;" width="166">8/31/21 11:15 AM</td>
 <td style="font-weight: 400;" width="207">Parking Services</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft-EMPV</td>
