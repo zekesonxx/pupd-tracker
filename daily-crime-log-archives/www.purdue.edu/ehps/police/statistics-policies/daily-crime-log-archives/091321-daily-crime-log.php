@@ -695,7 +695,7 @@
 <td style="font-weight: 400;" width="168">9/13/21 9:19 PM</td>
 <td style="font-weight: 400;" width="166">9/13/21 11:07 PM</td>
 <td style="font-weight: 400;" width="207">Harrison Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Disorderly Conduct</td>

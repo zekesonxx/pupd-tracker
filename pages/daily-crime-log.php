@@ -658,7 +658,98 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, October 5, 2021</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Battery by Bodily Waste</td>
+<td style="font-weight: 400;" width="154">2021PU00988</td>
+<td style="font-weight: 400;" width="168">9/24/21 9:09 PM</td>
+<td style="font-weight: 400;" width="166">9/24/21 9:45 PM</td>
+<td style="font-weight: 400;" width="207">200 Blk N University St</td>
+<td style="font-weight: 400;" width="181">Closed</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01063</td>
+<td style="font-weight: 400;" width="168">10/3/21 3:30 PM</td>
+<td style="font-weight: 400;" width="166">10/4/21 12:18 PM</td>
+<td style="font-weight: 400;" width="207">Stewart Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2021PU01065</td>
+<td style="font-weight: 400;" width="168">10/4/21 6:27 PM</td>
+<td style="font-weight: 400;" width="166">10/4/21 6:37 PM</td>
+<td style="font-weight: 400;" width="207">Stewart Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Disorderly Conduct</td>
+<td style="font-weight: 400;" width="154">CAD#2021-135016</td>
+<td style="font-weight: 400;" width="168">10/2/21 1:39 AM</td>
+<td style="font-weight: 400;" width="166">10/2/21 1:39 AM</td>
+<td style="font-weight: 400;" width="207">Alpha Gamma Rho</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2021-134613</td>
+<td style="font-weight: 400;" width="168">10/1/21 1:20 PM</td>
+<td style="font-weight: 400;" width="166">10/1/21 1:20 PM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2021-135268</td>
+<td style="font-weight: 400;" width="168">10/2/21 12:11 PM</td>
+<td style="font-weight: 400;" width="166">10/2/21 12:11 PM</td>
+<td style="font-weight: 400;" width="207">Blackbird Farms</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">CAD#2021-135363</td>
+<td style="font-weight: 400;" width="168">10/2/21 3:18 PM</td>
+<td style="font-weight: 400;" width="166">10/2/21 3:18 PM</td>
+<td style="font-weight: 400;" width="207">Stadium Rd/McCormick Dr</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">CAD#2021-135352</td>
+<td style="font-weight: 400;" width="168">10/2/21 2:55 PM</td>
+<td style="font-weight: 400;" width="166">10/2/21 2:55 PM</td>
+<td style="font-weight: 400;" width="207">Tower Dr/ Martin Jisckhe Dr</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD#2021-135186</td>
+<td style="font-weight: 400;" width="168">10/2/21 10:02 AM</td>
+<td style="font-weight: 400;" width="166">10/2/21 10:02 AM</td>
+<td style="font-weight: 400;" width="207">Young Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">CAD#2021-135397</td>
+<td style="font-weight: 400;" width="168">10/2/21 4:28 PM</td>
+<td style="font-weight: 400;" width="166">10/2/21 4:28 PM</td>
+<td style="font-weight: 400;" width="207">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -705,7 +796,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="168">10/2/21 1:01 AM</td>
 <td style="font-weight: 400;" width="166">10/2/21 1:15 AM</td>
 <td style="font-weight: 400;" width="207">Purdue West</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Criminal Mischief/ Theft</td>

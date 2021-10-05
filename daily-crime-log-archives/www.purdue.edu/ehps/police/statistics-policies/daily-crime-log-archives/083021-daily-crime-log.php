@@ -1007,7 +1007,7 @@
 <td style="font-weight: 400;">8/28/21 12:23 AM</td>
 <td style="font-weight: 400;">8/28/21 1:11 AM</td>
 <td style="font-weight: 400;" width="205">W State St/Grant St</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
@@ -1031,7 +1031,7 @@
 <td style="font-weight: 400;">8/28/21 12:22 AM</td>
 <td style="font-weight: 400;">8/28/21 3:48 AM</td>
 <td style="font-weight: 400;" width="205">Kappa Alpha Theta</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft-Bike</td>
@@ -1047,7 +1047,7 @@
 <td style="font-weight: 400;">8/29/21 12:38 AM</td>
 <td style="font-weight: 400;">8/29/21 1:01 AM</td>
 <td style="font-weight: 400;" width="205">Earhart Hall</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Clsed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
@@ -1055,7 +1055,7 @@
 <td style="font-weight: 400;">8/29/21 12:42 AM</td>
 <td style="font-weight: 400;">8/29/21 1:10 AM</td>
 <td style="font-weight: 400;" width="205">Wiley Hall</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">OWI</td>
@@ -1071,7 +1071,7 @@
 <td style="font-weight: 400;">8/29/21 4:14 AM</td>
 <td style="font-weight: 400;">8/29/21 4:31 AM</td>
 <td style="font-weight: 400;" width="205">Earhart Hall</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
