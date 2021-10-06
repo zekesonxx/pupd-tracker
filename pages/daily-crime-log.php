@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			092721 Daily Crime Log - 
+			100421 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -651,7 +651,26 @@
   
     	<section class="content__group">
   					<h3>Wednesday, October 6, 2021</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01066</td>
+<td style="font-weight: 400;" width="168">10/5/21 7:43 PM</td>
+<td style="font-weight: 400;" width="166">10/5/21 8:13 PM</td>
+<td style="font-weight: 400;" width="207">Smith Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
