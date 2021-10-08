@@ -637,7 +637,98 @@
   
     	<section class="content__group">
   					<h3>Friday, October 8, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2021PU01075</td>
+<td style="font-weight: 400;" width="168">10/7/21 4:17 PM</td>
+<td style="font-weight: 400;" width="166">10/7/21 4:45 PM</td>
+<td style="font-weight: 400;" width="207">Electrical Engineering</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Trespass/ Disorderly</td>
+<td style="font-weight: 400;" width="154">2021PU01076</td>
+<td style="font-weight: 400;" width="168">10/7/21 7:28 PM</td>
+<td style="font-weight: 400;" width="166">10/7/21 7:57 PM</td>
+<td style="font-weight: 400;" width="207">W State St/ N Russell St</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Trespass</td>
+<td style="font-weight: 400;" width="154">2021PU01077</td>
+<td style="font-weight: 400;" width="168">10/8/21 1:11 AM</td>
+<td style="font-weight: 400;" width="166">10/8/21 1:31 AM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Tresspass/ Resisting Law Enforcement/ Minor Possession</td>
+<td style="font-weight: 400;" width="154">2021PU01078</td>
+<td style="font-weight: 400;" width="168">10/8/21 1:11 AM</td>
+<td style="font-weight: 400;" width="166">10/8/21 2:03 AM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Trespass</td>
+<td style="font-weight: 400;" width="154">2021PU01079</td>
+<td style="font-weight: 400;" width="168">10/8/21 2:11 AM</td>
+<td style="font-weight: 400;" width="166">10/8/21 2:30 AM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">10/2/21 12:30 AM</td>
+<td style="font-weight: 400;" width="166">10/2/21 2:36 AM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">6 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">10/2/21 10:00 PM</td>
+<td style="font-weight: 400;" width="166">10/2/21 10:59 PM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">10/2/21 10:15 PM</td>
+<td style="font-weight: 400;" width="166">10/2/21 11:08 PM</td>
+<td style="font-weight: 400;" width="207">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">5 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">10/2/21 10:50 PM</td>
+<td style="font-weight: 400;" width="166">10/2/21 11:49 PM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">10/2/21 11:30 PM</td>
+<td style="font-weight: 400;" width="166">10/3/21 12:39 AM</td>
+<td style="font-weight: 400;" width="207">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
