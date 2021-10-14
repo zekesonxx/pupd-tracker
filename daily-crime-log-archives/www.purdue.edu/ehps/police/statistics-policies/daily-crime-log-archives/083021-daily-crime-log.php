@@ -999,7 +999,7 @@
 <td style="font-weight: 400;">8/27/21 10:52 PM</td>
 <td style="font-weight: 400;">8/27/21 11:23 PM</td>
 <td style="font-weight: 400;" width="205">Cherry Ln/McCormick Rd</td>
-<td style="font-weight: 400;">Arrest Made</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>

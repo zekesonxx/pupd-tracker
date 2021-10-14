@@ -861,7 +861,7 @@
 <td style="font-weight: 400;" width="168">9/18/21 1:00 AM</td>
 <td style="font-weight: 400;" width="166">9/18/21 1:17 AM</td>
 <td style="font-weight: 400;" width="207">645 Waldron St</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Rape</td>
@@ -902,6 +902,14 @@
 <td style="font-weight: 400;" width="166">9/19/21 12:24 AM</td>
 <td style="font-weight: 400;" width="207">Freida Parker Hall</td>
 <td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Minor Possession</td>
+<td style="font-weight: 400;" width="154">2021PU00968</td>
+<td style="font-weight: 400;" width="168">9/19/21 12:28 AM</td>
+<td style="font-weight: 400;" width="166">9/19/21 12:44 AM</td>
+<td style="font-weight: 400;" width="207">Class of 50 Lecture Hall</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Trespass</td>
