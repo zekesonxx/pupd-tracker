@@ -629,7 +629,7 @@
 <td style="font-weight: 400;" width="168">9/18/21 10:00 PM</td>
 <td style="font-weight: 400;" width="166">9/19/21 12:44 PM</td>
 <td style="font-weight: 400;" width="207">Owen Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Hit &amp; Run</td>

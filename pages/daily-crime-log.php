@@ -637,7 +637,58 @@
   
     	<section class="content__group">
   					<h3>Friday, October 15, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2021PU01100</td>
+<td style="font-weight: 400;" width="168">10/13/21 3:20 PM</td>
+<td style="font-weight: 400;" width="166">10/14/21 2:41 PM</td>
+<td style="font-weight: 400;" width="207">Mathematical Sciences Building</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2021PU01101</td>
+<td style="font-weight: 400;" width="168">10/14/21 11:00 PM</td>
+<td style="font-weight: 400;" width="166">10/15/21 1:00 AM</td>
+<td style="font-weight: 400;" width="207">Krannert Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01102</td>
+<td style="font-weight: 400;" width="168">10/15/21 1:14 AM</td>
+<td style="font-weight: 400;" width="166">10/15/21 2:47 AM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Minor Possession/ Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01103</td>
+<td style="font-weight: 400;" width="168">10/15/21 1:14 AM</td>
+<td style="font-weight: 400;" width="166">10/15/21 2:31 AM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2021PU01104</td>
+<td style="font-weight: 400;" width="168">10/15/21 4:07 AM</td>
+<td style="font-weight: 400;" width="166">10/15/21 4:23 AM</td>
+<td style="font-weight: 400;" width="207">Pierce St Lot</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
