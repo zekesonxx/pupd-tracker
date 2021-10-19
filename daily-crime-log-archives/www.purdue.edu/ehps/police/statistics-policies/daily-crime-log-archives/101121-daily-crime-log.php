@@ -574,7 +574,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="100421-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -729,7 +734,7 @@
 <td style="font-weight: 400;" width="168">10/12/21 12:14 PM</td>
 <td style="font-weight: 400;" width="166">10/12/21 1:11 PM</td>
 <td style="font-weight: 400;" width="207">1300 Blk Cherry Ln</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft-EMPV</td>

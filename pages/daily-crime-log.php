@@ -658,7 +658,50 @@
   
     	<section class="content__group">
   					<h3>Tuesday, October 19, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01124</td>
+<td style="font-weight: 400;" width="168">10/18/21 10:20 PM</td>
+<td style="font-weight: 400;" width="166">10/18/21 10:45 PM</td>
+<td style="font-weight: 400;" width="207">Schwartz Tennis Center</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Blackmail</td>
+<td style="font-weight: 400;" width="154">2021PU01125</td>
+<td style="font-weight: 400;" width="168">10/19/21 1:17 AM</td>
+<td style="font-weight: 400;" width="166">10/19/21 1:53 AM</td>
+<td style="font-weight: 400;" width="207">Cary Quad</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-142418</td>
+<td style="font-weight: 400;" width="168">10/15/21 6:28 PM</td>
+<td style="font-weight: 400;" width="166">10/15/21 6:28 PM</td>
+<td style="font-weight: 400;" width="207">Harrsion Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drunk Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-143146</td>
+<td style="font-weight: 400;" width="168">10/16/21 11:42 PM</td>
+<td style="font-weight: 400;" width="166">10/16/21 11:42 PM</td>
+<td style="font-weight: 400;" width="207">Northwestern Ave/ Cherry Ln</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
