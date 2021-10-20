@@ -826,7 +826,7 @@
 <td style="font-weight: 400;" width="168">10/8/21 2:49 PM</td>
 <td style="font-weight: 400;" width="166">10/8/21 3:24 PM</td>
 <td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>

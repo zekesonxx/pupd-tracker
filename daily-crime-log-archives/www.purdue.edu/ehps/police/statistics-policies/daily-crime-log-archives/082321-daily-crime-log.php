@@ -574,7 +574,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="100421-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -669,7 +674,7 @@
 <td style="font-weight: 400;">8/27/21 12:11 AM</td>
 <td style="font-weight: 400;">8/27/21 12:31 AM</td>
 <td style="font-weight: 400;" width="205">Alpha Chi Omega</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
@@ -677,7 +682,7 @@
 <td style="font-weight: 400;">8/27/21 1:27 AM</td>
 <td style="font-weight: 400;">8/27/21 1:50 AM</td>
 <td style="font-weight: 400;" width="205">Sigma Kappa</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Stalking</td>

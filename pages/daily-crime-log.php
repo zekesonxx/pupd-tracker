@@ -651,7 +651,74 @@
   
     	<section class="content__group">
   					<h3>Wednesday, October 20, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-144023</td>
+<td style="font-weight: 400;" width="168">10/18/2021 2020</td>
+<td style="font-weight: 400;" width="166">10/18/2021 2020</td>
+<td style="font-weight: 400;" width="207">500 N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">5 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">10/15/21 1:15 AM</td>
+<td style="font-weight: 400;" width="166">10/15/21 3:55 PM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">10 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">10/16/21 12:05 AM</td>
+<td style="font-weight: 400;" width="166">10/16/21 2:09 AM</td>
+<td style="font-weight: 400;" width="207">20 Littleton St</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">2 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">10/16/21 11:15 PM</td>
+<td style="font-weight: 400;" width="166">10/16/21 11:55 PM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">10 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">10/16/21 11:30 PM</td>
+<td style="font-weight: 400;" width="166">10/17/21 12:09 AM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">3 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">10/17/21 1:15 AM</td>
+<td style="font-weight: 400;" width="166">10/17/21 2:38 AM</td>
+<td style="font-weight: 400;" width="207">Hilltop Apartments</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">5 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">10/17/21 1:15 AM</td>
+<td style="font-weight: 400;" width="166">10/17/21 3:15 AM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -780,7 +847,7 @@
 <td style="font-weight: 400;" width="168">10/17/21 1:20 AM</td>
 <td style="font-weight: 400;" width="166">10/17/21 1:32 AM</td>
 <td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Fraud</td>

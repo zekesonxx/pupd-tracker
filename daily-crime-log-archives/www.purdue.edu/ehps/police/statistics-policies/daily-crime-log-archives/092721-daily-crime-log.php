@@ -574,7 +574,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="100421-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -835,7 +840,7 @@
 <td style="font-weight: 400;" width="168">9/25/21 4:12 AM</td>
 <td style="font-weight: 400;" width="166">9/25/21 4:48 AM</td>
 <td style="font-weight: 400;" width="207">Shreve Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Weapons Violation</td>
