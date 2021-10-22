@@ -637,14 +637,116 @@
   
     	<section class="content__group">
   					<h3>Friday, October 22, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Minor Possession</td>
+<td style="font-weight: 400;" width="154">2021PU01134</td>
+<td style="font-weight: 400;" width="168">10/21/21 3:25 AM</td>
+<td style="font-weight: 400;" width="166">10/21/21 3:46 AM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Fraud</td>
+<td style="font-weight: 400;" width="154">2021PU01137</td>
+<td style="font-weight: 400;" width="168">9/16/21 12:16 PM</td>
+<td style="font-weight: 400;" width="166">9/16/21 12:16 PM</td>
+<td style="font-weight: 400;" width="207">Parking Services</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2021PU01139</td>
+<td style="font-weight: 400;" width="168">10/19/21 4:30 PM</td>
+<td style="font-weight: 400;" width="166">10/21/21 6:22 PM</td>
+<td style="font-weight: 400;" width="207">Northwestern Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation/ Minor Possession</td>
+<td style="font-weight: 400;" width="154">2021PU01142</td>
+<td style="font-weight: 400;" width="168">10/22/21 12:49 AM</td>
+<td style="font-weight: 400;" width="166">10/22/21 1:20 AM</td>
+<td style="font-weight: 400;" width="207">Alpha Chi Rho</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01143</td>
+<td style="font-weight: 400;" width="168">10/22/21 1:49 AM</td>
+<td style="font-weight: 400;" width="166">10/22/21 2:13 AM</td>
+<td style="font-weight: 400;" width="207">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
   					<h3>Thursday, October 21, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2021PU01130</td>
+<td style="font-weight: 400;" width="168">10/16/21 3:00 PM</td>
+<td style="font-weight: 400;" width="166">10/20/21 2:32 PM</td>
+<td style="font-weight: 400;" width="207">Christian Campus House</td>
+<td style="font-weight: 400;" width="181">&#160;Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01131</td>
+<td style="font-weight: 400;" width="168">10/17/21 8:30 PM</td>
+<td style="font-weight: 400;" width="166">10/20/21 4:47 PM</td>
+<td style="font-weight: 400;" width="207">Earhart Dining Court</td>
+<td style="font-weight: 400;" width="181">&#160;Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Trespass</td>
+<td style="font-weight: 400;" width="154">2021PU01132</td>
+<td style="font-weight: 400;" width="168">10/20/21 9:35 PM</td>
+<td style="font-weight: 400;" width="166">10/20/21 10:05 PM</td>
+<td style="font-weight: 400;" width="207">St. Thomas Aquinas</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Disorderly Conduct/ Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2021PU01133</td>
+<td style="font-weight: 400;" width="168">10/21/21 1:27 AM</td>
+<td style="font-weight: 400;" width="166">10/21/21 2:33 AM</td>
+<td style="font-weight: 400;" width="207">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Battery (Simple)</td>
+<td style="font-weight: 400;" width="154">2021PU00997</td>
+<td style="font-weight: 400;" width="168">9/25/21 5:30 PM</td>
+<td style="font-weight: 400;" width="166">9/25/21 5:35 PM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Closed</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -823,7 +925,7 @@
 <td style="font-weight: 400;" width="168">10/15/21 8:00 PM</td>
 <td style="font-weight: 400;" width="166">10/16/21 1:42 PM</td>
 <td style="font-weight: 400;" width="207">CoRec</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>
