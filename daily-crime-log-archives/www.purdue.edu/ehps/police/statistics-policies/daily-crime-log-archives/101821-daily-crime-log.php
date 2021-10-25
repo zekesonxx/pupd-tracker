@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			100421 Daily Crime Log - 
+			101821 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -617,7 +617,7 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, October 8, 2021</h3>
+  					<h3>Friday, October 22, 2021</h3>
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
@@ -629,83 +629,175 @@
 <th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2021PU01075</td>
-<td style="font-weight: 400;" width="168">10/7/21 4:17 PM</td>
-<td style="font-weight: 400;" width="166">10/7/21 4:45 PM</td>
-<td style="font-weight: 400;" width="207">Electrical Engineering</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Trespass/ Disorderly</td>
-<td style="font-weight: 400;" width="154">2021PU01076</td>
-<td style="font-weight: 400;" width="168">10/7/21 7:28 PM</td>
-<td style="font-weight: 400;" width="166">10/7/21 7:57 PM</td>
-<td style="font-weight: 400;" width="207">W State St/ N Russell St</td>
-<td style="font-weight: 400;" width="181">Closed</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Trespass</td>
-<td style="font-weight: 400;" width="154">2021PU01077</td>
-<td style="font-weight: 400;" width="168">10/8/21 1:11 AM</td>
-<td style="font-weight: 400;" width="166">10/8/21 1:31 AM</td>
-<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Closed</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Tresspass/ Resisting Law Enforcement/ Minor Possession</td>
-<td style="font-weight: 400;" width="154">2021PU01078</td>
-<td style="font-weight: 400;" width="168">10/8/21 1:11 AM</td>
-<td style="font-weight: 400;" width="166">10/8/21 2:03 AM</td>
-<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Trespass</td>
-<td style="font-weight: 400;" width="154">2021PU01079</td>
-<td style="font-weight: 400;" width="168">10/8/21 2:11 AM</td>
-<td style="font-weight: 400;" width="166">10/8/21 2:30 AM</td>
-<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="157">Minor Possession</td>
+<td style="font-weight: 400;" width="154">2021PU01134</td>
+<td style="font-weight: 400;" width="168">10/21/21 3:25 AM</td>
+<td style="font-weight: 400;" width="166">10/21/21 3:46 AM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
 <td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
+<td style="font-weight: 400;" width="157">Fraud</td>
+<td style="font-weight: 400;" width="154">2021PU01137</td>
+<td style="font-weight: 400;" width="168">9/16/21 12:16 PM</td>
+<td style="font-weight: 400;" width="166">9/16/21 12:16 PM</td>
+<td style="font-weight: 400;" width="207">Parking Services</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2021PU01139</td>
+<td style="font-weight: 400;" width="168">10/19/21 4:30 PM</td>
+<td style="font-weight: 400;" width="166">10/21/21 6:22 PM</td>
+<td style="font-weight: 400;" width="207">Northwestern Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation/ Minor Possession</td>
+<td style="font-weight: 400;" width="154">2021PU01142</td>
+<td style="font-weight: 400;" width="168">10/22/21 12:49 AM</td>
+<td style="font-weight: 400;" width="166">10/22/21 1:20 AM</td>
+<td style="font-weight: 400;" width="207">Alpha Chi Rho</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01143</td>
+<td style="font-weight: 400;" width="168">10/22/21 1:49 AM</td>
+<td style="font-weight: 400;" width="166">10/22/21 2:13 AM</td>
+<td style="font-weight: 400;" width="207">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Thursday, October 21, 2021</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2021PU01130</td>
+<td style="font-weight: 400;" width="168">10/16/21 3:00 PM</td>
+<td style="font-weight: 400;" width="166">10/20/21 2:32 PM</td>
+<td style="font-weight: 400;" width="207">Christian Campus House</td>
+<td style="font-weight: 400;" width="181">&#160;Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01131</td>
+<td style="font-weight: 400;" width="168">10/17/21 8:30 PM</td>
+<td style="font-weight: 400;" width="166">10/20/21 4:47 PM</td>
+<td style="font-weight: 400;" width="207">Earhart Dining Court</td>
+<td style="font-weight: 400;" width="181">&#160;Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Trespass</td>
+<td style="font-weight: 400;" width="154">2021PU01132</td>
+<td style="font-weight: 400;" width="168">10/20/21 9:35 PM</td>
+<td style="font-weight: 400;" width="166">10/20/21 10:05 PM</td>
+<td style="font-weight: 400;" width="207">St. Thomas Aquinas</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Disorderly Conduct/ Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2021PU01133</td>
+<td style="font-weight: 400;" width="168">10/21/21 1:27 AM</td>
+<td style="font-weight: 400;" width="166">10/21/21 2:33 AM</td>
+<td style="font-weight: 400;" width="207">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Battery (Simple)</td>
+<td style="font-weight: 400;" width="154">2021PU00997</td>
+<td style="font-weight: 400;" width="168">9/25/21 5:30 PM</td>
+<td style="font-weight: 400;" width="166">9/25/21 5:35 PM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Closed</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Wednesday, October 20, 2021</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-144023</td>
+<td style="font-weight: 400;" width="168">10/18/2021 2020</td>
+<td style="font-weight: 400;" width="166">10/18/2021 2020</td>
+<td style="font-weight: 400;" width="207">500 N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
 <td style="font-weight: 400;" width="157">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="154">1 Disciplinary Referral&#160;</td>
-<td style="font-weight: 400;" width="168">10/2/21 12:30 AM</td>
-<td style="font-weight: 400;" width="166">10/2/21 2:36 AM</td>
-<td style="font-weight: 400;" width="207">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="154">5 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">10/15/21 1:15 AM</td>
+<td style="font-weight: 400;" width="166">10/15/21 3:55 PM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
 <td style="font-weight: 400;" width="181">Judicial Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="154">6 Disciplinary Referral&#160;</td>
-<td style="font-weight: 400;" width="168">10/2/21 10:00 PM</td>
-<td style="font-weight: 400;" width="166">10/2/21 10:59 PM</td>
+<td style="font-weight: 400;" width="154">10 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">10/16/21 12:05 AM</td>
+<td style="font-weight: 400;" width="166">10/16/21 2:09 AM</td>
+<td style="font-weight: 400;" width="207">20 Littleton St</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">2 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">10/16/21 11:15 PM</td>
+<td style="font-weight: 400;" width="166">10/16/21 11:55 PM</td>
 <td style="font-weight: 400;" width="207">Owen Hall</td>
 <td style="font-weight: 400;" width="181">Judicial Review</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Drug Law Violation</td>
-<td style="font-weight: 400;" width="154">1 Disciplinary Referral&#160;</td>
-<td style="font-weight: 400;" width="168">10/2/21 10:15 PM</td>
-<td style="font-weight: 400;" width="166">10/2/21 11:08 PM</td>
-<td style="font-weight: 400;" width="207">Shreve Hall</td>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">10 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">10/16/21 11:30 PM</td>
+<td style="font-weight: 400;" width="166">10/17/21 12:09 AM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">3 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">10/17/21 1:15 AM</td>
+<td style="font-weight: 400;" width="166">10/17/21 2:38 AM</td>
+<td style="font-weight: 400;" width="207">Hilltop Apartments</td>
 <td style="font-weight: 400;" width="181">Judicial Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Liquor Law Violation</td>
 <td style="font-weight: 400;" width="154">5 Disciplinary Referral&#160;</td>
-<td style="font-weight: 400;" width="168">10/2/21 10:50 PM</td>
-<td style="font-weight: 400;" width="166">10/2/21 11:49 PM</td>
-<td style="font-weight: 400;" width="207">Harrison Hall</td>
-<td style="font-weight: 400;" width="181">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="154">1 Disciplinary Referral&#160;</td>
-<td style="font-weight: 400;" width="168">10/2/21 11:30 PM</td>
-<td style="font-weight: 400;" width="166">10/3/21 12:39 AM</td>
-<td style="font-weight: 400;" width="207">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="168">10/17/21 1:15 AM</td>
+<td style="font-weight: 400;" width="166">10/17/21 3:15 AM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
 <td style="font-weight: 400;" width="181">Judicial Review</td>
 </tr>
 </tbody>
@@ -715,7 +807,57 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, October 7, 2021</h3>
+  					<h3>Tuesday, October 19, 2021</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01124</td>
+<td style="font-weight: 400;" width="168">10/18/21 10:20 PM</td>
+<td style="font-weight: 400;" width="166">10/18/21 10:45 PM</td>
+<td style="font-weight: 400;" width="207">Schwartz Tennis Center</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Blackmail</td>
+<td style="font-weight: 400;" width="154">2021PU01125</td>
+<td style="font-weight: 400;" width="168">10/19/21 1:17 AM</td>
+<td style="font-weight: 400;" width="166">10/19/21 1:53 AM</td>
+<td style="font-weight: 400;" width="207">Cary Quad</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-142418</td>
+<td style="font-weight: 400;" width="168">10/15/21 6:28 PM</td>
+<td style="font-weight: 400;" width="166">10/15/21 6:28 PM</td>
+<td style="font-weight: 400;" width="207">Harrsion Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drunk Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-143146</td>
+<td style="font-weight: 400;" width="168">10/16/21 11:42 PM</td>
+<td style="font-weight: 400;" width="166">10/16/21 11:42 PM</td>
+<td style="font-weight: 400;" width="207">Northwestern Ave/ Cherry Ln</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Monday, October 18, 2021</h3>
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
@@ -728,304 +870,114 @@
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>
-<td style="font-weight: 400;" width="154">2021PU01062</td>
-<td style="font-weight: 400;" width="168">10/1/21 4:30 PM</td>
-<td style="font-weight: 400;" width="166">10/4/21 11:08 AM</td>
-<td style="font-weight: 400;" width="207">Honors College North</td>
+<td style="font-weight: 400;" width="154">2021PU01106</td>
+<td style="font-weight: 400;" width="168">10/14/21 5:30 PM</td>
+<td style="font-weight: 400;" width="166">10/15/21 10:13 AM</td>
+<td style="font-weight: 400;" width="207">Pao Hall</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
+<td style="font-weight: 400;" width="157">Blackmail</td>
+<td style="font-weight: 400;" width="154">2021PU01109</td>
+<td style="font-weight: 400;" width="168">10/14/21 1:32 PM</td>
+<td style="font-weight: 400;" width="166">10/15/21 1:54 PM</td>
+<td style="font-weight: 400;" width="207">Schleman Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2021PU01111</td>
+<td style="font-weight: 400;" width="168">10/15/21 5:39 PM</td>
+<td style="font-weight: 400;" width="166">10/15/21 6:21 PM</td>
+<td style="font-weight: 400;" width="207">Pierce St Lot</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">OWI/ Minor Possession</td>
+<td style="font-weight: 400;" width="154">2021PU01113</td>
+<td style="font-weight: 400;" width="168">10/16/21 2:20 AM</td>
+<td style="font-weight: 400;" width="166">10/16/21 2:53 AM</td>
+<td style="font-weight: 400;" width="207">North St/ N Grant St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
 <td style="font-weight: 400;" width="157">Theft</td>
-<td style="font-weight: 400;" width="154">2021PU01068</td>
-<td style="font-weight: 400;" width="168">10/1/21 12:00 AM</td>
-<td style="font-weight: 400;" width="166">10/6/21 10:28 AM</td>
-<td style="font-weight: 400;" width="207">Krannert Center</td>
+<td style="font-weight: 400;" width="154">2021PU01115</td>
+<td style="font-weight: 400;" width="168">10/15/21 8:00 PM</td>
+<td style="font-weight: 400;" width="166">10/16/21 1:42 PM</td>
+<td style="font-weight: 400;" width="207">CoRec</td>
+<td style="font-weight: 400;" width="181">Closed</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01116</td>
+<td style="font-weight: 400;" width="168">10/15/21 9:00 AM</td>
+<td style="font-weight: 400;" width="166">10/16/21 3:56 PM</td>
+<td style="font-weight: 400;" width="207">Forney Hall</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft-EMPV</td>
-<td style="font-weight: 400;" width="154">2021PU01069</td>
-<td style="font-weight: 400;" width="168">10/5/21 8:30 PM</td>
-<td style="font-weight: 400;" width="166">10/6/21 3:51 PM</td>
-<td style="font-weight: 400;" width="207">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Hit and Run</td>
-<td style="font-weight: 400;" width="154">2021-137007</td>
-<td style="font-weight: 400;" width="168">10/5/21 3:04 PM</td>
-<td style="font-weight: 400;" width="166">10/5/21 3:04 PM</td>
-<td style="font-weight: 400;" width="207">W Stadium Ave/ N Martin Jischke</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2021-136948</td>
-<td style="font-weight: 400;" width="168">10/5/21 12:57 PM</td>
-<td style="font-weight: 400;" width="166">10/5/21 12:00 AM</td>
-<td style="font-weight: 400;" width="207">925 Hilltop Dr</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-</tbody>
-</table>
-		</section>
-	
-          <div class="clearfix"></div>
-  
-    	<section class="content__group">
-  					<h3>Wednesday, October 6, 2021</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Theft</td>
-<td style="font-weight: 400;" width="154">2021PU01066</td>
-<td style="font-weight: 400;" width="168">10/5/21 7:43 PM</td>
-<td style="font-weight: 400;" width="166">10/5/21 8:13 PM</td>
-<td style="font-weight: 400;" width="207">Smith Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
-		</section>
-	
-          <div class="clearfix"></div>
-  
-    	<section class="content__group">
-  					<h3>Tuesday, October 5, 2021</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Battery by Bodily Waste</td>
-<td style="font-weight: 400;" width="154">2021PU00988</td>
-<td style="font-weight: 400;" width="168">9/24/21 9:09 PM</td>
-<td style="font-weight: 400;" width="166">9/24/21 9:45 PM</td>
-<td style="font-weight: 400;" width="207">200 Blk N University St</td>
-<td style="font-weight: 400;" width="181">Closed</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Theft</td>
-<td style="font-weight: 400;" width="154">2021PU01063</td>
-<td style="font-weight: 400;" width="168">10/3/21 3:30 PM</td>
-<td style="font-weight: 400;" width="166">10/4/21 12:18 PM</td>
-<td style="font-weight: 400;" width="207">Stewart Center</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2021PU01065</td>
-<td style="font-weight: 400;" width="168">10/4/21 6:27 PM</td>
-<td style="font-weight: 400;" width="166">10/4/21 6:37 PM</td>
-<td style="font-weight: 400;" width="207">Stewart Center</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Disorderly Conduct</td>
-<td style="font-weight: 400;" width="154">CAD#2021-135016</td>
-<td style="font-weight: 400;" width="168">10/2/21 1:39 AM</td>
-<td style="font-weight: 400;" width="166">10/2/21 1:39 AM</td>
-<td style="font-weight: 400;" width="207">Alpha Gamma Rho</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Drug Law Violation</td>
-<td style="font-weight: 400;" width="154">CAD#2021-134613</td>
-<td style="font-weight: 400;" width="168">10/1/21 1:20 PM</td>
-<td style="font-weight: 400;" width="166">10/1/21 1:20 PM</td>
-<td style="font-weight: 400;" width="207">Harrison Hall</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Drug Law Violation</td>
-<td style="font-weight: 400;" width="154">CAD#2021-135268</td>
-<td style="font-weight: 400;" width="168">10/2/21 12:11 PM</td>
-<td style="font-weight: 400;" width="166">10/2/21 12:11 PM</td>
-<td style="font-weight: 400;" width="207">Blackbird Farms</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Public Intoxication</td>
-<td style="font-weight: 400;" width="154">CAD#2021-135363</td>
-<td style="font-weight: 400;" width="168">10/2/21 3:18 PM</td>
-<td style="font-weight: 400;" width="166">10/2/21 3:18 PM</td>
-<td style="font-weight: 400;" width="207">Stadium Rd/McCormick Dr</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Public Intoxication</td>
-<td style="font-weight: 400;" width="154">CAD#2021-135352</td>
-<td style="font-weight: 400;" width="168">10/2/21 2:55 PM</td>
-<td style="font-weight: 400;" width="166">10/2/21 2:55 PM</td>
-<td style="font-weight: 400;" width="207">Tower Dr/ Martin Jisckhe Dr</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Reckless Driver</td>
-<td style="font-weight: 400;" width="154">CAD#2021-135186</td>
-<td style="font-weight: 400;" width="168">10/2/21 10:02 AM</td>
-<td style="font-weight: 400;" width="166">10/2/21 10:02 AM</td>
-<td style="font-weight: 400;" width="207">Young Hall</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Theft</td>
-<td style="font-weight: 400;" width="154">CAD#2021-135397</td>
-<td style="font-weight: 400;" width="168">10/2/21 4:28 PM</td>
-<td style="font-weight: 400;" width="166">10/2/21 4:28 PM</td>
-<td style="font-weight: 400;" width="207">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-</tbody>
-</table>
-		</section>
-	
-          <div class="clearfix"></div>
-  
-    	<section class="content__group">
-  					<h3>Monday, October 4, 2021</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Theft</td>
-<td style="font-weight: 400;" width="154">2021PU01039</td>
-<td style="font-weight: 400;" width="168">9/26/21 9:00 PM</td>
-<td style="font-weight: 400;" width="166">10/1/21 10:24 AM</td>
-<td style="font-weight: 400;" width="207">Pao Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Theft</td>
-<td style="font-weight: 400;" width="154">2021PU01040</td>
-<td style="font-weight: 400;" width="168">5/1/21 8:00 AM</td>
-<td style="font-weight: 400;" width="166">10/1/21 12:38 PM</td>
-<td style="font-weight: 400;" width="207">Pao Hall</td>
+<td style="font-weight: 400;" width="154">2021PU01117</td>
+<td style="font-weight: 400;" width="168">10/16/21 9:36 PM</td>
+<td style="font-weight: 400;" width="166">10/16/21 10:22 PM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Trespass</td>
-<td style="font-weight: 400;" width="154">2021PU01041</td>
-<td style="font-weight: 400;" width="168">10/1/21 2:06 PM</td>
-<td style="font-weight: 400;" width="166">10/1/21 2:21 PM</td>
-<td style="font-weight: 400;" width="207">400 Block S Grant St</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Minor Possession</td>
-<td style="font-weight: 400;" width="154">2021PU01044</td>
-<td style="font-weight: 400;" width="168">10/2/21 1:01 AM</td>
-<td style="font-weight: 400;" width="166">10/2/21 1:15 AM</td>
-<td style="font-weight: 400;" width="207">Purdue West</td>
-<td style="font-weight: 400;" width="181">Closed</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Criminal Mischief/ Theft</td>
-<td style="font-weight: 400;" width="154">2021PU01047</td>
-<td style="font-weight: 400;" width="168">10/1/21 4:00 PM</td>
-<td style="font-weight: 400;" width="166">10/2/21 11:27 AM</td>
-<td style="font-weight: 400;" width="207">Cary Quad</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Public Intoxication</td>
-<td style="font-weight: 400;" width="154">2021PU01048</td>
-<td style="font-weight: 400;" width="168">10/2/21 12:05 PM</td>
-<td style="font-weight: 400;" width="166">10/2/21 12:06 PM</td>
+<td style="font-weight: 400;" width="154">2021PU01118</td>
+<td style="font-weight: 400;" width="168">10/17/21 1:20 AM</td>
+<td style="font-weight: 400;" width="166">10/17/21 1:32 AM</td>
 <td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
 <td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Criminal Mischief/ Theft</td>
-<td style="font-weight: 400;" width="154">2021PU01049</td>
-<td style="font-weight: 400;" width="168">10/2/21 9:00 AM</td>
-<td style="font-weight: 400;" width="166">10/2/21 2:48 PM</td>
-<td style="font-weight: 400;" width="207">Northwestern Parking Garage</td>
+<td style="font-weight: 400;" width="157">Fraud</td>
+<td style="font-weight: 400;" width="154">2021PU01121</td>
+<td style="font-weight: 400;" width="168">10/17/21 6:23 PM</td>
+<td style="font-weight: 400;" width="166">10/17/21 6:52 PM</td>
+<td style="font-weight: 400;" width="207">Hawkins Hall</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Drug Law Violation</td>
-<td style="font-weight: 400;" width="154">2021PU01051</td>
-<td style="font-weight: 400;" width="168">10/2/21 10:20 PM</td>
-<td style="font-weight: 400;" width="166">10/2/21 10:46 PM</td>
-<td style="font-weight: 400;" width="207">Shreve Hall</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2021PU01053</td>
-<td style="font-weight: 400;" width="168">10/2/21 11:25 PM</td>
-<td style="font-weight: 400;" width="166">10/2/21 11:52 PM</td>
-<td style="font-weight: 400;" width="207">Cary Quad</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2021PU01055</td>
-<td style="font-weight: 400;" width="168">10/2/21 10:30 PM</td>
-<td style="font-weight: 400;" width="166">10/3/21 1:29 AM</td>
-<td style="font-weight: 400;" width="207">Wiley Dining Court</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">OWI/Minor Possession</td>
-<td style="font-weight: 400;" width="154">2021PU01056</td>
-<td style="font-weight: 400;" width="168">10/3/21 1:29 AM</td>
-<td style="font-weight: 400;" width="166">10/3/21 1:52 AM</td>
-<td style="font-weight: 400;" width="207">Cherry Lane/ McCormick Rd</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Drug Law Violation</td>
-<td style="font-weight: 400;" width="154">2021PU01057</td>
-<td style="font-weight: 400;" width="168">10/3/21 3:45 AM</td>
-<td style="font-weight: 400;" width="166">10/3/21 4:06 AM</td>
-<td style="font-weight: 400;" width="207">Wiley Hall</td>
+<td style="font-weight: 400;" width="157">Theft of Property</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-142109</td>
+<td style="font-weight: 400;" width="168">10/15/21 8:36 AM</td>
+<td style="font-weight: 400;" width="166">10/15/21 8:36 AM</td>
+<td style="font-weight: 400;" width="207">414 N Russell St</td>
 <td style="font-weight: 400;" width="181">Nothing Further</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2021PU01058</td>
-<td style="font-weight: 400;" width="168">10/3/21 12:30 AM</td>
-<td style="font-weight: 400;" width="166">10/3/21 2:05 PM</td>
-<td style="font-weight: 400;" width="207">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Theft</td>
-<td style="font-weight: 400;" width="154">2021PU01059</td>
-<td style="font-weight: 400;" width="168">10/3/21 12:30 AM</td>
-<td style="font-weight: 400;" width="166">10/3/21 2:05 PM</td>
-<td style="font-weight: 400;" width="207">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Vandalism/Theft</td>
+<td style="font-weight: 400;" width="157">Fondling/Intimidation</td>
 <td style="font-weight: 400;" width="154">CSA</td>
-<td style="font-weight: 400;" width="168">10/3/21 3:30 AM</td>
-<td style="font-weight: 400;" width="166">10/3/21 12:55 PM</td>
-<td style="font-weight: 400;" width="207">Wiley Hall</td>
+<td style="font-weight: 400;" width="168">2/1/21 12:01 PM</td>
+<td style="font-weight: 400;" width="166">10/14/21 12:11 PM</td>
+<td style="font-weight: 400;" width="207">CoRec</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Vandalism</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">10/15/21 9:36 PM</td>
+<td style="font-weight: 400;" width="166">10/16/21 12:56 AM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">10/16/21 9:15 PM</td>
+<td style="font-weight: 400;" width="166">10/16/21 9:25 PM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Sexual Assault</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">10/16/21 11:00 PM</td>
+<td style="font-weight: 400;" width="166">10/17/21 7:15 PM</td>
+<td style="font-weight: 400;" width="207">100 Blk MacArthur Dr</td>
 <td style="font-weight: 400;" width="181">Nothing Further</td>
 </tr>
 </tbody>
