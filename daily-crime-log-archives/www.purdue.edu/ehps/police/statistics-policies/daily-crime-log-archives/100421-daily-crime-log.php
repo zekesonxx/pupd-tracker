@@ -666,7 +666,7 @@
 <td style="font-weight: 400;" width="168">10/8/21 2:11 AM</td>
 <td style="font-weight: 400;" width="166">10/8/21 2:30 AM</td>
 <td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Liquor Law Violation</td>

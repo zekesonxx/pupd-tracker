@@ -658,7 +658,82 @@
   
     	<section class="content__group">
   					<h3>Tuesday, October 26, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Battery</td>
+<td style="font-weight: 400;" width="154">2021PU01166</td>
+<td style="font-weight: 400;" width="168">10/24/21 2:18 PM</td>
+<td style="font-weight: 400;" width="166">10/24/21 3:42 PM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01170</td>
+<td style="font-weight: 400;" width="168">10/23/21 6:00 PM</td>
+<td style="font-weight: 400;" width="166">10/25/21 11:56 AM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01172</td>
+<td style="font-weight: 400;" width="168">10/26/21 2:22 AM</td>
+<td style="font-weight: 400;" width="166">10/26/21 2:38 AM</td>
+<td style="font-weight: 400;" width="207">Hort Park</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-146858</td>
+<td style="font-weight: 400;" width="168">10/23/21 9:33 PM</td>
+<td style="font-weight: 400;" width="166">10/23/21 9:33 PM</td>
+<td style="font-weight: 400;" width="207">Honors College</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-147300</td>
+<td style="font-weight: 400;" width="168">10/24/21 8:21 PM</td>
+<td style="font-weight: 400;" width="166">10/24/21 8:21 PM</td>
+<td style="font-weight: 400;" width="207">Purdue Village</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Reckless Driver&#160;</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-146195</td>
+<td style="font-weight: 400;" width="168">10/22/21 8:13 PM</td>
+<td style="font-weight: 400;" width="166">10/22/21 8:13 PM</td>
+<td style="font-weight: 400;" width="207">Aspire Apartments</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Reckless Driver&#160;</td>
+<td style="font-weight: 400;" width="154">CAD#2021-147477</td>
+<td style="font-weight: 400;" width="168">10/25/21 8:02 AM</td>
+<td style="font-weight: 400;" width="166">10/25/21 8:02 AM</td>
+<td style="font-weight: 400;" width="207">W State St/US HWY 231</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Fondling</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">10/23/21 1:00 AM</td>
+<td style="font-weight: 400;" width="166">10/25/21 1:15 PM</td>
+<td style="font-weight: 400;" width="207">Unknown On Campus Housing</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

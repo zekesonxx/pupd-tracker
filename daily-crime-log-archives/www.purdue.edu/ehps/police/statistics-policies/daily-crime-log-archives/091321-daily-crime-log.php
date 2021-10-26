@@ -824,7 +824,7 @@
 <td style="font-weight: 400;" width="168">8/25/21 12:00 AM</td>
 <td style="font-weight: 400;" width="166">9/13/21 6:35 PM</td>
 <td style="font-weight: 400;" width="207">100 Block Provenance Blvd</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>

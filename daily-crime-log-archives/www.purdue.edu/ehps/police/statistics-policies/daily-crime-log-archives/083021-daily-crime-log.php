@@ -574,7 +574,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="100421-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -1015,7 +1020,7 @@
 <td style="font-weight: 400;">8/28/21 1:05 AM</td>
 <td style="font-weight: 400;">8/28/21 1:27 AM</td>
 <td style="font-weight: 400;" width="205">Wiley Hall</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law</td>
@@ -1063,7 +1068,7 @@
 <td style="font-weight: 400;">8/29/21 3:43 AM</td>
 <td style="font-weight: 400;">8/29/21 4:11 AM</td>
 <td style="font-weight: 400;" width="205">Northwestern Ave/Meridian St</td>
-<td style="font-weight: 400;">Arrest Made</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
