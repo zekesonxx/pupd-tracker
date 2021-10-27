@@ -651,7 +651,42 @@
   
     	<section class="content__group">
   					<h3>Wednesday, October 27, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Sex Offense</td>
+<td style="font-weight: 400;" width="154">2021PU01174</td>
+<td style="font-weight: 400;" width="168">10/26/21 12:20 PM</td>
+<td style="font-weight: 400;" width="166">10/26/21 12:23 PM</td>
+<td style="font-weight: 400;" width="207">Unknown Campus Location</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">OWI/ Minor Possession</td>
+<td style="font-weight: 400;" width="154">2021PU01177</td>
+<td style="font-weight: 400;" width="168">10/26/21 11:32 PM</td>
+<td style="font-weight: 400;" width="166">10/27/21 12:25 AM</td>
+<td style="font-weight: 400;" width="207">Northwestern Garage</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Rape</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">10/23/21 11:00 PM</td>
+<td style="font-weight: 400;" width="166">10/26/21 11:00 AM</td>
+<td style="font-weight: 400;" width="207">1100 Blk 3rd St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -674,7 +709,7 @@
 <td style="font-weight: 400;" width="168">10/24/21 2:18 PM</td>
 <td style="font-weight: 400;" width="166">10/24/21 3:42 PM</td>
 <td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>

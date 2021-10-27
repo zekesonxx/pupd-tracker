@@ -832,7 +832,7 @@
 <td style="font-weight: 400;" width="168">10/19/21 1:17 AM</td>
 <td style="font-weight: 400;" width="166">10/19/21 1:53 AM</td>
 <td style="font-weight: 400;" width="207">Cary Quad</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>
