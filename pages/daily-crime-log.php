@@ -637,7 +637,74 @@
   
     	<section class="content__group">
   					<h3>Friday, October 29, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01179</td>
+<td style="font-weight: 400;" width="168">10/26/21 7:20 PM</td>
+<td style="font-weight: 400;" width="166">10/27/21 2:40 PM</td>
+<td style="font-weight: 400;" width="207">CoRec</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01187</td>
+<td style="font-weight: 400;" width="168">10/22/21 7:00 PM</td>
+<td style="font-weight: 400;" width="166">10/28/21 12:42 PM</td>
+<td style="font-weight: 400;" width="207">N University St/ W Stadium Ave</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Sex Offense</td>
+<td style="font-weight: 400;" width="154">2021PU01188</td>
+<td style="font-weight: 400;" width="168">10/24/21 1:00 AM</td>
+<td style="font-weight: 400;" width="166">10/28/21 1:06 PM</td>
+<td style="font-weight: 400;" width="207">1100 Blk 3rd St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Domestic Battery/ Vandalism</td>
+<td style="font-weight: 400;" width="154">2021PU01189</td>
+<td style="font-weight: 400;" width="168">10/28/21 12:34 PM</td>
+<td style="font-weight: 400;" width="166">10/28/21 1:07 PM</td>
+<td style="font-weight: 400;" width="207">Hawkins Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01191</td>
+<td style="font-weight: 400;" width="168">10/28/21 1:10 PM</td>
+<td style="font-weight: 400;" width="166">10/28/21 2:11 PM</td>
+<td style="font-weight: 400;" width="207">Meredith Hall</td>
+<td style="font-weight: 400;" width="181">Closed</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01192</td>
+<td style="font-weight: 400;" width="168">10/28/21 4:55 PM</td>
+<td style="font-weight: 400;" width="166">10/28/21 5:25 PM</td>
+<td style="font-weight: 400;" width="207">Stone Hall</td>
+<td style="font-weight: 400;" width="181">Closed</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">CAD#2021-148569</td>
+<td style="font-weight: 400;" width="168">10/27/21 8:22 AM</td>
+<td style="font-weight: 400;" width="166">10/27/21 8:22 AM</td>
+<td style="font-weight: 400;" width="207">Northwestern Garage</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -824,7 +891,7 @@
 <td style="font-weight: 400;" width="168">10/23/21 1:00 AM</td>
 <td style="font-weight: 400;" width="166">10/25/21 1:15 PM</td>
 <td style="font-weight: 400;" width="207">Unknown On Campus Housing</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
+<td style="font-weight: 400;" width="181">See Case 21-1188</td>
 </tr>
 </tbody>
 </table>
