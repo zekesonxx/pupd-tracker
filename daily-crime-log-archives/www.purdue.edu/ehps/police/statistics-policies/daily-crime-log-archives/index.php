@@ -403,8 +403,7 @@
         
                                                             
         
-                
-        <li role="none"><a href="https://www.purdue.edu/timely-warnings/" role="menuitem" target="_blank">Timely Warnings</a></li>
+        <li role="none"><a href="../timely-warnings.php" role="menuitem">Timely Warnings</a></li>
                                                     
         
                                                             
@@ -594,18 +593,14 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log</h2>
 <ul>
+<li><a href="102521-daily-crime-log.php" title="102521 Daily Crime Log">Week of October 25, 2021</a></li>
 <li><a href="101821-daily-crime-log.php" title="101821 Daily Crime Log">Week of October 18, 2021</a></li>
 <li><a href="101121-daily-crime-log.php" title="101121 Daily Crime Log">Week of October 11, 2021</a></li>
 <li><a href="100421-daily-crime-log.php" title="100421 Daily Crime Log">Week of October 4, 2021</a></li>
 <li><a href="092721-daily-crime-log.php" title="092721 Daily Crime Log">Week of September 27, 2021</a></li>
 <li><a href="092021-daily-crime-log.php" title="092021 Daily Crime Log">Week of September 20, 2021</a></li>
 <li><a href="091321-daily-crime-log.php" title="091321 Daily Crime Log">Week of September 13, 2021</a></li>
-<li><a href="090621-daily-crime-log.php" title="090621 daily crime log">Week of September 6, 2021</a></li>
-<li><a href="083021-daily-crime-log.php" title="083021 Daily Crime Log">Week of August 30, 2021</a></li>
-<li><a href="082321-daily-crime-log.php" title="082321 Daily Crime Log">Week of August 23, 2021</a></li>
-<li><a href="081621-daily-crime-log.php" title="081621 Daily Crime Log">Week of August 16, 2021</a></li>
-<li><a href="080921-daily-crime-log.php" title="080921 Daily Crime Log">Week of August 9, 2021</a></li>
-<li><a href="080221-daily-crime-log.php" title="080221">Week of August 2, 2021</a><a href="/statistics-policies/daily-crime-log-archives/062821-daily-crime-log" title="062821 Daily Crime Log"></a><a href="/statistics-policies/daily-crime-log-archives/053121-daily-crime-log" title="053121 Daily Crime Log"></a></li>
+<li><a href="090621-daily-crime-log.php" title="090621 daily crime log">Week of September 6, 2021</a><a href="080221-daily-crime-log.php" title="080221"></a><a href="/statistics-policies/daily-crime-log-archives/062821-daily-crime-log" title="062821 Daily Crime Log"></a><a href="/statistics-policies/daily-crime-log-archives/053121-daily-crime-log" title="053121 Daily Crime Log"></a></li>
 </ul>
 		</section>
 	

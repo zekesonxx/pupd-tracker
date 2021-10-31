@@ -403,8 +403,7 @@
         
                                                             
         
-                
-        <li role="none"><a href="https://www.purdue.edu/timely-warnings/" role="menuitem" target="_blank">Timely Warnings</a></li>
+        <li role="none"><a href="../timely-warnings.php" role="menuitem">Timely Warnings</a></li>
                                                     
         
                                                             

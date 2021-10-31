@@ -403,8 +403,7 @@
         
                                                             
         
-                
-        <li role="none"><a href="https://www.purdue.edu/timely-warnings/" role="menuitem" target="_blank">Timely Warnings</a></li>
+        <li role="none"><a href="../timely-warnings.php" role="menuitem">Timely Warnings</a></li>
                                                     
         
                                                             
@@ -574,7 +573,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="100421-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
