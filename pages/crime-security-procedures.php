@@ -403,12 +403,6 @@
         
                                                             
         
-                
-        <li role="none"><a href="https://www.purdue.edu/timely-warnings/" role="menuitem" target="_blank">Timely Warnings</a></li>
-                                                    
-        
-                                                            
-        
         <li role="none"><a href="weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
                                             </ul>
                         </li>
@@ -479,6 +473,11 @@
                         </li>
                         
                                                                         
+        
+                                                                                 
+                                                        
+                            <li role="none"><a href="../timely-warnings/index.php" role="menuitem">Timely Warnings</a></li>
+                                                                
         
                                                                                  
                                                         
@@ -590,10 +589,6 @@
     
     <li role="none"><a href="crime-security-procedures.php" role="menuitem">Operating Procedures for Gathering and Reporting Crime Statistics</a></li>
                                                                             
-        
-                
-                <li role="none"><a href="https://www.purdue.edu/timely-warnings/" role="menuitem" target="_blank">Timely Warnings</a></li>
-                                                                                
         
                 
     

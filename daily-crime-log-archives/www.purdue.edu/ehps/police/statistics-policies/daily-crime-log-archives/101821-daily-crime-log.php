@@ -403,11 +403,6 @@
         
                                                             
         
-        <li role="none"><a href="../timely-warnings.php" role="menuitem">Timely Warnings</a></li>
-                                                    
-        
-                                                            
-        
         <li role="none"><a href="../weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
                                             </ul>
                         </li>
@@ -478,6 +473,11 @@
                         </li>
                         
                                                                         
+        
+                                                                                 
+                                                        
+                            <li role="none"><a href="../../timely-warnings/index.php" role="menuitem">Timely Warnings</a></li>
+                                                                
         
                                                                                  
                                                         
