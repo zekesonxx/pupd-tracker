@@ -646,7 +646,66 @@
   
     	<section class="content__group">
   					<h3>Wednesday, November 3, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2021PU01247</td>
+<td style="font-weight: 400;" width="168">11/2/21 2:15 PM</td>
+<td style="font-weight: 400;" width="166">11/2/21 2:42 PM</td>
+<td style="font-weight: 400;" width="207">Phi Kappa Psi</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2021PU01248</td>
+<td style="font-weight: 400;" width="168">11/2/21 5:39 PM</td>
+<td style="font-weight: 400;" width="166">11/2/21 5:44 PM</td>
+<td style="font-weight: 400;" width="207">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Fraud</td>
+<td style="font-weight: 400;" width="154">2021PU01249</td>
+<td style="font-weight: 400;" width="168">11/2/21 6:04 PM</td>
+<td style="font-weight: 400;" width="166">11/2/21 6:05 PM</td>
+<td style="font-weight: 400;" width="207">Hilltop</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2021PU01251</td>
+<td style="font-weight: 400;" width="168">11/2/21 7:27 PM</td>
+<td style="font-weight: 400;" width="166">11/2/21 7:50 PM</td>
+<td style="font-weight: 400;" width="207">Aspire</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">CAD#2021-151556</td>
+<td style="font-weight: 400;" width="168">11/1/21 12:15 PM</td>
+<td style="font-weight: 400;" width="166">11/1/21 12:15 PM</td>
+<td style="font-weight: 400;" width="207">205 S Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Damaged Property</td>
+<td style="font-weight: 400;" width="154">CAD#2021-151790</td>
+<td style="font-weight: 400;" width="168">11/1/21 6:32 PM</td>
+<td style="font-weight: 400;" width="166">11/1/21 6:32 PM</td>
+<td style="font-weight: 400;" width="207">Mcccormick Rd/ W State St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -677,7 +736,7 @@
 <td style="font-weight: 400;" width="168">11/1/21 11:03 AM</td>
 <td style="font-weight: 400;" width="166">11/1/21 11:44 AM</td>
 <td style="font-weight: 400;" width="207">Young Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>
@@ -717,7 +776,7 @@
 <td style="font-weight: 400;" width="168">10/22/21 12:00 PM</td>
 <td style="font-weight: 400;" width="166">11/1/21 6:47 PM</td>
 <td style="font-weight: 400;" width="207">Windsor Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Criminal Mischief</td>
@@ -1249,7 +1308,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://www.purdue.edu/timely-warnings/">Timely Warnings</a></li>
+                <li role="listitem"><a href="https://www.purdue.edu/ehps/police/timely-warnings/">Timely Warnings</a></li>
         
         </ul>
 </div>

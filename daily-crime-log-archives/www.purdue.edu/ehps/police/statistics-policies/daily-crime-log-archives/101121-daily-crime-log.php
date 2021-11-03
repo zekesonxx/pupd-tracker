@@ -725,7 +725,7 @@
 <td style="font-weight: 400;" width="168">10/12/21 1:30 AM</td>
 <td style="font-weight: 400;" width="166">10/12/21 6:31 AM</td>
 <td style="font-weight: 400;" width="207">1100 Blk 3rd St</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>
@@ -1123,7 +1123,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://www.purdue.edu/timely-warnings/">Timely Warnings</a></li>
+                <li role="listitem"><a href="https://www.purdue.edu/ehps/police/timely-warnings/">Timely Warnings</a></li>
         
         </ul>
 </div>
