@@ -639,7 +639,58 @@
   
     	<section class="content__group">
   					<h3>Thursday, November 4, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01252</td>
+<td style="font-weight: 400;" width="168">10/29/21 12:11 PM</td>
+<td style="font-weight: 400;" width="166">11/3/21 12:27 PM</td>
+<td style="font-weight: 400;" width="207">Wiley Dining Court</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violations</td>
+<td style="font-weight: 400;" width="154">2021PU01253</td>
+<td style="font-weight: 400;" width="168">11/3/21 3:49 PM</td>
+<td style="font-weight: 400;" width="166">11/3/21 4:29 PM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2021PU01254</td>
+<td style="font-weight: 400;" width="168">11/3/21 6:13 PM</td>
+<td style="font-weight: 400;" width="166">11/3/21 6:18 PM</td>
+<td style="font-weight: 400;" width="207">Grant Street Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2021PU01255</td>
+<td style="font-weight: 400;" width="168">11/2/21 3:30 PM</td>
+<td style="font-weight: 400;" width="166">11/3/21 6:22 PM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Dining Court</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Assisting Other Agency/ Rape</td>
+<td style="font-weight: 400;" width="154">2021PU01214</td>
+<td style="font-weight: 400;" width="168">10/30/21 12:00 AM</td>
+<td style="font-weight: 400;" width="166">10/30/21 1:11 PM</td>
+<td style="font-weight: 400;" width="207">300 Blk N Grant St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -693,15 +744,7 @@
 <td style="font-weight: 400;" width="154">CAD#2021-151556</td>
 <td style="font-weight: 400;" width="168">11/1/21 12:15 PM</td>
 <td style="font-weight: 400;" width="166">11/1/21 12:15 PM</td>
-<td style="font-weight: 400;" width="207">205 S Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Damaged Property</td>
-<td style="font-weight: 400;" width="154">CAD#2021-151790</td>
-<td style="font-weight: 400;" width="168">11/1/21 6:32 PM</td>
-<td style="font-weight: 400;" width="166">11/1/21 6:32 PM</td>
-<td style="font-weight: 400;" width="207">Mcccormick Rd/ W State St</td>
+<td style="font-weight: 400;" width="207">On Campus Housing</td>
 <td style="font-weight: 400;" width="181">Nothing Further</td>
 </tr>
 </tbody>
@@ -744,7 +787,7 @@
 <td style="font-weight: 400;" width="168">11/1/21 10:00 AM</td>
 <td style="font-weight: 400;" width="166">11/1/21 11:47 AM</td>
 <td style="font-weight: 400;" width="207">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>
@@ -1018,7 +1061,7 @@
 <td style="font-weight: 400;" width="168">11/1/21 2:20 AM</td>
 <td style="font-weight: 400;" width="166">11/1/21 3:06 AM</td>
 <td style="font-weight: 400;" width="207">Phi Delta Theta</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Domestic Battery</td>
