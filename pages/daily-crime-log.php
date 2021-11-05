@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			110121 Daily Crime Log - 
+			Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -632,7 +632,26 @@
   
     	<section class="content__group">
   					<h3>Friday, November 5, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Invasion of Privacy</td>
+<td style="font-weight: 400;" width="154">2021PU01257</td>
+<td style="font-weight: 400;" width="168">11/5/21 12:15 AM</td>
+<td style="font-weight: 400;" width="166">11/5/21 1:24 AM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -674,7 +693,7 @@
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Theft-EMPV</td>
+<td style="font-weight: 400;" width="157">Theft</td>
 <td style="font-weight: 400;" width="154">2021PU01255</td>
 <td style="font-weight: 400;" width="168">11/2/21 3:30 PM</td>
 <td style="font-weight: 400;" width="166">11/3/21 6:22 PM</td>
@@ -1029,7 +1048,7 @@
 <td style="font-weight: 400;" width="168">10/31/21 1:46 AM</td>
 <td style="font-weight: 400;" width="166">10/31/21 2:11 AM</td>
 <td style="font-weight: 400;" width="207">Northwestern Ave/ Central Dr</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
