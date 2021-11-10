@@ -646,7 +646,82 @@
   
     	<section class="content__group">
   					<h3>Wednesday, November 10, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="162">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="158">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="173">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="170">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="213">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="162">Sex Offense</td>
+<td style="font-weight: 400;" width="158">2021PU01283</td>
+<td style="font-weight: 400;" width="173">11/8/21 1:15 PM</td>
+<td style="font-weight: 400;" width="170">11/8/21 1:18 PM</td>
+<td style="font-weight: 400;" width="213">Unknown on Campus Location</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="162">Harassment</td>
+<td style="font-weight: 400;" width="158">2021PU01284</td>
+<td style="font-weight: 400;" width="173">11/1/21 5:20 PM</td>
+<td style="font-weight: 400;" width="170">11/8/21 5:58 PM</td>
+<td style="font-weight: 400;" width="213">Lynn Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="162">Theft</td>
+<td style="font-weight: 400;" width="158">2021PU01287</td>
+<td style="font-weight: 400;" width="173">11/8/21 4:30 PM</td>
+<td style="font-weight: 400;" width="170">11/9/21 6:21 AM</td>
+<td style="font-weight: 400;" width="213">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="162">Theft-EMPV</td>
+<td style="font-weight: 400;" width="158">2021PU01290</td>
+<td style="font-weight: 400;" width="173">11/8/21 8:00 PM</td>
+<td style="font-weight: 400;" width="170">11/9/21 1:05 PM</td>
+<td style="font-weight: 400;" width="213">Owen Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="162">Invasion of Privacy</td>
+<td style="font-weight: 400;" width="158">2021PU01291</td>
+<td style="font-weight: 400;" width="173">11/9/21 12:52 PM</td>
+<td style="font-weight: 400;" width="170">11/9/21 1:08 PM</td>
+<td style="font-weight: 400;" width="213">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="162">Theft-EMPV</td>
+<td style="font-weight: 400;" width="158">2021PU01293</td>
+<td style="font-weight: 400;" width="173">11/9/21 1:30 PM</td>
+<td style="font-weight: 400;" width="170">11/9/21 7:02 PM</td>
+<td style="font-weight: 400;" width="213">Physics Building</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="162">Theft-Bike</td>
+<td style="font-weight: 400;" width="158">2021PU01295</td>
+<td style="font-weight: 400;" width="173">11/9/21 7:57 PM</td>
+<td style="font-weight: 400;" width="170">11/9/21 8:10 PM</td>
+<td style="font-weight: 400;" width="213">Stewart Center</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="162">Theft-EMPV</td>
+<td style="font-weight: 400;" width="158">CSA</td>
+<td style="font-weight: 400;" width="173">11/9/21 12:00 PM</td>
+<td style="font-weight: 400;" width="170">11/9/21 11:04 PM</td>
+<td style="font-weight: 400;" width="213">Owen Hall</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -714,7 +789,7 @@
 <tr>
 <td style="font-weight: 400;" width="157">Rape</td>
 <td style="font-weight: 400;" width="154">CSA</td>
-<td style="font-weight: 400;" width="168"></td>
+<td style="font-weight: 400;" width="168">11/6/20 Unknown Time</td>
 <td style="font-weight: 400;" width="166">11/8/21 9:30 AM</td>
 <td style="font-weight: 400;" width="207">100 Blk N Russell St</td>
 <td style="font-weight: 400;" width="181">Nothing Further</td>
