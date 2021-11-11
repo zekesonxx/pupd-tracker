@@ -639,7 +639,66 @@
   
     	<section class="content__group">
   					<h3>Thursday, November 11, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Minor Possession/ Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2021PU01294</td>
+<td style="font-weight: 400;" width="168">11/9/21 7:38 PM</td>
+<td style="font-weight: 400;" width="166">11/9/21 7:47 PM</td>
+<td style="font-weight: 400;" width="207">Mackey Arena</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2021PU01302</td>
+<td style="font-weight: 400;" width="168">11/10/21 5:50 PM</td>
+<td style="font-weight: 400;" width="166">11/10/21 7:17 PM</td>
+<td style="font-weight: 400;" width="207">Smith Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Sex Offense</td>
+<td style="font-weight: 400;" width="154">2021PU01303</td>
+<td style="font-weight: 400;" width="168">11/6/21 11:00 PM</td>
+<td style="font-weight: 400;" width="166">11/10/21 7:37 PM</td>
+<td style="font-weight: 400;" width="207">1-99 Blk N Russell St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violations</td>
+<td style="font-weight: 400;" width="154">2021PU01304</td>
+<td style="font-weight: 400;" width="168">11/10/21 10:18 PM</td>
+<td style="font-weight: 400;" width="166">11/10/21 11:01 PM</td>
+<td style="font-weight: 400;" width="207">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Rape</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">Unknown Date and Time</td>
+<td style="font-weight: 400;" width="166">11/10/21 2:00 PM</td>
+<td style="font-weight: 400;" width="207">500 Blk N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">11/8/21 8:00 PM</td>
+<td style="font-weight: 400;" width="166">11/9/21 8:30 PM</td>
+<td style="font-weight: 400;" width="207">Hawkins Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -712,14 +771,6 @@
 <td style="font-weight: 400;" width="213">Stewart Center</td>
 <td style="font-weight: 400;" width="186">Under Investigation</td>
 </tr>
-<tr>
-<td style="font-weight: 400;" width="162">Theft-EMPV</td>
-<td style="font-weight: 400;" width="158">CSA</td>
-<td style="font-weight: 400;" width="173">11/9/21 12:00 PM</td>
-<td style="font-weight: 400;" width="170">11/9/21 11:04 PM</td>
-<td style="font-weight: 400;" width="213">Owen Hall</td>
-<td style="font-weight: 400;" width="186">Nothing Further</td>
-</tr>
 </tbody>
 </table>
 		</section>
@@ -747,7 +798,7 @@
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Sex Offense</td>
+<td style="font-weight: 400;" width="157">Battery</td>
 <td style="font-weight: 400;" width="154">2021PU01286</td>
 <td style="font-weight: 400;" width="168">11/6/21 7:30 PM</td>
 <td style="font-weight: 400;" width="166">11/9/21 12:27 AM</td>
@@ -791,7 +842,7 @@
 <td style="font-weight: 400;" width="154">CSA</td>
 <td style="font-weight: 400;" width="168">11/6/20 Unknown Time</td>
 <td style="font-weight: 400;" width="166">11/8/21 9:30 AM</td>
-<td style="font-weight: 400;" width="207">100 Blk N Russell St</td>
+<td style="font-weight: 400;" width="207">1-99 Blk N Russell St</td>
 <td style="font-weight: 400;" width="181">Nothing Further</td>
 </tr>
 <tr>
