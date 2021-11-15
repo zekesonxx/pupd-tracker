@@ -593,6 +593,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log</h2>
 <ul>
+<li><a href="110821-daily-crime-log.php" title="110821 Daily Crime Log">Week of November 8, 2021</a></li>
 <li><a href="110121-daily-crime-log.php" title="110121 Daily Crime Log">Week of November 1, 2021</a></li>
 <li><a href="102521-daily-crime-log.php" title="102521 Daily Crime Log">Week of October 25, 2021</a></li>
 <li><a href="101821-daily-crime-log.php" title="101821 Daily Crime Log">Week of October 18, 2021</a></li>
