@@ -969,7 +969,7 @@
 <td style="font-weight: 400;" width="168">9/25/21 12:55 AM</td>
 <td style="font-weight: 400;" width="166">9/25/21 1:20 AM</td>
 <td style="font-weight: 400;" width="207">Honor College South</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
@@ -1025,7 +1025,7 @@
 <td style="font-weight: 400;" width="168">9/25/21 11:58 PM</td>
 <td style="font-weight: 400;" width="166">9/26/21 12:23 AM</td>
 <td style="font-weight: 400;" width="207">Owen Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Public Intoxication/ Theft-Vehicle</td>

@@ -646,7 +646,50 @@
   
     	<section class="content__group">
   					<h3>Wednesday, November 17, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01336</td>
+<td style="font-weight: 400;" width="168">11/16/21 12:06 PM</td>
+<td style="font-weight: 400;" width="166">11/16/21 12:22 PM</td>
+<td style="font-weight: 400;" width="207">Hawkins Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2021-158969</td>
+<td style="font-weight: 400;" width="168">11/15/21 4:53 PM</td>
+<td style="font-weight: 400;" width="166">11/15/21 4:53 PM</td>
+<td style="font-weight: 400;" width="207">Aspire Apartments</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">CAD#2021-158766</td>
+<td style="font-weight: 400;" width="168">11/15/21 9:19 AM</td>
+<td style="font-weight: 400;" width="166">11/15/21 9:19 AM</td>
+<td style="font-weight: 400;" width="207">Harrsion Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Dating Violence</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">11/16/21 1:00 AM</td>
+<td style="font-weight: 400;" width="166">11/16/21 9:30 PM</td>
+<td style="font-weight: 400;" width="207">Meredith Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
