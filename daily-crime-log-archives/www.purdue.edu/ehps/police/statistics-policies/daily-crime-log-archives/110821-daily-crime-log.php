@@ -731,7 +731,7 @@
 <td style="font-weight: 400;" width="168">11/9/21 7:38 PM</td>
 <td style="font-weight: 400;" width="166">11/9/21 7:47 PM</td>
 <td style="font-weight: 400;" width="207">Mackey Arena</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft-EMPV</td>
@@ -813,7 +813,7 @@
 <td style="font-weight: 400;" width="173">11/8/21 4:30 PM</td>
 <td style="font-weight: 400;" width="170">11/9/21 6:21 AM</td>
 <td style="font-weight: 400;" width="213">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="162">Theft-EMPV</td>
@@ -1129,7 +1129,7 @@
 <td width="168">11/7/21 1:36 AM</td>
 <td width="166">11/7/21 1:57 AM</td>
 <td width="207">Earhart Hall</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="157">Hit &amp; Run</td>

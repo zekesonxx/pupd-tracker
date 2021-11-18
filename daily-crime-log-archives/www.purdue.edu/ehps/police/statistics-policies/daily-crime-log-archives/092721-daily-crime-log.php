@@ -985,7 +985,7 @@
 <td style="font-weight: 400;" width="168">9/25/21 1:30 AM</td>
 <td style="font-weight: 400;" width="166">9/25/21 2:00 AM</td>
 <td style="font-weight: 400;" width="207">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession/ False Informing/ Resisting Law Enforcement</td>
