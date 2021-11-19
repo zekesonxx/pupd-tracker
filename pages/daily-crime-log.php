@@ -632,7 +632,122 @@
   
     	<section class="content__group">
   					<h3>Friday, November 19, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01345</td>
+<td style="font-weight: 400;" width="168">11/16/21 5:30 PM</td>
+<td style="font-weight: 400;" width="166">11/18/21 3:08 PM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2021PU01346</td>
+<td style="font-weight: 400;" width="168">11/17/21 5:00 PM</td>
+<td style="font-weight: 400;" width="166">11/18/21 3:09 PM</td>
+<td style="font-weight: 400;" width="207">Krannert Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2021PU01347</td>
+<td style="font-weight: 400;" width="168">11/12/21 12:00 AM</td>
+<td style="font-weight: 400;" width="166">11/18/21 4:12 PM</td>
+<td style="font-weight: 400;" width="207">314 N Russell St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Minor Possession</td>
+<td style="font-weight: 400;" width="154">2021PU01351</td>
+<td style="font-weight: 400;" width="168">11/19/21 3:07 AM</td>
+<td style="font-weight: 400;" width="166">11/19/21 3:25 AM</td>
+<td style="font-weight: 400;" width="207">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-160103</td>
+<td style="font-weight: 400;" width="168">11/17/21 9:16 PM</td>
+<td style="font-weight: 400;" width="166">11/17/21 9:16 PM</td>
+<td style="font-weight: 400;" width="207">Honors College North</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">11/10/21 10:15 PM</td>
+<td style="font-weight: 400;" width="166">11/11/21 12:29 AM</td>
+<td style="font-weight: 400;" width="207">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">2 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">11/10/21 10:15 PM</td>
+<td style="font-weight: 400;" width="166">11/11/21 12:29 AM</td>
+<td style="font-weight: 400;" width="207">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">11/11/21 2:15 AM</td>
+<td style="font-weight: 400;" width="166">11/11/21 3:05 AM</td>
+<td style="font-weight: 400;" width="207">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">5 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">11/11/21 11:30 PM</td>
+<td style="font-weight: 400;" width="166">11/12/21 12:12 AM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">12 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">11/13/21 12:15 AM</td>
+<td style="font-weight: 400;" width="166">11/13/21 3:20 AM</td>
+<td style="font-weight: 400;" width="207">2501 Kestral Blvd</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">11/13/21 2:45 AM</td>
+<td style="font-weight: 400;" width="166">11/13/21 4:42 AM</td>
+<td style="font-weight: 400;" width="207">Windsor Halls</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">2 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">11/13/21 2:45 AM</td>
+<td style="font-weight: 400;" width="166">11/13/21 11:53 AM</td>
+<td style="font-weight: 400;" width="207">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">11 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">11/13/21 11:00 PM</td>
+<td style="font-weight: 400;" width="166">11/14/21 12:15 AM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
