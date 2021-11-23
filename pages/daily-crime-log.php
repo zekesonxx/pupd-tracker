@@ -653,7 +653,58 @@
   
     	<section class="content__group">
   					<h3>Tuesday, November 23, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Invasion of Privacy</td>
+<td style="font-weight: 400;" width="154">2021PU01370</td>
+<td style="font-weight: 400;" width="168">11/22/21 5:37 AM</td>
+<td style="font-weight: 400;" width="166">11/22/21 1:02 PM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01371</td>
+<td style="font-weight: 400;" width="168">11/22/21 10:24 PM</td>
+<td style="font-weight: 400;" width="166">11/22/21 10:40 PM</td>
+<td style="font-weight: 400;" width="207">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Driving While Suspended</td>
+<td style="font-weight: 400;" width="154">2021PU01372</td>
+<td style="font-weight: 400;" width="168">11/23/21 2:46 AM</td>
+<td style="font-weight: 400;" width="166">11/23/21 3:18 AM</td>
+<td style="font-weight: 400;" width="207">W State St/ Gates Rd</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-161319</td>
+<td style="font-weight: 400;" width="168">11/20/21 8:33 PM</td>
+<td style="font-weight: 400;" width="166">11/20/21 8:33 PM</td>
+<td style="font-weight: 400;" width="207">W Stadium Ave/ Northwestern Ave</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-161706</td>
+<td style="font-weight: 400;" width="168">11/20/21 7:55 PM</td>
+<td style="font-weight: 400;" width="166">11/20/21 7:55 PM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
