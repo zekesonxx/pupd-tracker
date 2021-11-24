@@ -993,7 +993,7 @@
 <td style="font-weight: 400;" width="168">10/31/21 12:28 AM</td>
 <td style="font-weight: 400;" width="166">10/31/21 12:53 AM</td>
 <td style="font-weight: 400;" width="207">Owen Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
@@ -1025,7 +1025,7 @@
 <td style="font-weight: 400;" width="168">10/31/21 1:51 AM</td>
 <td style="font-weight: 400;" width="166">10/31/21 2:08 AM</td>
 <td style="font-weight: 400;" width="207">Owen Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
