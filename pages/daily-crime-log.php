@@ -660,7 +660,98 @@
   
     	<section class="content__group">
   					<h3>Monday, November 29, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2021PU01378</td>
+<td style="font-weight: 400;" width="168">11/24/21 3:11 PM</td>
+<td style="font-weight: 400;" width="166">11/24/21 3:34 PM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2021PU01383</td>
+<td style="font-weight: 400;" width="168">11/27/21 12:00 AM</td>
+<td style="font-weight: 400;" width="166">11/27/21 9:53 AM</td>
+<td style="font-weight: 400;" width="207">Phi Gamma Delta</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Minor Possession</td>
+<td style="font-weight: 400;" width="154">2021PU01384</td>
+<td style="font-weight: 400;" width="168">11/27/21 5:59 PM</td>
+<td style="font-weight: 400;" width="166">11/27/21 6:11 PM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">OWI</td>
+<td style="font-weight: 400;" width="154">2021PU01385</td>
+<td style="font-weight: 400;" width="168">11/27/21 6:51 PM</td>
+<td style="font-weight: 400;" width="166">11/27/21 7:18 PM</td>
+<td style="font-weight: 400;" width="207">Cherry Ln/ Edgemont Ave</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Resisting Law Enforcement</td>
+<td style="font-weight: 400;" width="154">2021PU01386</td>
+<td style="font-weight: 400;" width="168">11/27/21 6:59 PM</td>
+<td style="font-weight: 400;" width="166">11/27/21 7:41 PM</td>
+<td style="font-weight: 400;" width="207">118 Provenance Blvd</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2021PU01387</td>
+<td style="font-weight: 400;" width="168">11/27/21 6:00 PM</td>
+<td style="font-weight: 400;" width="166">11/27/21 8:33 PM</td>
+<td style="font-weight: 400;" width="207">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">OWI</td>
+<td style="font-weight: 400;" width="154">2021PU01390</td>
+<td style="font-weight: 400;" width="168">11/28/21 2:11 AM</td>
+<td style="font-weight: 400;" width="166">11/28/21 2:53 AM</td>
+<td style="font-weight: 400;" width="207">N University St/ 1st St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01391</td>
+<td style="font-weight: 400;" width="168">11/28/21 11:20 AM</td>
+<td style="font-weight: 400;" width="166">11/28/21 4:00 PM</td>
+<td style="font-weight: 400;" width="207">Purdue West</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Trespass</td>
+<td style="font-weight: 400;" width="154">2021PU01392</td>
+<td style="font-weight: 400;" width="168">11/28/21 8:55 PM</td>
+<td style="font-weight: 400;" width="166">11/28/21 9:10 PM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Stalking</td>
+<td style="font-weight: 400;" width="154">2021PU01394</td>
+<td style="font-weight: 400;" width="168">11/28/21 11:01 PM</td>
+<td style="font-weight: 400;" width="166">11/28/21 11:39 PM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
