@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			Daily Crime Log - 
+			110121 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
