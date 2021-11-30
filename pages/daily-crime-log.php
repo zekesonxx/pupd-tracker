@@ -653,7 +653,58 @@
   
     	<section class="content__group">
   					<h3>Tuesday, November 30, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2021PU01395</td>
+<td style="font-weight: 400;" width="168">11/29/21 1:59 PM</td>
+<td style="font-weight: 400;" width="166">11/29/21 2:19 PM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violations</td>
+<td style="font-weight: 400;" width="154">2021PU01396</td>
+<td style="font-weight: 400;" width="168">11/29/21 11:29 PM</td>
+<td style="font-weight: 400;" width="166">11/29/21 11:57 PM</td>
+<td style="font-weight: 400;" width="207">Purdue Village</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01397</td>
+<td style="font-weight: 400;" width="168">11/29/21 11:15 PM</td>
+<td style="font-weight: 400;" width="166">11/30/21 12:49 AM</td>
+<td style="font-weight: 400;" width="207">Purdue Village</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violations</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-163921</td>
+<td style="font-weight: 400;" width="168">11/25/21 10:03 PM</td>
+<td style="font-weight: 400;" width="166">11/25/21 10:03 PM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drunk Driver</td>
+<td style="font-weight: 400;" width="154">CAD#163843</td>
+<td style="font-weight: 400;" width="168">1/0/00 6:36 PM</td>
+<td style="font-weight: 400;" width="166">1/0/00 6:36 PM</td>
+<td style="font-weight: 400;" width="207">S River Rd/ 231 Hwy</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
