@@ -863,7 +863,7 @@
 <td style="font-weight: 400;" width="168">11/15/21 6:49 PM</td>
 <td style="font-weight: 400;" width="166">11/15/21 7:07 PM</td>
 <td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="181">Under Investgation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>

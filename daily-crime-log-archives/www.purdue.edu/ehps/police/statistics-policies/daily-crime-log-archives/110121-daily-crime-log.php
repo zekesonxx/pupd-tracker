@@ -717,7 +717,7 @@
 <td style="font-weight: 400;" width="168">11/2/21 2:15 PM</td>
 <td style="font-weight: 400;" width="166">11/2/21 2:42 PM</td>
 <td style="font-weight: 400;" width="207">Phi Kappa Psi</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft-Bike</td>

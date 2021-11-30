@@ -1097,7 +1097,7 @@
 <td width="168">11/6/21 5:48 PM</td>
 <td width="166">11/6/21 5:51 PM</td>
 <td width="207">Ross Ade Stadium</td>
-<td width="181">Arrest Made</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="157">Resisting Law Enforcement/ Public Intoxication/ Trespass</td>
