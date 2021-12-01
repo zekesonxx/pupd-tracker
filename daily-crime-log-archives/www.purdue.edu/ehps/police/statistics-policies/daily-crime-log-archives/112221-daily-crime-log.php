@@ -795,7 +795,7 @@
 <td style="font-weight: 400;" width="168">11/20/21 12:50 PM</td>
 <td style="font-weight: 400;" width="166">11/20/21 1:05 PM</td>
 <td style="font-weight: 400;" width="207">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
