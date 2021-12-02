@@ -897,7 +897,7 @@
 <td style="font-weight: 400;" width="168">10/29/21 11:23 PM</td>
 <td style="font-weight: 400;" width="166">10/29/21 11:39 PM</td>
 <td style="font-weight: 400;" width="207">Beta Upsilon Chi</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
@@ -921,7 +921,7 @@
 <td style="font-weight: 400;" width="168">10/30/21 1:03 AM</td>
 <td style="font-weight: 400;" width="166">10/30/21 1:39 AM</td>
 <td style="font-weight: 400;" width="207">Owen Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
@@ -937,7 +937,7 @@
 <td style="font-weight: 400;" width="168">10/30/21 2:03 AM</td>
 <td style="font-weight: 400;" width="166">10/30/21 2:27 AM</td>
 <td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>

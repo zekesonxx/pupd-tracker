@@ -755,7 +755,7 @@
 <td style="font-weight: 400;" width="168">11/10/21 10:18 PM</td>
 <td style="font-weight: 400;" width="166">11/10/21 11:01 PM</td>
 <td style="font-weight: 400;" width="207">Shreve Hall</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Rape</td>

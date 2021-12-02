@@ -657,7 +657,7 @@
 <td style="font-weight: 400;" width="168">11/19/21 3:07 AM</td>
 <td style="font-weight: 400;" width="166">11/19/21 3:25 AM</td>
 <td style="font-weight: 400;" width="207">Frieda Parker Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>
@@ -969,7 +969,7 @@
 <td style="font-weight: 400;" width="168">11/13/21 3:42 AM</td>
 <td style="font-weight: 400;" width="166">11/13/21 4:06 AM</td>
 <td style="font-weight: 400;" width="207">Honors College North</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>

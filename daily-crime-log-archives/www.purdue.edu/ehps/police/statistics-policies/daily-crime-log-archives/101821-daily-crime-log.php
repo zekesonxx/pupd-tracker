@@ -657,7 +657,7 @@
 <td style="font-weight: 400;" width="168">10/22/21 12:49 AM</td>
 <td style="font-weight: 400;" width="166">10/22/21 1:20 AM</td>
 <td style="font-weight: 400;" width="207">Alpha Chi Rho</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>
