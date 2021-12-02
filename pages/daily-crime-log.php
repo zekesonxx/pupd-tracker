@@ -781,7 +781,7 @@
 <td style="font-weight: 400;" width="181">Arrest Made</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="157">Attempted Burglary</td>
 <td style="font-weight: 400;" width="154">2021PU01387</td>
 <td style="font-weight: 400;" width="168">11/27/21 6:00 PM</td>
 <td style="font-weight: 400;" width="166">11/27/21 8:33 PM</td>
