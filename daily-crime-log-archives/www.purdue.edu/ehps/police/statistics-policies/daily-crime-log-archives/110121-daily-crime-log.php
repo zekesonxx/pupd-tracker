@@ -929,7 +929,7 @@
 <td style="font-weight: 400;" width="168">10/30/21 1:26 AM</td>
 <td style="font-weight: 400;" width="166">10/30/21 1:44 AM</td>
 <td style="font-weight: 400;" width="207">Cary Quad</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
@@ -945,7 +945,7 @@
 <td style="font-weight: 400;" width="168">10/30/21 2:30 AM</td>
 <td style="font-weight: 400;" width="166">10/30/21 2:41 AM</td>
 <td style="font-weight: 400;" width="207">Tarkington Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>
@@ -1001,7 +1001,7 @@
 <td style="font-weight: 400;" width="168">10/31/21 12:26 AM</td>
 <td style="font-weight: 400;" width="166">10/31/21 1:09 AM</td>
 <td style="font-weight: 400;" width="207">401 N Russell St</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>
@@ -1017,7 +1017,7 @@
 <td style="font-weight: 400;" width="168">10/31/21 1:31 AM</td>
 <td style="font-weight: 400;" width="166">10/31/21 1:53 AM</td>
 <td style="font-weight: 400;" width="207">Shreve Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>

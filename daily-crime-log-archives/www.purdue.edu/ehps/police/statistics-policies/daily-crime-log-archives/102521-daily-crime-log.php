@@ -693,61 +693,61 @@
   					<h3>Thursday, October 28, 2021</h3>
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
-<tr>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+<tr style="height: 36px;">
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="181">Disposition&#160;</th>
 </tr>
-<tr>
-<td style="font-weight: 400;" width="157">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2021PU01180</td>
-<td style="font-weight: 400;" width="168">10/27/21 2:52 PM</td>
-<td style="font-weight: 400;" width="166">10/27/21 2:53 PM</td>
-<td style="font-weight: 400;" width="207">Stewart Center</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<tr style="height: 36px;">
+<td style="font-weight: 400; height: 36px;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400; height: 36px;" width="154">2021PU01180</td>
+<td style="font-weight: 400; height: 36px;" width="168">10/27/21 2:52 PM</td>
+<td style="font-weight: 400; height: 36px;" width="166">10/27/21 2:53 PM</td>
+<td style="font-weight: 400; height: 36px;" width="207">Stewart Center</td>
+<td style="font-weight: 400; height: 36px;" width="181">Under Investigation</td>
 </tr>
-<tr>
-<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="154">2021PU01181</td>
-<td style="font-weight: 400;" width="168">10/27/21 5:18 PM</td>
-<td style="font-weight: 400;" width="166">10/27/21 6:20 PM</td>
-<td style="font-weight: 400;" width="207">Discovery Parking Lot</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<tr style="height: 36px;">
+<td style="font-weight: 400; height: 36px;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400; height: 36px;" width="154">2021PU01181</td>
+<td style="font-weight: 400; height: 36px;" width="168">10/27/21 5:18 PM</td>
+<td style="font-weight: 400; height: 36px;" width="166">10/27/21 6:20 PM</td>
+<td style="font-weight: 400; height: 36px;" width="207">Discovery Parking Lot</td>
+<td style="font-weight: 400; height: 36px;" width="181">Under Investigation</td>
 </tr>
-<tr>
-<td style="font-weight: 400;" width="157">Drug Law Violation/ Minor Possession</td>
-<td style="font-weight: 400;" width="154">2021PU01182</td>
-<td style="font-weight: 400;" width="168">10/27/21 7:33 PM</td>
-<td style="font-weight: 400;" width="166">10/27/21 8:35 PM</td>
-<td style="font-weight: 400;" width="207">Wiley Hall</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<tr style="height: 72px;">
+<td style="font-weight: 400; height: 72px;" width="157">Drug Law Violation/ Minor Possession</td>
+<td style="font-weight: 400; height: 72px;" width="154">2021PU01182</td>
+<td style="font-weight: 400; height: 72px;" width="168">10/27/21 7:33 PM</td>
+<td style="font-weight: 400; height: 72px;" width="166">10/27/21 8:35 PM</td>
+<td style="font-weight: 400; height: 72px;" width="207">Wiley Hall</td>
+<td style="font-weight: 400; height: 72px;" width="181">Closed</td>
 </tr>
-<tr>
-<td style="font-weight: 400;" width="157">Minor Possession</td>
-<td style="font-weight: 400;" width="154">2021PU01183</td>
-<td style="font-weight: 400;" width="168">10/27/21 11:10 PM</td>
-<td style="font-weight: 400;" width="166">10/27/21 11:26 PM</td>
-<td style="font-weight: 400;" width="207">Hawkins Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<tr style="height: 30.4688px;">
+<td style="font-weight: 400; height: 30.4688px;" width="157">Minor Possession</td>
+<td style="font-weight: 400; height: 30.4688px;" width="154">2021PU01183</td>
+<td style="font-weight: 400; height: 30.4688px;" width="168">10/27/21 11:10 PM</td>
+<td style="font-weight: 400; height: 30.4688px;" width="166">10/27/21 11:26 PM</td>
+<td style="font-weight: 400; height: 30.4688px;" width="207">Hawkins Hall</td>
+<td style="font-weight: 400; height: 30.4688px;" width="181">Closed</td>
 </tr>
-<tr>
-<td style="font-weight: 400;" width="157">Minor Possession</td>
-<td style="font-weight: 400;" width="154">2021PU01184</td>
-<td style="font-weight: 400;" width="168">10/28/21 3:03 AM</td>
-<td style="font-weight: 400;" width="166">10/28/21 3:26 AM</td>
-<td style="font-weight: 400;" width="207">Rawls Hall</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<tr style="height: 36px;">
+<td style="font-weight: 400; height: 36px;" width="157">Minor Possession</td>
+<td style="font-weight: 400; height: 36px;" width="154">2021PU01184</td>
+<td style="font-weight: 400; height: 36px;" width="168">10/28/21 3:03 AM</td>
+<td style="font-weight: 400; height: 36px;" width="166">10/28/21 3:26 AM</td>
+<td style="font-weight: 400; height: 36px;" width="207">Rawls Hall</td>
+<td style="font-weight: 400; height: 36px;" width="181">Closed</td>
 </tr>
-<tr>
-<td style="font-weight: 400;" width="157">Reckless Driving</td>
-<td style="font-weight: 400;" width="154">CAD#2021-148344</td>
-<td style="font-weight: 400;" width="168">10/27/21 2:06 AM</td>
-<td style="font-weight: 400;" width="166">10/27/21 2:06 AM</td>
-<td style="font-weight: 400;" width="207">Northwestern Garage</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
+<tr style="height: 36px;">
+<td style="font-weight: 400; height: 36px;" width="157">Reckless Driving</td>
+<td style="font-weight: 400; height: 36px;" width="154">CAD#2021-148344</td>
+<td style="font-weight: 400; height: 36px;" width="168">10/27/21 2:06 AM</td>
+<td style="font-weight: 400; height: 36px;" width="166">10/27/21 2:06 AM</td>
+<td style="font-weight: 400; height: 36px;" width="207">Northwestern Garage</td>
+<td style="font-weight: 400; height: 36px;" width="181">Nothing Further</td>
 </tr>
 </tbody>
 </table>

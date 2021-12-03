@@ -632,7 +632,74 @@
   
     	<section class="content__group">
   					<h3>Friday, December 3, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2021PU01410</td>
+<td style="font-weight: 400;" width="168">11/19/21 11:00 AM</td>
+<td style="font-weight: 400;" width="166">12/2/21 10:46 AM</td>
+<td style="font-weight: 400;" width="207">Campus House</td>
+<td style="font-weight: 400;" width="181">Closed</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2021PU01411</td>
+<td style="font-weight: 400;" width="168">11/2/21 8:00 AM</td>
+<td style="font-weight: 400;" width="166">12/2/21 12:43 PM</td>
+<td style="font-weight: 400;" width="207">McCormick Rd/ Cherry Ln</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Driving While Suspended</td>
+<td style="font-weight: 400;" width="154">2021PU01413</td>
+<td style="font-weight: 400;" width="168">12/2/21 8:52 PM</td>
+<td style="font-weight: 400;" width="166">12/2/21 9:09 PM</td>
+<td style="font-weight: 400;" width="207">W State St/ N Russell St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violations</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-166531</td>
+<td style="font-weight: 400;" width="168">12/1/21 11:39 AM</td>
+<td style="font-weight: 400;" width="166">12/1/21 11:39 AM</td>
+<td style="font-weight: 400;" width="207">Hawkins Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violations</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-166651</td>
+<td style="font-weight: 400;" width="168">12/1/21 3:54 PM</td>
+<td style="font-weight: 400;" width="166">12/1/21 3:54 PM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Threats</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-166581</td>
+<td style="font-weight: 400;" width="168">12/1/21 2:08 PM</td>
+<td style="font-weight: 400;" width="166">12/1/21 2:08 PM</td>
+<td style="font-weight: 400;" width="207">Schleman Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Threats</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-166843</td>
+<td style="font-weight: 400;" width="168">12/1/21 11:12 PM</td>
+<td style="font-weight: 400;" width="166">12/1/21 11:12 PM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -697,7 +764,7 @@
 <td style="font-weight: 400;" width="168">11/30/21 12:01 PM</td>
 <td style="font-weight: 400;" width="166">11/30/21 12:56 PM</td>
 <td style="font-weight: 400;" width="207">CoRec</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
 </tr>
 </tbody>
 </table>
