@@ -1089,7 +1089,7 @@
 <td width="168">11/6/21 5:57 AM</td>
 <td width="166">11/6/21 8:59 AM</td>
 <td width="207">Ross Ade Stadium</td>
-<td width="181">Arrest Made</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="157">Minor Possession/ Public Intoxication</td>
