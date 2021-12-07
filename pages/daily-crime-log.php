@@ -653,7 +653,50 @@
   
     	<section class="content__group">
   					<h3>Tuesday, December 7, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01437</td>
+<td style="font-weight: 400;" width="168">12/6/21 3:02 AM</td>
+<td style="font-weight: 400;" width="166">12/6/21 3:57 AM</td>
+<td style="font-weight: 400;" width="207">W Stadium Ave/ Northwestern Ave</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2021PU01438</td>
+<td style="font-weight: 400;" width="168">12/3/21 6:00 PM</td>
+<td style="font-weight: 400;" width="166">12/6/21 2:17 PM</td>
+<td style="font-weight: 400;" width="207">Hawkins Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01439</td>
+<td style="font-weight: 400;" width="168">12/6/21 4:48 PM</td>
+<td style="font-weight: 400;" width="166">12/6/21 5:19 PM</td>
+<td style="font-weight: 400;" width="207">Aspire</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01440</td>
+<td style="font-weight: 400;" width="168">12/6/21 8:35 PM</td>
+<td style="font-weight: 400;" width="166">12/6/21 8:49 PM</td>
+<td style="font-weight: 400;" width="207">University St Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
