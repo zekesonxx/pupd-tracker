@@ -639,7 +639,130 @@
   
     	<section class="content__group">
   					<h3>Thursday, December 9, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Anonymous Sexual Assault Kit</td>
+<td style="font-weight: 400;" width="154">2021PU01448</td>
+<td style="font-weight: 400;" width="168">Unknown Date and Time</td>
+<td style="font-weight: 400;" width="166">12/8/21 1:59 PM</td>
+<td style="font-weight: 400;" width="207">Unknown On Campus Location</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Public Intoxication/ Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2021PU01449</td>
+<td style="font-weight: 400;" width="168">12/8/21 11:16 PM</td>
+<td style="font-weight: 400;" width="166">12/8/21 11:34 PM</td>
+<td style="font-weight: 400;" width="207">500 Blk Purdue Mall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-169920</td>
+<td style="font-weight: 400;" width="168">12/7/21 4:04 PM</td>
+<td style="font-weight: 400;" width="166">12/7/21 4:04 PM</td>
+<td style="font-weight: 400;" width="207">231 Hwy/ S River Rd</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">10 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">11/19/21 10:00 PM</td>
+<td style="font-weight: 400;" width="166">11/19/21 11:13 PM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">6 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">11/20/21 12:45 AM</td>
+<td style="font-weight: 400;" width="166">11/20/21 2:27 AM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">11/20/21 2:14 AM</td>
+<td style="font-weight: 400;" width="166">11/22/21 3:30 PM</td>
+<td style="font-weight: 400;" width="207">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">3 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">11/27/21 12:10 PM</td>
+<td style="font-weight: 400;" width="166">11/27/21 5:20 PM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">11/29/21 11:00 PM</td>
+<td style="font-weight: 400;" width="166">11/30/21 1:19 AM</td>
+<td style="font-weight: 400;" width="207">Purdue Village</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">2 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">12/2/21 11:20 PM</td>
+<td style="font-weight: 400;" width="166">12/3/21 12:05 AM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">8 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">12/4/21 12:15 AM</td>
+<td style="font-weight: 400;" width="166">12/4/21 1:21 AM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">6 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">12/4/21 1:40 AM</td>
+<td style="font-weight: 400;" width="166">12/4/21 2:27 AM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">12/4/21 10:35 PM</td>
+<td style="font-weight: 400;" width="166">12/7/21 6:20 PM</td>
+<td style="font-weight: 400;" width="207">250 McCutcheon Dr</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">5 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">12/5/21 1:15 AM</td>
+<td style="font-weight: 400;" width="166">12/5/21 2:29 AM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">12/5/21 8:30 PM</td>
+<td style="font-weight: 400;" width="166">12/5/21 10:47 PM</td>
+<td style="font-weight: 400;" width="207">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
