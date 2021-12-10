@@ -632,7 +632,50 @@
   
     	<section class="content__group">
   					<h3>Friday, December 10, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing=".3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2021PU01450</td>
+<td style="font-weight: 400;" width="168">12/9/21 4:47 AM</td>
+<td style="font-weight: 400;" width="166">12/9/21 12:40 PM</td>
+<td style="font-weight: 400;" width="207">Schleman Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violations</td>
+<td style="font-weight: 400;" width="154">2021PU01454</td>
+<td style="font-weight: 400;" width="168">12/9/21 11:25 PM</td>
+<td style="font-weight: 400;" width="166">12/9/21 11:56 PM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Parking Garage</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Minor Possession</td>
+<td style="font-weight: 400;" width="154">2021PU01455</td>
+<td style="font-weight: 400;" width="168">12/10/21 1:17 AM</td>
+<td style="font-weight: 400;" width="166">12/10/21 1:37 AM</td>
+<td style="font-weight: 400;" width="207">North St/N Grant St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Rape</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">8/28/21 11:30 PM</td>
+<td style="font-weight: 400;" width="166">12/9/21 3:45 PM</td>
+<td style="font-weight: 400;" width="207">Unknown On Campus Location</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -874,8 +917,8 @@
 <tr>
 <td style="font-weight: 400;" width="157">Harassment</td>
 <td style="font-weight: 400;" width="154">2021PU01414</td>
-<td style="font-weight: 400;" width="168">12/3/21 9:06 AM</td>
-<td style="font-weight: 400;" width="166">12/3/21 10:15 AM</td>
+<td style="font-weight: 400;" width="168">12/1/21 1:35 PM</td>
+<td style="font-weight: 400;" width="166">12/1/21 2:08 PM</td>
 <td style="font-weight: 400;" width="207">Schleman Hall</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
@@ -909,7 +952,7 @@
 <td style="font-weight: 400;" width="168">12/4/21 12:06 AM</td>
 <td style="font-weight: 400;" width="166">12/4/21 12:06 AM</td>
 <td style="font-weight: 400;" width="207">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>
@@ -933,7 +976,7 @@
 <td style="font-weight: 400;" width="168">12/4/21 2:40 AM</td>
 <td style="font-weight: 400;" width="166">12/4/21 2:56 AM</td>
 <td style="font-weight: 400;" width="207">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Criminal Mischief</td>
