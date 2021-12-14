@@ -1017,7 +1017,7 @@
 <td style="font-weight: 400;" width="168">9/25/21 7:11 PM</td>
 <td style="font-weight: 400;" width="166">9/25/21 7:41 PM</td>
 <td style="font-weight: 400;" width="207">Beering Dr/Joe Tiller Dr</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
