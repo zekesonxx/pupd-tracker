@@ -699,14 +699,6 @@
 <tr>
 <td style="font-weight: 400;" width="157">Stalking</td>
 <td style="font-weight: 400;" width="154">CSA</td>
-<td style="font-weight: 400;" width="168">12/14/21 7:47 PM</td>
-<td style="font-weight: 400;" width="166">12/14/21 7:47 PM</td>
-<td style="font-weight: 400;" width="207">Unknown On Campus Location</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Stalking</td>
-<td style="font-weight: 400;" width="154">CSA</td>
 <td style="font-weight: 400;" width="168">12/12/21 9:59 AM</td>
 <td style="font-weight: 400;" width="166">12/13/21 4:15 PM</td>
 <td style="font-weight: 400;" width="207">Wilmeth Active Learning Center</td>
