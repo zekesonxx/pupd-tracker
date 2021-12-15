@@ -646,7 +646,74 @@
   
     	<section class="content__group">
   					<h3>Wednesday, December 15, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01483</td>
+<td style="font-weight: 400;" width="168">12/13/21 11:00 PM</td>
+<td style="font-weight: 400;" width="166">12/13/21 11:32 PM</td>
+<td style="font-weight: 400;" width="207">400 Blk Northwestern Ave</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Minor Possession/ Trespass</td>
+<td style="font-weight: 400;" width="154">2021PU01487</td>
+<td style="font-weight: 400;" width="168">12/14/21 4:57 AM</td>
+<td style="font-weight: 400;" width="166">12/14/21 5:28 AM</td>
+<td style="font-weight: 400;" width="207">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2021PU01490</td>
+<td style="font-weight: 400;" width="168">12/14/21 12:36 PM</td>
+<td style="font-weight: 400;" width="166">12/14/21 4:09 PM</td>
+<td style="font-weight: 400;" width="207">1500 Blk Aviation Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01493</td>
+<td style="font-weight: 400;" width="168">12/15/21 12:16 AM</td>
+<td style="font-weight: 400;" width="166">12/15/21 12:52 AM</td>
+<td style="font-weight: 400;" width="207">W Stadium Ave/ Northwestern Ave</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-173097</td>
+<td style="font-weight: 400;" width="168">12/13/21 8:50 PM</td>
+<td style="font-weight: 400;" width="166">12/13/21 8:50 PM</td>
+<td style="font-weight: 400;" width="207">Horticulture Park</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Stalking</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">12/14/21 7:47 PM</td>
+<td style="font-weight: 400;" width="166">12/14/21 7:47 PM</td>
+<td style="font-weight: 400;" width="207">Unknown On Campus Location</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Stalking</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">12/12/21 9:59 AM</td>
+<td style="font-weight: 400;" width="166">12/13/21 4:15 PM</td>
+<td style="font-weight: 400;" width="207">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
