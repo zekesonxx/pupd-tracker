@@ -1017,7 +1017,7 @@
 <td style="font-weight: 400;" width="168">10/24/21 2:53 AM</td>
 <td style="font-weight: 400;" width="166">10/24/21 3:15 AM</td>
 <td style="font-weight: 400;" width="207">Triangle Fraternity</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft-EMPV</td>

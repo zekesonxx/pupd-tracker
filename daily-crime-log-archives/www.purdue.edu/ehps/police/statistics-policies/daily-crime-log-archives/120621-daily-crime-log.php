@@ -633,7 +633,7 @@
 <td style="font-weight: 400;" width="168">12/9/21 4:47 AM</td>
 <td style="font-weight: 400;" width="166">12/9/21 12:40 PM</td>
 <td style="font-weight: 400;" width="207">Schleman Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violations</td>
@@ -905,7 +905,7 @@
 <td style="font-weight: 400;" width="168">12/1/21 1:35 PM</td>
 <td style="font-weight: 400;" width="166">12/1/21 2:08 PM</td>
 <td style="font-weight: 400;" width="207">Schleman Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft-Bike</td>

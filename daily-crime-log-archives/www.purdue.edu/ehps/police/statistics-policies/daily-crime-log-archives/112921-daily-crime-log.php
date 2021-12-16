@@ -649,7 +649,7 @@
 <td style="font-weight: 400;" width="168">12/2/21 8:52 PM</td>
 <td style="font-weight: 400;" width="166">12/2/21 9:09 PM</td>
 <td style="font-weight: 400;" width="207">W State St/ N Russell St</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violations</td>

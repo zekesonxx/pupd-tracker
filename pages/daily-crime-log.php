@@ -639,7 +639,66 @@
   
     	<section class="content__group">
   					<h3>Thursday, December 16, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2021PU01494</td>
+<td style="font-weight: 400;" width="168">12/14/21 1:17 PM</td>
+<td style="font-weight: 400;" width="166">12/15/21 9:33 AM</td>
+<td style="font-weight: 400;" width="207">Schleman Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2021PU01495</td>
+<td style="font-weight: 400;" width="168">12/14/21 7:11 PM</td>
+<td style="font-weight: 400;" width="166">12/15/21 10:28 AM</td>
+<td style="font-weight: 400;" width="207">Schleman Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2021PU01496</td>
+<td style="font-weight: 400;" width="168">12/15/21 9:32 AM</td>
+<td style="font-weight: 400;" width="166">12/15/21 10:30 AM</td>
+<td style="font-weight: 400;" width="207">Schleman Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01497</td>
+<td style="font-weight: 400;" width="168">12/15/21 1:45 PM</td>
+<td style="font-weight: 400;" width="166">12/15/21 2:18 PM</td>
+<td style="font-weight: 400;" width="207">W State St/ US 231</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Disorderly Conduct</td>
+<td style="font-weight: 400;" width="154">2021PU01499</td>
+<td style="font-weight: 400;" width="168">12/15/21 4:26 PM</td>
+<td style="font-weight: 400;" width="166">12/15/21 4:28 PM</td>
+<td style="font-weight: 400;" width="207">Wiley Dining Court</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Stalking</td>
+<td style="font-weight: 400;" width="154">2021PU01500</td>
+<td style="font-weight: 400;" width="168">12/15/21 4:54 PM</td>
+<td style="font-weight: 400;" width="166">12/15/21 5:38 PM</td>
+<td style="font-weight: 400;" width="207">1100 Blk 3rd St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
