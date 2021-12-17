@@ -1001,7 +1001,7 @@
 <td style="font-weight: 400;" width="168">11/14/21 2:34 PM</td>
 <td style="font-weight: 400;" width="166">11/14/21 2:50 PM</td>
 <td style="font-weight: 400;" width="207">Slayter Hill</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Hit &amp; Run</td>

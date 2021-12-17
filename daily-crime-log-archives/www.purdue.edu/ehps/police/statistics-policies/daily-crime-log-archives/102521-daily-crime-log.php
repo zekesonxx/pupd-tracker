@@ -985,7 +985,7 @@
 <td style="font-weight: 400;" width="168">10/23/21 3:50 PM</td>
 <td style="font-weight: 400;" width="166">10/23/21 4:54 PM</td>
 <td style="font-weight: 400;" width="207">800 Blk Beering Dr</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Public Intoxication</td>
