@@ -653,7 +653,50 @@
   
     	<section class="content__group">
   					<h3>Tuesday, December 21, 2021</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01517</td>
+<td style="font-weight: 400;" width="168">12/19/21 1:14 PM</td>
+<td style="font-weight: 400;" width="166">12/19/21 1:48 PM</td>
+<td style="font-weight: 400;" width="207">Cary Quad</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Domestic Battery (Simple)</td>
+<td style="font-weight: 400;" width="154">2021PU01519</td>
+<td style="font-weight: 400;" width="168">12/21/21 12:21 AM</td>
+<td style="font-weight: 400;" width="166">12/21/21 12:50 AM</td>
+<td style="font-weight: 400;" width="207">900 Blk John R Wooden Dr</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-175880</td>
+<td style="font-weight: 400;" width="168">12/19/21 2:16 PM</td>
+<td style="font-weight: 400;" width="166">12/19/21 2:16 PM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Traffic Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-175428</td>
+<td style="font-weight: 400;" width="168">12/18/21 10:52 AM</td>
+<td style="font-weight: 400;" width="166">12/18/21 10:52 AM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

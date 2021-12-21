@@ -755,7 +755,7 @@
 <td style="font-weight: 400;" width="168">12/15/21 4:26 PM</td>
 <td style="font-weight: 400;" width="166">12/15/21 4:28 PM</td>
 <td style="font-weight: 400;" width="207">Wiley Dining Court</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Confinement</td>
