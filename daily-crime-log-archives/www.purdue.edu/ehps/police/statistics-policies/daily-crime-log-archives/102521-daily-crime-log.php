@@ -649,7 +649,7 @@
 <td style="font-weight: 400;" width="168">10/24/21 1:00 AM</td>
 <td style="font-weight: 400;" width="166">10/28/21 1:06 PM</td>
 <td style="font-weight: 400;" width="207">1100 Blk 3rd St</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Domestic Battery/ Vandalism</td>
