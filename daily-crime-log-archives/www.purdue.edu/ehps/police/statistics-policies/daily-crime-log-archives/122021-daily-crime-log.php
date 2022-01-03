@@ -10,7 +10,7 @@
 
 
 
-<meta content="Review the daily crime log archive maintained by the Purdue University Police Department." name="description"/>
+<meta content="Review the daily crime log maintained by the Purdue University Police Department." name="description"/>
 <meta content="Purdue University Police Department; Daily Crime Log; Clery Act" name="keywords"/>
 <meta content="Purdue University Administrative Operations Communications" name="author"/>
 
@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			Daily Crime Log Archive - 
+			122021 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -41,7 +41,7 @@
                                          
 		
 		    <style type="text/css">
-	    /* Any CSS placed in this text area will be placed inside of a style tag located in the head section of the page. */
+	    tr:nth-child(even){background-color:#f2f2f2}
 	</style>
 
 		
@@ -547,7 +547,7 @@
                                 
         
                 
-                     <li>Daily Crime Log Archive</li>
+                     <li>Daily Crime Log</li>
         
     </ul>
 </nav> 
@@ -565,6 +565,21 @@
 					<aside class="content__aside">
 						
 						
+<nav class="content__side-nav">
+        
+           
+                
+        
+                
+    <ul aria-label="Side Navigation" role="menu">
+                                     <li role="none">Daily Crime Log</li>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="100421-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
+</nav>
 
 
 
@@ -588,25 +603,186 @@
 
 						
 						
-      <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h2>Archived Daily Crime Log</h2>
-<ul>
-<li><a href="122021-daily-crime-log.php" title="122021 Daily Crime Log">Week of December 20, 2021</a></li>
-<li><a href="121321-daily-crime-log.php" title="121321 Daily Crime Log">Week of December 13, 2021</a></li>
-<li><a href="120621-daily-crime-log.php" title="120621 Daily Crime Log">Week of December 6, 2021</a></li>
-<li><a href="112921-daily-crime-log.php" title="112921 Daily Crime Log">Week of November 29, 2021</a></li>
-<li><a href="112221-daily-crime-log.php" title="Week of November 22, 2021">Week of November 22, 2021</a></li>
-<li><a href="111521-daily-crime-log.php" title="111521 Daily Crime Log">Week of November 15, 2021</a></li>
-<li><a href="110821-daily-crime-log.php" title="110821 Daily Crime Log">Week of November 8, 2021</a></li>
-<li><a href="110121-daily-crime-log.php" title="110121 Daily Crime Log">Week of November 1, 2021</a></li>
-<li><a href="102521-daily-crime-log.php" title="102521 Daily Crime Log">Week of October 25, 2021</a></li>
-<li><a href="101821-daily-crime-log.php" title="101821 Daily Crime Log">Week of October 18, 2021</a></li>
-<li><a href="101121-daily-crime-log.php" title="101121 Daily Crime Log">Week of October 11, 2021</a></li>
-<li><a href="100421-daily-crime-log.php" title="100421 Daily Crime Log">Week of October 4, 2021</a></li>
-<li><a href="092721-daily-crime-log.php" title="092721 Daily Crime Log">Week of September 27, 2021</a><a href="2021-archive/090621-daily-crime-log.php" title="090621 daily crime log"></a><a href="2021-archive/080221-daily-crime-log.php" title="080221"></a><a href="2021-archive/062821-daily-crime-log.php" title="062821 Daily Crime Log"></a><a href="2021-archive/053121-daily-crime-log.php" title="053121 Daily Crime Log"></a></li>
-</ul>
+  					<p>In accordance with the 1998 Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act (Clery Act), the Purdue University Police Department (PUPD) maintains a daily crime log.</p>
+<p>The daily crime log documents all crimes reported to the department, the dates the crimes were reported and whether the crimes occurred on campus, another Clery Act reportable geographic area or within the patrol jurisdiction.</p>
+<p>PUPD will make the crime log available for public inspection during normal business hours. Daily crime logs older than 60 days will be available within two business days of a request for public inspection. The most recent log entries are posted below.</p>
+<p>Understanding how the information in the log is collected and compiled is important to developing an accurate picture of campus crime.</p>
+<p>Not all of these crimes have been reported to the Purdue University Police Department for the purpose of police services. Rather, many of these crimes have been reported to University employees, who have identified by the Vice President for Ethics and Compliance (VPEC) as Campus Security Authorities (CSAs). CSAs are obligated by the Clery Act to report certain crimes to the university police department so the campus community may be notified of potential ongoing public safety issues and accurate statistics maintained. Many of these crime victims do not want immediate police intervention and may elect not to pursue a criminal investigation.</p>
+<h2>Daily Crime Log</h2>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Friday, December 24, 2021</h3>
+<p>Winter Break Dec 23-Jan 2.</p>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Thursday, December 23, 2021</h3>
+<p>Winter Break</p>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Wednesday, December 22, 2021</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2021PU01520</td>
+<td style="font-weight: 400;" width="168">12/21/21 11:03 AM</td>
+<td style="font-weight: 400;" width="166">12/21/21 11:34 AM</td>
+<td style="font-weight: 400;" width="207">Forney Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Tuesday, December 21, 2021</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01517</td>
+<td style="font-weight: 400;" width="168">12/19/21 1:14 PM</td>
+<td style="font-weight: 400;" width="166">12/19/21 1:48 PM</td>
+<td style="font-weight: 400;" width="207">Cary Quad</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Domestic Battery (Simple)</td>
+<td style="font-weight: 400;" width="154">2021PU01519</td>
+<td style="font-weight: 400;" width="168">12/21/21 12:21 AM</td>
+<td style="font-weight: 400;" width="166">12/21/21 12:50 AM</td>
+<td style="font-weight: 400;" width="207">900 Blk John R Wooden Dr</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-175880</td>
+<td style="font-weight: 400;" width="168">12/19/21 2:16 PM</td>
+<td style="font-weight: 400;" width="166">12/19/21 2:16 PM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Traffic Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-175428</td>
+<td style="font-weight: 400;" width="168">12/18/21 10:52 AM</td>
+<td style="font-weight: 400;" width="166">12/18/21 10:52 AM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Monday, December 20, 2021</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01506</td>
+<td style="font-weight: 400;" width="168">12/17/21 3:15 AM</td>
+<td style="font-weight: 400;" width="166">12/17/21 3:36 AM</td>
+<td style="font-weight: 400;" width="207">Airport Rd/ US 231</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2021PU01508</td>
+<td style="font-weight: 400;" width="168">12/17/21 1:25 PM</td>
+<td style="font-weight: 400;" width="166">12/17/21 1:44 PM</td>
+<td style="font-weight: 400;" width="207">Slayter Parking Lot</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2021PU01510</td>
+<td style="font-weight: 400;" width="168">12/17/21 6:48 PM</td>
+<td style="font-weight: 400;" width="166">12/17/21 7:30 PM</td>
+<td style="font-weight: 400;" width="207">Meredith South</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Driving While Suspended</td>
+<td style="font-weight: 400;" width="154">2021PU01512</td>
+<td style="font-weight: 400;" width="168">12/18/21 12:08 AM</td>
+<td style="font-weight: 400;" width="166">12/18/21 12:55 AM</td>
+<td style="font-weight: 400;" width="207"></td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Weapon Law Violation</td>
+<td style="font-weight: 400;" width="154">2021PU01515</td>
+<td style="font-weight: 400;" width="168">12/18/21 6:55 PM</td>
+<td style="font-weight: 400;" width="166">12/18/21 7:04 PM</td>
+<td style="font-weight: 400;" width="207">Slayter Hill</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-174444</td>
+<td style="font-weight: 400;" width="168">12/16/21 11:16 AM</td>
+<td style="font-weight: 400;" width="166">12/16/21 11:16 AM</td>
+<td style="font-weight: 400;" width="207">Hall for Discovery and Learning Research</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">CAD# 2021-174729</td>
+<td style="font-weight: 400;" width="168">12/16/21 4:39 PM</td>
+<td style="font-weight: 400;" width="166">12/16/21 4:39 PM</td>
+<td style="font-weight: 400;" width="207">Stewart Center</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<p>&#160;</p>
+<p>*EMPV=Electronic Motorized Personal Vehicle (Elec. Scooter/Elec. Skateboard/Segway/Etc.)</p>
+<p><br/>An&#160;<a href="index.php">archived daily crime log</a>&#160;is available.</p>
 		</section>
 	
     
