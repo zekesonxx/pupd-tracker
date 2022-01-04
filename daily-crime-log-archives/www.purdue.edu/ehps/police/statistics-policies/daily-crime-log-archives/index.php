@@ -600,12 +600,7 @@
 <li><a href="112221-daily-crime-log.php" title="Week of November 22, 2021">Week of November 22, 2021</a></li>
 <li><a href="111521-daily-crime-log.php" title="111521 Daily Crime Log">Week of November 15, 2021</a></li>
 <li><a href="110821-daily-crime-log.php" title="110821 Daily Crime Log">Week of November 8, 2021</a></li>
-<li><a href="110121-daily-crime-log.php" title="110121 Daily Crime Log">Week of November 1, 2021</a></li>
-<li><a href="102521-daily-crime-log.php" title="102521 Daily Crime Log">Week of October 25, 2021</a></li>
-<li><a href="101821-daily-crime-log.php" title="101821 Daily Crime Log">Week of October 18, 2021</a></li>
-<li><a href="101121-daily-crime-log.php" title="101121 Daily Crime Log">Week of October 11, 2021</a></li>
-<li><a href="100421-daily-crime-log.php" title="100421 Daily Crime Log">Week of October 4, 2021</a></li>
-<li><a href="092721-daily-crime-log.php" title="092721 Daily Crime Log">Week of September 27, 2021</a><a href="2021-archive/090621-daily-crime-log.php" title="090621 daily crime log"></a><a href="2021-archive/080221-daily-crime-log.php" title="080221"></a><a href="2021-archive/062821-daily-crime-log.php" title="062821 Daily Crime Log"></a><a href="2021-archive/053121-daily-crime-log.php" title="053121 Daily Crime Log"></a></li>
+<li><a href="110121-daily-crime-log.php" title="110121 Daily Crime Log">Week of November 1, 2021</a><a href="2021-archive/092721-daily-crime-log.php" title="092721 Daily Crime Log"></a><a href="2021-archive/090621-daily-crime-log.php" title="090621 daily crime log"></a><a href="2021-archive/080221-daily-crime-log.php" title="080221"></a><a href="2021-archive/062821-daily-crime-log.php" title="062821 Daily Crime Log"></a><a href="2021-archive/053121-daily-crime-log.php" title="053121 Daily Crime Log"></a></li>
 </ul>
 		</section>
 	
