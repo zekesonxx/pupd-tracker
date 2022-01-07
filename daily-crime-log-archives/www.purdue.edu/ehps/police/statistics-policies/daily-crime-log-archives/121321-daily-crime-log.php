@@ -573,12 +573,7 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                                                                                                
-        
-                
-    
-    <li role="none"><a href="100421-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
-                            </ul>
+                                            </ul>
 </nav>
 
 
@@ -1017,7 +1012,7 @@
 <td style="font-weight: 400;" width="168">12/11/21 12:18 PM</td>
 <td style="font-weight: 400;" width="166">12/12/21 2:04 AM</td>
 <td style="font-weight: 400;" width="207">Waldron St/ 2nd St</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
