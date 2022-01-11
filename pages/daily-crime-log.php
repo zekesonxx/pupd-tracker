@@ -653,7 +653,50 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;January 11, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00013</td>
+<td style="font-weight: 400;" width="168">1/10/22 8:55 AM</td>
+<td style="font-weight: 400;" width="166">1/10/22 9:21 AM</td>
+<td style="font-weight: 400;" width="207">Aspire</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU00015</td>
+<td style="font-weight: 400;" width="168">1/11/22 1:36 AM</td>
+<td style="font-weight: 400;" width="166">1/11/22 2:39 AM</td>
+<td style="font-weight: 400;" width="207">Nimitz Dr/Marshall Dr</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Reckless Driving</td>
+<td style="font-weight: 400;" width="154">CAD #2022-004231</td>
+<td style="font-weight: 400;" width="168">1/10/22 7:08 PM</td>
+<td style="font-weight: 400;" width="166">1/10/22 7:08 PM</td>
+<td style="font-weight: 400;" width="207">State St/ Marsteller St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">1/9/22 3:21 PM</td>
+<td style="font-weight: 400;" width="166">1/10/22 11:29 PM</td>
+<td style="font-weight: 400;" width="207">On Campus Housing</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
