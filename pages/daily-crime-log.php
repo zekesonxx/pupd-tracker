@@ -646,7 +646,74 @@
   
     	<section class="content__group">
   					<h3>Wednesday,&#160;January 12, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: top;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: top;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: top;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: top;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: top;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: top;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00013</td>
+<td style="font-weight: 400;" width="168">1/10/22 8:55 AM</td>
+<td style="font-weight: 400;" width="166">1/10/22 9:21 AM</td>
+<td style="font-weight: 400;" width="207">Aspire</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00015</td>
+<td style="font-weight: 400;" width="168">1/11/22 1:36 AM</td>
+<td style="font-weight: 400;" width="166">1/11/22 2:39 AM</td>
+<td style="font-weight: 400;" width="207">Lilly Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00018</td>
+<td style="font-weight: 400;" width="168">8/1/21 3:41 PM</td>
+<td style="font-weight: 400;" width="166">1/11/22 3:13 PM</td>
+<td style="font-weight: 400;" width="207">Chaney-Hale Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Reckless Driving</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-004653</td>
+<td style="font-weight: 400;" width="168">1/11/22 6:39 PM</td>
+<td style="font-weight: 400;" width="166">1/11/22 6:39 PM</td>
+<td style="font-weight: 400;" width="207">US 231/ S River Rd</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Reckless Driving</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-004702</td>
+<td style="font-weight: 400;" width="168">1/11/22 8:01 PM</td>
+<td style="font-weight: 400;" width="166">1/11/22 8:01 PM</td>
+<td style="font-weight: 400;" width="207">800 Blk Stadium Ave</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-004497</td>
+<td style="font-weight: 400;" width="168">1/11/22 12:09 PM</td>
+<td style="font-weight: 400;" width="166">1/11/22 12:09 PM</td>
+<td style="font-weight: 400;" width="207">310 N Salisbury St</td>
+<td style="font-weight: 400;" width="181">Pending Investigation WL 2022WL00047</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">1/4/22 12:00 PM</td>
+<td style="font-weight: 400;" width="166">1/7/22 12:00 PM</td>
+<td style="font-weight: 400;" width="207">231 Flats</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
