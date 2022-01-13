@@ -639,7 +639,34 @@
   
     	<section class="content__group">
   					<h3>Thursday, January 13, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00024</td>
+<td style="font-weight: 400;" width="168">1/11/22 8:30 PM</td>
+<td style="font-weight: 400;" width="166">1/12/22 12:01 PM</td>
+<td style="font-weight: 400;" width="207">Hawkins Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Minor Possession/ Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU00025</td>
+<td style="font-weight: 400;" width="168">1/12/22 11:42 PM</td>
+<td style="font-weight: 400;" width="166">1/13/22 12:49 AM</td>
+<td style="font-weight: 400;" width="207">N Grant St/ North St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
