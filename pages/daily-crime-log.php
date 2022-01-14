@@ -632,7 +632,50 @@
   
     	<section class="content__group">
   					<h3>Friday, January 14, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00026</td>
+<td style="font-weight: 400;" width="168">1/13/22 4:30 PM</td>
+<td style="font-weight: 400;" width="166">1/13/22 4:46 PM</td>
+<td style="font-weight: 400;" width="207">Schleman Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violations</td>
+<td style="font-weight: 400;" width="154">2022PU00028</td>
+<td style="font-weight: 400;" width="168">1/13/22 9:06 PM</td>
+<td style="font-weight: 400;" width="166">1/13/22 9:36 PM</td>
+<td style="font-weight: 400;" width="207">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Resisting Law Enforcement</td>
+<td style="font-weight: 400;" width="154">2022PU00030</td>
+<td style="font-weight: 400;" width="168">1/12/22 11:03 PM</td>
+<td style="font-weight: 400;" width="166">1/14/22 12:28 AM</td>
+<td style="font-weight: 400;" width="207">S River Rd/ Ahlers Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-005236</td>
+<td style="font-weight: 400;" width="168">1/12/22 10:31 PM</td>
+<td style="font-weight: 400;" width="166">1/12/22 10:31 PM</td>
+<td style="font-weight: 400;" width="207">Airport Rd/ US 231</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
