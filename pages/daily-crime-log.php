@@ -646,7 +646,66 @@
   
     	<section class="content__group">
   					<h3>Wednesday,&#160;January 19, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Aggravated Assault</td>
+<td style="font-weight: 400;" width="154">2022PI00050</td>
+<td style="font-weight: 400;" width="168">1/17/22 2:36 AM</td>
+<td style="font-weight: 400;" width="166">1/17/22 4:10 AM</td>
+<td style="font-weight: 400;" width="207">Triangle Fraternity</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00054</td>
+<td style="font-weight: 400;" width="168">1/14/22 5:00 PM</td>
+<td style="font-weight: 400;" width="166">1/18/22 9:59 AM</td>
+<td style="font-weight: 400;" width="207">Krannert Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00055</td>
+<td style="font-weight: 400;" width="168">1/18/22 4:30 PM</td>
+<td style="font-weight: 400;" width="166">1/18/22 6:24 PM</td>
+<td style="font-weight: 400;" width="207">W State St/ Memorial Mall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-006424</td>
+<td style="font-weight: 400;" width="168">1/15/22 7:32 AM</td>
+<td style="font-weight: 400;" width="166">1/15/22 7:32 AM</td>
+<td style="font-weight: 400;" width="207">Mechanical Engineering</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-007127</td>
+<td style="font-weight: 400;" width="168">1/16/22 11:12 PM</td>
+<td style="font-weight: 400;" width="166">1/16/22 11:12 PM</td>
+<td style="font-weight: 400;" width="207">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-006664</td>
+<td style="font-weight: 400;" width="168">1/15/22 6:35 PM</td>
+<td style="font-weight: 400;" width="166">1/15/22 6:35 PM</td>
+<td style="font-weight: 400;" width="207">Cary Dr/ John Wooden Dr</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
