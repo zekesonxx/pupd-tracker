@@ -632,7 +632,66 @@
   
     	<section class="content__group">
   					<h3>Friday, January 21, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00060</td>
+<td style="font-weight: 400;" width="168">1/17/22 10:00 PM</td>
+<td style="font-weight: 400;" width="166">1/20/22 2:25 PM</td>
+<td style="font-weight: 400;" width="207">Honors College North</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00061</td>
+<td style="font-weight: 400;" width="168">1/20/22 1:40 PM</td>
+<td style="font-weight: 400;" width="166">1/20/22 2:41 PM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00062</td>
+<td style="font-weight: 400;" width="168">1/20/22 1:15 PM</td>
+<td style="font-weight: 400;" width="166">1/20/22 3:27 PM</td>
+<td style="font-weight: 400;" width="207">400 Blk N Grant St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00064</td>
+<td style="font-weight: 400;" width="168">1/20/22 7:46 PM</td>
+<td style="font-weight: 400;" width="166">1/20/22 8:19 PM</td>
+<td style="font-weight: 400;" width="207">Purdue Village</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00066</td>
+<td style="font-weight: 400;" width="168">1/20/22 10:28 PM</td>
+<td style="font-weight: 400;" width="166">1/20/22 11:19 PM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU00067</td>
+<td style="font-weight: 400;" width="168">1/20/22 11:32 PM</td>
+<td style="font-weight: 400;" width="166">1/21/22 12:42 AM</td>
+<td style="font-weight: 400;" width="207">1300 Blk Beering Dr</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
