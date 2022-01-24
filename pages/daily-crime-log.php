@@ -660,7 +660,58 @@
   
     	<section class="content__group">
   					<h3>Monday,&#160;January 24, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU00052</td>
+<td style="font-weight: 400;" width="168">1/17/22 6:45 PM</td>
+<td style="font-weight: 400;" width="166">1/17/22 6:59 PM</td>
+<td style="font-weight: 400;" width="207">Hawkins Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Minor Possession</td>
+<td style="font-weight: 400;" width="154">2022PU00071</td>
+<td style="font-weight: 400;" width="168">1/21/22 8:26 PM</td>
+<td style="font-weight: 400;" width="166">1/21/22 8:44 PM</td>
+<td style="font-weight: 400;" width="207">Beering Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief/ Minor Possession</td>
+<td style="font-weight: 400;" width="154">2022PU00073</td>
+<td style="font-weight: 400;" width="168">1/22/22 3:59 AM</td>
+<td style="font-weight: 400;" width="166">1/22/22 4:41 AM</td>
+<td style="font-weight: 400;" width="207">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU00080</td>
+<td style="font-weight: 400;" width="168">1/23/22 3:22 AM</td>
+<td style="font-weight: 400;" width="166">1/23/22 4:39 AM</td>
+<td style="font-weight: 400;" width="207">N Russell St/ 3rd St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00081</td>
+<td style="font-weight: 400;" width="168">1/23/22 2:30 PM</td>
+<td style="font-weight: 400;" width="166">1/23/22 3:03 PM</td>
+<td style="font-weight: 400;" width="207">Purdue Village</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
