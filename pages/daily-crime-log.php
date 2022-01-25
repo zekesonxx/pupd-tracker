@@ -653,7 +653,50 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;January 25, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Operating White Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU00072</td>
+<td style="font-weight: 400;" width="168">1/22/22 1:17 AM</td>
+<td style="font-weight: 400;" width="166">1/22/22 2:07 AM</td>
+<td style="font-weight: 400;" width="207">US 231/ W State St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation&#160;</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-009819</td>
+<td style="font-weight: 400;" width="168">1/22/2022 9:32pm&#160;</td>
+<td style="font-weight: 400;" width="166">1/222/2022 9:32PM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Reckless Driving&#160;</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-009718</td>
+<td style="font-weight: 400;" width="168">1/22/2022&#160; 4:22PM</td>
+<td style="font-weight: 400;" width="166">1/22/22 4:22 PM</td>
+<td style="font-weight: 400;" width="207">State St/ US 231</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Rape</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">1/24/22 10:00 AM</td>
+<td style="font-weight: 400;" width="166">1/16/22 1:00 AM</td>
+<td style="font-weight: 400;" width="207">300 Blk North St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
