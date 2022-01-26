@@ -657,6 +657,14 @@
 <th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
+<td style="font-weight: 400;" width="157">Aggravated Assault</td>
+<td style="font-weight: 400;" width="154">2022PU00075</td>
+<td style="font-weight: 400;" width="168">1/22/22 8:51 PM</td>
+<td style="font-weight: 400;" width="166">1/22/22 9:10 PM</td>
+<td style="font-weight: 400;" width="207">200 Blk N University St</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
+</tr>
+<tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>
 <td style="font-weight: 400;" width="154">2022PU00089</td>
 <td style="font-weight: 400;" width="168">1/25/22 9:31 PM</td>
