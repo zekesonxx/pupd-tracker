@@ -724,7 +724,7 @@
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Aggravated Assault</td>
-<td style="font-weight: 400;" width="154">2022PI00050</td>
+<td style="font-weight: 400;" width="154">2022PU00050</td>
 <td style="font-weight: 400;" width="168">1/17/22 2:36 AM</td>
 <td style="font-weight: 400;" width="166">1/17/22 4:10 AM</td>
 <td style="font-weight: 400;" width="207">Triangle Fraternity</td>
