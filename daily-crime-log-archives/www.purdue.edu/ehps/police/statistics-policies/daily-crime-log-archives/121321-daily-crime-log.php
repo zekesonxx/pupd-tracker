@@ -718,7 +718,7 @@
 <td style="font-weight: 400;" width="168">12/14/21 1:17 PM</td>
 <td style="font-weight: 400;" width="166">12/15/21 9:33 AM</td>
 <td style="font-weight: 400;" width="207">Schleman Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Harassment</td>
@@ -726,7 +726,7 @@
 <td style="font-weight: 400;" width="168">12/14/21 7:11 PM</td>
 <td style="font-weight: 400;" width="166">12/15/21 10:28 AM</td>
 <td style="font-weight: 400;" width="207">Schleman Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Harassment</td>
@@ -734,7 +734,7 @@
 <td style="font-weight: 400;" width="168">12/15/21 9:32 AM</td>
 <td style="font-weight: 400;" width="166">12/15/21 10:30 AM</td>
 <td style="font-weight: 400;" width="207">Schleman Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>
@@ -850,7 +850,7 @@
 <td style="font-weight: 400;" width="168">12/11/21 8:05 PM</td>
 <td style="font-weight: 400;" width="166">12/13/21 10:07 AM</td>
 <td style="font-weight: 400;" width="207">Krannert Center</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>

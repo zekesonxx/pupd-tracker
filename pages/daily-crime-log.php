@@ -639,7 +639,34 @@
   
     	<section class="content__group">
   					<h3>Thursday, January 27, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation&#160;</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-011126</td>
+<td style="font-weight: 400;" width="168">1/25/2022 6:30PM</td>
+<td style="font-weight: 400;" width="166">1/25/2022&#160; 6:30PM</td>
+<td style="font-weight: 400;" width="207">Aspire&#160;</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation&#160;</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-011248</td>
+<td style="font-weight: 400;" width="168">1/26/22 1:18 AM</td>
+<td style="font-weight: 400;" width="166">1/26/2022 1:18PM</td>
+<td style="font-weight: 400;" width="207">Wiley Hall&#160;</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -762,7 +789,7 @@
 <td style="font-weight: 400;" width="168">1/22/22 3:59 AM</td>
 <td style="font-weight: 400;" width="166">1/22/22 4:41 AM</td>
 <td style="font-weight: 400;" width="207">Cary Quadrangle</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Operating While Intoxicated</td>

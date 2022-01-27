@@ -842,7 +842,7 @@
 <td style="font-weight: 400;" width="168">1/15/22 12:02 AM</td>
 <td style="font-weight: 400;" width="166">1/15/22 1:15 PM</td>
 <td style="font-weight: 400;" width="207">Cary Quadrangle</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Hit &amp; Run</td>
@@ -898,7 +898,7 @@
 <td style="font-weight: 400;" width="168">1/17/22 1:03 AM</td>
 <td style="font-weight: 400;" width="166">1/17/22 1:29 AM</td>
 <td style="font-weight: 400;" width="207">Owen Hall&#160;</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Harassment</td>
