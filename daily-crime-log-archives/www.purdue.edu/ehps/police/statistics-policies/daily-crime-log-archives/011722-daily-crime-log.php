@@ -694,7 +694,7 @@
 <td style="font-weight: 400;" width="168">1/11/22 5:40 PM</td>
 <td style="font-weight: 400;" width="166">1/11/22 5:44 PM</td>
 <td style="font-weight: 400;" width="207">Tarkington</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation&#160;</td>

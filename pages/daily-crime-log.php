@@ -632,7 +632,50 @@
   
     	<section class="content__group">
   					<h3>Friday, January 28, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00092</td>
+<td style="font-weight: 400;" width="168">1/24/22 8:30 AM</td>
+<td style="font-weight: 400;" width="166">1/27/22 3:32 PM</td>
+<td style="font-weight: 400;" width="207">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Crash PD</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-011357</td>
+<td style="font-weight: 400;" width="168">01/26/2022 0926</td>
+<td style="font-weight: 400;" width="166">01/26/2022 0926</td>
+<td style="font-weight: 400;" width="207">W Stadium Ave/Northwestern Ave</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Crash PD</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-011507</td>
+<td style="font-weight: 400;" width="168">01/26/2022 1441</td>
+<td style="font-weight: 400;" width="166">01/26/2022 1441</td>
+<td style="font-weight: 400;" width="207">1100 Blk 1st St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-011535</td>
+<td style="font-weight: 400;" width="168">01/26/2022 1545</td>
+<td style="font-weight: 400;" width="166">01/26/2022 1545</td>
+<td style="font-weight: 400;" width="207">US 231 S/ S River Rd</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
