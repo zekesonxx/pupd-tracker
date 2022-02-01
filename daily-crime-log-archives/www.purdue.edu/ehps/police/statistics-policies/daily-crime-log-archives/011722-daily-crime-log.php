@@ -805,14 +805,6 @@
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Burglary</td>
-<td style="font-weight: 400;" width="154">2022PU00036</td>
-<td style="font-weight: 400;" width="168">1/14/22 3:27 PM</td>
-<td style="font-weight: 400;" width="166">1/14/22 4:13 PM</td>
-<td style="font-weight: 400;" width="207">Purdue Trap and Skeet</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
 <td style="font-weight: 400;" width="157">Theft</td>
 <td style="font-weight: 400;" width="154">2022PU00037</td>
 <td style="font-weight: 400;" width="168">1/14/22 5:59 PM</td>
