@@ -712,7 +712,7 @@
 <td style="font-weight: 400;" width="168">1/22/22 8:51 PM</td>
 <td style="font-weight: 400;" width="166">1/22/22 9:10 PM</td>
 <td style="font-weight: 400;" width="207">200 Blk N University St</td>
-<td style="font-weight: 400;" width="181">Suspended</td>
+<td style="font-weight: 400;" width="181">Unfounded</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>

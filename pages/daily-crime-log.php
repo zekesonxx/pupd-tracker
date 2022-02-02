@@ -641,7 +641,50 @@
   
     	<section class="content__group">
   					<h3>Wednesday, February 2, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU00111</td>
+<td style="font-weight: 400;" width="168">1/31/22 8:44 PM</td>
+<td style="font-weight: 400;" width="166">1/31/22 9:16 PM</td>
+<td style="font-weight: 400;" width="207">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00112</td>
+<td style="font-weight: 400;" width="168">1/31/22 12:00 PM</td>
+<td style="font-weight: 400;" width="166">2/1/22 4:00 PM</td>
+<td style="font-weight: 400;" width="207">Harrison Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Aggravated Assault</td>
+<td style="font-weight: 400;" width="154">2022PU00113</td>
+<td style="font-weight: 400;" width="168">2/1/22 10:19 PM</td>
+<td style="font-weight: 400;" width="166">2/1/22 10:38 PM</td>
+<td style="font-weight: 400;" width="207">W State St/ Russell St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Aggravated Assault</td>
+<td style="font-weight: 400;" width="154">2022PU00114</td>
+<td style="font-weight: 400;" width="168">2/1/22 9:45 PM</td>
+<td style="font-weight: 400;" width="166">2/2/22 12:51 AM</td>
+<td style="font-weight: 400;" width="207">W State St/ University St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -664,7 +707,7 @@
 <td style="font-weight: 400;" width="168">1/30/22 2:39 AM</td>
 <td style="font-weight: 400;" width="166">1/30/22 3:07 AM</td>
 <td style="font-weight: 400;" width="207">Tarkington Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Blackmail</td>
@@ -714,7 +757,7 @@
 <td style="font-weight: 400;" width="168">12/23/21 2:23 PM</td>
 <td style="font-weight: 400;" width="166">1/28/22 4:19 PM</td>
 <td style="font-weight: 400;" width="207">PUSH</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Harassment</td>
@@ -730,7 +773,7 @@
 <td style="font-weight: 400;" width="168">1/29/22 4:51 AM</td>
 <td style="font-weight: 400;" width="166">1/29/22 5:12 AM</td>
 <td style="font-weight: 400;" width="207">Honors College North</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
@@ -746,7 +789,7 @@
 <td style="font-weight: 400;" width="168">1/30/22 4:07 AM</td>
 <td style="font-weight: 400;" width="166">1/30/22 4:43 AM</td>
 <td style="font-weight: 400;" width="207">Honors College North</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>
