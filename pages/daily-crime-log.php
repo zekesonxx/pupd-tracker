@@ -653,7 +653,34 @@
   
     	<section class="content__group">
   					<h3>Tuesday, February 8, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00143</td>
+<td style="font-weight: 400;" width="168">2/1/22 5:30 PM</td>
+<td style="font-weight: 400;" width="166">2/7/22 10:46 AM</td>
+<td style="font-weight: 400;" width="207">Electrical Engineering</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00145</td>
+<td style="font-weight: 400;" width="168">2/4/22 6:00 PM</td>
+<td style="font-weight: 400;" width="166">2/7/22 3:38 PM</td>
+<td style="font-weight: 400;" width="207">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
