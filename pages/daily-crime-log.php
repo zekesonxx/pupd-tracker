@@ -646,7 +646,42 @@
   
     	<section class="content__group">
   					<h3>Wednesday, February 9, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit and Run</td>
+<td style="font-weight: 400;" width="154">2022PU00152</td>
+<td style="font-weight: 400;" width="168">2/8/22 9:42 PM</td>
+<td style="font-weight: 400;" width="166">2/8/22 9:49 PM</td>
+<td style="font-weight: 400;" width="207">300 Blk N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit and Run</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-017588</td>
+<td style="font-weight: 400;" width="168">2/7/22 3:20 PM</td>
+<td style="font-weight: 400;" width="166">2/7/22 3:20 PM</td>
+<td style="font-weight: 400;" width="207">CoRec</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft of Bike</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-017605</td>
+<td style="font-weight: 400;" width="168">2/7/22 3:55 PM</td>
+<td style="font-weight: 400;" width="166">2/7/22 3:55 PM</td>
+<td style="font-weight: 400;" width="207">Purdue Village</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -786,7 +821,7 @@
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Indecent Exposure</td>
+<td style="font-weight: 400;" width="157">Indecent Exposure/ Harassment</td>
 <td style="font-weight: 400;" width="154">2022PU00137</td>
 <td style="font-weight: 400;" width="168">2/2/22 5:30 PM</td>
 <td style="font-weight: 400;" width="166">2/6/22 12:51 PM</td>
