@@ -794,7 +794,7 @@
 <td style="font-weight: 400;" width="168">1/14/22 1:36 PM</td>
 <td style="font-weight: 400;" width="166">1/14/22 1:53 PM</td>
 <td style="font-weight: 400;" width="207">Purdue Airport</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>
@@ -818,7 +818,7 @@
 <td style="font-weight: 400;" width="168">1/14/22 11:45 PM</td>
 <td style="font-weight: 400;" width="166">1/15/22 12:42 AM</td>
 <td style="font-weight: 400;" width="207">W Stadium Ave/ Northwestern Ave</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>
@@ -858,7 +858,7 @@
 <td style="font-weight: 400;" width="168">1/16/22 2:08 AM</td>
 <td style="font-weight: 400;" width="166">1/16/22 2:22 AM</td>
 <td style="font-weight: 400;" width="207">Harrison Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Harassment</td>
