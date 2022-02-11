@@ -632,7 +632,66 @@
   
     	<section class="content__group">
   					<h3>Friday, February 11, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00149</td>
+<td style="font-weight: 400;" width="168">2/8/22 3:54 PM</td>
+<td style="font-weight: 400;" width="166">2/8/22 4:23 PM</td>
+<td style="font-weight: 400;" width="207">Northwestern Garage</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Battery</td>
+<td style="font-weight: 400;" width="154">2022PU00150</td>
+<td style="font-weight: 400;" width="168">2/3/22 5:00 PM</td>
+<td style="font-weight: 400;" width="166">2/8/22 5:04 PM</td>
+<td style="font-weight: 400;" width="207">CoRec</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00155</td>
+<td style="font-weight: 400;" width="168">2/9/22 12:52 PM</td>
+<td style="font-weight: 400;" width="166">2/9/22 1:37 PM</td>
+<td style="font-weight: 400;" width="207">Windsor Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00160</td>
+<td style="font-weight: 400;" width="168">2/10/22 10:51 AM</td>
+<td style="font-weight: 400;" width="166">2/10/22 11:11 AM</td>
+<td style="font-weight: 400;" width="207">Provenance Apartments</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00161</td>
+<td style="font-weight: 400;" width="168">2/9/22 6:10 PM</td>
+<td style="font-weight: 400;" width="166">2/10/22 1:10 PM</td>
+<td style="font-weight: 400;" width="207">Wood Street Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Threats</td>
+<td style="font-weight: 400;" width="154">2022PU00163</td>
+<td style="font-weight: 400;" width="168">2/10/22 4:22 PM</td>
+<td style="font-weight: 400;" width="166">2/10/22 4:23 PM</td>
+<td style="font-weight: 400;" width="207">PUPD</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
