@@ -948,7 +948,7 @@
 <td style="font-weight: 400;" width="168">2/2/22 5:30 PM</td>
 <td style="font-weight: 400;" width="166">2/6/22 12:51 PM</td>
 <td style="font-weight: 400;" width="207">Niswonger Building</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>

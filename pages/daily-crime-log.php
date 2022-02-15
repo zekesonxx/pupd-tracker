@@ -577,11 +577,6 @@
         
                 
     
-    <li role="none"><a href="daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
-                                                                            
-        
-                
-    
     <li role="none"><a href="drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                                             
         
@@ -653,7 +648,51 @@
   
     	<section class="content__group">
   					<h3>Tuesday, February 15, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="157">Hit &amp; Run</td>
+<td width="154">CAD# 2022-020501</td>
+<td width="168">2/13/22 1:45 PM</td>
+<td width="166">2/13/22 1:45 PM</td>
+<td width="207">Gamma Phi Beta&#160;</td>
+<td width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td width="157">Drug Law Violation</td>
+<td width="154">CAD# 2022-019370</td>
+<td width="168">2/11/22 10:17 AM</td>
+<td width="166">2/11/22 10:17 AM</td>
+<td width="207">Shreve Hall</td>
+<td width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td width="157">Drug Law Violation</td>
+<td width="154">CAD# 2022-020665</td>
+<td width="168">2/13/22 10:38 PM</td>
+<td width="166">2/13/22 10:38 PM</td>
+<td width="207">Meredith South</td>
+<td width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td width="157">Threat&#160;</td>
+<td width="154">CAD# 2022-019522</td>
+<td width="168">2/11/22 3:27 PM</td>
+<td width="166">2/11/22 3:27 PM</td>
+<td width="207">Krannert Center</td>
+<td width="181">Nothing Further&#160;</td>
+</tr>
+</tbody>
+</table>
+<p>&#160;</p>
 		</section>
 	
           <div class="clearfix"></div>
