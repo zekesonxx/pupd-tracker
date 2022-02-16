@@ -641,7 +641,50 @@
   
     	<section class="content__group">
   					<h3>Wednesday, February 16, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="157">Theft</td>
+<td width="154">2022PU00171</td>
+<td width="168">2/4/22 12:00 AM</td>
+<td width="166">2/14/22 8:00 AM</td>
+<td width="207">Harrison Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="157">Theft-Bike</td>
+<td width="154">2022PU00174</td>
+<td width="168">2/15/22 12:00 AM</td>
+<td width="166">2/15/22 3:29 PM</td>
+<td width="207">Purdue Village</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="157">Invasion of Privacy</td>
+<td width="154">2022PU00175</td>
+<td width="168">2/15/22 12:00 AM</td>
+<td width="166">2/15/22 5:32 PM</td>
+<td width="207">Hillenbrand Hall</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="157">Drug Law Violation</td>
+<td width="154">2022PU00177</td>
+<td width="168">2/15/22 12:00 AM</td>
+<td width="166">2/15/22 11:45 PM</td>
+<td width="207">Wiley Hall</td>
+<td width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
