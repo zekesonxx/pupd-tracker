@@ -634,7 +634,50 @@
   
     	<section class="content__group">
   					<h3>Thursday, February 17, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="157">Criminal Mischief</td>
+<td width="154">2022PU00181</td>
+<td width="168">2/16/22 12:00 AM</td>
+<td width="166">2/16/22 3:22 PM</td>
+<td width="207">The Chill Zone</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="157">Hit &amp; Run</td>
+<td width="154">2022PU00183</td>
+<td width="168">2/16/22 12:00 AM</td>
+<td width="166">2/16/22 8:59 PM</td>
+<td width="207">W Stadium Ave/ N Martin Jischke Dr</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="157">Criminal Mischief</td>
+<td width="154">2022PU00185</td>
+<td width="168">2/16/22 12:00 AM</td>
+<td width="166">2/16/22 10:50 PM</td>
+<td width="207">Krannert Center</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="157">Vandalism</td>
+<td width="154">CSA</td>
+<td width="168">2/15/22 2:36 PM</td>
+<td width="166">2/15/22 2:36 PM</td>
+<td width="207">Wiley Hall</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
