@@ -699,7 +699,7 @@
 <td style="font-weight: 400;" width="154">2022PU00108</td>
 <td style="font-weight: 400;" width="168">1/30/22 8:19 PM</td>
 <td style="font-weight: 400;" width="166">1/30/22 8:47 PM</td>
-<td style="font-weight: 400;" width="207">PUPD</td>
+<td style="font-weight: 400;" width="207">Honors College North</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>

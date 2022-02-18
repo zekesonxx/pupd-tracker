@@ -627,7 +627,42 @@
   
     	<section class="content__group">
   					<h3>Friday, February 18, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<td width="157">Nature</td>
+<td width="154">Case Number</td>
+<td width="168">Date/Time Occurred</td>
+<td width="166">Date/Time Reported</td>
+<td width="207">General Location</td>
+<td width="181">Disposition&#160;</td>
+</tr>
+<tr>
+<td width="157">Theft</td>
+<td width="154">2022PU00182</td>
+<td width="168">2/6/22 12:00 AM</td>
+<td width="166">2/16/22 4:18 PM</td>
+<td width="207">Aspire</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="157">Fraud</td>
+<td width="154">2022PU00187</td>
+<td width="168">2/17/22 12:00 AM</td>
+<td width="166">2/17/22 6:02 PM</td>
+<td width="207">PUPD</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="157">Operating While Intoxicated</td>
+<td width="154">2022PU00189</td>
+<td width="168">2/18/22 12:00 AM</td>
+<td width="166">2/17/22 2:21 AM</td>
+<td width="207">1100 Blk Northwestern Ave</td>
+<td width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
