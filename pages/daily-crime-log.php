@@ -655,7 +655,122 @@
   
     	<section class="content__group">
   					<h3>Monday, February 21, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00191</td>
+<td style="font-weight: 400;" width="168">1/1/22 12:00 AM</td>
+<td style="font-weight: 400;" width="166">2/18/22 12:15 PM</td>
+<td style="font-weight: 400;" width="207">Sigma Kappa</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00194</td>
+<td style="font-weight: 400;" width="168">2/18/22 11:46 PM</td>
+<td style="font-weight: 400;" width="166">2/19/22 12:04 AM</td>
+<td style="font-weight: 400;" width="207">Purdue Village</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00195</td>
+<td style="font-weight: 400;" width="168">2/19/22 12:27 AM</td>
+<td style="font-weight: 400;" width="166">2/19/22 1:15 AM</td>
+<td style="font-weight: 400;" width="207">Aerospace Technology Center</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00196</td>
+<td style="font-weight: 400;" width="168">2/18/22 10:53 PM</td>
+<td style="font-weight: 400;" width="166">2/19/22 1:22 AM</td>
+<td style="font-weight: 400;" width="207">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Minor Possession</td>
+<td style="font-weight: 400;" width="154">2022PU00199</td>
+<td style="font-weight: 400;" width="168">2/19/22 11:35 PM</td>
+<td style="font-weight: 400;" width="166">2/19/22 11:59 PM</td>
+<td style="font-weight: 400;" width="207">800 Blk Beering Dr</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Minor Possession</td>
+<td style="font-weight: 400;" width="154">2022PU00200</td>
+<td style="font-weight: 400;" width="168">2/20/22 12:16 AM</td>
+<td style="font-weight: 400;" width="166">2/20/22 12:43 AM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2022PU00201</td>
+<td style="font-weight: 400;" width="168">2/20/22 12:43 AM</td>
+<td style="font-weight: 400;" width="166">2/20/22 1:08 AM</td>
+<td style="font-weight: 400;" width="207">Wood Street Garage</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU00202</td>
+<td style="font-weight: 400;" width="168">2/20/22 12:31 AM</td>
+<td style="font-weight: 400;" width="166">2/20/22 1:22 AM</td>
+<td style="font-weight: 400;" width="207">W State St/ N University St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Minor Possession</td>
+<td style="font-weight: 400;" width="154">2022PU00204</td>
+<td style="font-weight: 400;" width="168">2/20/22 2:58 AM</td>
+<td style="font-weight: 400;" width="166">2/20/22 4:09 AM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00206</td>
+<td style="font-weight: 400;" width="168">2/20/22 6:42 PM</td>
+<td style="font-weight: 400;" width="166">2/20/22 7:04 PM</td>
+<td style="font-weight: 400;" width="207">Hilltop Apartments</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Crash Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-022189</td>
+<td style="font-weight: 400;" width="168">2/17/22 7:49 AM</td>
+<td style="font-weight: 400;" width="166">2/17/22 7:49 AM</td>
+<td style="font-weight: 400;" width="207">200 Blk S Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-022548</td>
+<td style="font-weight: 400;" width="168">2/17/22 8:05 PM</td>
+<td style="font-weight: 400;" width="166">2/17/22 8:05 PM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall&#160;</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-022603</td>
+<td style="font-weight: 400;" width="168">2/17/22 10:10 PM</td>
+<td style="font-weight: 400;" width="166">2/17/22 10:10 PM</td>
+<td style="font-weight: 400;" width="207">Aspire</td>
+<td style="font-weight: 400;" width="181">Nothing Further 5</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
