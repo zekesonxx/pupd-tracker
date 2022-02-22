@@ -648,7 +648,122 @@
   
     	<section class="content__group">
   					<h3>Tuesday, February 22, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU00207</td>
+<td style="font-weight: 400;" width="168">2/17/22 10:00 PM</td>
+<td style="font-weight: 400;" width="166">2/21/22 10:43 AM</td>
+<td style="font-weight: 400;" width="207">Wetherill Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00209</td>
+<td style="font-weight: 400;" width="168">2/21/22 12:17 PM</td>
+<td style="font-weight: 400;" width="166">2/21/22 12:41 PM</td>
+<td style="font-weight: 400;" width="207">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00210</td>
+<td style="font-weight: 400;" width="168">2/18/22 1:30 PM</td>
+<td style="font-weight: 400;" width="166">2/21/22 1:18 PM</td>
+<td style="font-weight: 400;" width="207">Aspire</td>
+<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00211</td>
+<td style="font-weight: 400;" width="168">2/21/22 10:40 AM</td>
+<td style="font-weight: 400;" width="166">2/21/22 1:19 PM</td>
+<td style="font-weight: 400;" width="207">CoRec</td>
+<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00212</td>
+<td style="font-weight: 400;" width="168">2/21/22 1:29 PM</td>
+<td style="font-weight: 400;" width="166">2/21/22 1:53 PM</td>
+<td style="font-weight: 400;" width="207">CoRec</td>
+<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00214</td>
+<td style="font-weight: 400;" width="168">2/21/22 2:30 PM</td>
+<td style="font-weight: 400;" width="166">2/21/22 3:30 PM</td>
+<td style="font-weight: 400;" width="207">Honors College</td>
+<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Blackmail</td>
+<td style="font-weight: 400;" width="154">2022PU00215</td>
+<td style="font-weight: 400;" width="168">2/21/22 6:15 PM</td>
+<td style="font-weight: 400;" width="166">2/21/22 6:18 PM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00216</td>
+<td style="font-weight: 400;" width="168">2/22/22 12:29 AM</td>
+<td style="font-weight: 400;" width="166">2/22/22 12:48 AM</td>
+<td style="font-weight: 400;" width="207">Hilltop Apartments&#160;</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">2/11/22 7:30 PM</td>
+<td style="font-weight: 400;">2/11/22 8:51 PM</td>
+<td style="font-weight: 400;">Cary Quadrangle</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referral</td>
+<td style="font-weight: 400;">2/12/22 12:05 AM</td>
+<td style="font-weight: 400;">2/12/22 1:05 AM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">13 Disciplinary Referral</td>
+<td style="font-weight: 400;">2/12/22 10:15 PM</td>
+<td style="font-weight: 400;">2/13/22 12:17 AM</td>
+<td style="font-weight: 400;">2111 Lindberg Rd</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">5 Disciplinary Referral</td>
+<td style="font-weight: 400;">2/12/22 10:45 PM</td>
+<td style="font-weight: 400;">2/13/22 3:14 AM</td>
+<td style="font-weight: 400;">2520 Kestral Blvd.</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;">5 Disciplinary Referral</td>
+<td style="font-weight: 400;">2/15/22 11:15 PM</td>
+<td style="font-weight: 400;">2/16/22 12:09 AM</td>
+<td style="font-weight: 400;">Wiley Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
