@@ -577,6 +577,11 @@
         
                 
     
+    <li role="none"><a href="daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                                                                            
+        
+                
+    
     <li role="none"><a href="drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                                             
         
@@ -641,7 +646,34 @@
   
     	<section class="content__group">
   					<h3>Wednesday, February 23, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00217</td>
+<td style="font-weight: 400;" width="168">2/22/22 12:16 PM</td>
+<td style="font-weight: 400;" width="166">2/22/22 2:05 PM</td>
+<td style="font-weight: 400;" width="207">Mackey Arena</td>
+<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Driving Never Receiving License</td>
+<td style="font-weight: 400;" width="154">2022PU00220</td>
+<td style="font-weight: 400;" width="168">2/22/22 11:13 PM</td>
+<td style="font-weight: 400;" width="166">2/23/22 12:49 AM</td>
+<td style="font-weight: 400;" width="207">N University St/ West State St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -786,7 +818,7 @@
 <td style="font-weight: 400;" width="168">1/1/22 12:00 AM</td>
 <td style="font-weight: 400;" width="166">2/18/22 12:15 PM</td>
 <td style="font-weight: 400;" width="207">Sigma Kappa</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>

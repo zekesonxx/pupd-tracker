@@ -635,13 +635,8 @@
 <td width="154">2022PU00187</td>
 <td width="168">2/17/22 12:00 AM</td>
 <td width="166">2/17/22 6:02 PM</td>
-<td width="207">
-<p>&#160;</p>
-<p>&#160;</p>
-<p>&#160;</p>
-<p>Aspire</p>
-</td>
-<td width="181">Under Investigation</td>
+<td width="207">Aspire</td>
+<td width="181">Suspended</td>
 </tr>
 <tr>
 <td width="157">Operating While Intoxicated</td>
