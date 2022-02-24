@@ -639,7 +639,50 @@
   
     	<section class="content__group">
   					<h3>Thursday, February 24, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00188</td>
+<td style="font-weight: 400;" width="168">2/17/22 6:09 PM</td>
+<td style="font-weight: 400;" width="166">2/17/22 6:50 PM</td>
+<td style="font-weight: 400;" width="207">Purdue Campus</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation&#160;</td>
+<td style="font-weight: 400;" width="154">2022PU00223</td>
+<td style="font-weight: 400;" width="168">2/23/22 9:54 PM</td>
+<td style="font-weight: 400;" width="166">2/23/22 10:35 PM</td>
+<td style="font-weight: 400;" width="207">Aerospace Technology Center</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation&#160;</td>
+<td style="font-weight: 400;" width="154">2022PU00224</td>
+<td style="font-weight: 400;" width="168">2/24/22 12:09 AM</td>
+<td style="font-weight: 400;" width="166">2/24/22 12:23 AM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Stalking</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">2/23/22 9:00 AM</td>
+<td style="font-weight: 400;" width="166">2/23/22 2:00 PM</td>
+<td style="font-weight: 400;" width="207">Meredith South</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
