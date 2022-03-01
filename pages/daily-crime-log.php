@@ -653,7 +653,82 @@
   
     	<section class="content__group">
   					<h3>Tuesday, March 1, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Rape</td>
+<td style="font-weight: 400;" width="154">2022PU00249</td>
+<td style="font-weight: 400;" width="168">2/27/22 10:45 AM</td>
+<td style="font-weight: 400;" width="166">2/28/22 7:08 AM</td>
+<td style="font-weight: 400;" width="207">1200 Blk W State St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Stalking</td>
+<td style="font-weight: 400;" width="154">2022PU00250</td>
+<td style="font-weight: 400;" width="168">11/1/21 12:00 PM</td>
+<td style="font-weight: 400;" width="166">2/28/22 2:18 PM</td>
+<td style="font-weight: 400;" width="207">Beering Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00252</td>
+<td style="font-weight: 400;" width="168">2/28/22 3:59 PM</td>
+<td style="font-weight: 400;" width="166">2/28/22 4:01 PM</td>
+<td style="font-weight: 400;" width="207">PUPD</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00253</td>
+<td style="font-weight: 400;" width="168">2/28/22 4:52 PM</td>
+<td style="font-weight: 400;" width="166">2/28/22 5:25 PM</td>
+<td style="font-weight: 400;" width="207">Northwestern Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU00254</td>
+<td style="font-weight: 400;" width="168">2/28/22 9:28 PM</td>
+<td style="font-weight: 400;" width="166">2/28/22 9:38 PM</td>
+<td style="font-weight: 400;" width="207">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00255</td>
+<td style="font-weight: 400;" width="168">3/1/22 1:43 AM</td>
+<td style="font-weight: 400;" width="166">3/1/22 2:14 AM</td>
+<td style="font-weight: 400;" width="207">US 231/ S River Rd</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-026328</td>
+<td style="font-weight: 400;" width="168">2/25/22 11:42 AM</td>
+<td style="font-weight: 400;" width="166">2/25/22 11:42 AM</td>
+<td style="font-weight: 400;" width="207">Materical Sciences and Electrical Engineering Building&#160;</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Minor Possession</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-027071</td>
+<td style="font-weight: 400;" width="168">2/26/22 11:26 PM</td>
+<td style="font-weight: 400;" width="166">2/26/22 11:26 PM</td>
+<td style="font-weight: 400;" width="207">Pi Kappa Alpha&#160;</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
