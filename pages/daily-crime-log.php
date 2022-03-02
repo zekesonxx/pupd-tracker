@@ -646,7 +646,7 @@
   
     	<section class="content__group">
   					<h3>Wednesday, March 2, 2022</h3>
-<p>Will be posted soon.</p>
+<p>Nothing to report.</p>
 		</section>
 	
           <div class="clearfix"></div>
@@ -754,14 +754,6 @@
 <td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Drug Law Violation / OWI</td>
-<td style="font-weight: 400;" width="154">2022PU00235</td>
-<td style="font-weight: 400;" width="168">2/26/22 1:59 AM</td>
-<td style="font-weight: 400;" width="166">2/26/22 3:09 AM</td>
-<td style="font-weight: 400;" width="207">219 East State Street</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
 <td style="font-weight: 400;" width="157">Public Intoxication / Minor Consumption</td>
 <td style="font-weight: 400;" width="154">2022PU00236</td>
 <td style="font-weight: 400;" width="168">2/26/22 3:30 AM</td>
@@ -786,7 +778,7 @@
 <td style="font-weight: 400;" width="181">Arrest Made</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">OWI</td>
+<td style="font-weight: 400;" width="157">Operating While Intoxicated</td>
 <td style="font-weight: 400;" width="154">2022PU00239</td>
 <td style="font-weight: 400;" width="168">2/26/22 11:18 PM</td>
 <td style="font-weight: 400;" width="166">2/27/22 12:24 AM</td>

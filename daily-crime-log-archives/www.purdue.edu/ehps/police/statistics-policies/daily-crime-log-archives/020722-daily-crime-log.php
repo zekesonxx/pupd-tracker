@@ -636,7 +636,7 @@
 <td style="font-weight: 400;" width="168">2/3/22 5:00 PM</td>
 <td style="font-weight: 400;" width="166">2/8/22 5:04 PM</td>
 <td style="font-weight: 400;" width="207">CoRec</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>
