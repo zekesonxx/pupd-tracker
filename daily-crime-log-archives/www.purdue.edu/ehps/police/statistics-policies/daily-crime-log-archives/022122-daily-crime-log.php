@@ -826,7 +826,7 @@
 <td style="font-weight: 400;" width="168">2/21/22 10:40 AM</td>
 <td style="font-weight: 400;" width="166">2/21/22 1:19 PM</td>
 <td style="font-weight: 400;" width="207">CoRec</td>
-<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>
@@ -834,7 +834,7 @@
 <td style="font-weight: 400;" width="168">2/21/22 1:29 PM</td>
 <td style="font-weight: 400;" width="166">2/21/22 1:53 PM</td>
 <td style="font-weight: 400;" width="207">CoRec</td>
-<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+<td style="font-weight: 400;" width="181">Suspended&#160;</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Harassment</td>

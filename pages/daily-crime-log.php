@@ -639,7 +639,42 @@
   
     	<section class="content__group">
   					<h3>Thursday, March 3, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00258</td>
+<td style="font-weight: 400;" width="168">1/27/22 10:20 AM</td>
+<td style="font-weight: 400;" width="166">3/2/22 11:33 PM</td>
+<td style="font-weight: 400;" width="207">Lawson Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-028392</td>
+<td style="font-weight: 400;" width="168">3/1/22 10:15 PM</td>
+<td style="font-weight: 400;" width="166">3/1/22 10:15 PM</td>
+<td style="font-weight: 400;" width="207">1st Street Towers</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drunk Driver&#160;</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-028379</td>
+<td style="font-weight: 400;" width="168">3/1/22 9:17 PM</td>
+<td style="font-weight: 400;" width="166">3/1/22 9:17 PM</td>
+<td style="font-weight: 400;" width="207">Arnold Dr/ Halsey Dr</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
