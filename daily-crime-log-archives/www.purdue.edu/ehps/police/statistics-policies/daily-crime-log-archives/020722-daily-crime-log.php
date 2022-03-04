@@ -644,7 +644,7 @@
 <td style="font-weight: 400;" width="168">2/9/22 12:52 PM</td>
 <td style="font-weight: 400;" width="166">2/9/22 1:37 PM</td>
 <td style="font-weight: 400;" width="207">Windsor Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Harassment</td>
