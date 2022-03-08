@@ -858,7 +858,7 @@
 <td style="font-weight: 400;" width="168">2/22/22 12:29 AM</td>
 <td style="font-weight: 400;" width="166">2/22/22 12:48 AM</td>
 <td style="font-weight: 400;" width="207">Hilltop Apartments&#160;</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;">Liquor Law Violation</td>
@@ -988,7 +988,7 @@
 <td style="font-weight: 400;" width="168">2/20/22 2:58 AM</td>
 <td style="font-weight: 400;" width="166">2/20/22 4:09 AM</td>
 <td style="font-weight: 400;" width="207">Owen Hall</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>

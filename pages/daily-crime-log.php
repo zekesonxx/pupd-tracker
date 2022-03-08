@@ -653,7 +653,90 @@
   
     	<section class="content__group">
   					<h3>Tuesday, March 8, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;">Rape&#160;</td>
+<td style="font-weight: 400;">2022PU00284</td>
+<td style="font-weight: 400;">1/22/22 Unknown Time</td>
+<td style="font-weight: 400;">3/6/22 8:03 PM</td>
+<td style="font-weight: 400;">Unknown Campus Location&#160;</td>
+<td style="font-weight: 400;">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00287</td>
+<td style="font-weight: 400;" width="168">3/4/22 4:00 PM</td>
+<td style="font-weight: 400;" width="166">3/7/22 11:00 AM</td>
+<td style="font-weight: 400;" width="207">Birk Nanotechnology&#160;</td>
+<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-029830</td>
+<td style="font-weight: 400;" width="168">3/4/22 5:10 PM</td>
+<td style="font-weight: 400;" width="166">3/4/22 5:10 PM</td>
+<td style="font-weight: 400;" width="207">Aspire&#160;</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-030588</td>
+<td style="font-weight: 400;" width="168">3/6/22 12:43 AM</td>
+<td style="font-weight: 400;" width="166">3/6/22 12:43 AM</td>
+<td style="font-weight: 400;" width="207">Meredith South&#160;</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drunk Driver&#160;</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-030068</td>
+<td style="font-weight: 400;" width="168">3/5/22 3:51 AM</td>
+<td style="font-weight: 400;" width="166">3/5/22 3:51 AM</td>
+<td style="font-weight: 400;" width="207">Cherry Ln/ McCormick Rd</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft of Property&#160;</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-029857</td>
+<td style="font-weight: 400;" width="168">3/4/22 6:47 PM</td>
+<td style="font-weight: 400;" width="166">3/4/22 6:47 PM</td>
+<td style="font-weight: 400;" width="207">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft of Property&#160;</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-030943</td>
+<td style="font-weight: 400;" width="168">3/6/22 8:12 PM</td>
+<td style="font-weight: 400;" width="166">3/6/22 8:12 PM</td>
+<td style="font-weight: 400;" width="207">Purdue Fire Department</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft of Property&#160;</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-030586</td>
+<td style="font-weight: 400;" width="168">3/6/22 12:40 AM</td>
+<td style="font-weight: 400;" width="166">3/6/22 12:40 AM</td>
+<td style="font-weight: 400;" width="207">Aspire&#160;</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft of Property&#160;</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-030171</td>
+<td style="font-weight: 400;" width="168">3/5/22 10:57 AM</td>
+<td style="font-weight: 400;" width="166">3/5/22 10:57 AM</td>
+<td style="font-weight: 400;" width="207">Alpha Xi Delta&#160;</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

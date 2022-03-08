@@ -759,7 +759,7 @@
 <td style="font-weight: 400;" width="168">2/27/22 10:45 AM</td>
 <td style="font-weight: 400;" width="166">2/28/22 7:08 AM</td>
 <td style="font-weight: 400;" width="207">1200 Blk W State St</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Stalking</td>

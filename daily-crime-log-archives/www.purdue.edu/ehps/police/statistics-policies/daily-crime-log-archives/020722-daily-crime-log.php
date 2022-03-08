@@ -900,7 +900,7 @@
 <td style="font-weight: 400;" width="168">2/5/22 12:14 AM</td>
 <td style="font-weight: 400;" width="166">2/5/22 12:34 AM</td>
 <td style="font-weight: 400;" width="207">600 Blk Harrsion St</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
@@ -908,7 +908,7 @@
 <td style="font-weight: 400;" width="168">2/5/22 3:36 AM</td>
 <td style="font-weight: 400;" width="166">2/5/22 3:54 AM</td>
 <td style="font-weight: 400;" width="207">Wiley Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Aggravated Assault</td>

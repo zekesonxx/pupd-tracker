@@ -736,7 +736,7 @@
 <td width="168">2/15/22 12:00 AM</td>
 <td width="166">2/15/22 5:32 PM</td>
 <td width="207">Hillenbrand Hall</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="157">Drug Law Violation</td>
