@@ -646,7 +646,50 @@
   
     	<section class="content__group">
   					<h3>Wednesday, March 9, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Indecent Exposure&#160;</td>
+<td style="font-weight: 400;" width="154">2022PU00291</td>
+<td style="font-weight: 400;" width="168">3/8/22 8:34 AM</td>
+<td style="font-weight: 400;" width="166">3/8/22 9:09 AM</td>
+<td style="font-weight: 400;" width="207">Beering Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00292</td>
+<td style="font-weight: 400;" width="168">3/7/22 5:00 PM</td>
+<td style="font-weight: 400;" width="166">3/8/22 11:55 AM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Residence Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00296</td>
+<td style="font-weight: 400;" width="168">3/8/22 2:32 PM</td>
+<td style="font-weight: 400;" width="166">3/8/22 2:43 PM</td>
+<td style="font-weight: 400;" width="207">MMDC</td>
+<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-031398</td>
+<td style="font-weight: 400;" width="168">3/7/22 9:17 PM</td>
+<td style="font-weight: 400;" width="166">3/7/22 9:17 PM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -664,19 +707,19 @@
 <th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;">Rape&#160;</td>
+<td style="font-weight: 400;">Rape/ Assisting Another Agency</td>
 <td style="font-weight: 400;">2022PU00284</td>
 <td style="font-weight: 400;">1/22/22 Unknown Time</td>
 <td style="font-weight: 400;">3/6/22 8:03 PM</td>
-<td style="font-weight: 400;">Unknown Campus Location&#160;</td>
-<td style="font-weight: 400;">Under Investigation&#160;</td>
+<td style="font-weight: 400;">Unknown PNW Location&#160;</td>
+<td style="font-weight: 400;">Nothing Further</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Hit &amp; Run</td>
 <td style="font-weight: 400;" width="154">2022PU00287</td>
 <td style="font-weight: 400;" width="168">3/4/22 4:00 PM</td>
 <td style="font-weight: 400;" width="166">3/7/22 11:00 AM</td>
-<td style="font-weight: 400;" width="207">Birk Nanotechnology&#160;</td>
+<td style="font-weight: 400;" width="207">Birck Nanotechnology Center</td>
 <td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
 </tr>
 <tr>

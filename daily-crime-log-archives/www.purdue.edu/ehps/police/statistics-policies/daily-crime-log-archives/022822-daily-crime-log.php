@@ -668,7 +668,7 @@
 <td style="font-weight: 400;" width="168">3/2/22 11:00 PM</td>
 <td style="font-weight: 400;" width="166">3/4/22 2:25 AM</td>
 <td style="font-weight: 400;" width="207">CoRec</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Public Indecency/ Public Intoxication</td>
@@ -921,7 +921,7 @@
 <td style="font-weight: 400;" width="168">2/26/22 9:30 PM</td>
 <td style="font-weight: 400;" width="166">2/27/22 2:40 PM</td>
 <td style="font-weight: 400;" width="207">Krannert Center</td>
-<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation&#160;</td>
