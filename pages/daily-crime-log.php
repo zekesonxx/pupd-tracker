@@ -639,7 +639,146 @@
   
     	<section class="content__group">
   					<h3>Thursday, March 10, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="width: 157px; text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="157">Harassment</td>
+<td width="154">2022PU00282</td>
+<td width="168">3/5/22 4:18 PM</td>
+<td width="166">3/6/22 7:15 PM</td>
+<td width="207">Engineering Mall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00299</td>
+<td style="font-weight: 400;" width="168">3/9/22 5:10 PM</td>
+<td style="font-weight: 400;" width="166">3/9/22 5:30 PM</td>
+<td style="font-weight: 400;" width="207">200 Blk Nimitz Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU00300</td>
+<td style="font-weight: 400;" width="168">3/9/22 11:40 PM</td>
+<td style="font-weight: 400;" width="166">3/9/22 11:40 PM</td>
+<td style="font-weight: 400;" width="207">Hwy 231/ W State St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-032068</td>
+<td style="font-weight: 400;" width="168">3/9/2022 10:35</td>
+<td style="font-weight: 400;" width="166">3/9/2022 10:35</td>
+<td style="font-weight: 400;" width="207">Purdue Village</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-032254</td>
+<td style="font-weight: 400;" width="168">3/9/2022 17:44</td>
+<td style="font-weight: 400;" width="166">3/9/2022 17:44</td>
+<td style="font-weight: 400;" width="207">1300 Blk 3rd St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">5 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">2/24/22 10:00 PM</td>
+<td style="font-weight: 400;" width="166">2/24/22 11:06 PM</td>
+<td style="font-weight: 400;" width="207">Windsor Halls</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">5 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">2/26/22 11:00 PM</td>
+<td style="font-weight: 400;" width="166">2/26/22 11:43 PM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">5 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">2/26/22 11:05 PM</td>
+<td style="font-weight: 400;" width="166">2/27/22 1:14 AM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">4 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">3/2/22 2:14 AM</td>
+<td style="font-weight: 400;" width="166">3/2/22 3:12 AM</td>
+<td style="font-weight: 400;" width="207">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">3/3/22 9:56 PM</td>
+<td style="font-weight: 400;" width="166">3/4/22 3:41 AM</td>
+<td style="font-weight: 400;" width="207">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">3/4/22 12:45 AM</td>
+<td style="font-weight: 400;" width="166">3/4/22 1:32 AM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">3 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">3/4/22 12:45 AM</td>
+<td style="font-weight: 400;" width="166">3/4/22 1:32 AM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">7 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">3/4/22 12:45 AM</td>
+<td style="font-weight: 400;" width="166">3/4/22 2:08 AM</td>
+<td style="font-weight: 400;" width="207">Waldron Square Apts</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">3/4/22 2:00 AM</td>
+<td style="font-weight: 400;" width="166">3/4/22 1:48 AM</td>
+<td style="font-weight: 400;" width="207">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">3/5/22 11:00 PM</td>
+<td style="font-weight: 400;" width="166">3/6/22 3:06 AM</td>
+<td style="font-weight: 400;" width="207">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">6 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">3/5/22 11:30 PM</td>
+<td style="font-weight: 400;" width="166">3/6/22 1:11 AM</td>
+<td style="font-weight: 400;" width="207">Waldron Square Apts</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
