@@ -190,6 +190,16 @@
         
             
                              <li role="none"><a href="https://www.purdue.edu/purdue/commercialization/index.php" role="menuitem">Entrepreneurship and Commercialization</a></li>
+                        
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                             <li role="none"><a href="https://www.purdue.edu/engagement/" role="menuitem">Office of Engagement</a></li>
           </ul>
 </nav>
 
@@ -767,7 +777,7 @@
 <td style="font-weight: 400;" width="168">11/1/21 12:00 PM</td>
 <td style="font-weight: 400;" width="166">2/28/22 2:18 PM</td>
 <td style="font-weight: 400;" width="207">Beering Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Harassment</td>

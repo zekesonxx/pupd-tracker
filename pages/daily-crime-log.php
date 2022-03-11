@@ -190,6 +190,16 @@
         
             
                              <li role="none"><a href="https://www.purdue.edu/purdue/commercialization/index.php" role="menuitem">Entrepreneurship and Commercialization</a></li>
+                        
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                             <li role="none"><a href="https://www.purdue.edu/engagement/" role="menuitem">Office of Engagement</a></li>
           </ul>
 </nav>
 
@@ -632,7 +642,58 @@
   
     	<section class="content__group">
   					<h3>Friday, March 11, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;">Theft-EMPV</td>
+<td style="font-weight: 400;">2022PU00301</td>
+<td style="font-weight: 400;">10/21/21 2:00 PM</td>
+<td style="font-weight: 400;">3/10/22 8:40 AM</td>
+<td style="font-weight: 400;">Physics Building&#160;</td>
+<td style="font-weight: 400;">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike&#160;</td>
+<td style="font-weight: 400;" width="154">2022PU00302</td>
+<td style="font-weight: 400;" width="168">3/9/22 12:00 PM</td>
+<td style="font-weight: 400;" width="166">3/10/22 3:30 PM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Trespass/ Minor Consumption&#160;</td>
+<td style="font-weight: 400;" width="154">2022PU00303</td>
+<td style="font-weight: 400;" width="168">3/10/22 10:12 PM</td>
+<td style="font-weight: 400;" width="166">3/10/22 10:22 PM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium&#160;</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Public Intoxication/ Minor Consumption&#160;</td>
+<td style="font-weight: 400;" width="154">2022PU00305</td>
+<td style="font-weight: 400;" width="168">3/11/22 2:21 AM</td>
+<td style="font-weight: 400;" width="166">3/11/22 3:43 AM</td>
+<td style="font-weight: 400;" width="207">3rd St/ McCormick Rd</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment&#160;</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">3/9/22 2:00 PM</td>
+<td style="font-weight: 400;" width="166">3/9/22 3:56 PM</td>
+<td style="font-weight: 400;" width="207">CoRec</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

@@ -190,6 +190,16 @@
         
             
                              <li role="none"><a href="https://www.purdue.edu/purdue/commercialization/index.php" role="menuitem">Entrepreneurship and Commercialization</a></li>
+                        
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                             <li role="none"><a href="https://www.purdue.edu/engagement/" role="menuitem">Office of Engagement</a></li>
           </ul>
 </nav>
 
@@ -972,7 +982,7 @@
 <td style="font-weight: 400;" width="168">2/20/22 12:43 AM</td>
 <td style="font-weight: 400;" width="166">2/20/22 1:08 AM</td>
 <td style="font-weight: 400;" width="207">Wood Street Garage</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Operating While Intoxicated</td>
