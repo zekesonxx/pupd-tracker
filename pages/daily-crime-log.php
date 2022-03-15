@@ -663,7 +663,58 @@
   
     	<section class="content__group">
   					<h3>Tuesday, March 15, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00314</td>
+<td style="font-weight: 400;" width="168">3/14/22 6:31 PM</td>
+<td style="font-weight: 400;" width="166">3/14/22 6:40 PM</td>
+<td style="font-weight: 400;" width="207">Hilltop Apartments</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Burglary</td>
+<td style="font-weight: 400;" width="154">2022PU00315</td>
+<td style="font-weight: 400;" width="168">3/10/22 1:00 PM</td>
+<td style="font-weight: 400;" width="166">3/14/22 7:55 PM</td>
+<td style="font-weight: 400;" width="207">Aspire</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Intimidation/ Battery (Simple)/ Resisting</td>
+<td style="font-weight: 400;" width="154">2022PU00316</td>
+<td style="font-weight: 400;" width="168">3/14/22 9:34 PM</td>
+<td style="font-weight: 400;" width="166">3/14/22 9:56 PM</td>
+<td style="font-weight: 400;" width="207">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00317</td>
+<td style="font-weight: 400;" width="168">3/14/22 9:31 PM</td>
+<td style="font-weight: 400;" width="166">3/14/22 10:36 PM</td>
+<td style="font-weight: 400;" width="207">500 Blk N University St</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law</td>
+<td style="font-weight: 400;" width="154">2022PU00318</td>
+<td style="font-weight: 400;" width="168">3/15/22 1:26 AM</td>
+<td style="font-weight: 400;" width="166">3/15/22 2:35 AM</td>
+<td style="font-weight: 400;" width="207">231 HWY/ S River Rd</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
