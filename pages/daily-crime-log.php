@@ -649,7 +649,34 @@
   
     	<section class="content__group">
   					<h3>Thursday, March 17, 2022</h3>
-<p>Will be posted soon.</p>
+<table width="100%">
+<tbody>
+<tr>
+<th scope="col" style="width: 157px;" width="157">Nature</th>
+<th scope="col" width="154">Case Number</th>
+<th scope="col" width="168">Date/Time Occurred</th>
+<th scope="col" width="166">Date/Time Reported</th>
+<th scope="col" width="207">General Location</th>
+<th scope="col" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00320</td>
+<td style="font-weight: 400;" width="168">3/16/22 6:25 PM</td>
+<td style="font-weight: 400;" width="166">3/16/22 7:47 PM</td>
+<td style="font-weight: 400;" width="207">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00321</td>
+<td style="font-weight: 400;" width="168">3/16/22 11:15 PM</td>
+<td style="font-weight: 400;" width="166">3/16/22 11:16 PM</td>
+<td style="font-weight: 400;" width="207">Grant &amp; Central Drive</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
