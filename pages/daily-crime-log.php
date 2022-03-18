@@ -642,7 +642,50 @@
   
     	<section class="content__group">
   					<h3>Friday, March 18, 2022</h3>
-<p>Will be posted soon.</p>
+<table width="100%">
+<tbody>
+<tr>
+<th scope="col" width="201">Nature</th>
+<th scope="col" width="154">Case Number</th>
+<th scope="col" width="168">Date/Time Occurred</th>
+<th scope="col" width="166">Date/Time Reported</th>
+<th scope="col" width="207">General Location</th>
+<th scope="col" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="201">Criminal Mischief</td>
+<td width="154">2022PU00322</td>
+<td width="168">3/17/22 12:00 AM</td>
+<td width="166">3/17/22 6:54 AM</td>
+<td width="207">Grant Street Parking Garage</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="201">Theft&#160;</td>
+<td width="154">2022PU00323</td>
+<td width="168">3/16/22 3:30 PM</td>
+<td width="166">3/17/22 10:41 AM</td>
+<td width="207">Purdue Memorial Union</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="201">Operating While Intoxicated</td>
+<td width="154">2022PU00326</td>
+<td width="168">3/17/22 10:15 PM</td>
+<td width="166">3/17/22 11:39 PM</td>
+<td width="207">US 231 &amp; Airport Road</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="201">Hit &amp; Run</td>
+<td width="154">2022PU00327</td>
+<td width="168">3/10/22 7:30 PM</td>
+<td width="166">3/18/22 6:54 AM</td>
+<td width="207">Pierce Street Parking Lot</td>
+<td width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
