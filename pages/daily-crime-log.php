@@ -641,188 +641,67 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, March 18, 2022</h3>
-<table width="100%">
-<tbody>
-<tr>
-<th scope="col" width="201">Nature</th>
-<th scope="col" width="154">Case Number</th>
-<th scope="col" width="168">Date/Time Occurred</th>
-<th scope="col" width="166">Date/Time Reported</th>
-<th scope="col" width="207">General Location</th>
-<th scope="col" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="201">Criminal Mischief</td>
-<td width="154">2022PU00322</td>
-<td width="168">3/17/22 12:00 AM</td>
-<td width="166">3/17/22 6:54 AM</td>
-<td width="207">Grant Street Parking Garage</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td width="201">Theft&#160;</td>
-<td width="154">2022PU00323</td>
-<td width="168">3/16/22 3:30 PM</td>
-<td width="166">3/17/22 10:41 AM</td>
-<td width="207">Purdue Memorial Union</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td width="201">Operating While Intoxicated</td>
-<td width="154">2022PU00326</td>
-<td width="168">3/17/22 10:15 PM</td>
-<td width="166">3/17/22 11:39 PM</td>
-<td width="207">US 231 &amp; Airport Road</td>
-<td width="181">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td width="201">Hit &amp; Run</td>
-<td width="154">2022PU00327</td>
-<td width="168">3/10/22 7:30 PM</td>
-<td width="166">3/18/22 6:54 AM</td>
-<td width="207">Pierce Street Parking Lot</td>
-<td width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Friday, March 25, 2022</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, March 17, 2022</h3>
-<table width="100%">
-<tbody>
-<tr>
-<th scope="col" style="width: 157px;" width="157">Nature</th>
-<th scope="col" width="154">Case Number</th>
-<th scope="col" width="168">Date/Time Occurred</th>
-<th scope="col" width="166">Date/Time Reported</th>
-<th scope="col" width="207">General Location</th>
-<th scope="col" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2022PU00320</td>
-<td style="font-weight: 400;" width="168">3/16/22 6:25 PM</td>
-<td style="font-weight: 400;" width="166">3/16/22 7:47 PM</td>
-<td style="font-weight: 400;" width="207">Purdue Memorial Union</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="154">2022PU00321</td>
-<td style="font-weight: 400;" width="168">3/16/22 11:15 PM</td>
-<td style="font-weight: 400;" width="166">3/16/22 11:16 PM</td>
-<td style="font-weight: 400;" width="207">Grant &amp; Central Drive</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, March 24, 2022</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, March 16, 2022</h3>
-<p>Nothing to report.</p>
+  					<h3>Wednesday, March 23, 2022</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday, March 15, 2022</h3>
+  					<h3>Tuesday, March 22, 2022</h3>
+<p>Will be posted soon.</p>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Monday, March 21, 2022</h3>
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+<th scope="col" width="157">Nature</th>
+<th scope="col" width="154">Case Number</th>
+<th scope="col" width="168">Date/Time Occurred</th>
+<th scope="col" width="166">Date/Time Reported</th>
+<th scope="col" width="207">General Location</th>
+<th scope="col" width="181">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2022PU00314</td>
-<td style="font-weight: 400;" width="168">3/14/22 6:31 PM</td>
-<td style="font-weight: 400;" width="166">3/14/22 6:40 PM</td>
-<td style="font-weight: 400;" width="207">Hilltop Apartments</td>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00329</td>
+<td style="font-weight: 400;" width="168">5/1/21 4:05 PM</td>
+<td style="font-weight: 400;" width="166">3/18/22 5:17 PM</td>
+<td style="font-weight: 400;" width="207">Krach Center</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Burglary</td>
-<td style="font-weight: 400;" width="154">2022PU00315</td>
-<td style="font-weight: 400;" width="168">3/10/22 1:00 PM</td>
-<td style="font-weight: 400;" width="166">3/14/22 7:55 PM</td>
-<td style="font-weight: 400;" width="207">Aspire</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Intimidation/ Battery (Simple)/ Resisting</td>
-<td style="font-weight: 400;" width="154">2022PU00316</td>
-<td style="font-weight: 400;" width="168">3/14/22 9:34 PM</td>
-<td style="font-weight: 400;" width="166">3/14/22 9:56 PM</td>
-<td style="font-weight: 400;" width="207">Wilmeth Active Learning Center</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2022PU00317</td>
-<td style="font-weight: 400;" width="168">3/14/22 9:31 PM</td>
-<td style="font-weight: 400;" width="166">3/14/22 10:36 PM</td>
-<td style="font-weight: 400;" width="207">500 Blk N University St</td>
+<td style="font-weight: 400;" width="157">Minor Possession</td>
+<td style="font-weight: 400;" width="154">2022PU00331</td>
+<td style="font-weight: 400;" width="168">3/19/22 11:04 PM</td>
+<td style="font-weight: 400;" width="166">3/19/22 11:22 PM</td>
+<td style="font-weight: 400;" width="207">Frieda Parker Hall</td>
 <td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Drug Law</td>
-<td style="font-weight: 400;" width="154">2022PU00318</td>
-<td style="font-weight: 400;" width="168">3/15/22 1:26 AM</td>
-<td style="font-weight: 400;" width="166">3/15/22 2:35 AM</td>
-<td style="font-weight: 400;" width="207">231 HWY/ S River Rd</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-</tbody>
-</table>
-		</section>
-	
-          <div class="clearfix"></div>
-  
-    	<section class="content__group">
-  					<h3>Monday, March 14, 2022</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="157">Theft</td>
-<td width="154">2022PU00307</td>
-<td width="168">12/1/21 5:00 PM</td>
-<td width="166">3/11/22 2:48 PM</td>
-<td width="207">Purdue Airport</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Theft of Property&#160;</td>
-<td style="font-weight: 400;" width="154">CAD# 2022-032552</td>
-<td style="font-weight: 400;" width="168">3/10/22 10:46 AM</td>
-<td style="font-weight: 400;" width="166">3/10/22 10:46 AM</td>
-<td style="font-weight: 400;" width="207">Aspire&#160;</td>
-<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="154">CAD# 20220311-131715.068</td>
-<td style="font-weight: 400;" width="168">3/11/22 1:17 PM</td>
-<td style="font-weight: 400;" width="166">3/11/22 1:17 PM</td>
-<td style="font-weight: 400;" width="207">N University St/ W Stadium Ave</td>
+<td style="font-weight: 400;" width="157">Reckless Driving</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-035978</td>
+<td style="font-weight: 400;" width="168">3/17/22 6:07 PM</td>
+<td style="font-weight: 400;" width="166">3/17/22 6:07 PM</td>
+<td style="font-weight: 400;" width="207">US 231/ S River Rd</td>
 <td style="font-weight: 400;" width="181">Nothing Further</td>
 </tr>
 </tbody>
