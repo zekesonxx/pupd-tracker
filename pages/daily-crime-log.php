@@ -674,7 +674,7 @@
 <th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Invasion of Privacy/ Drug Law Violation</td>
+<td style="font-weight: 400;" width="157">Invasion of Privacy/ Domestic Violence</td>
 <td style="font-weight: 400;" width="154">2022PU00330</td>
 <td style="font-weight: 400;" width="168">3/19/22 5:21 PM</td>
 <td style="font-weight: 400;" width="166">3/19/22 6:58 PM</td>
