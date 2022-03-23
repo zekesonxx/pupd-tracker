@@ -1038,7 +1038,7 @@
 <td style="font-weight: 400;" width="168">3/5/22 1:58 PM</td>
 <td style="font-weight: 400;" width="166">3/5/22 2:06 PM</td>
 <td style="font-weight: 400;" width="207">Mackey Arena</td>
-<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft - Bike</td>
