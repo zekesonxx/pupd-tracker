@@ -649,7 +649,50 @@
   
     	<section class="content__group">
   					<h3>Thursday, March 24, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr style="height: 36px;">
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="181">Disposition&#160;</th>
+</tr>
+<tr style="height: 18px;">
+<td style="font-weight: 400; height: 18px;" width="157">Harassment</td>
+<td style="font-weight: 400; height: 18px;" width="154">2022PU00342</td>
+<td style="font-weight: 400; height: 18px;" width="168">3/22/22 2:54 PM</td>
+<td style="font-weight: 400; height: 18px;" width="166">3/22/22 3:10 PM</td>
+<td style="font-weight: 400; height: 18px;" width="207">Grissom Hall</td>
+<td style="font-weight: 400; height: 18px;" width="181">Under Investigation</td>
+</tr>
+<tr style="height: 1.78125px;">
+<td style="font-weight: 400; height: 1.78125px;" width="157">Blackmail</td>
+<td style="font-weight: 400; height: 1.78125px;" width="154">2022PU00345</td>
+<td style="font-weight: 400; height: 1.78125px;" width="168">3/23/22 11:06 AM</td>
+<td style="font-weight: 400; height: 1.78125px;" width="166">3/23/22 12:48 PM</td>
+<td style="font-weight: 400; height: 1.78125px;" width="207">Earhart Hall</td>
+<td style="font-weight: 400; height: 1.78125px;" width="181">Under Investigation</td>
+</tr>
+<tr style="height: 36px;">
+<td style="font-weight: 400; height: 36px;" width="157">Public Intoxication</td>
+<td style="font-weight: 400; height: 36px;" width="154">2022PU00347</td>
+<td style="font-weight: 400; height: 36px;" width="168">3/23/22 7:47 PM</td>
+<td style="font-weight: 400; height: 36px;" width="166">3/23/22 8:04 PM</td>
+<td style="font-weight: 400; height: 36px;" width="207">W State St/ Russell St</td>
+<td style="font-weight: 400; height: 36px;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr style="height: 54px;">
+<td style="font-weight: 400; height: 54px;" width="157">Obstruction of Justice/ Drug Law Violation</td>
+<td style="font-weight: 400; height: 54px;" width="154">2022PU00348</td>
+<td style="font-weight: 400; height: 54px;" width="168">3/23/22 11:05 PM</td>
+<td style="font-weight: 400; height: 54px;" width="166">3/24/22 12:14 AM</td>
+<td style="font-weight: 400; height: 54px;" width="207">US 231/ Airport Rd</td>
+<td style="font-weight: 400; height: 54px;" width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -671,7 +714,7 @@
 <td style="font-weight: 400;" width="154">2022PU00341</td>
 <td style="font-weight: 400;" width="168">3/18/22 11:25 AM</td>
 <td style="font-weight: 400;" width="166">3/22/22 2:16 PM</td>
-<td style="font-weight: 400;" width="207">PUPD</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
