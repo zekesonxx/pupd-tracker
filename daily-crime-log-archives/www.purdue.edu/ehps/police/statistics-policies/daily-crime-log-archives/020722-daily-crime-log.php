@@ -704,7 +704,7 @@
 <td style="font-weight: 400;" width="168">2/9/22 10:18 AM</td>
 <td style="font-weight: 400;" width="166">2/9/22 10:23 AM</td>
 <td style="font-weight: 400;" width="207">Forney Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+<td style="font-weight: 400;" width="181">Closed&#160;</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft&#160;</td>
