@@ -10,7 +10,7 @@
 
 
 
-<meta content="Review the daily crime log archive maintained by the Purdue University Police Department." name="description"/>
+<meta content="Review the daily crime log maintained by the Purdue University Police Department." name="description"/>
 <meta content="Purdue University Police Department; Daily Crime Log; Clery Act" name="keywords"/>
 <meta content="Purdue University Administrative Operations Communications" name="author"/>
 
@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			Daily Crime Log Archive - 
+			Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -41,7 +41,7 @@
                                          
 		
 		    <style type="text/css">
-	    /* Any CSS placed in this text area will be placed inside of a style tag located in the head section of the page. */
+	    tr:nth-child(even){background-color:#f2f2f2}
 	</style>
 
 		
@@ -557,7 +557,7 @@
                                 
         
                 
-                     <li>Daily Crime Log Archive</li>
+                     <li>Daily Crime Log</li>
         
     </ul>
 </nav> 
@@ -575,6 +575,16 @@
 					<aside class="content__aside">
 						
 						
+<nav class="content__side-nav">
+        
+           
+                
+        
+                
+    <ul aria-label="Side Navigation" role="menu">
+                                     <li role="none">Daily Crime Log</li>
+                                            </ul>
+</nav>
 
 
 
@@ -598,24 +608,248 @@
 
 						
 						
-      <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h2>Archived Daily Crime Log</h2>
-<ul>
-<li><a href="032122-daily-crime-log.php" title="032122 Daily Crime Log">Week of March 21, 2022</a></li>
-<li><a href="031422-daily-crime-log.php">Week of March 14, 2022</a></li>
-<li><a href="030722-daily-crime-log.php" title="030722 Daily Crime Log">Week of March 7, 2022</a></li>
-<li><a href="022822-daily-crime-log.php" title="022822 Daily Crime Log">Week of February 28, 2022</a></li>
-<li><a href="022122-daily-crime-log.php">Week of February 21, 2022</a></li>
-<li><a href="021422-daily-crime-log.php" title="021422 Daily Crime Log">Week of February 14, 2022</a></li>
-<li><a href="020722-daily-crime-log.php" title="020722 Daily Crime Log">Week of February 7, 2022</a></li>
-<li><a href="013122-daily-crime-log.php">Week of January 31, 2022</a></li>
-<li><a href="012422-daily-crime-log.php" title="012422 Daily Crime Log">Week of January 24, 2022</a></li>
-<li><a href="011722-daily-crime-log.php" title="011722 Daily Crime Log">Week of January 17, 2022</a></li>
-<li><a href="011022-daily-crime-log.php" title="011022 Daily Crime Log">Week of January 10, 2022</a></li>
-<li><a href="010322-daily-crime-log.php" title="010322 Daily Crime Log">Week of January 3, 2022</a><br/><a href="2021-archive/053121-daily-crime-log.php" title="053121 Daily Crime Log"></a></li>
-</ul>
+  					<p>In accordance with the 1998 Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act (Clery Act), the Purdue University Police Department (PUPD) maintains a daily crime log.</p>
+<p>The daily crime log documents all crimes reported to the department, the dates the crimes were reported and whether the crimes occurred on campus, another Clery Act reportable geographic area or within the patrol jurisdiction.</p>
+<p>PUPD will make the crime log available for public inspection during normal business hours. Daily crime logs older than 60 days will be available within two business days of a request for public inspection. The most recent log entries are posted below.</p>
+<p>Understanding how the information in the log is collected and compiled is important to developing an accurate picture of campus crime.</p>
+<p>Not all of these crimes have been reported to the Purdue University Police Department for the purpose of police services. Rather, many of these crimes have been reported to University employees, who have identified by the Vice President for Ethics and Compliance (VPEC) as Campus Security Authorities (CSAs). CSAs are obligated by the Clery Act to report certain crimes to the university police department so the campus community may be notified of potential ongoing public safety issues and accurate statistics maintained. Many of these crime victims do not want immediate police intervention and may elect not to pursue a criminal investigation.</p>
+<h2>Daily Crime Log</h2>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Friday, March 25, 2022</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00349</td>
+<td style="font-weight: 400;" width="168">3/14/22 11:27 AM</td>
+<td style="font-weight: 400;" width="166">3/24/22 8:34 AM</td>
+<td style="font-weight: 400;" width="207">1000 Blk Northwestern Ave</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00350</td>
+<td style="font-weight: 400;" width="168">3/2/22 3:57 PM</td>
+<td style="font-weight: 400;" width="166">3/24/22 1:11 PM</td>
+<td style="font-weight: 400;" width="207">Grissom Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00352</td>
+<td style="font-weight: 400;" width="168">3/23/22 9:00 AM</td>
+<td style="font-weight: 400;" width="166">3/24/22 9:11 PM</td>
+<td style="font-weight: 400;" width="207">200 Blk S Grant St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Thursday, March 24, 2022</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr style="height: 36px;">
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle; height: 36px;" width="181">Disposition&#160;</th>
+</tr>
+<tr style="height: 18px;">
+<td style="font-weight: 400; height: 18px;" width="157">Harassment</td>
+<td style="font-weight: 400; height: 18px;" width="154">2022PU00342</td>
+<td style="font-weight: 400; height: 18px;" width="168">3/22/22 2:54 PM</td>
+<td style="font-weight: 400; height: 18px;" width="166">3/22/22 3:10 PM</td>
+<td style="font-weight: 400; height: 18px;" width="207">Grissom Hall</td>
+<td style="font-weight: 400; height: 18px;" width="181">Under Investigation</td>
+</tr>
+<tr style="height: 1.78125px;">
+<td style="font-weight: 400; height: 1.78125px;" width="157">Blackmail</td>
+<td style="font-weight: 400; height: 1.78125px;" width="154">2022PU00345</td>
+<td style="font-weight: 400; height: 1.78125px;" width="168">3/23/22 11:06 AM</td>
+<td style="font-weight: 400; height: 1.78125px;" width="166">3/23/22 12:48 PM</td>
+<td style="font-weight: 400; height: 1.78125px;" width="207">Earhart Hall</td>
+<td style="font-weight: 400; height: 1.78125px;" width="181">Under Investigation</td>
+</tr>
+<tr style="height: 36px;">
+<td style="font-weight: 400; height: 36px;" width="157">Public Intoxication</td>
+<td style="font-weight: 400; height: 36px;" width="154">2022PU00347</td>
+<td style="font-weight: 400; height: 36px;" width="168">3/23/22 7:47 PM</td>
+<td style="font-weight: 400; height: 36px;" width="166">3/23/22 8:04 PM</td>
+<td style="font-weight: 400; height: 36px;" width="207">W State St/ Russell St</td>
+<td style="font-weight: 400; height: 36px;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr style="height: 54px;">
+<td style="font-weight: 400; height: 54px;" width="157">Obstruction of Justice/ Drug Law Violation</td>
+<td style="font-weight: 400; height: 54px;" width="154">2022PU00348</td>
+<td style="font-weight: 400; height: 54px;" width="168">3/23/22 11:05 PM</td>
+<td style="font-weight: 400; height: 54px;" width="166">3/24/22 12:14 AM</td>
+<td style="font-weight: 400; height: 54px;" width="207">US 231/ Airport Rd</td>
+<td style="font-weight: 400; height: 54px;" width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Wednesday, March 23, 2022</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Invasion of Privacy</td>
+<td style="font-weight: 400;" width="154">2022PU00341</td>
+<td style="font-weight: 400;" width="168">3/18/22 11:25 AM</td>
+<td style="font-weight: 400;" width="166">3/22/22 2:16 PM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00344</td>
+<td style="font-weight: 400;" width="168">3/21/22 9:00 PM</td>
+<td style="font-weight: 400;" width="166">3/22/22 9:30 PM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-037784</td>
+<td style="font-weight: 400;" width="168">3/22/22 12:08 AM</td>
+<td style="font-weight: 400;" width="166">3/22/22 12:08 AM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Tuesday, March 22, 2022</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Invasion of Privacy/ Domestic Violence</td>
+<td style="font-weight: 400;" width="154">2022PU00330</td>
+<td style="font-weight: 400;" width="168">3/19/22 5:21 PM</td>
+<td style="font-weight: 400;" width="166">3/19/22 6:58 PM</td>
+<td style="font-weight: 400;" width="207">300 Blk S Grant St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00335</td>
+<td style="font-weight: 400;" width="168">3/20/22 10:55 PM</td>
+<td style="font-weight: 400;" width="166">3/21/22 11:38 AM</td>
+<td style="font-weight: 400;" width="207">Materials Management and Distribution Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment/ Stalking</td>
+<td style="font-weight: 400;" width="154">2022PU00336</td>
+<td style="font-weight: 400;" width="168">3/3/22 12:00 PM</td>
+<td style="font-weight: 400;" width="166">3/21/22 4:40 PM</td>
+<td style="font-weight: 400;" width="207">Electrical Engineering</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00338</td>
+<td style="font-weight: 400;" width="168">3/7/22 5:52 PM</td>
+<td style="font-weight: 400;" width="166">3/21/22 6:07 PM</td>
+<td style="font-weight: 400;" width="207">Hawkins Hall</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Monday, March 21, 2022</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" width="157">Nature</th>
+<th scope="col" width="154">Case Number</th>
+<th scope="col" width="168">Date/Time Occurred</th>
+<th scope="col" width="166">Date/Time Reported</th>
+<th scope="col" width="207">General Location</th>
+<th scope="col" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00329</td>
+<td style="font-weight: 400;" width="168">5/1/21 4:05 PM</td>
+<td style="font-weight: 400;" width="166">3/18/22 5:17 PM</td>
+<td style="font-weight: 400;" width="207">Krach Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Minor Possession</td>
+<td style="font-weight: 400;" width="154">2022PU00331</td>
+<td style="font-weight: 400;" width="168">3/19/22 11:04 PM</td>
+<td style="font-weight: 400;" width="166">3/19/22 11:22 PM</td>
+<td style="font-weight: 400;" width="207">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Reckless Driving</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-035978</td>
+<td style="font-weight: 400;" width="168">3/17/22 6:07 PM</td>
+<td style="font-weight: 400;" width="166">3/17/22 6:07 PM</td>
+<td style="font-weight: 400;" width="207">US 231/ S River Rd</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<p>&#160;</p>
+<p>*EMPV=Electronic Motorized Personal Vehicle (Elec. Scooter/Elec. Skateboard/Segway/Etc.)</p>
+<p><br/>An&#160;<a href="index.php">archived daily crime log</a>&#160;is available.</p>
 		</section>
 	
     
