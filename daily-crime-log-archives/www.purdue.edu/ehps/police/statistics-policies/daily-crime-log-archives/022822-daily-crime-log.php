@@ -891,7 +891,7 @@
 <td style="font-weight: 400;" width="168">2/27/22 1:15 AM</td>
 <td style="font-weight: 400;" width="166">2/27/22 1:54 AM</td>
 <td style="font-weight: 400;" width="207">Tarkington Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+<td style="font-weight: 400;" width="181">Closed&#160;</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Consumption&#160;</td>

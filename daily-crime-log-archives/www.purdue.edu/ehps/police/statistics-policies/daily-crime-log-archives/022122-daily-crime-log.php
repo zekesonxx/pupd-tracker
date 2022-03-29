@@ -646,7 +646,7 @@
 <td style="font-weight: 400;" width="168">2/25/22 12:53 AM</td>
 <td style="font-weight: 400;" width="166">2/25/22 1:16 AM</td>
 <td style="font-weight: 400;" width="207">US 231/ W State St</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Liquor Law Violation</td>
