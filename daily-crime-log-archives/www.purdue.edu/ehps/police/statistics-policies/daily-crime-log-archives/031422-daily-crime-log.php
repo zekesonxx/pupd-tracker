@@ -583,7 +583,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="031422-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -646,7 +651,7 @@
 <td width="168">3/16/22 3:30 PM</td>
 <td width="166">3/17/22 10:41 AM</td>
 <td width="207">Purdue Memorial Union</td>
-<td width="181">Under Investigation</td>
+<td width="181">Suspended</td>
 </tr>
 <tr>
 <td width="201">Operating While Intoxicated</td>
@@ -688,7 +693,7 @@
 <td style="font-weight: 400;" width="168">3/16/22 6:25 PM</td>
 <td style="font-weight: 400;" width="166">3/16/22 7:47 PM</td>
 <td style="font-weight: 400;" width="207">Purdue Memorial Union</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Hit &amp; Run</td>
