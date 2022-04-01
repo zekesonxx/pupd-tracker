@@ -642,7 +642,58 @@
   
     	<section class="content__group">
   					<h3>Friday, April 1, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr style="height: 25.4062px;">
+<th scope="col" style="height: 25.4062px; text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="height: 25.4062px; text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="height: 25.4062px; text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="height: 25.4062px; text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="height: 25.4062px; text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="height: 25.4062px; text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr style="height: 36px;">
+<td style="font-weight: 400; height: 36px;" width="157">Blackmail</td>
+<td style="font-weight: 400; height: 36px;" width="154">2022PU00368</td>
+<td style="font-weight: 400; height: 36px;" width="168">3/27/22 7:00 PM</td>
+<td style="font-weight: 400; height: 36px;" width="166">3/27/22 7:11 PM</td>
+<td style="font-weight: 400; height: 36px;" width="207">First Street Towers</td>
+<td style="font-weight: 400; height: 36px;" width="181">Under Investigation</td>
+</tr>
+<tr style="height: 36px;">
+<td style="font-weight: 400; height: 36px;" width="157">Harassment</td>
+<td style="font-weight: 400; height: 36px;" width="154">2022PU00381</td>
+<td style="font-weight: 400; height: 36px;" width="168">3/25/22 5:18 PM</td>
+<td style="font-weight: 400; height: 36px;" width="166">3/30/22 5:44 PM</td>
+<td style="font-weight: 400; height: 36px;" width="207">300 Blk W Wood St</td>
+<td style="font-weight: 400; height: 36px;" width="181">Under Investigation</td>
+</tr>
+<tr style="height: 72px;">
+<td style="font-weight: 400; height: 72px;" width="157">Theft</td>
+<td style="font-weight: 400; height: 72px;" width="154">2022PU00384</td>
+<td style="font-weight: 400; height: 72px;" width="168">3/29/22 3:05 PM</td>
+<td style="font-weight: 400; height: 72px;" width="166">3/31/22 9:06 AM</td>
+<td style="font-weight: 400; height: 72px;" width="207">Materials Management and Distribution Center</td>
+<td style="font-weight: 400; height: 72px;" width="181">Under Investigation</td>
+</tr>
+<tr style="height: 36px;">
+<td style="font-weight: 400; height: 36px;" width="157">Theft</td>
+<td style="font-weight: 400; height: 36px;" width="154">2022PU00387</td>
+<td style="font-weight: 400; height: 36px;" width="168">3/31/22 1:15 PM</td>
+<td style="font-weight: 400; height: 36px;" width="166">3/31/22 2:56 PM</td>
+<td style="font-weight: 400; height: 36px;" width="207">Agricultural Admin Building</td>
+<td style="font-weight: 400; height: 36px;" width="181">Nothing Further</td>
+</tr>
+<tr style="height: 36px;">
+<td style="font-weight: 400; height: 36px;" width="157">Dating Violence</td>
+<td style="font-weight: 400; height: 36px;" width="154">CSA</td>
+<td style="font-weight: 400; height: 36px;" width="168">3/30/22 9:00 PM</td>
+<td style="font-weight: 400; height: 36px;" width="166">3/30/22 9:00 PM</td>
+<td style="font-weight: 400; height: 36px;" width="207">Unknown On Campus Housing</td>
+<td style="font-weight: 400; height: 36px;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

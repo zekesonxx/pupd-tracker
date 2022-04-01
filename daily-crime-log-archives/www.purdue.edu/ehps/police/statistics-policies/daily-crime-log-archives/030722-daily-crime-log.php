@@ -583,7 +583,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="031422-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -1054,7 +1059,7 @@
 <td style="font-weight: 400;" width="168">3/6/22 1:41 AM</td>
 <td style="font-weight: 400;" width="166">3/6/22 1:53 AM</td>
 <td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 </tbody>
 </table>
