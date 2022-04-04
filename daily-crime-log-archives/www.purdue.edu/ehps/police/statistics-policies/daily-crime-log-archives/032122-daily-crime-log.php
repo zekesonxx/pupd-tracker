@@ -583,7 +583,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="031422-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -783,7 +788,7 @@
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Harassment/ Stalking</td>
+<td style="font-weight: 400;" width="157">Harassment</td>
 <td style="font-weight: 400;" width="154">2022PU00336</td>
 <td style="font-weight: 400;" width="168">3/3/22 12:00 PM</td>
 <td style="font-weight: 400;" width="166">3/21/22 4:40 PM</td>

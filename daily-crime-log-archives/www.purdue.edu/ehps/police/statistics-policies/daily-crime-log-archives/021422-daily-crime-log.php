@@ -583,7 +583,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="031422-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -855,7 +860,7 @@
 <td style="font-weight: 400;" width="168">2/11/22 11:47 PM</td>
 <td style="font-weight: 400;" width="166">2/12/22 12:08 AM</td>
 <td style="font-weight: 400;" width="207">Phi Sigma Kappa</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Residential Entry/ Minor Possession/ Domestic</td>
