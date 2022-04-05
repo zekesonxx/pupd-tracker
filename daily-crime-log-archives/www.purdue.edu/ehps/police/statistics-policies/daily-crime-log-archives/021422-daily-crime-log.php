@@ -693,7 +693,7 @@
 <td width="168">2/16/22 12:00 AM</td>
 <td width="166">2/16/22 8:59 PM</td>
 <td width="207">W Stadium Ave/ N Martin Jischke Dr</td>
-<td width="181">Under Investigation</td>
+<td width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="157">Criminal Mischief</td>

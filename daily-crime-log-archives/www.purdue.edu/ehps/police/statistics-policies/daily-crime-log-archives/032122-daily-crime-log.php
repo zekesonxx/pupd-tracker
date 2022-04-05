@@ -827,7 +827,7 @@
 <td style="font-weight: 400;" width="168">5/1/21 4:05 PM</td>
 <td style="font-weight: 400;" width="166">3/18/22 5:17 PM</td>
 <td style="font-weight: 400;" width="207">Krach Center</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
