@@ -712,7 +712,7 @@
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="157">Operating While Intoxicated/ Minor Possession</td>
 <td style="font-weight: 400;" width="154">2022PU00382</td>
 <td style="font-weight: 400;" width="168">3/30/22 10:07 PM</td>
 <td style="font-weight: 400;" width="166">3/30/22 11:11 PM</td>
@@ -769,7 +769,7 @@
 <td style="font-weight: 400;" width="168">3/28/22 3:31 PM</td>
 <td style="font-weight: 400;" width="166">3/28/22 4:09 PM</td>
 <td style="font-weight: 400;" width="207">Hockmeyer Hall</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Assist Another Agency/ Rape</td>

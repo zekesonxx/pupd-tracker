@@ -1011,7 +1011,7 @@
 <td style="font-weight: 400;" width="168">3/5/22 2:17 AM</td>
 <td style="font-weight: 400;" width="166">3/5/22 2:49 AM</td>
 <td style="font-weight: 400;" width="207">Hillenbrand Residence Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Hit &amp; Run&#160;</td>

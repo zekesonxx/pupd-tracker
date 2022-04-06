@@ -907,7 +907,7 @@
 <td style="font-weight: 400;" width="181">Closed&#160;</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Crash - Hit and Run&#160;</td>
+<td style="font-weight: 400;" width="157">Hit and Run&#160;</td>
 <td style="font-weight: 400;" width="154">2022PU00243</td>
 <td style="font-weight: 400;" width="168">2/27/22 2:17 AM</td>
 <td style="font-weight: 400;" width="166">2/27/22 2:54 AM</td>
@@ -920,7 +920,7 @@
 <td style="font-weight: 400;" width="168">2/27/22 2:50 AM</td>
 <td style="font-weight: 400;" width="166">2/27/22 3:23 AM</td>
 <td style="font-weight: 400;" width="207">Aspire&#160;</td>
-<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+<td style="font-weight: 400;" width="181">Closed&#160;</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft - Bike</td>

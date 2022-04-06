@@ -857,7 +857,7 @@
 <td style="font-weight: 400;" width="168">2/21/22 2:30 PM</td>
 <td style="font-weight: 400;" width="166">2/21/22 3:30 PM</td>
 <td style="font-weight: 400;" width="207">Honors College</td>
-<td style="font-weight: 400;" width="181">Under Investigation&#160;</td>
+<td style="font-weight: 400;" width="181">Closed&#160;</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Blackmail</td>
