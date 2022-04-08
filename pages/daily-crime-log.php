@@ -642,7 +642,58 @@
   
     	<section class="content__group">
   					<h3>Friday, April 8, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00426</td>
+<td style="font-weight: 400;" width="168">4/6/22 11:26 PM</td>
+<td style="font-weight: 400;" width="166">4/6/22 11:35 PM</td>
+<td style="font-weight: 400;" width="207">Lynn Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00428</td>
+<td style="font-weight: 400;" width="168">4/7/22 12:11 PM</td>
+<td style="font-weight: 400;" width="166">4/7/22 12:28 PM</td>
+<td style="font-weight: 400;" width="207">CoRec</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00429</td>
+<td style="font-weight: 400;" width="168">4/7/22 1:23 PM</td>
+<td style="font-weight: 400;" width="166">4/7/22 1:39 PM</td>
+<td style="font-weight: 400;" width="207">Armory</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU00431</td>
+<td style="font-weight: 400;" width="168">4/7/22 1:40 PM</td>
+<td style="font-weight: 400;" width="166">4/7/22 3:09 PM</td>
+<td style="font-weight: 400;" width="207">Hampton Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-044670</td>
+<td style="font-weight: 400;" width="168">4/6/22 8:14 PM</td>
+<td style="font-weight: 400;" width="166">4/6/22 8:14 PM</td>
+<td style="font-weight: 400;" width="207">219 Waldron St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -672,7 +723,7 @@
 <td style="font-weight: 400;" width="168">4/5/22 8:35 AM</td>
 <td style="font-weight: 400;" width="166">4/5/22 9:34 AM</td>
 <td style="font-weight: 400;" width="207">Purdue Memorial Union</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>
