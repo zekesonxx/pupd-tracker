@@ -190,6 +190,16 @@
         
             
                              <li role="none"><a href="https://www.purdue.edu/purdue/commercialization/index.php" role="menuitem">Entrepreneurship and Commercialization</a></li>
+                        
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                             <li role="none"><a href="https://www.purdue.edu/engagement/" role="menuitem">Office of Engagement</a></li>
           </ul>
 </nav>
 
@@ -279,8 +289,8 @@
 					</section>
 					<button aria-expanded="false" aria-haspopup="true" class="header__goldBar__search">
 						<i class="fas fa-search" aria-hidden="true"></i>
+						<span class="sr-only">Search</span>
 					</button>
-					<span class="sr-only">Search</span>
 					
 <section class="header__goldBar__search--dropdown" id="searchDropdown">
 <div class="header__goldBar__search--container">
@@ -575,419 +585,355 @@
 						
   
     	<section class="content__group">
-  					<table border="0" cellpadding="0" cellspacing="0" height="1364" style="width: 100%;" summary="Fire statitics"><colgroup><col width="242"/> <col width="129"/> <col width="126"/> <col width="127"/></colgroup>
+  					<table width="100%">
 <tbody>
-<tr height="25">
-<td height="25" style="width: 243.466px;"></td>
-<td align="right" class="xl63" style="width: 129.83px;"></td>
-<td align="right" class="xl63" style="width: 124.375px;"><strong>2018</strong></td>
-<td align="right" class="xl63" style="width: 126.193px;"><strong>2019</strong></td>
-<td align="right" class="xl63" style="width: 131.648px;"><strong>2020</strong></td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="337"></td>
+<td style="height: 18px;" width="127"><strong>2019</strong></td>
+<td style="height: 18px;" width="131"><strong>2020</strong></td>
+<td style="height: 18px;" width="130"><strong>2021</strong></td>
 </tr>
-<tr height="25">
-<td class="xl63" height="25" style="width: 243.466px;"><strong>FIRES</strong></td>
-<td style="width: 129.83px;"></td>
-<td style="width: 124.375px;"></td>
-<td style="width: 126.193px;"></td>
-<td style="width: 131.648px;"></td>
+<tr style="height: 18px;">
+<td style="height: 18px;"><strong>FIRE</strong></td>
+<td style="height: 18px;"></td>
+<td style="height: 18px;"></td>
+<td style="height: 18px;"></td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Building Fires</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">5</td>
-<td align="right" style="width: 126.193px;">2</td>
-<td align="right" style="width: 131.648px;">2</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Building Fires</td>
+<td style="height: 18px;">2</td>
+<td style="height: 18px;">2</td>
+<td style="height: 18px;">14</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Cooking Fires</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">6</td>
-<td align="right" style="width: 126.193px;">2</td>
-<td align="right" style="width: 131.648px;">1</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Cooking Fires</td>
+<td style="height: 18px;">2</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">5</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Trash, Dumpster Fires</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">12</td>
-<td align="right" style="width: 126.193px;">8</td>
-<td align="right" style="width: 131.648px;">9</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Trash, Dumpster Fires</td>
+<td style="height: 18px;">8</td>
+<td style="height: 18px;">9</td>
+<td style="height: 18px;">2</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Outside Vegetation Fires&#160;</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">8</td>
-<td align="right" style="width: 126.193px;">2</td>
-<td align="right" style="width: 131.648px;">3</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Outside Vegitation Fire&#160;</td>
+<td style="height: 18px;">2</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">2</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Vehicle Fires</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">4</td>
-<td align="right" style="width: 126.193px;">3</td>
-<td align="right" style="width: 131.648px;">0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Vehicle Fire</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">2</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Other Fires&#160;</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">4</td>
-<td align="right" style="width: 126.193px;">6</td>
-<td align="right" style="width: 131.648px;">9</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Other Fires&#160;</td>
+<td style="height: 18px;">6</td>
+<td style="height: 18px;">9</td>
+<td style="height: 18px;">2</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;"></td>
-<td style="width: 129.83px;"></td>
-<td style="width: 124.375px;"></td>
-<td style="width: 126.193px;"></td>
-<td style="width: 131.648px;"></td>
+<tr style="height: 21px;">
+<td style="height: 21px;"></td>
+<td style="height: 21px;"></td>
+<td style="height: 21px;"></td>
+<td style="height: 21px;"></td>
 </tr>
-<tr height="25">
-<td class="xl63" colspan="2" height="25" style="width: 375.284px;"><strong>OVERPRESSURE,&#160;RUPTURE, OVERHEAT</strong></td>
-<td style="width: 124.375px;"></td>
-<td style="width: 126.193px;"></td>
-<td style="width: 131.648px;"></td>
+<tr style="height: 18px;">
+<td style="height: 18px;"><strong>OVERPRESSURE, RUPTURE, OVERHEAT</strong></td>
+<td style="height: 18px;"></td>
+<td style="height: 18px;"></td>
+<td style="height: 18px;"></td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Chemical Reaction, Rupture</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">0</td>
-<td align="right" style="width: 126.193px;">0</td>
-<td align="right" style="width: 131.648px;">1</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Chemical Reaction, Rupture</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">1</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Excessive Heat</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">2</td>
-<td align="right" style="width: 126.193px;">3</td>
-<td align="right" style="width: 131.648px;">2</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Excessive Heat</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">2</td>
+<td style="height: 18px;">1</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Steam Line Rupture</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">1</td>
-<td align="right" style="width: 126.193px;">1</td>
-<td align="right" style="width: 131.648px;">0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Steam Line Rupture</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Air/Gas Line Rupture</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">1</td>
-<td align="right" style="width: 126.193px;">0</td>
-<td align="right" style="width: 131.648px;">0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Air/Gas Line Rupture</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;"></td>
-<td style="width: 129.83px;"></td>
-<td style="width: 124.375px;"></td>
-<td style="width: 126.193px;"></td>
-<td style="width: 131.648px;"></td>
+<tr style="height: 20px;">
+<td style="height: 20px;"></td>
+<td style="height: 20px;"></td>
+<td style="height: 20px;"></td>
+<td style="height: 20px;"></td>
 </tr>
-<tr height="25">
-<td class="xl63" height="25" style="width: 243.466px;"><strong>RESCUE, EMS INCIDENTS</strong></td>
-<td style="width: 129.83px;"></td>
-<td style="width: 124.375px;"></td>
-<td style="width: 126.193px;"></td>
-<td style="width: 131.648px;"></td>
+<tr style="height: 18px;">
+<td style="height: 18px;"><strong>RESCUE, EMS INCIDENTS</strong></td>
+<td style="height: 18px;"></td>
+<td style="height: 18px;"></td>
+<td style="height: 18px;"></td>
 </tr>
-<tr height="20">
-<td class="xl64" height="20" style="width: 243.466px;">EMS Calls</td>
-<td align="right" class="xl64" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">1129</td>
-<td align="right" style="width: 126.193px;">1280</td>
-<td align="right" style="width: 131.648px;">942</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">EMS calls</td>
+<td style="height: 18px;">1280</td>
+<td style="height: 18px;">942</td>
+<td style="height: 18px;">1,628</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Assist Ambulance</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">174</td>
-<td align="right" style="width: 126.193px;">113</td>
-<td align="right" style="width: 131.648px;">120</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Assist Ambulance</td>
+<td style="height: 18px;">113</td>
+<td style="height: 18px;">120</td>
+<td style="height: 18px;">140</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Motor Vehicle Accidents</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">26</td>
-<td align="right" style="width: 126.193px;">10</td>
-<td align="right" style="width: 131.648px;">3</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Motor Vehicle/Pedestrian Accidents</td>
+<td style="height: 18px;">14</td>
+<td style="height: 18px;">11</td>
+<td style="height: 18px;">16</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Motor Vehicle/Pedestrian Accidents</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">6</td>
-<td align="right" style="width: 126.193px;">4</td>
-<td align="right" style="width: 131.648px;">8</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Search for Missing Person</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Search for Missing Person</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">1</td>
-<td align="right" style="width: 126.193px;">1</td>
-<td align="right" style="width: 131.648px;">0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Extrication from Vehicle/Machine</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">1</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Extrication from Vehicle/Machine</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">1</td>
-<td align="right" style="width: 126.193px;">3</td>
-<td align="right" style="width: 131.648px;">3</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Extrication from Stalled Elevator</td>
+<td style="height: 18px;">71</td>
+<td style="height: 18px;">54</td>
+<td style="height: 18px;">68</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Extrication from Stalled Elevator</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">50</td>
-<td align="right" style="width: 126.193px;">71</td>
-<td align="right" style="width: 131.648px;">54</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Trench/Confined Space Rescue&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Trench/Confined Space Rescue&#160;</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">0</td>
-<td align="right" style="width: 126.193px;">0</td>
-<td align="right" style="width: 131.648px;">3</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Other EMS or Rescue Services</td>
+<td style="height: 18px;">34</td>
+<td style="height: 18px;">28</td>
+<td style="height: 18px;">31</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Other EMS or Rescue Services</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">14</td>
-<td align="right" style="width: 126.193px;">34</td>
-<td align="right" style="width: 131.648px;">28</td>
+<tr style="height: 24px;">
+<td style="height: 24px;"></td>
+<td style="height: 24px;"></td>
+<td style="height: 24px;"></td>
+<td style="height: 24px;"></td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;"></td>
-<td style="width: 129.83px;"></td>
-<td style="width: 124.375px;"></td>
-<td style="width: 126.193px;"></td>
-<td style="width: 131.648px;"></td>
+<tr style="height: 18px;">
+<td style="height: 18px;"><strong>HAZARDOUS CONDITIONS</strong></td>
+<td style="height: 18px;"></td>
+<td style="height: 18px;"></td>
+<td style="height: 18px;"></td>
 </tr>
-<tr height="25">
-<td class="xl63" height="25" style="width: 243.466px;"><strong>HAZARDOUS CONDITIONS</strong></td>
-<td style="width: 129.83px;"></td>
-<td style="width: 124.375px;"></td>
-<td style="width: 126.193px;"></td>
-<td style="width: 131.648px;"></td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Flammable Liquid/Gas Leak</td>
+<td style="height: 18px;">64</td>
+<td style="height: 18px;">57</td>
+<td style="height: 18px;">37</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Flammable Liquid/Gas Leak</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">42</td>
-<td align="right" style="width: 126.193px;">64</td>
-<td align="right" style="width: 131.648px;">57</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Chemical Spill or Leak</td>
+<td style="height: 18px;">12</td>
+<td style="height: 18px;">10</td>
+<td style="height: 18px;">6</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Chemical Spill or Leak</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">13</td>
-<td align="right" style="width: 126.193px;">12</td>
-<td align="right" style="width: 131.648px;">10</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Radiation Spill or Leak</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Radiation Spill or Leak</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">1</td>
-<td align="right" style="width: 126.193px;">0</td>
-<td align="right" style="width: 131.648px;">0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Electrical Hazards</td>
+<td style="height: 18px;">6</td>
+<td style="height: 18px;">14</td>
+<td style="height: 18px;">8</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Electrical Hazards</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">9</td>
-<td align="right" style="width: 126.193px;">6</td>
-<td align="right" style="width: 131.648px;">14</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Biological Hazards</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Biological Hazards</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">0</td>
-<td align="right" style="width: 126.193px;">1</td>
-<td align="right" style="width: 131.648px;">0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Aircraft Standby/Emergencies</td>
+<td style="height: 18px;">103</td>
+<td style="height: 18px;">90</td>
+<td style="height: 18px;">117</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Aircraft Standby/Emergencies</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">120</td>
-<td align="right" style="width: 126.193px;">103</td>
-<td align="right" style="width: 131.648px;">90</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Other Hazardous Conditions</td>
+<td style="height: 18px;">2</td>
+<td style="height: 18px;">8</td>
+<td style="height: 18px;">6</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Other Hazardous Conditions</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">2</td>
-<td align="right" style="width: 126.193px;">2</td>
-<td align="right" style="width: 131.648px;">8</td>
+<tr style="height: 32px;">
+<td style="height: 32px;"></td>
+<td style="height: 32px;"></td>
+<td style="height: 32px;"></td>
+<td style="height: 32px;"></td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;"></td>
-<td style="width: 129.83px;"></td>
-<td style="width: 124.375px;"></td>
-<td style="width: 126.193px;"></td>
-<td style="width: 131.648px;"></td>
+<tr style="height: 18px;">
+<td style="height: 18px;"><strong>Public Service</strong></td>
+<td style="height: 18px;"></td>
+<td style="height: 18px;"></td>
+<td style="height: 18px;"></td>
 </tr>
-<tr height="25">
-<td class="xl63" height="25" style="width: 243.466px;"><strong>PUBLIC SERVICE</strong></td>
-<td style="width: 129.83px;"></td>
-<td style="width: 124.375px;"></td>
-<td style="width: 126.193px;"></td>
-<td style="width: 131.648px;"></td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Public Assistance</td>
+<td style="height: 18px;">305</td>
+<td style="height: 18px;">1074</td>
+<td style="height: 18px;">*2,340</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Public Assistance</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">345</td>
-<td align="right" style="width: 126.193px;">305</td>
-<td align="right" style="width: 131.648px;">1074</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Water/Steam Leaks</td>
+<td style="height: 18px;">98</td>
+<td style="height: 18px;">78</td>
+<td style="height: 18px;">77</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Water/Steam Leaks</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">125</td>
-<td align="right" style="width: 126.193px;">98</td>
-<td align="right" style="width: 131.648px;">78</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Smoke/Odor Removal</td>
+<td style="height: 18px;">6</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">5</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Smoke/Odor Removal</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">12</td>
-<td align="right" style="width: 126.193px;">6</td>
-<td align="right" style="width: 131.648px;">0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Defective Elevators/No Occupants</td>
+<td style="height: 18px;">32</td>
+<td style="height: 18px;">52</td>
+<td style="height: 18px;">42</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Defective Elevators/No Occupants</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">54</td>
-<td align="right" style="width: 126.193px;">32</td>
-<td align="right" style="width: 131.648px;">52</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Cover Assignment, Standby</td>
+<td style="height: 18px;">32</td>
+<td style="height: 18px;">17</td>
+<td style="height: 18px;">15</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Cover Assignment, Standby</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">17</td>
-<td align="right" style="width: 126.193px;">32</td>
-<td align="right" style="width: 131.648px;">17</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Assist Police/Government Agency</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">3</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Assist Police/Government Agency</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">6</td>
-<td align="right" style="width: 126.193px;">3</td>
-<td align="right" style="width: 131.648px;">3</td>
+<tr style="height: 21px;">
+<td style="height: 21px;"></td>
+<td style="height: 21px;"></td>
+<td style="height: 21px;"></td>
+<td style="height: 21px;"></td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;"></td>
-<td style="width: 129.83px;"></td>
-<td style="width: 124.375px;"></td>
-<td style="width: 126.193px;"></td>
-<td style="width: 131.648px;"></td>
+<tr style="height: 18px;">
+<td style="height: 18px;"><strong>Good Intent Call</strong></td>
+<td style="height: 18px;"></td>
+<td style="height: 18px;"></td>
+<td style="height: 18px;"></td>
 </tr>
-<tr height="25">
-<td class="xl63" height="25" style="width: 243.466px;"><strong>GOOD INTENT CALLS</strong></td>
-<td style="width: 129.83px;"></td>
-<td style="width: 124.375px;"></td>
-<td style="width: 126.193px;"></td>
-<td style="width: 131.648px;"></td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Cancelled En Route</td>
+<td style="height: 18px;">14</td>
+<td style="height: 18px;">15</td>
+<td style="height: 18px;">14</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Canceled En Route</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">18</td>
-<td align="right" style="width: 126.193px;">14</td>
-<td align="right" style="width: 131.648px;">15</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">No Incident Found</td>
+<td style="height: 18px;">34</td>
+<td style="height: 18px;">16</td>
+<td style="height: 18px;">12</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">No Incident Found</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">25</td>
-<td align="right" style="width: 126.193px;">34</td>
-<td align="right" style="width: 131.648px;">16</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Steam/Dust Mistaken for Smoke</td>
+<td style="height: 18px;">7</td>
+<td style="height: 18px;">2</td>
+<td style="height: 18px;">1</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Steam/Dust Mistaken for Smoke</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">0</td>
-<td align="right" style="width: 126.193px;">7</td>
-<td align="right" style="width: 131.648px;">2</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Smoke/Odor Investigation</td>
+<td style="height: 18px;">38</td>
+<td style="height: 18px;">16</td>
+<td style="height: 18px;">16</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Smoke/Odor Investigation</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">25</td>
-<td align="right" style="width: 126.193px;">38</td>
-<td align="right" style="width: 131.648px;">16</td>
+<tr style="height: 19px;">
+<td style="height: 19px;"></td>
+<td style="height: 19px;"></td>
+<td style="height: 19px;"></td>
+<td style="height: 19px;"></td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;"></td>
-<td style="width: 129.83px;"></td>
-<td style="width: 124.375px;"></td>
-<td style="width: 126.193px;"></td>
-<td style="width: 131.648px;"></td>
+<tr style="height: 18px;">
+<td style="height: 18px;"><strong>Alarm Response</strong></td>
+<td style="height: 18px;"></td>
+<td style="height: 18px;"></td>
+<td style="height: 18px;"></td>
 </tr>
-<tr height="25">
-<td class="xl63" height="25" style="width: 243.466px;"><strong>ALARM RESPONSE</strong></td>
-<td style="width: 129.83px;"></td>
-<td style="width: 124.375px;"></td>
-<td style="width: 126.193px;"></td>
-<td style="width: 131.648px;"></td>
+<tr style="height: 18px;">
+<td style="height: 18px;">False Alarms</td>
+<td style="height: 18px;">117</td>
+<td style="height: 18px;">106</td>
+<td style="height: 18px;">100</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">False Alarms</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">108</td>
-<td align="right" style="width: 126.193px;">117</td>
-<td align="right" style="width: 131.648px;">106</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Malicious Alarms</td>
+<td style="height: 18px;">7</td>
+<td style="height: 18px;">4</td>
+<td style="height: 18px;">4</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Malicious Alarms</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">16</td>
-<td align="right" style="width: 126.193px;">7</td>
-<td align="right" style="width: 131.648px;">4</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Bomb Scare/Threat</td>
+<td style="height: 18px;">2</td>
+<td style="height: 18px;">12</td>
+<td style="height: 18px;">1</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Bomb Scare/Threat</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">4</td>
-<td align="right" style="width: 126.193px;">2</td>
-<td align="right" style="width: 131.648px;">12</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Unintentional Transmission of Alarm</td>
+<td style="height: 18px;">94</td>
+<td style="height: 18px;">71</td>
+<td style="height: 18px;">122</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Unintentional Transmission of Alarm</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">78</td>
-<td align="right" style="width: 126.193px;">94</td>
-<td align="right" style="width: 131.648px;">71</td>
+<tr style="height: 18px;">
+<td style="height: 18px;">Maintenance Required Alarm</td>
+<td style="height: 18px;">209</td>
+<td style="height: 18px;">219</td>
+<td style="height: 18px;">153</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;">Maintenance Required Alarm</td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;">254</td>
-<td align="right" style="width: 126.193px;">209</td>
-<td align="right" style="width: 131.648px;">219</td>
+<tr style="height: 18.8125px;">
+<td style="height: 18.8125px;"></td>
+<td style="height: 18.8125px;"></td>
+<td style="height: 18.8125px;"></td>
+<td style="height: 18.8125px;"></td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;"></td>
-<td style="width: 129.83px;"></td>
-<td style="width: 124.375px;"></td>
-<td style="width: 126.193px;"></td>
-<td style="width: 131.648px;"></td>
+<tr style="height: 18px;">
+<td style="height: 18px;"><strong>Total Calls</strong></td>
+<td style="height: 18px;">2729</td>
+<td style="height: 18px;">3048</td>
+<td style="height: 18px;">4950</td>
 </tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;"></td>
-<td style="width: 129.83px;"></td>
-<td style="width: 124.375px;"></td>
-<td style="width: 126.193px;"></td>
-<td style="width: 131.648px;"></td>
+<tr style="height: 28px;">
+<td style="height: 28px;"></td>
+<td style="height: 28px;"></td>
+<td style="height: 28px;"></td>
+<td style="height: 28px;"></td>
 </tr>
-<tr height="25">
-<td class="xl63" height="25" style="width: 243.466px;"><strong>TOTAL CALLS&#160;</strong></td>
-<td align="right" style="width: 129.83px;"></td>
-<td align="right" style="width: 124.375px;"><strong>2718</strong></td>
-<td align="right" style="width: 126.193px;"><strong>2729</strong></td>
-<td align="right" style="width: 131.648px;"><strong>3048</strong></td>
-</tr>
-<tr height="20">
-<td height="20" style="width: 243.466px;"></td>
-<td style="width: 129.83px;"></td>
-<td style="width: 124.375px;"></td>
-<td style="width: 126.193px;"></td>
-<td style="width: 131.648px;"></td>
+<tr style="height: 18px;">
+<td style="height: 18px;">*Includes COVID transports</td>
+<td style="height: 18px;"></td>
+<td style="height: 18px;"></td>
+<td style="height: 18px;"></td>
 </tr>
 </tbody>
 </table>
@@ -1248,12 +1194,12 @@
         
                             
                                 
-                <li role="listitem"><a href="https://www.purdue.edu/ehps/police/reports/">Annual Security Report</a></li>
+                <li role="listitem"><a href="https://www.purdue.edu/ehps/police/statistics-policies/security-reports.php">Annual Security Report</a></li>
                                 
         
                             
                                 
-                <li role="listitem"><a href="https://www.purdue.edu/timely-warnings/">Timely Warnings</a></li>
+                <li role="listitem"><a href="https://www.purdue.edu/ehps/police/timely-warnings/">Timely Warnings</a></li>
         
         </ul>
 </div>
@@ -1465,7 +1411,7 @@
 <section class="footer__contact">
     <article class="footer__contact--list">
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
-		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2021 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:fire@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Fire Department</a></p>
+		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2022 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:fire@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Fire Department</a></p>
         
                                  
         
