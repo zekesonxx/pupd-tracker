@@ -289,8 +289,8 @@
 					</section>
 					<button aria-expanded="false" aria-haspopup="true" class="header__goldBar__search">
 						<i class="fas fa-search" aria-hidden="true"></i>
+						<span class="sr-only">Search</span>
 					</button>
-					<span class="sr-only">Search</span>
 					
 <section class="header__goldBar__search--dropdown" id="searchDropdown">
 <div class="header__goldBar__search--container">
@@ -806,7 +806,7 @@
 <td style="font-weight: 400;" width="168">2/28/22 9:28 PM</td>
 <td style="font-weight: 400;" width="166">2/28/22 9:38 PM</td>
 <td style="font-weight: 400;" width="207">Tarkington Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>

@@ -289,8 +289,8 @@
 					</section>
 					<button aria-expanded="false" aria-haspopup="true" class="header__goldBar__search">
 						<i class="fas fa-search" aria-hidden="true"></i>
+						<span class="sr-only">Search</span>
 					</button>
-					<span class="sr-only">Search</span>
 					
 <section class="header__goldBar__search--dropdown" id="searchDropdown">
 <div class="header__goldBar__search--container">
@@ -603,6 +603,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log</h2>
 <ul>
+<li><a href="#" title="040422 Daily Crime Log">Week of April 4, 2022</a></li>
 <li><a href="032822-daily-crime-log.php" title="032822 Daily Crime Log">Week of March 28, 2022</a></li>
 <li><a href="032122-daily-crime-log.php" title="032122 Daily Crime Log">Week of March 21, 2022</a></li>
 <li><a href="031422-daily-crime-log.php">Week of March 14, 2022</a></li>

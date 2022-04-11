@@ -289,8 +289,8 @@
 					</section>
 					<button aria-expanded="false" aria-haspopup="true" class="header__goldBar__search">
 						<i class="fas fa-search" aria-hidden="true"></i>
+						<span class="sr-only">Search</span>
 					</button>
-					<span class="sr-only">Search</span>
 					
 <section class="header__goldBar__search--dropdown" id="searchDropdown">
 <div class="header__goldBar__search--container">
@@ -651,7 +651,7 @@
 <td style="font-weight: 400; height: 36px;" width="168">3/25/22 5:18 PM</td>
 <td style="font-weight: 400; height: 36px;" width="166">3/30/22 5:44 PM</td>
 <td style="font-weight: 400; height: 36px;" width="207">300 Blk W Wood St</td>
-<td style="font-weight: 400; height: 36px;" width="181">Under Investigation</td>
+<td style="font-weight: 400; height: 36px;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr style="height: 72px;">
 <td style="font-weight: 400; height: 72px;" width="157">Theft</td>
@@ -875,7 +875,7 @@
 <td style="font-weight: 400;" width="168">3/27/22 3:28 AM</td>
 <td style="font-weight: 400;" width="166">3/27/22 3:45 AM</td>
 <td style="font-weight: 400;" width="207">Meredith South</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation/ Minor Possession</td>
@@ -883,7 +883,7 @@
 <td style="font-weight: 400;" width="168">3/27/22 4:40 AM</td>
 <td style="font-weight: 400;" width="166">3/27/22 4:42 AM</td>
 <td style="font-weight: 400;" width="207">Harrison Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Blackmail</td>
