@@ -587,11 +587,6 @@
         
                 
     
-    <li role="none"><a href="daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
-                                                                            
-        
-                
-    
     <li role="none"><a href="drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                                             
         
@@ -663,7 +658,50 @@
   
     	<section class="content__group">
   					<h3>Tuesday, April 12, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00458</td>
+<td style="font-weight: 400;" width="168">4/8/22 5:00 PM</td>
+<td style="font-weight: 400;" width="166">4/11/22 11:46 AM</td>
+<td style="font-weight: 400;" width="207">Krannert Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00460</td>
+<td style="font-weight: 400;" width="168">4/5/22 12:30 PM</td>
+<td style="font-weight: 400;" width="166">4/11/22 2:49 PM</td>
+<td style="font-weight: 400;" width="207">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00462</td>
+<td style="font-weight: 400;" width="168">4/11/22 10:00 PM</td>
+<td style="font-weight: 400;" width="166">4/12/22 12:23 AM</td>
+<td style="font-weight: 400;" width="207">Wetherill Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00463</td>
+<td style="font-weight: 400;" width="168">4/12/22 2:30 AM</td>
+<td style="font-weight: 400;" width="166">4/12/22 3:35 AM</td>
+<td style="font-weight: 400;" width="207">Bell Tower</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -790,14 +828,6 @@
 <td style="font-weight: 400;" width="168">4/10/22 12:55 AM</td>
 <td style="font-weight: 400;" width="166">4/10/22 1:08 AM</td>
 <td style="font-weight: 400;" width="207">Harrison Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="157">Operating While Intoxicated/ Minor Possession</td>
-<td style="font-weight: 400;" width="154">2022PU00452</td>
-<td style="font-weight: 400;" width="168">4/10/22 2:52 AM</td>
-<td style="font-weight: 400;" width="166">4/10/22 3:27 AM</td>
-<td style="font-weight: 400;" width="207">S River Rd/ US 231</td>
 <td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
