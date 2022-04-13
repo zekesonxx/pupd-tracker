@@ -651,7 +651,66 @@
   
     	<section class="content__group">
   					<h3>Wednesday, April 13, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="width: 157px; text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00464</td>
+<td style="font-weight: 400;" width="168">4/11/22 7:30 AM</td>
+<td style="font-weight: 400;" width="166">4/12/22 9:17 AM</td>
+<td style="font-weight: 400;" width="207">Materials Management and Distribution Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00465</td>
+<td style="font-weight: 400;" width="168">4/11/22 8:00 PM</td>
+<td style="font-weight: 400;" width="166">4/12/22 11:35 AM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00466</td>
+<td style="font-weight: 400;" width="168">4/11/22 9:00 PM</td>
+<td style="font-weight: 400;" width="166">4/12/22 11:51 AM</td>
+<td style="font-weight: 400;" width="207">Aspire</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00469</td>
+<td style="font-weight: 400;" width="168">3/15/22 12:00 AM</td>
+<td style="font-weight: 400;" width="166">4/12/22 5:04 PM</td>
+<td style="font-weight: 400;" width="207">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00470</td>
+<td style="font-weight: 400;" width="168">4/5/22 1:30 PM</td>
+<td style="font-weight: 400;" width="166">4/12/22 5:43 PM</td>
+<td style="font-weight: 400;" width="207">Lawson Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-047094</td>
+<td style="font-weight: 400;" width="168">4/12/22 12:15 AM</td>
+<td style="font-weight: 400;" width="166">4/12/22 12:15 AM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
