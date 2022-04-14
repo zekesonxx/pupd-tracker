@@ -644,7 +644,66 @@
   
     	<section class="content__group">
   					<h3>Thursday, April 14, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00473</td>
+<td style="font-weight: 400;" width="168">4/13/22 11:09 AM</td>
+<td style="font-weight: 400;" width="166">4/13/22 11:28 AM</td>
+<td style="font-weight: 400;" width="207">Grant St Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00474</td>
+<td style="font-weight: 400;" width="168">4/13/22 1:00 PM</td>
+<td style="font-weight: 400;" width="166">4/13/22 1:17 PM</td>
+<td style="font-weight: 400;" width="207">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Threats</td>
+<td style="font-weight: 400;" width="154">2022PU00475</td>
+<td style="font-weight: 400;" width="168">1/21/22 10:12 AM</td>
+<td style="font-weight: 400;" width="166">4/13/22 2:36 PM</td>
+<td style="font-weight: 400;" width="207">Lynn Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00476</td>
+<td style="font-weight: 400;" width="168">4/13/22 10:00 AM</td>
+<td style="font-weight: 400;" width="166">4/13/22 5:09 PM</td>
+<td style="font-weight: 400;" width="207">Harrison St Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Trespass</td>
+<td style="font-weight: 400;" width="154">2022PU00477</td>
+<td style="font-weight: 400;" width="168">4/13/22 8:03 PM</td>
+<td style="font-weight: 400;" width="166">4/13/22 8:18 PM</td>
+<td style="font-weight: 400;" width="207">W State St/ N Grant St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-047441</td>
+<td style="font-weight: 400;" width="168">4/12/22 7:48 PM</td>
+<td style="font-weight: 400;" width="166">4/12/22 7:48 PM</td>
+<td style="font-weight: 400;" width="207">1100 Blk W Stadium Ave</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

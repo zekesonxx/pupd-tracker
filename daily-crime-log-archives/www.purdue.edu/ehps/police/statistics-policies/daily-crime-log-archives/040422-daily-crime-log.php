@@ -814,7 +814,7 @@
 <td style="font-weight: 400;" width="168">3/31/22 10:20 AM</td>
 <td style="font-weight: 400;" width="166">3/31/22 10:20 AM</td>
 <td style="font-weight: 400;" width="207">Contractor Storage Lot</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>
@@ -922,7 +922,7 @@
 <td style="font-weight: 400;" width="168">4/2/22 2:29 PM</td>
 <td style="font-weight: 400;" width="166">4/2/22 3:06 PM</td>
 <td style="font-weight: 400;" width="207">Sigma Nu</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft-EMPV</td>
@@ -962,7 +962,7 @@
 <td style="font-weight: 400;" width="168">4/3/22 3:50 AM</td>
 <td style="font-weight: 400;" width="166">4/3/22 4:07 AM</td>
 <td style="font-weight: 400;" width="207">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>
