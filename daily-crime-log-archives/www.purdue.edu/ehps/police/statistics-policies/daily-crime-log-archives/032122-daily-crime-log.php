@@ -643,7 +643,7 @@
 <td style="font-weight: 400;" width="168">3/14/22 11:27 AM</td>
 <td style="font-weight: 400;" width="166">3/24/22 8:34 AM</td>
 <td style="font-weight: 400;" width="207">1000 Blk Northwestern Ave</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Hit &amp; Run</td>
