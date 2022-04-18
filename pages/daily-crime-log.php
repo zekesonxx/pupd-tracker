@@ -398,7 +398,7 @@
         
                                                             
         
-        <li role="none"><a href="daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+        <li role="none"><a href="daily-crime-log.php" role="menuitem"> Daily Crime Log</a></li>
                                                     
         
                                                             
@@ -552,7 +552,7 @@
                                 
         
                 
-                     <li>Daily Crime Log</li>
+                     <li> Daily Crime Log</li>
         
     </ul>
 </nav> 
@@ -665,7 +665,130 @@
   
     	<section class="content__group">
   					<h3>Monday, April 18, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00479</td>
+<td style="font-weight: 400;" width="168">4/1/22 2:11 PM</td>
+<td style="font-weight: 400;" width="166">4/15/22 9:47 AM</td>
+<td style="font-weight: 400;" width="207">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Public Intoxication/ Assisting Another Agency</td>
+<td style="font-weight: 400;" width="154">2022PU00482</td>
+<td style="font-weight: 400;" width="168">4/15/22 9:15 AM</td>
+<td style="font-weight: 400;" width="166">4/15/22 9:47 AM</td>
+<td style="font-weight: 400;" width="207">600 Block Harrison St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00483</td>
+<td style="font-weight: 400;" width="168">4/15/22 8:35 PM</td>
+<td style="font-weight: 400;" width="166">4/15/22 8:51 PM</td>
+<td style="font-weight: 400;" width="207">Krannert Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violations</td>
+<td style="font-weight: 400;" width="154">2022PU00484</td>
+<td style="font-weight: 400;" width="168">4/15/22 9:37 PM</td>
+<td style="font-weight: 400;" width="166">4/15/22 9:55 PM</td>
+<td style="font-weight: 400;" width="207">US 231/ S River Rd</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Minor Possession</td>
+<td style="font-weight: 400;" width="154">2022PU00485</td>
+<td style="font-weight: 400;" width="168">4/16/22 12:43 AM</td>
+<td style="font-weight: 400;" width="166">4/16/22 1:08 AM</td>
+<td style="font-weight: 400;" width="207">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU00486</td>
+<td style="font-weight: 400;" width="168">4/9/22 12:00 AM</td>
+<td style="font-weight: 400;" width="166">4/16/22 10:00 AM</td>
+<td style="font-weight: 400;" width="207">Hawkins Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00487</td>
+<td style="font-weight: 400;" width="168">4/9/22 7:00 PM</td>
+<td style="font-weight: 400;" width="166">4/16/22 11:52 AM</td>
+<td style="font-weight: 400;" width="207">Tower Dr/ Beering Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violations</td>
+<td style="font-weight: 400;" width="154">2022PU00489</td>
+<td style="font-weight: 400;" width="168">4/16/22 10:48 PM</td>
+<td style="font-weight: 400;" width="166">4/16/22 10:59 PM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Garage</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violations</td>
+<td style="font-weight: 400;" width="154">2022PU00491</td>
+<td style="font-weight: 400;" width="168">4/16/22 10:48 PM</td>
+<td style="font-weight: 400;" width="166">4/16/22 11:51 PM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Garage</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00492</td>
+<td style="font-weight: 400;" width="168">4/17/22 1:53 AM</td>
+<td style="font-weight: 400;" width="166">4/17/22 12:25 AM</td>
+<td style="font-weight: 400;" width="207">3rd St/MacArthur Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2022PU00495</td>
+<td style="font-weight: 400;" width="168">4/17/22 5:17 PM</td>
+<td style="font-weight: 400;" width="166">4/17/22 5:36 PM</td>
+<td style="font-weight: 400;" width="207">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Traffic Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00497</td>
+<td style="font-weight: 400;" width="168">4/17/22 10:59 PM</td>
+<td style="font-weight: 400;" width="166">4/18/22 4:24 AM</td>
+<td style="font-weight: 400;" width="207">W State St/ McCormick Rd</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Fraud</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-049311</td>
+<td style="font-weight: 400;" width="168">4/16/22 3:04 PM</td>
+<td style="font-weight: 400;" width="166">4/16/22 3:04 PM</td>
+<td style="font-weight: 400;" width="207">Meredith South&#160;</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Theft</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-048855</td>
+<td style="font-weight: 400;" width="168">4/15/22 4:35 PM</td>
+<td style="font-weight: 400;" width="166">4/15/22 4:35 PM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
