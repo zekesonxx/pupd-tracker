@@ -398,7 +398,7 @@
         
                                                             
         
-        <li role="none"><a href="../daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+        <li role="none"><a href="../daily-crime-log.php" role="menuitem"> Daily Crime Log</a></li>
                                                     
         
                                                             
@@ -693,7 +693,7 @@
 <td style="font-weight: 400; height: 1.78125px;" width="168">3/23/22 11:06 AM</td>
 <td style="font-weight: 400; height: 1.78125px;" width="166">3/23/22 12:48 PM</td>
 <td style="font-weight: 400; height: 1.78125px;" width="207">Earhart Hall</td>
-<td style="font-weight: 400; height: 1.78125px;" width="181">Under Investigation</td>
+<td style="font-weight: 400; height: 1.78125px;" width="181">Suspended</td>
 </tr>
 <tr style="height: 36px;">
 <td style="font-weight: 400; height: 36px;" width="157">Public Intoxication</td>

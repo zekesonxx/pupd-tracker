@@ -658,7 +658,42 @@
   
     	<section class="content__group">
   					<h3>Tuesday, April 19, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00489</td>
+<td style="font-weight: 400;" width="168">4/16/22 10:48 PM</td>
+<td style="font-weight: 400;" width="166">4/16/22 10:59 PM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Garage</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00502</td>
+<td style="font-weight: 400;" width="168">4/18/22 6:10 PM</td>
+<td style="font-weight: 400;" width="166">4/18/22 6:38 PM</td>
+<td style="font-weight: 400;" width="207">1300 Blk Beering Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-050051</td>
+<td style="font-weight: 400;" width="168">4/18/2022 11:07</td>
+<td style="font-weight: 400;" width="166">4/18/2022 11:07</td>
+<td style="font-weight: 400;" width="207">1240 W Stadium Ave</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

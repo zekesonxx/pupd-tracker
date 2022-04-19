@@ -398,7 +398,7 @@
         
                                                             
         
-        <li role="none"><a href="../daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+        <li role="none"><a href="../daily-crime-log.php" role="menuitem"> Daily Crime Log</a></li>
                                                     
         
                                                             
@@ -841,7 +841,7 @@
 <td style="font-weight: 400;" width="168">4/12/22 2:30 AM</td>
 <td style="font-weight: 400;" width="166">4/12/22 3:35 AM</td>
 <td style="font-weight: 400;" width="207">Bell Tower</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 </tbody>
 </table>
