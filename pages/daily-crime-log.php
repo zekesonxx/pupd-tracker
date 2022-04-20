@@ -669,14 +669,6 @@
 <th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Drug Law Violation</td>
-<td style="font-weight: 400;" width="154">2022PU00489</td>
-<td style="font-weight: 400;" width="168">4/16/22 10:48 PM</td>
-<td style="font-weight: 400;" width="166">4/16/22 10:59 PM</td>
-<td style="font-weight: 400;" width="207">McCutcheon Garage</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
 <td style="font-weight: 400;" width="157">Hit &amp; Run</td>
 <td style="font-weight: 400;" width="154">2022PU00502</td>
 <td style="font-weight: 400;" width="168">4/18/22 6:10 PM</td>
