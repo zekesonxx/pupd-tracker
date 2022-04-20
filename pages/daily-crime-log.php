@@ -651,7 +651,50 @@
   
     	<section class="content__group">
   					<h3>Wednesday, April 20, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="157">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="157">Sex Offense</td>
+<td width="154">2022PU00498</td>
+<td width="168">3/14/22 9:30 AM</td>
+<td width="166">4/18/22 9:34 AM</td>
+<td width="207">Unknown Campus Location</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Invasion of Privacy</td>
+<td style="font-weight: 400;" width="154">2022PU00506</td>
+<td style="font-weight: 400;" width="168">4/19/22 8:28 AM</td>
+<td style="font-weight: 400;" width="166">4/19/22 1:46 PM</td>
+<td style="font-weight: 400;" width="207">Mechanical Engineering</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00507</td>
+<td style="font-weight: 400;" width="168">4/19/22 11:35 PM</td>
+<td style="font-weight: 400;" width="166">4/20/22 12:39 AM</td>
+<td style="font-weight: 400;" width="207">David Ross Rd/Tower Dr</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="157">Blackmail</td>
+<td style="font-weight: 400;" width="154">2022PU00509</td>
+<td style="font-weight: 400;" width="168">4/20/2022 3:47 AM</td>
+<td style="font-weight: 400;" width="166">4/20/2022 3:52 AM</td>
+<td style="font-weight: 400;" width="207">Wiley Residence Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
