@@ -861,7 +861,7 @@
 <td style="font-weight: 400;" width="181">Arrest Made</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="157">Traffic Violation</td>
+<td style="font-weight: 400;" width="157">Driving While Suspended</td>
 <td style="font-weight: 400;" width="154">2022PU00497</td>
 <td style="font-weight: 400;" width="168">4/17/22 10:59 PM</td>
 <td style="font-weight: 400;" width="166">4/18/22 4:24 AM</td>
