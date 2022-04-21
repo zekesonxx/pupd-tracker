@@ -835,7 +835,7 @@
 <td style="font-weight: 400;" width="168">3/19/22 11:04 PM</td>
 <td style="font-weight: 400;" width="166">3/19/22 11:22 PM</td>
 <td style="font-weight: 400;" width="207">Frieda Parker Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Reckless Driving</td>

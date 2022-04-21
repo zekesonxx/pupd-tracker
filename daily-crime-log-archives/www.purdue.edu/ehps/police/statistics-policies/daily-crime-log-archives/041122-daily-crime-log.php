@@ -867,7 +867,7 @@
 <td style="font-weight: 400;" width="168">4/3/22 1:58 AM</td>
 <td style="font-weight: 400;" width="166">4/3/22 2:27 AM</td>
 <td style="font-weight: 400;" width="207">Aspire</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Harassment</td>
@@ -883,7 +883,7 @@
 <td style="font-weight: 400;" width="168">4/7/22 11:46 AM</td>
 <td style="font-weight: 400;" width="166">4/7/22 2:43 PM</td>
 <td style="font-weight: 400;" width="207">3rd St/ N University St</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation/ Traffic Violation</td>
