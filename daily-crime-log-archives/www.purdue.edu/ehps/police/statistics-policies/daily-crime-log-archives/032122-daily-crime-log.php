@@ -793,7 +793,7 @@
 <td style="font-weight: 400;" width="168">3/3/22 12:00 PM</td>
 <td style="font-weight: 400;" width="166">3/21/22 4:40 PM</td>
 <td style="font-weight: 400;" width="207">Electrical Engineering</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>
