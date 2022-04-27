@@ -656,7 +656,82 @@
   
     	<section class="content__group">
   					<h3>Wednesday, April 27, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00500</td>
+<td style="font-weight: 400;" width="168">4/16/22 8:15 AM</td>
+<td style="font-weight: 400;" width="166">4/18/22 3:26 PM</td>
+<td style="font-weight: 400;" width="207">CoRec</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00568</td>
+<td style="font-weight: 400;" width="168">4/26/22 1:16 PM</td>
+<td style="font-weight: 400;" width="166">4/26/22 1:31 PM</td>
+<td style="font-weight: 400;" width="207">The Chill Zone</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00569</td>
+<td style="font-weight: 400;" width="168">4/26/22 11:18 AM</td>
+<td style="font-weight: 400;" width="166">4/26/22 2:40 PM</td>
+<td style="font-weight: 400;" width="207">100 Blk Foundry Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00570</td>
+<td style="font-weight: 400;" width="168">4/26/22 1:00 AM</td>
+<td style="font-weight: 400;" width="166">4/26/22 3:00 PM</td>
+<td style="font-weight: 400;" width="207">Aspire</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00571</td>
+<td style="font-weight: 400;" width="168">3/1/22 3:49 PM</td>
+<td style="font-weight: 400;" width="166">4/26/22 3:58 PM</td>
+<td style="font-weight: 400;" width="207">Wiley Dining Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation/ Traffic Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00573</td>
+<td style="font-weight: 400;" width="168">4/26/22 10:24 PM</td>
+<td style="font-weight: 400;" width="166">4/26/22 11:05 PM</td>
+<td style="font-weight: 400;" width="207">US 231/ S River Rd</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00574</td>
+<td style="font-weight: 400;" width="168">4/26/22 11:17 PM</td>
+<td style="font-weight: 400;" width="166">4/26/22 11:40 PM</td>
+<td style="font-weight: 400;" width="207">Meredith South</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00575</td>
+<td style="font-weight: 400;" width="168">4/27/22 1:34 AM</td>
+<td style="font-weight: 400;" width="166">4/27/22 1:59 AM</td>
+<td style="font-weight: 400;" width="207">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -836,7 +911,7 @@
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Resisting Law Enforcement</td>
+<td style="font-weight: 400;" width="156">Resisting Law Enforcement/Minor Consumption</td>
 <td style="font-weight: 400;" width="154">2022PU00546</td>
 <td style="font-weight: 400;" width="168">4/23/22 1:52 AM</td>
 <td style="font-weight: 400;" width="166">4/23/22 2:04 AM</td>
