@@ -895,7 +895,7 @@
 <td style="font-weight: 400;" width="168">4/19/22 11:35 PM</td>
 <td style="font-weight: 400;" width="166">4/20/22 12:39 AM</td>
 <td style="font-weight: 400;" width="207">David Ross Rd/Tower Dr</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Blackmail</td>

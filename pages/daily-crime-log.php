@@ -649,7 +649,66 @@
   
     	<section class="content__group">
   					<h3>Thursday, April 28, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2022PU00543</td>
+<td style="font-weight: 400;" width="168">4/23/22 12:50 AM</td>
+<td style="font-weight: 400;" width="166">4/23/22 1:02 AM</td>
+<td style="font-weight: 400;" width="207">Alpha Epsilon Pi</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00570</td>
+<td style="font-weight: 400;" width="168">4/26/22 1:00 AM</td>
+<td style="font-weight: 400;" width="166">4/26/22 3:00 PM</td>
+<td style="font-weight: 400;" width="207">Aspire</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU00576</td>
+<td style="font-weight: 400;" width="168">4/27/22 9:12 AM</td>
+<td style="font-weight: 400;" width="166">4/27/22 9:14 AM</td>
+<td style="font-weight: 400;" width="207">Material Management Distribution Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00577</td>
+<td style="font-weight: 400;" width="168">4/27/22 11:07 AM</td>
+<td style="font-weight: 400;" width="166">4/27/22 11:22 AM</td>
+<td style="font-weight: 400;" width="207">Hawkins Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00578</td>
+<td style="font-weight: 400;" width="168">4/26/22 8:00 PM</td>
+<td style="font-weight: 400;" width="166">4/27/22 11:04 PM</td>
+<td style="font-weight: 400;" width="207">Cary Quad&#160;</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2022-054374</td>
+<td style="font-weight: 400;" width="168">4/26/22 11:40 PM</td>
+<td style="font-weight: 400;" width="166">4/26/22 11:40 PM</td>
+<td style="font-weight: 400;" width="207">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -728,7 +787,7 @@
 <td style="font-weight: 400;" width="168">4/27/22 1:34 AM</td>
 <td style="font-weight: 400;" width="166">4/27/22 1:59 AM</td>
 <td style="font-weight: 400;" width="207">Winifred Parker Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 </tbody>
 </table>
@@ -980,7 +1039,7 @@
 <td style="font-weight: 400;" width="168">4/23/22 11:28 PM</td>
 <td style="font-weight: 400;" width="166">4/23/22 11:49 PM</td>
 <td style="font-weight: 400;" width="207">Wiley Dining Court</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Possession</td>
