@@ -642,7 +642,58 @@
   
     	<section class="content__group">
   					<h3>Friday, April 29, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Threats</td>
+<td style="font-weight: 400;" width="154">2022PU00511</td>
+<td style="font-weight: 400;" width="168">4/20/22 2:41 PM</td>
+<td style="font-weight: 400;" width="166">4/20/22 5:33 PM</td>
+<td style="font-weight: 400;" width="207">Ford Dining Court</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Recklessness</td>
+<td style="font-weight: 400;" width="154">2022PU00548</td>
+<td style="font-weight: 400;" width="168">4/23/22 2:37 AM</td>
+<td style="font-weight: 400;" width="166">4/23/22 2:42 AM</td>
+<td style="font-weight: 400;" width="207">Phi Sigma Kappa</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00580</td>
+<td style="font-weight: 400;" width="168">4/26/22 10:30 PM</td>
+<td style="font-weight: 400;" width="166">4/28/22 11:52 AM</td>
+<td style="font-weight: 400;" width="207">Freida Parker Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Invasion of Privacy</td>
+<td style="font-weight: 400;" width="154">2022PU00581</td>
+<td style="font-weight: 400;" width="168">4/28/22 4:02 PM</td>
+<td style="font-weight: 400;" width="166">4/28/22 5:05 PM</td>
+<td style="font-weight: 400;" width="207">1300 Blk 3rd St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Resisting Law Enforcement/ Trespass</td>
+<td style="font-weight: 400;" width="154">2022PU00582</td>
+<td style="font-weight: 400;" width="168">4/29/22 1:09 AM</td>
+<td style="font-weight: 400;" width="166">4/29/22 1:28 AM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -739,7 +790,7 @@
 <td style="font-weight: 400;" width="168">4/26/22 1:16 PM</td>
 <td style="font-weight: 400;" width="166">4/26/22 1:31 PM</td>
 <td style="font-weight: 400;" width="207">The Chill Zone</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Hit &amp; Run</td>
