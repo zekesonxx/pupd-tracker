@@ -611,11 +611,7 @@
 <li><a href="032122-daily-crime-log.php" title="032122 Daily Crime Log">Week of March 21, 2022</a></li>
 <li><a href="031422-daily-crime-log.php">Week of March 14, 2022</a></li>
 <li><a href="030722-daily-crime-log.php" title="030722 Daily Crime Log">Week of March 7, 2022</a></li>
-<li><a href="022822-daily-crime-log.php" title="022822 Daily Crime Log">Week of February 28, 2022</a></li>
-<li><a href="022122-daily-crime-log.php">Week of February 21, 2022</a></li>
-<li><a href="021422-daily-crime-log.php" title="021422 Daily Crime Log">Week of February 14, 2022</a></li>
-<li><a href="020722-daily-crime-log.php" title="020722 Daily Crime Log">Week of February 7, 2022</a></li>
-<li><a href="013122-daily-crime-log.php">Week of January 31, 2022</a><a href="2022-archive/010322-daily-crime-log.php" title="010322 Daily Crime Log"></a><br/><a href="2021-archive/053121-daily-crime-log.php" title="053121 Daily Crime Log"></a></li>
+<li><a href="022822-daily-crime-log.php" title="022822 Daily Crime Log">Week of February 28, 2022</a><a href="2022-archive/013122-daily-crime-log.php"></a><a href="2022-archive/010322-daily-crime-log.php" title="010322 Daily Crime Log"></a><br/><a href="2021-archive/053121-daily-crime-log.php" title="053121 Daily Crime Log"></a></li>
 </ul>
 		</section>
 	
