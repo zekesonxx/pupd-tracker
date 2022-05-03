@@ -701,7 +701,7 @@
 <td style="font-weight: 400; height: 36px;" width="168">3/23/22 7:47 PM</td>
 <td style="font-weight: 400; height: 36px;" width="166">3/23/22 8:04 PM</td>
 <td style="font-weight: 400; height: 36px;" width="207">W State St/ Russell St</td>
-<td style="font-weight: 400; height: 36px;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400; height: 36px;" width="181">Closed</td>
 </tr>
 <tr style="height: 54px;">
 <td style="font-weight: 400; height: 54px;" width="157">Obstruction of Justice/ Drug Law Violation</td>
@@ -777,7 +777,7 @@
 <td style="font-weight: 400;" width="168">3/19/22 5:21 PM</td>
 <td style="font-weight: 400;" width="166">3/19/22 6:58 PM</td>
 <td style="font-weight: 400;" width="207">300 Blk S Grant St</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>

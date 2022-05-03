@@ -663,7 +663,74 @@
   
     	<section class="content__group">
   					<h3>Tuesday, May 3, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Possession</td>
+<td style="font-weight: 400;" width="154">2022PU00588</td>
+<td style="font-weight: 400;" width="168">4/29/22 7:48 PM</td>
+<td style="font-weight: 400;" width="166">4/29/22 7:50 PM</td>
+<td style="font-weight: 400;" width="207">Elliott Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00590</td>
+<td style="font-weight: 400;" width="168">4/29/22 10:10 PM</td>
+<td style="font-weight: 400;" width="166">4/29/22 10:11 PM</td>
+<td style="font-weight: 400;" width="207">Elliott Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespassing</td>
+<td style="font-weight: 400;" width="154">2022PU00608</td>
+<td style="font-weight: 400;" width="168">4/28/22 3:00 PM</td>
+<td style="font-weight: 400;" width="166">5/2/22 2:44 PM</td>
+<td style="font-weight: 400;" width="207">Young Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00611</td>
+<td style="font-weight: 400;" width="168">5/2/22 7:55 PM</td>
+<td style="font-weight: 400;" width="166">5/2/22 8:23 PM</td>
+<td style="font-weight: 400;" width="207">Northwestern Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespassing</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-056047</td>
+<td style="font-weight: 400;" width="168">4/30/22 12:58 AM</td>
+<td style="font-weight: 400;" width="166">4/30/22 12:58 AM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Intimidation/Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">5/1/22 4:22 AM</td>
+<td style="font-weight: 400;" width="166">5/3/22 2:46 AM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">4/23/22 12:00 AM</td>
+<td style="font-weight: 400;" width="166">5/3/22 8:32 PM</td>
+<td style="font-weight: 400;" width="207">318 N Salisbury</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

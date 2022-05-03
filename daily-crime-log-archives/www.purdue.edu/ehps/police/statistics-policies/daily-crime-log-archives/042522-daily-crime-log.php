@@ -857,7 +857,7 @@
 <td style="font-weight: 400;" width="168">4/25/22 12:01 PM</td>
 <td style="font-weight: 400;" width="166">4/25/22 12:16 PM</td>
 <td style="font-weight: 400;" width="207">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-Golf Cart</td>
@@ -1099,7 +1099,7 @@
 <td style="font-weight: 400;" width="168">4/24/22 12:58 AM</td>
 <td style="font-weight: 400;" width="166">4/24/22 1:14 AM</td>
 <td style="font-weight: 400;" width="207">Phi Sigma Kappa</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Possession</td>
