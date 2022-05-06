@@ -823,7 +823,7 @@
 <td style="font-weight: 400;" width="168">4/27/22 1:34 AM</td>
 <td style="font-weight: 400;" width="166">4/27/22 1:59 AM</td>
 <td style="font-weight: 400;" width="207">Winifred Parker Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 </tbody>
 </table>
@@ -1043,7 +1043,7 @@
 <td style="font-weight: 400;" width="168">4/23/22 2:58 AM</td>
 <td style="font-weight: 400;" width="166">4/23/22 3:15 AM</td>
 <td style="font-weight: 400;" width="207">Hawkins Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Operating Whille Intoxicated</td>

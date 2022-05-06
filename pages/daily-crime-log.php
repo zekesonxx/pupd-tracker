@@ -642,7 +642,68 @@
   
     	<section class="content__group">
   					<h3>Friday, May 6, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft - EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU00616</td>
+<td style="font-weight: 400;" width="168">5/4/22 4:24 PM</td>
+<td style="font-weight: 400;" width="166">5/4/22 6:36 PM</td>
+<td style="font-weight: 400;" width="207">Hawkins</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespass/Resisting</td>
+<td style="font-weight: 400;" width="154">2022PU00619</td>
+<td style="font-weight: 400;" width="168">5/5/22 12:10 AM</td>
+<td style="font-weight: 400;" width="166">5/5/22 12:33 AM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00620</td>
+<td style="font-weight: 400;" width="168">5/5/22 3:29 AM</td>
+<td style="font-weight: 400;" width="166">5/5/22 3:40 AM</td>
+<td style="font-weight: 400;" width="207">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU00623</td>
+<td style="font-weight: 400;" width="168">4/30/22 12:00 AM</td>
+<td style="font-weight: 400;" width="166">5/5/22 6:11 PM</td>
+<td style="font-weight: 400;" width="207">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft - EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU00624</td>
+<td style="font-weight: 400;" width="168">5/5/22 9:34 PM</td>
+<td style="font-weight: 400;" width="166">5/5/22 9:51 PM</td>
+<td style="font-weight: 400;" width="207">Meredith South Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">
+<p data-ccp-timestamp="1651845088837">Hit and Run</p>
+</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-058863</td>
+<td style="font-weight: 400;" width="168">5/5/22 8:00 PM</td>
+<td style="font-weight: 400;" width="166">5/5/22 8:00 PM</td>
+<td style="font-weight: 400;" width="207">1st St/N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
