@@ -398,7 +398,7 @@
         
                                                             
         
-        <li role="none"><a href="../daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+        <li role="none"><a href="../daily-crime-log.php" role="menuitem"> Daily Crime Log</a></li>
                                                     
         
                                                             
@@ -651,7 +651,7 @@
 <td style="font-weight: 400; height: 36px;" width="168">3/25/22 5:18 PM</td>
 <td style="font-weight: 400; height: 36px;" width="166">3/30/22 5:44 PM</td>
 <td style="font-weight: 400; height: 36px;" width="207">300 Blk W Wood St</td>
-<td style="font-weight: 400; height: 36px;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400; height: 36px;" width="181">Closed</td>
 </tr>
 <tr style="height: 72px;">
 <td style="font-weight: 400; height: 72px;" width="157">Theft</td>
