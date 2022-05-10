@@ -663,7 +663,90 @@
   
     	<section class="content__group">
   					<h3>Tuesday, May 10, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00644</td>
+<td style="font-weight: 400;" width="168">5/9/22 11:03 AM</td>
+<td style="font-weight: 400;" width="166">5/9/22 7:48 PM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00645</td>
+<td style="font-weight: 400;" width="168">5/9/22 7:56 PM</td>
+<td style="font-weight: 400;" width="166">5/9/22 8:05 PM</td>
+<td style="font-weight: 400;" width="207">Stewart Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Driving While Suspended</td>
+<td style="font-weight: 400;" width="154">2022PU00647</td>
+<td style="font-weight: 400;" width="168">5/9/22 10:43 PM</td>
+<td style="font-weight: 400;" width="166">5/9/22 11:10 PM</td>
+<td style="font-weight: 400;" width="207">South River Rd/Ahlers Dr</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00648</td>
+<td style="font-weight: 400;" width="168">5/10/22 12:25 AM</td>
+<td style="font-weight: 400;" width="166">5/10/22 1:07 AM</td>
+<td style="font-weight: 400;" width="207">100 Blk of South River Rd</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-059473</td>
+<td style="font-weight: 400;" width="168">5/7/22 12:44 AM</td>
+<td style="font-weight: 400;" width="166">5/7/22 12:44 AM</td>
+<td style="font-weight: 400;" width="207">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-059641</td>
+<td style="font-weight: 400;" width="168">5/7/22 10:18 AM</td>
+<td style="font-weight: 400;" width="166">5/7/22 10:18 AM</td>
+<td style="font-weight: 400;" width="207">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-059458</td>
+<td style="font-weight: 400;" width="168">5/7/22 12:00 AM</td>
+<td style="font-weight: 400;" width="166">5/7/22 12:00 AM</td>
+<td style="font-weight: 400;" width="207">First Street Towers</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-060454</td>
+<td style="font-weight: 400;" width="168">5/9/22 7:46 AM</td>
+<td style="font-weight: 400;" width="166">5/9/22 7:46 AM</td>
+<td style="font-weight: 400;" width="207">1200 Blk 3rd St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-059825</td>
+<td style="font-weight: 400;" width="168">5/7/22 5:23 PM</td>
+<td style="font-weight: 400;" width="166">5/7/22 5:23 PM</td>
+<td style="font-weight: 400;" width="207">W State St/ US 231</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

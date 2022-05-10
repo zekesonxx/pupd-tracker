@@ -709,7 +709,7 @@
 <td style="font-weight: 400;" width="168">4/26/22 1:00 AM</td>
 <td style="font-weight: 400;" width="166">4/26/22 3:00 PM</td>
 <td style="font-weight: 400;" width="207">Aspire</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-EMPV</td>
