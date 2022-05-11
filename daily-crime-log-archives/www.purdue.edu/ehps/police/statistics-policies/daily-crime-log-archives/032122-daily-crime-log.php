@@ -735,7 +735,7 @@
 <td style="font-weight: 400;" width="168">3/18/22 11:25 AM</td>
 <td style="font-weight: 400;" width="166">3/22/22 2:16 PM</td>
 <td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft-Bike</td>
