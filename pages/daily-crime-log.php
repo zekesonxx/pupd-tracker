@@ -649,7 +649,34 @@
   
     	<section class="content__group">
   					<h3>Thursday, May 12, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00656</td>
+<td style="font-weight: 400;" width="168">5/11/22 3:19 PM</td>
+<td style="font-weight: 400;" width="166">5/11/22 3:38 PM</td>
+<td style="font-weight: 400;" width="207">Grant St Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespass</td>
+<td style="font-weight: 400;" width="154">2022PU00657</td>
+<td style="font-weight: 400;" width="168">5/11/22 10:10 PM</td>
+<td style="font-weight: 400;" width="166">5/11/22 10:37 PM</td>
+<td style="font-weight: 400;" width="207">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
