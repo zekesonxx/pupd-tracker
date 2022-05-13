@@ -915,7 +915,7 @@
 <td style="font-weight: 400;" width="168">4/8/22 7:00 PM</td>
 <td style="font-weight: 400;" width="166">4/8/22 7:33 PM</td>
 <td style="font-weight: 400;" width="207">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>

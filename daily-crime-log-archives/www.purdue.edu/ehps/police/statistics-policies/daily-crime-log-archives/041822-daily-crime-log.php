@@ -995,7 +995,7 @@
 <td style="font-weight: 400;" width="168">4/16/22 12:43 AM</td>
 <td style="font-weight: 400;" width="166">4/16/22 1:08 AM</td>
 <td style="font-weight: 400;" width="207">Shreve Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Fraud</td>
