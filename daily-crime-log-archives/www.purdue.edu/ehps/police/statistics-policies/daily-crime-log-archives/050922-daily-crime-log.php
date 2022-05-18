@@ -769,9 +769,8 @@
 <td style="font-weight: 400;" width="168">5/10/22 12:25 AM</td>
 <td style="font-weight: 400;" width="166">5/10/22 1:07 AM</td>
 <td style="font-weight: 400;" width="207">100 Blk S River Rd</td>
-<td style="font-weight: 400;" width="181">
-<p>This was&#160;determined to be outside Clery Reportable Geography</p>
-<p>Nothing Further</p>
+<td style="font-weight: 400;" width="181">This was determined to be outside Clery Reportable Geography Nothing Further
+<p>&#160;</p>
 </td>
 </tr>
 <tr>
