@@ -330,8 +330,8 @@
       <article class="header__signature--siteName">
           
                          
-                <a href="../../index.php" id="siteName">Police Department</a>
-                        <div id="siteTagline">
+                <a aria-label="Department Name" href="../../index.php" id="siteName">Police Department</a>
+                        <div aria-label="Site Tagline" id="siteTagline">
                                 </div>
       </article>
     </section>
@@ -955,7 +955,7 @@
 <td style="font-weight: 400;" width="168">4/22/22 5:00 PM</td>
 <td style="font-weight: 400;" width="166">4/22/22 8:18 PM</td>
 <td style="font-weight: 400;" width="207">219 Waldron St</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Criminal Mischief</td>
@@ -963,7 +963,7 @@
 <td style="font-weight: 400;" width="168">4/22/22 8:50 PM</td>
 <td style="font-weight: 400;" width="166">4/22/22 9:07 PM</td>
 <td style="font-weight: 400;" width="207">Pi Kappa Alpha</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Driving, Never Receiving License</td>

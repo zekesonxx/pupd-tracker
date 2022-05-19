@@ -330,8 +330,8 @@
       <article class="header__signature--siteName">
           
                          
-                <a href="../../index.php" id="siteName">Police Department</a>
-                        <div id="siteTagline">
+                <a aria-label="Department Name" href="../../index.php" id="siteName">Police Department</a>
+                        <div aria-label="Site Tagline" id="siteTagline">
                                 </div>
       </article>
     </section>
@@ -923,7 +923,7 @@
 <td style="font-weight: 400;" width="168">4/9/22 1:03 AM</td>
 <td style="font-weight: 400;" width="166">4/9/22 1:29 AM</td>
 <td style="font-weight: 400;" width="207">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Criminal Mischief</td>
@@ -971,7 +971,7 @@
 <td style="font-weight: 400;" width="168">4/10/22 12:55 AM</td>
 <td style="font-weight: 400;" width="166">4/10/22 1:08 AM</td>
 <td style="font-weight: 400;" width="207">Harrison Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>
