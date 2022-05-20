@@ -330,8 +330,8 @@
       <article class="header__signature--siteName">
           
                          
-                <a href="../../index.php" id="siteName">Police Department</a>
-                        <div id="siteTagline">
+                <a aria-label="Department Name" href="../../index.php" id="siteName">Police Department</a>
+                        <div aria-label="Site Tagline" id="siteTagline">
                                 </div>
       </article>
     </section>
@@ -691,7 +691,7 @@
 <td style="font-weight: 400;" width="168">4/21/22 11:16 PM</td>
 <td style="font-weight: 400;" width="166">4/21/22 11:27 PM</td>
 <td style="font-weight: 400;" width="207">Phi Mu</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Disturbance</td>
