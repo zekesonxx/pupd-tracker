@@ -491,6 +491,11 @@
         
                                                                                  
                                                         
+                            <li role="none"><a href="../../camps/index.php" role="menuitem">Camps</a></li>
+                                                                
+        
+                                                                                 
+                                                        
                                             <li class="dropdown" role="none">
                     <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../../contact/index.php" role="menuitem">Contact Us<span><i class="fas fa-chevron-down"></i></span></a>
                     <ul class="header__mainNav--dropdownOuter" role="menu">
@@ -973,7 +978,7 @@
 <td style="font-weight: 400;" width="168">5/1/22 3:41 AM</td>
 <td style="font-weight: 400;" width="166">5/1/22 4:03 AM</td>
 <td style="font-weight: 400;" width="207">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Hit &amp; Run</td>
