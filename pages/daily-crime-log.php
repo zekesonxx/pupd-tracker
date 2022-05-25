@@ -698,7 +698,7 @@
 <th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated/Drug Law Violation</td>
 <td style="font-weight: 400;" width="154">2022PU00698</td>
 <td style="font-weight: 400;" width="168">5/24/22 12:16 AM</td>
 <td style="font-weight: 400;" width="166">5/24/22 1:15 AM</td>
