@@ -330,8 +330,8 @@
       <article class="header__signature--siteName">
           
                          
-                <a href="../../index.php" id="siteName">Police Department</a>
-                        <div id="siteTagline">
+                <a aria-label="Department Name" href="../../index.php" id="siteName">Police Department</a>
+                        <div aria-label="Site Tagline" id="siteTagline">
                                 </div>
       </article>
     </section>
@@ -487,6 +487,11 @@
                                                                                  
                                                         
                             <li role="none"><a href="../../timely-warnings/index.php" role="menuitem">Timely Warnings</a></li>
+                                                                
+        
+                                                                                 
+                                                        
+                            <li role="none"><a href="../../camps/index.php" role="menuitem">Camps</a></li>
                                                                 
         
                                                                                  

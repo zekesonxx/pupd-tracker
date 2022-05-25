@@ -289,8 +289,8 @@
 					</section>
 					<button aria-expanded="false" aria-haspopup="true" class="header__goldBar__search">
 						<i class="fas fa-search" aria-hidden="true"></i>
+						<span class="sr-only">Search</span>
 					</button>
-					<span class="sr-only">Search</span>
 					
 <section class="header__goldBar__search--dropdown" id="searchDropdown">
 <div class="header__goldBar__search--container">
@@ -330,8 +330,8 @@
       <article class="header__signature--siteName">
           
                          
-                <a href="../../index.php" id="siteName">Police Department</a>
-                        <div id="siteTagline">
+                <a aria-label="Department Name" href="../../index.php" id="siteName">Police Department</a>
+                        <div aria-label="Site Tagline" id="siteTagline">
                                 </div>
       </article>
     </section>
@@ -398,7 +398,7 @@
         
                                                             
         
-        <li role="none"><a href="../daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+        <li role="none"><a href="../daily-crime-log.php" role="menuitem"> Daily Crime Log</a></li>
                                                     
         
                                                             
@@ -487,6 +487,11 @@
                                                                                  
                                                         
                             <li role="none"><a href="../../timely-warnings/index.php" role="menuitem">Timely Warnings</a></li>
+                                                                
+        
+                                                                                 
+                                                        
+                            <li role="none"><a href="../../camps/index.php" role="menuitem">Camps</a></li>
                                                                 
         
                                                                                  

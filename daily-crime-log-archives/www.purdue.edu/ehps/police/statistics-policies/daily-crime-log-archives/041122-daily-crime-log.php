@@ -491,6 +491,11 @@
         
                                                                                  
                                                         
+                            <li role="none"><a href="../../camps/index.php" role="menuitem">Camps</a></li>
+                                                                
+        
+                                                                                 
+                                                        
                                             <li class="dropdown" role="none">
                     <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../../contact/index.php" role="menuitem">Contact Us<span><i class="fas fa-chevron-down"></i></span></a>
                     <ul class="header__mainNav--dropdownOuter" role="menu">
