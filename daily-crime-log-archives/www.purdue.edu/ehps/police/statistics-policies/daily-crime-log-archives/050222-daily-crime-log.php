@@ -816,7 +816,7 @@
 <td style="font-weight: 400;" width="168">4/28/22 3:00 PM</td>
 <td style="font-weight: 400;" width="166">5/2/22 2:44 PM</td>
 <td style="font-weight: 400;" width="207">Young Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Hit &amp; Run</td>
