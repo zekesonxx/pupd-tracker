@@ -766,7 +766,7 @@
 <td style="font-weight: 400;" width="168">5/2/22 4:39 PM</td>
 <td style="font-weight: 400;" width="166">5/2/22 5:19 PM</td>
 <td style="font-weight: 400;" width="207">125 Waldron St</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Hit &amp; Run</td>
