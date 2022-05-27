@@ -647,7 +647,7 @@
   
     	<section class="content__group">
   					<h3>Friday, May 27, 2022</h3>
-<p>Will be posted soon.</p>
+<p>Nothing to report.</p>
 		</section>
 	
           <div class="clearfix"></div>
