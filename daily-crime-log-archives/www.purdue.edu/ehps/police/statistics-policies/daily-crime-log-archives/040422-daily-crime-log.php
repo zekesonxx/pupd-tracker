@@ -588,12 +588,7 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                                                                                                
-        
-                
-    
-    <li role="none"><a href="031422-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
-                            </ul>
+                                            </ul>
 </nav>
 
 
@@ -656,7 +651,7 @@
 <td style="font-weight: 400;" width="168">4/7/22 12:11 PM</td>
 <td style="font-weight: 400;" width="166">4/7/22 12:28 PM</td>
 <td style="font-weight: 400;" width="207">CoRec</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Theft</td>
