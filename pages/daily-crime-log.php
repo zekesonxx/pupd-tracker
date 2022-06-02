@@ -654,7 +654,34 @@
   
     	<section class="content__group">
   					<h3>Thursday, June 2, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00707</td>
+<td style="font-weight: 400;" width="168">6/1/22 2:13 PM</td>
+<td style="font-weight: 400;" width="166">6/1/22 2:26 PM</td>
+<td style="font-weight: 400;" width="207">Electrical Engineering</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU00708</td>
+<td style="font-weight: 400;" width="168">6/1/22 4:47 PM</td>
+<td style="font-weight: 400;" width="166">6/1/22 5:14 PM</td>
+<td style="font-weight: 400;" width="207">Aspire</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
