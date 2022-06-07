@@ -668,7 +668,74 @@
   
     	<section class="content__group">
   					<h3>Tuesday, June 7, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00717</td>
+<td style="font-weight: 400;" width="168">6/3/22 3:00 PM</td>
+<td style="font-weight: 400;" width="166">6/6/22 7:13 AM</td>
+<td style="font-weight: 400;" width="207">Harrison St Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft - EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU00719</td>
+<td style="font-weight: 400;" width="168">6/6/22 9:00 AM</td>
+<td style="font-weight: 400;" width="166">6/6/22 12:29 PM</td>
+<td style="font-weight: 400;" width="207">Krannert</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00720</td>
+<td style="font-weight: 400;" width="168">6/6/22 5:00 PM</td>
+<td style="font-weight: 400;" width="166">6/6/22 5:02 PM</td>
+<td style="font-weight: 400;" width="207">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00721</td>
+<td style="font-weight: 400;" width="168">6/6/22 10:34 PM</td>
+<td style="font-weight: 400;" width="166">6/6/22 10:52 PM</td>
+<td style="font-weight: 400;" width="207">US HWY 231/W State St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-071985</td>
+<td style="font-weight: 400;" width="168">6/3/22 10:18 AM</td>
+<td style="font-weight: 400;" width="166">6/3/22 10:18 AM</td>
+<td style="font-weight: 400;" width="207">Wood St Garage</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-072679</td>
+<td style="font-weight: 400;" width="168">6/4/22 6:36 PM</td>
+<td style="font-weight: 400;" width="166">6/4/22 6:36 PM</td>
+<td style="font-weight: 400;" width="207">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-072192</td>
+<td style="font-weight: 400;" width="168">6/3/22 4:49 PM</td>
+<td style="font-weight: 400;" width="166">6/3/22 4:49 PM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
