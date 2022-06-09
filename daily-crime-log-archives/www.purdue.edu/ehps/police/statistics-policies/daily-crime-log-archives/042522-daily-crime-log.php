@@ -1067,7 +1067,7 @@
 <td style="font-weight: 400;" width="168">4/23/22 11:10 PM</td>
 <td style="font-weight: 400;" width="166">4/23/22 11:10 PM</td>
 <td style="font-weight: 400;" width="207">McCutcheon Garage</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Possession</td>
