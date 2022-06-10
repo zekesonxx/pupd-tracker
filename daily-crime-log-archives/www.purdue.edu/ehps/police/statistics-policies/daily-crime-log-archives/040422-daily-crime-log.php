@@ -970,7 +970,7 @@
 <td style="font-weight: 400;" width="168">4/3/22 10:26 PM</td>
 <td style="font-weight: 400;" width="166">4/3/22 10:26 PM</td>
 <td style="font-weight: 400;" width="207">W Stadium Ave/ McCormick Rd</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>

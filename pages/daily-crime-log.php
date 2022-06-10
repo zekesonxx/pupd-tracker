@@ -647,7 +647,74 @@
   
     	<section class="content__group">
   					<h3>Friday, June 10, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00729</td>
+<td style="font-weight: 400;" width="168">2/18/21 10:16 AM</td>
+<td style="font-weight: 400;" width="166">6/9/22 10:58 AM</td>
+<td style="font-weight: 400;" width="207">Wade Plant</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00730</td>
+<td style="font-weight: 400;" width="168">6/9/22 12:21 PM</td>
+<td style="font-weight: 400;" width="166">6/9/22 12:29 PM</td>
+<td style="font-weight: 400;" width="207">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00731</td>
+<td style="font-weight: 400;" width="168">6/9/22 12:33 PM</td>
+<td style="font-weight: 400;" width="166">6/9/22 12:35 PM</td>
+<td style="font-weight: 400;" width="207">Hicks Undergraduate Library</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00732</td>
+<td style="font-weight: 400;" width="168">6/9/22 5:30 AM</td>
+<td style="font-weight: 400;" width="166">6/9/22 12:55 PM</td>
+<td style="font-weight: 400;" width="207">Windsor Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00733</td>
+<td style="font-weight: 400;" width="168">5/26/22 6:31 PM</td>
+<td style="font-weight: 400;" width="166">6/9/22 6:32 PM</td>
+<td style="font-weight: 400;" width="207">Aspire</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU00734</td>
+<td style="font-weight: 400;" width="168">6/9/22 6:36 PM</td>
+<td style="font-weight: 400;" width="166">6/9/22 6:56 PM</td>
+<td style="font-weight: 400;" width="207">Purdue Village</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Road Rage</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-074358</td>
+<td style="font-weight: 400;" width="168">6/8/22 3:48 PM</td>
+<td style="font-weight: 400;" width="166">6/8/22 3:48 PM</td>
+<td style="font-weight: 400;" width="207">Airport Rd/ W State St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
