@@ -668,7 +668,50 @@
   
     	<section class="content__group">
   					<h3>Tuesday, June 14, 2022</h3>
-<p>Wil be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating Never Receiving License</td>
+<td style="font-weight: 400;" width="154">2022PU00745</td>
+<td style="font-weight: 400;" width="168">6/13/22 11:51 PM</td>
+<td style="font-weight: 400;" width="166">6/14/22 12:30 AM</td>
+<td style="font-weight: 400;" width="207">Stewart Center</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drunk Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-075652</td>
+<td style="font-weight: 400;" width="168">6/11/22 1:43 PM</td>
+<td style="font-weight: 400;" width="166">6/11/22 1:43 PM</td>
+<td style="font-weight: 400;" width="207">Birck Boilermaker Golf Complex</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-076113</td>
+<td style="font-weight: 400;" width="168">6/12/22 5:47 PM</td>
+<td style="font-weight: 400;" width="166">6/12/22 5:47 PM</td>
+<td style="font-weight: 400;" width="207">US 231 S / S River Rd</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-076270</td>
+<td style="font-weight: 400;" width="168">6/13/22 3:52 AM</td>
+<td style="font-weight: 400;" width="166">6/13/22 3:52 AM</td>
+<td style="font-weight: 400;" width="207">US 231 S / Airport Rd</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
