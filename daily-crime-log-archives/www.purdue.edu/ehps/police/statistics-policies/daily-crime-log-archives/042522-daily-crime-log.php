@@ -667,7 +667,7 @@
 <td style="font-weight: 400;" width="168">4/28/22 4:02 PM</td>
 <td style="font-weight: 400;" width="166">4/28/22 5:05 PM</td>
 <td style="font-weight: 400;" width="207">1300 Blk 3rd St</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Resisting Law Enforcement/ Trespass</td>
