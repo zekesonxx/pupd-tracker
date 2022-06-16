@@ -647,14 +647,14 @@
   
     	<section class="content__group">
   					<h3>Friday, June 17, 2022</h3>
-<p>Wil be posted soon.</p>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
   					<h3>Thursday, June 16, 2022</h3>
-<p>Wil be posted soon.</p>
+<p>Nothing to report.</p>
 		</section>
 	
           <div class="clearfix"></div>
