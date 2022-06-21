@@ -668,7 +668,58 @@
   
     	<section class="content__group">
   					<h3>Tuesday, June 21, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00761</td>
+<td style="font-weight: 400;" width="168">6/15/22 2:00 PM</td>
+<td style="font-weight: 400;" width="166">6/20/22 10:07 AM</td>
+<td style="font-weight: 400;" width="207">Alpha Chi Rho</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00762</td>
+<td style="font-weight: 400;" width="168">6/20/22 12:15 PM</td>
+<td style="font-weight: 400;" width="166">6/20/22 12:27 PM</td>
+<td style="font-weight: 400;" width="207">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">False Informing-Bomb Threat</td>
+<td style="font-weight: 400;" width="154">2022PU00763</td>
+<td style="font-weight: 400;" width="168">6/20/22 5:28 PM</td>
+<td style="font-weight: 400;" width="166">6/20/22 6:57 PM</td>
+<td style="font-weight: 400;" width="207">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-078511</td>
+<td style="font-weight: 400;" width="168">6/17/22 2:06 PM</td>
+<td style="font-weight: 400;" width="166">6/17/22 2:06 PM</td>
+<td style="font-weight: 400;" width="207">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-078550</td>
+<td style="font-weight: 400;" width="168">6/17/22 3:21 PM</td>
+<td style="font-weight: 400;" width="166">6/17/22 3:21 PM</td>
+<td style="font-weight: 400;" width="207">US HWY 231/W State St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
