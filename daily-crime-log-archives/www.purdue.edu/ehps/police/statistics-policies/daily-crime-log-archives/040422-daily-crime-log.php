@@ -898,7 +898,7 @@
 <td style="font-weight: 400;" width="168">4/2/22 2:59 AM</td>
 <td style="font-weight: 400;" width="166">4/2/22 3:26 AM</td>
 <td style="font-weight: 400;" width="207">100 Blk Memorial Mall</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Drug Law Violation</td>

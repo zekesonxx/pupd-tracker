@@ -661,7 +661,42 @@
   
     	<section class="content__group">
   					<h3>Wednesday, June 22, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00766</td>
+<td style="font-weight: 400;" width="168">6/17/22 5:00 PM</td>
+<td style="font-weight: 400;" width="166">6/21/22 1:25 PM</td>
+<td style="font-weight: 400;" width="207">Material Sciences and&#160; Electrical Engineering</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespassing</td>
+<td style="font-weight: 400;" width="154">2022PU00768</td>
+<td style="font-weight: 400;" width="168">6/21/22 11:37 PM</td>
+<td style="font-weight: 400;" width="166">6/21/22 11:54 PM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Burglary</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-079719</td>
+<td style="font-weight: 400;" width="168">6/20/22 11:06 AM</td>
+<td style="font-weight: 400;" width="166">6/20/22 11:06 AM</td>
+<td style="font-weight: 400;" width="207">575 Stadium Mall Dr</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

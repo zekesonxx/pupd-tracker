@@ -588,12 +588,7 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                                                                                                
-        
-                
-    
-    <li role="none"><a href="031422-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
-                            </ul>
+                                            </ul>
 </nav>
 
 
@@ -896,7 +891,7 @@
 <td style="font-weight: 400;" width="168">4/7/22 10:57 PM</td>
 <td style="font-weight: 400;" width="166">4/7/22 11:33 PM</td>
 <td style="font-weight: 400;" width="207">1500 Blk W State St</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="157">Minor Possession</td>
