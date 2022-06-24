@@ -647,7 +647,7 @@
   
     	<section class="content__group">
   					<h3>Friday, June 24, 2022</h3>
-<p>Will be posted soon.</p>
+<p>Nothing to report.</p>
 		</section>
 	
           <div class="clearfix"></div>
@@ -727,7 +727,7 @@
 <td style="font-weight: 400;" width="168">6/20/22 12:15 PM</td>
 <td style="font-weight: 400;" width="166">6/20/22 12:27 PM</td>
 <td style="font-weight: 400;" width="207">Wilmeth Active Learning Center</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">False Informing-Bomb Threat</td>
