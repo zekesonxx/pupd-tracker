@@ -330,9 +330,8 @@
       <article class="header__signature--siteName">
           
                          
-                <a aria-label="Department Name" href="../../index.php" id="siteName">Police Department</a>
-                        <div aria-label="Site Tagline" id="siteTagline">
-                                </div>
+                <a aria-label="Police Department" href="../../index.php" id="siteName">Police Department</a>
+                               
       </article>
     </section>
 </section>
@@ -781,7 +780,7 @@
 <td style="font-weight: 400;" width="168">6/12/22 2:54 AM</td>
 <td style="font-weight: 400;" width="166">6/12/22 3:41 AM</td>
 <td style="font-weight: 400;" width="207">W State St/Provenance Blvd</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Operating While Intoxicated/ Possession of Police Frequency Scanner</td>
@@ -789,7 +788,7 @@
 <td style="font-weight: 400;" width="168">6/12/22 11:45 PM</td>
 <td style="font-weight: 400;" width="166">6/13/22 12:55 AM</td>
 <td style="font-weight: 400;" width="207">1 N Sharon Chapel Rd</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 </tbody>
 </table>
