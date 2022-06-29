@@ -660,7 +660,34 @@
   
     	<section class="content__group">
   					<h3>Wednesday, June 29, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Driving While Suspended</td>
+<td style="font-weight: 400;" width="154">2022PU00778</td>
+<td style="font-weight: 400;" width="168">6/28/22 10:46 PM</td>
+<td style="font-weight: 400;" width="166">6/28/22 11:42 PM</td>
+<td style="font-weight: 400;" width="207">Northwestern Ave, West Stadium Ave West Lafayette</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00779</td>
+<td style="font-weight: 400;" width="168">6/29/22 1:26 AM</td>
+<td style="font-weight: 400;" width="166">6/29/22 1:29 AM</td>
+<td style="font-weight: 400;" width="207">Krannert</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

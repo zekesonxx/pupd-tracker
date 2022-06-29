@@ -902,7 +902,7 @@
 <td style="font-weight: 400;" width="168">5/17/22 6:00 PM</td>
 <td style="font-weight: 400;" width="166">5/17/22 8:39 PM</td>
 <td style="font-weight: 400;" width="207">400 Blk Northwestern</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-EMPV</td>
