@@ -330,9 +330,8 @@
       <article class="header__signature--siteName">
           
                          
-                <a aria-label="Department Name" href="../../index.php" id="siteName">Police Department</a>
-                        <div aria-label="Site Tagline" id="siteTagline">
-                                </div>
+                <a aria-label="Police Department" href="../../index.php" id="siteName">Police Department</a>
+                               
       </article>
     </section>
 </section>
@@ -615,12 +614,7 @@
 <li><a href="052322-daily-crime-log.php" title="052322 Daily Crime Log">Week of May 23, 2022</a></li>
 <li><a href="051622-daily-crime-log.php" title="051622 Daily Crime Log">Week of May 16, 2022</a></li>
 <li><a href="050922-daily-crime-log.php">Week of May 9, 2022</a></li>
-<li><a href="050222-daily-crime-log.php" title="050222 Daily Crime Log">Week of May 2, 2022</a></li>
-<li><a href="042522-daily-crime-log.php" title="042522 Daily Crime Log">Week of April 25, 2022</a></li>
-<li><a href="041822-daily-crime-log.php" title="041822 Daily Crime Log">Week of April 18, 2022</a></li>
-<li><a href="041122-daily-crime-log.php" title="041122 Daily Crime Log">Week of April 11, 2022</a></li>
-<li><a href="040422-daily-crime-log.php" title="040422 Daily Crime Log">Week of April 4, 2022</a></li>
-<li><a href="032822-daily-crime-log.php" title="032822 Daily Crime Log">Week of March 28, 2022</a></li>
+<li><a href="050222-daily-crime-log.php" title="050222 Daily Crime Log">Week of May 2, 2022</a><a href="2022-archive/032822-daily-crime-log.php" title="032822 Daily Crime Log"></a></li>
 </ul>
 		</section>
 	
