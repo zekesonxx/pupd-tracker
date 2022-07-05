@@ -397,11 +397,6 @@
         
                                                             
         
-        <li role="none"><a href="daily-crime-log.php" role="menuitem"> Daily Crime Log</a></li>
-                                                    
-        
-                                                            
-        
         <li role="none"><a href="drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                     
         
@@ -667,7 +662,42 @@
   
     	<section class="content__group">
   					<h3>Tuesday, July 5, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="width: 156px; text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00784</td>
+<td style="font-weight: 400;" width="168">7/3/22 4:50 PM</td>
+<td style="font-weight: 400;" width="166">7/3/22 5:07 PM</td>
+<td style="font-weight: 400;" width="207">Wood St Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Resisting Law Enforcement/ Public Intoxication/ Residential Entry</td>
+<td style="font-weight: 400;" width="154">2022PU00785</td>
+<td style="font-weight: 400;" width="168">7/4/22 1:04 AM</td>
+<td style="font-weight: 400;" width="166">7/4/22 1:24 AM</td>
+<td style="font-weight: 400;" width="207">Waldron St/ 5th St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00786</td>
+<td style="font-weight: 400;" width="168">7/4/22 2:38 AM</td>
+<td style="font-weight: 400;" width="166">7/4/22 2:39 AM</td>
+<td style="font-weight: 400;" width="207">Hawkins Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

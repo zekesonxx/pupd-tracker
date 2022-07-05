@@ -397,11 +397,6 @@
         
                                                             
         
-        <li role="none"><a href="../daily-crime-log.php" role="menuitem"> Daily Crime Log</a></li>
-                                                    
-        
-                                                            
-        
         <li role="none"><a href="../drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                     
         
@@ -721,7 +716,7 @@
 <td style="font-weight: 400;" width="181">Arrest Made</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="156">Criminal Mischief/ Theft</td>
 <td style="font-weight: 400;" width="154">2022PU00779</td>
 <td style="font-weight: 400;" width="168">6/29/22 1:26 AM</td>
 <td style="font-weight: 400;" width="166">6/29/22 1:29 AM</td>
