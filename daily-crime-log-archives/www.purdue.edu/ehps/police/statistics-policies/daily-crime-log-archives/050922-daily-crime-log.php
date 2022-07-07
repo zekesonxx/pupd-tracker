@@ -330,9 +330,8 @@
       <article class="header__signature--siteName">
           
                          
-                <a aria-label="Department Name" href="../../index.php" id="siteName">Police Department</a>
-                        <div aria-label="Site Tagline" id="siteTagline">
-                                </div>
+                <a aria-label="Police Department" href="../../index.php" id="siteName">Police Department</a>
+                               
       </article>
     </section>
 </section>
@@ -394,11 +393,6 @@
                                                             
         
         <li role="none"><a href="../security-reports.php" role="menuitem">Annual Security Reports</a></li>
-                                                    
-        
-                                                            
-        
-        <li role="none"><a href="../daily-crime-log.php" role="menuitem"> Daily Crime Log</a></li>
                                                     
         
                                                             
@@ -588,12 +582,7 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                                                                                                
-        
-                
-    
-    <li role="none"><a href="031422-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
-                            </ul>
+                                            </ul>
 </nav>
 
 
@@ -930,7 +919,7 @@
 <td style="font-weight: 400;" width="168">5/8/22 3:59 PM</td>
 <td style="font-weight: 400;" width="166">5/8/22 4:33 PM</td>
 <td style="font-weight: 400;" width="207">100 Blk Pierce St</td>
-<td style="font-weight: 400;" width="181">Suspended</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-Bike</td>
