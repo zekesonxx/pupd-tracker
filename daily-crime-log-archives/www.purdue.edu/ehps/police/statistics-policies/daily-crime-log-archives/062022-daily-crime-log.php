@@ -330,9 +330,8 @@
       <article class="header__signature--siteName">
           
                          
-                <a aria-label="Department Name" href="../../index.php" id="siteName">Police Department</a>
-                        <div aria-label="Site Tagline" id="siteTagline">
-                                </div>
+                <a aria-label="Police Department" href="../../index.php" id="siteName">Police Department</a>
+                               
       </article>
     </section>
 </section>
@@ -394,11 +393,6 @@
                                                             
         
         <li role="none"><a href="../security-reports.php" role="menuitem">Annual Security Reports</a></li>
-                                                    
-        
-                                                            
-        
-        <li role="none"><a href="../daily-crime-log.php" role="menuitem"> Daily Crime Log</a></li>
                                                     
         
                                                             
@@ -665,7 +659,7 @@
 <td style="font-weight: 400;" width="168">6/21/22 11:37 PM</td>
 <td style="font-weight: 400;" width="166">6/21/22 11:54 PM</td>
 <td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Burglary</td>
@@ -757,7 +751,7 @@
 <td style="font-weight: 400;" width="168">6/17/22 1:42 AM</td>
 <td style="font-weight: 400;" width="166">6/17/22 3:09 AM</td>
 <td style="font-weight: 400;" width="207">3rd St/McCormick Rd</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Driving While Suspended</td>

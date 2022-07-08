@@ -641,7 +641,34 @@
   
     	<section class="content__group">
   					<h3>Friday, July 8, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00793</td>
+<td style="font-weight: 400;" width="168">7/5/22 4:30 PM</td>
+<td style="font-weight: 400;" width="166">7/6/22 5:11 PM</td>
+<td style="font-weight: 400;" width="207">Hawkins Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00794</td>
+<td style="font-weight: 400;" width="168">7/7/22 1:01 PM</td>
+<td style="font-weight: 400;" width="166">7/7/22 1:21 PM</td>
+<td style="font-weight: 400;" width="207">US HWY 231/W State St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
