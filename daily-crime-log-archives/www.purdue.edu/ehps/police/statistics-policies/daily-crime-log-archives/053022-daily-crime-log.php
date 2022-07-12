@@ -330,9 +330,8 @@
       <article class="header__signature--siteName">
           
                          
-                <a aria-label="Department Name" href="../../index.php" id="siteName">Police Department</a>
-                        <div aria-label="Site Tagline" id="siteTagline">
-                                </div>
+                <a aria-label="Police Department" href="../../index.php" id="siteName">Police Department</a>
+                               
       </article>
     </section>
 </section>
@@ -394,11 +393,6 @@
                                                             
         
         <li role="none"><a href="../security-reports.php" role="menuitem">Annual Security Reports</a></li>
-                                                    
-        
-                                                            
-        
-        <li role="none"><a href="../daily-crime-log.php" role="menuitem"> Daily Crime Log</a></li>
                                                     
         
                                                             
@@ -643,7 +637,7 @@
 <td style="font-weight: 400;" width="168">6/1/22 9:50 PM</td>
 <td style="font-weight: 400;" width="166">6/2/22 11:23 AM</td>
 <td style="font-weight: 400;" width="207">Aspire</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Rape</td>
