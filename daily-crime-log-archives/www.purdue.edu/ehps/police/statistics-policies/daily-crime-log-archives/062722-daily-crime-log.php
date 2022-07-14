@@ -770,7 +770,7 @@
 <td style="font-weight: 400;" width="168">6/26/22 12:55 AM</td>
 <td style="font-weight: 400;" width="166">6/26/22 1:17 AM</td>
 <td style="font-weight: 400;" width="207">1000 Blk W Stadium Dr</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
