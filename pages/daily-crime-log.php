@@ -641,7 +641,34 @@
   
     	<section class="content__group">
   					<h3>Friday, July 15, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU00814</td>
+<td style="font-weight: 400;" width="168">7/15/22 2:07 AM</td>
+<td style="font-weight: 400;" width="166">7/15/22 2:56 AM</td>
+<td style="font-weight: 400;" width="207">S River Rd/ US 231</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00815</td>
+<td style="font-weight: 400;" width="168">7/15/22 1:14 AM</td>
+<td style="font-weight: 400;" width="166">7/15/22 3:56 AM</td>
+<td style="font-weight: 400;" width="207">S River Rd/ US 231</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
