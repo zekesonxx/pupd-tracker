@@ -636,7 +636,7 @@
 <td style="font-weight: 400;" width="154">2022PU00814</td>
 <td style="font-weight: 400;" width="168">7/15/22 2:07 AM</td>
 <td style="font-weight: 400;" width="166">7/15/22 2:56 AM</td>
-<td style="font-weight: 400;" width="207">S River Rd/ US 231</td>
+<td style="font-weight: 400;" width="207">This was determined to be outside Clery Reportable Geography Nothing Further</td>
 <td style="font-weight: 400;" width="181">Arrest Made</td>
 </tr>
 <tr>
@@ -644,7 +644,7 @@
 <td style="font-weight: 400;" width="154">2022PU00815</td>
 <td style="font-weight: 400;" width="168">7/15/22 1:14 AM</td>
 <td style="font-weight: 400;" width="166">7/15/22 3:56 AM</td>
-<td style="font-weight: 400;" width="207">S River Rd/ US 231</td>
+<td style="font-weight: 400;" width="207">This was determined to be outside Clery Reportable Geography Nothing Further</td>
 <td style="font-weight: 400;" width="181">Arrest Made</td>
 </tr>
 </tbody>
@@ -718,7 +718,7 @@
 <th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="156">Simple Assault</td>
 <td style="font-weight: 400;" width="154">2022PU00803</td>
 <td style="font-weight: 400;" width="168">7/11/22 10:38 AM</td>
 <td style="font-weight: 400;" width="166">7/11/22 11:40 AM</td>
