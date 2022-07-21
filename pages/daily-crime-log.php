@@ -521,7 +521,12 @@
                                             </ul>
                         </li>
                         
-                                                                </ul>
+                                                                        
+        
+                                                                                 
+                                                        
+                            <li role="none"><a href="../chiefsearch/index.php" role="menuitem">Camps</a></li>
+                                                        </ul>
     </section>
 </nav>
 
@@ -648,7 +653,26 @@
   
     	<section class="content__group">
   					<h3>Thursday, July 21, 2022</h3>
-<p>&#160;Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Battery-Simple</td>
+<td style="font-weight: 400;" width="154">2022PU00833</td>
+<td style="font-weight: 400;" width="168">7/20/22 1:52 PM</td>
+<td style="font-weight: 400;" width="166">7/20/22 2:25 PM</td>
+<td style="font-weight: 400;" width="207">Hansen Life Sciences Research Building</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
