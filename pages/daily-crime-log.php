@@ -664,7 +664,7 @@
 <th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Battery-Simple</td>
+<td style="font-weight: 400;" width="156">Dating Violence</td>
 <td style="font-weight: 400;" width="154">2022PU00833</td>
 <td style="font-weight: 400;" width="168">7/20/22 1:52 PM</td>
 <td style="font-weight: 400;" width="166">7/20/22 2:25 PM</td>
