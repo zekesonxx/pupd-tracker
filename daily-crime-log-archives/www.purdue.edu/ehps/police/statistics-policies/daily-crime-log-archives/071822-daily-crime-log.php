@@ -649,7 +649,7 @@
 <td style="font-weight: 400;" width="168">7/20/22 1:52 PM</td>
 <td style="font-weight: 400;" width="166">7/20/22 2:25 PM</td>
 <td style="font-weight: 400;" width="207">Hansen Life Sciences Research Building</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 </tbody>
 </table>

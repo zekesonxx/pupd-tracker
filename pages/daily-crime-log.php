@@ -674,7 +674,90 @@
   
     	<section class="content__group">
   					<h3>Monday, July 25, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fondling</td>
+<td style="font-weight: 400;" width="154">2022PU00838</td>
+<td style="font-weight: 400;" width="168">7/15/22 2:00 PM</td>
+<td style="font-weight: 400;" width="166">7/22/22 8:41 AM</td>
+<td style="font-weight: 400;" width="207">Mechanical Engineering</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU00841</td>
+<td style="font-weight: 400;" width="168">7/22/22 8:00 PM</td>
+<td style="font-weight: 400;" width="166">7/22/22 9:44 PM</td>
+<td style="font-weight: 400;" width="207">Honors College North</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespassing</td>
+<td style="font-weight: 400;" width="154">2022PU00842</td>
+<td style="font-weight: 400;" width="168">7/23/22 1:41 AM</td>
+<td style="font-weight: 400;" width="166">7/23/22 1:53 AM</td>
+<td style="font-weight: 400;" width="207">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespassing</td>
+<td style="font-weight: 400;" width="154">2022PU00844</td>
+<td style="font-weight: 400;" width="168">7/23/22 3:27 AM</td>
+<td style="font-weight: 400;" width="166">7/23/22 3:40 AM</td>
+<td style="font-weight: 400;" width="207">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief/Battery</td>
+<td style="font-weight: 400;" width="154">2022PU00846</td>
+<td style="font-weight: 400;" width="168">7/23/22 3:45 PM</td>
+<td style="font-weight: 400;" width="166">7/23/22 4:32 PM</td>
+<td style="font-weight: 400;" width="207">1022 1st Street West Lafayette</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Statutory Rape</td>
+<td style="font-weight: 400;" width="154">2022PU00847</td>
+<td style="font-weight: 400;" width="168">7/21/22 5:33 PM</td>
+<td style="font-weight: 400;" width="166">7/23/22 5:58 PM</td>
+<td style="font-weight: 400;" width="207">400 Blk N Mccutcheon Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-094106</td>
+<td style="font-weight: 400;" width="168">7/21/22 4:04 PM</td>
+<td style="font-weight: 400;" width="166">7/21/22 4:04 PM</td>
+<td style="font-weight: 400;" width="207">Northwestern/W Stadium Ave</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-094324</td>
+<td style="font-weight: 400;" width="168">7/22/22 1:01 AM</td>
+<td style="font-weight: 400;" width="166">7/22/22 1:01 AM</td>
+<td style="font-weight: 400;" width="207">Griffin Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Burglary</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-094345</td>
+<td style="font-weight: 400;" width="168">7/22/22 2:58 AM</td>
+<td style="font-weight: 400;" width="166">7/22/22 2:58 AM</td>
+<td style="font-weight: 400;" width="207">201 Waldron St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
