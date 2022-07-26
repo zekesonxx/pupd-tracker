@@ -831,7 +831,7 @@
 <td style="font-weight: 400;" width="168">9/1/16 1:36 PM</td>
 <td style="font-weight: 400;" width="166">7/17/22 3:31 PM</td>
 <td style="font-weight: 400;" width="207">100 Blk N Russell</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Hit &amp; Run</td>
@@ -839,7 +839,7 @@
 <td style="font-weight: 400;" width="168">7/17/22 5:59 PM</td>
 <td style="font-weight: 400;" width="166">7/17/22 6:00 PM</td>
 <td style="font-weight: 400;" width="207">CoRec</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Criminal Mischief</td>
