@@ -660,7 +660,7 @@
   
     	<section class="content__group">
   					<h3>Wednesday, July 27, 2022</h3>
-<p>Will be posted soon.</p>
+<p>Nothing to Report.</p>
 		</section>
 	
           <div class="clearfix"></div>
