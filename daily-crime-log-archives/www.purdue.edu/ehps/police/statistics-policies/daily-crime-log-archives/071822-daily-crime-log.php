@@ -765,7 +765,7 @@
 <td style="font-weight: 400;" width="168">7/17/22 6:00 PM</td>
 <td style="font-weight: 400;" width="166">7/18/22 7:59 PM</td>
 <td style="font-weight: 400;" width="207">Flex Lab</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Reckless Driver</td>
