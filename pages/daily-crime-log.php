@@ -521,12 +521,7 @@
                                             </ul>
                         </li>
                         
-                                                                        
-        
-                                                                                 
-                                                        
-                            <li role="none"><a href="../chiefsearch/index.php" role="menuitem">Camps</a></li>
-                                                        </ul>
+                                                                </ul>
     </section>
 </nav>
 
@@ -646,7 +641,7 @@
   
     	<section class="content__group">
   					<h3>Friday, July 29, 2022</h3>
-<p>Will be posted soon.</p>
+<p>Nothing to report.</p>
 		</section>
 	
           <div class="clearfix"></div>
