@@ -691,7 +691,7 @@
 <td style="font-weight: 400;" width="168">7/19/22 6:30 PM</td>
 <td style="font-weight: 400;" width="166">7/19/22 6:39 PM</td>
 <td style="font-weight: 400;" width="207">Physics Building</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
