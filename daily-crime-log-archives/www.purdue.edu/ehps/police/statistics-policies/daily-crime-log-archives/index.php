@@ -521,12 +521,7 @@
                                             </ul>
                         </li>
                         
-                                                                        
-        
-                                                                                 
-                                                        
-                            <li role="none"><a href="../../chiefsearch/index.php" role="menuitem">Camps</a></li>
-                                                        </ul>
+                                                                </ul>
     </section>
 </nav>
 
@@ -607,6 +602,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log</h2>
 <ul>
+<li><a href="#" title="072522 Daily Crime Log">Week of July 25, 2022</a></li>
 <li><a href="071822-daily-crime-log.php" title="071822 Daily Crime Log">Week of July 18, 2022</a></li>
 <li><a href="071122-daily-crime-log.php" title="071122 Daily Crime Log">Week of July 11, 2022</a></li>
 <li><a href="070422-daily-crime-log.php" title="070422 Daily Crime Log">Week of July 4, 2022</a></li>
@@ -614,11 +610,7 @@
 <li><a href="062022-daily-crime-log.php" title="062022 Daily Crime Log">Week of June 20, 2022</a></li>
 <li><a href="061322-daily-crime-log.php" title="061322 Daily Crime Log">Week of June 13, 2022</a></li>
 <li><a href="060622daily-crime-log.php" title="060622 Daily Crime Log">Week of June 6, 2022</a></li>
-<li><a href="053022-daily-crime-log.php" title="053022 Daily Crime Log">Week of May 30, 2022</a></li>
-<li><a href="052322-daily-crime-log.php" title="052322 Daily Crime Log">Week of May 23, 2022</a></li>
-<li><a href="051622-daily-crime-log.php" title="051622 Daily Crime Log">Week of May 16, 2022</a></li>
-<li><a href="050922-daily-crime-log.php">Week of May 9, 2022</a></li>
-<li><a href="050222-daily-crime-log.php" title="050222 Daily Crime Log">Week of May 2, 2022</a><a href="2022-archive/032822-daily-crime-log.php" title="032822 Daily Crime Log"></a></li>
+<li><a href="053022-daily-crime-log.php" title="053022 Daily Crime Log">Week of May 30, 2022</a><a href="050222-daily-crime-log.php" title="050222 Daily Crime Log"></a><a href="2022-archive/032822-daily-crime-log.php" title="032822 Daily Crime Log"></a></li>
 </ul>
 		</section>
 	
