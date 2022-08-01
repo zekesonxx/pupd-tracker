@@ -330,9 +330,8 @@
       <article class="header__signature--siteName">
           
                          
-                <a aria-label="Department Name" href="../../index.php" id="siteName">Police Department</a>
-                        <div aria-label="Site Tagline" id="siteTagline">
-                                </div>
+                <a aria-label="Police Department" href="../../index.php" id="siteName">Police Department</a>
+                               
       </article>
     </section>
 </section>
@@ -394,11 +393,6 @@
                                                             
         
         <li role="none"><a href="../security-reports.php" role="menuitem">Annual Security Reports</a></li>
-                                                    
-        
-                                                            
-        
-        <li role="none"><a href="../daily-crime-log.php" role="menuitem"> Daily Crime Log</a></li>
                                                     
         
                                                             
@@ -492,6 +486,11 @@
                                                                                  
                                                         
                             <li role="none"><a href="../../camps/index.php" role="menuitem">Camps</a></li>
+                                                                
+        
+                                                                                 
+                                                        
+                            <li role="none"><a href="../../chiefsearch/index.php" role="menuitem">Chief Search</a></li>
                                                                 
         
                                                                                  

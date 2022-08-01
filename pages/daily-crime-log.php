@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			072522 Daily Crime Log - 
+			080122 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -486,6 +486,11 @@
                                                                                  
                                                         
                             <li role="none"><a href="../camps/index.php" role="menuitem">Camps</a></li>
+                                                                
+        
+                                                                                 
+                                                        
+                            <li role="none"><a href="../chiefsearch/index.php" role="menuitem">Chief Search</a></li>
                                                                 
         
                                                                                  
