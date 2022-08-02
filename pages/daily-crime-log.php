@@ -667,7 +667,42 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;August 2, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00862</td>
+<td style="font-weight: 400;" width="168">7/29/22 5:30 PM</td>
+<td style="font-weight: 400;" width="166">8/1/22 10:30 AM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Voyeurism</td>
+<td style="font-weight: 400;" width="154">2022PU00863</td>
+<td style="font-weight: 400;" width="168">8/1/22 12:23 PM</td>
+<td style="font-weight: 400;" width="166">8/1/22 2:01 PM</td>
+<td style="font-weight: 400;" width="207">Material Sciences and Electrical Engineering</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">12 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">7/30/22 3:00 AM</td>
+<td style="font-weight: 400;" width="166">7/30/22 4:18 AM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
