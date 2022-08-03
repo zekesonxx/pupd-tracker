@@ -660,7 +660,58 @@
   
     	<section class="content__group">
   					<h3>Wednesday, August 3, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00859</td>
+<td style="font-weight: 400;" width="168">7/29/22 2:14 PM</td>
+<td style="font-weight: 400;" width="166">7/29/22 2:36 PM</td>
+<td style="font-weight: 400;" width="207">Stewart Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00866</td>
+<td style="font-weight: 400;" width="168">8/2/22 12:07 PM</td>
+<td style="font-weight: 400;" width="166">8/2/22 12:16 PM</td>
+<td style="font-weight: 400;" width="207">Hi-Vine Apartments</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00867</td>
+<td style="font-weight: 400;" width="168">8/2/22 8:25 PM</td>
+<td style="font-weight: 400;" width="166">8/2/22 8:33 PM</td>
+<td style="font-weight: 400;" width="207">CoRec</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00870</td>
+<td style="font-weight: 400;" width="168">8/3/22 1:44 AM</td>
+<td style="font-weight: 400;" width="166">8/3/22 2:12 AM</td>
+<td style="font-weight: 400;" width="207">US 231/ Ahlers Dr</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Burglary</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-099601</td>
+<td style="font-weight: 400;" width="168">8/2/22 12:08 PM</td>
+<td style="font-weight: 400;" width="166">8/2/22 12:08 PM</td>
+<td style="font-weight: 400;" width="207">1010 David Ross Rd</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
