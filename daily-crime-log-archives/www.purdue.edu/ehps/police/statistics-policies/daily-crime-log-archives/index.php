@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			Daily Crime Log Archive - 
+			080122 Daily Crime Log Archive - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -607,6 +607,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log</h2>
 <ul>
+<li><a href="080122-daily-crime-log.php">Week of August 1, 2022</a></li>
 <li><a href="072522-daily-crime-log.php" title="072522 Daily Crime Log">Week of July 25, 2022</a></li>
 <li><a href="071822-daily-crime-log.php" title="071822 Daily Crime Log">Week of July 18, 2022</a></li>
 <li><a href="071122-daily-crime-log.php" title="071122 Daily Crime Log">Week of July 11, 2022</a></li>

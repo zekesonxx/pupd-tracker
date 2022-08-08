@@ -736,7 +736,7 @@
 <td style="font-weight: 400;" width="168">7/4/22 1:04 AM</td>
 <td style="font-weight: 400;" width="166">7/4/22 1:24 AM</td>
 <td style="font-weight: 400;" width="207">Waldron St/ 5th St</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Criminal Mischief</td>
@@ -960,7 +960,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://calendar.purdue.edu/">Calendar</a></li>
+                <li role="listitem"><a href="https://events.purdue.edu/">Events</a></li>
                                 
         
                             
