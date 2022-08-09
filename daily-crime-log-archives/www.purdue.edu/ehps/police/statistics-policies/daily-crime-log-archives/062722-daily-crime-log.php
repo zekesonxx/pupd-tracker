@@ -775,7 +775,7 @@
 <td style="font-weight: 400;" width="168">6/26/22 12:55 AM</td>
 <td style="font-weight: 400;" width="166">6/26/22 1:17 AM</td>
 <td style="font-weight: 400;" width="207">1000 Blk W Stadium Dr</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
@@ -992,7 +992,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://calendar.purdue.edu/">Calendar</a></li>
+                <li role="listitem"><a href="https://events.purdue.edu/">Events</a></li>
                                 
         
                             

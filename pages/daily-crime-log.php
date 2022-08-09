@@ -667,7 +667,34 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;August 9, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Rape</td>
+<td style="font-weight: 400;" width="154">2022PU00886</td>
+<td style="font-weight: 400;" width="168">7/28/22 9:56 AM</td>
+<td style="font-weight: 400;" width="166">8/8/22 10:00 AM</td>
+<td style="font-weight: 400;" width="207">1100 Blk 3rd St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU00887</td>
+<td style="font-weight: 400;" width="168">8/8/22 4:16 PM</td>
+<td style="font-weight: 400;" width="166">8/8/22 4:30 PM</td>
+<td style="font-weight: 400;" width="207">Stewart Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

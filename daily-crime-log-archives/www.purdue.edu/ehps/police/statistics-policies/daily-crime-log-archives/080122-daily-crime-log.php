@@ -702,7 +702,7 @@
 <td style="font-weight: 400;" width="168">7/29/22 2:14 PM</td>
 <td style="font-weight: 400;" width="166">7/29/22 2:36 PM</td>
 <td style="font-weight: 400;" width="207">Stewart Center</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
@@ -1027,7 +1027,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://calendar.purdue.edu/">Calendar</a></li>
+                <li role="listitem"><a href="https://events.purdue.edu/">Events</a></li>
                                 
         
                             
