@@ -663,12 +663,12 @@
 <th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="156">Damaged Property</td>
 <td style="font-weight: 400;" width="154">2022PU00871</td>
 <td style="font-weight: 400;" width="168">8/3/00 12:00 AM</td>
 <td style="font-weight: 400;" width="166">8/3/22 7:00 AM</td>
 <td style="font-weight: 400;" width="207">Pickett Park</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Duplicate of 2022PU00868. Nothing Further</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Harassment</td>
@@ -768,7 +768,7 @@
 <td style="font-weight: 400;" width="168">8/1/22 12:23 PM</td>
 <td style="font-weight: 400;" width="166">8/1/22 2:01 PM</td>
 <td style="font-weight: 400;" width="207">Material Sciences and Electrical Engineering</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Liquor Law Violation</td>

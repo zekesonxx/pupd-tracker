@@ -642,7 +642,7 @@
 <td style="font-weight: 400;" width="168">6/27/22 12:00 PM</td>
 <td style="font-weight: 400;" width="166">6/30/22 3:48 PM</td>
 <td style="font-weight: 400;" width="207">Unknown On Campus Location</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Hit &amp; Run</td>
