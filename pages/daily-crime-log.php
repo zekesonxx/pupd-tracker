@@ -646,7 +646,74 @@
   
     	<section class="content__group">
   					<h3>Friday, August 12, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Public Indecency</td>
+<td style="font-weight: 400;" width="154">2022PU00893</td>
+<td style="font-weight: 400;" width="168">8/10/22 8:21 PM</td>
+<td style="font-weight: 400;" width="166">8/10/22 8:21 PM</td>
+<td style="font-weight: 400;" width="207">Wetherill Lab</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU00894</td>
+<td style="font-weight: 400;" width="168">8/11/22 7:40 AM</td>
+<td style="font-weight: 400;" width="166">8/11/22 7:53 AM</td>
+<td style="font-weight: 400;" width="207">Northwestern Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Driving While Suspended</td>
+<td style="font-weight: 400;" width="154">2022PU00895</td>
+<td style="font-weight: 400;" width="168">8/11/22 2:40 PM</td>
+<td style="font-weight: 400;" width="166">8/11/22 3:12 PM</td>
+<td style="font-weight: 400;" width="207">N Russell St/ W Stadium Ave</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00900</td>
+<td style="font-weight: 400;" width="168">8/11/22 8:33 PM</td>
+<td style="font-weight: 400;" width="166">8/11/22 8:08 PM</td>
+<td style="font-weight: 400;" width="207">Honors College North</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00901</td>
+<td style="font-weight: 400;" width="168">8/11/22 8:17 PM</td>
+<td style="font-weight: 400;" width="166">8/11/22 8:39 PM</td>
+<td style="font-weight: 400;" width="207">CoRec</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU00902</td>
+<td style="font-weight: 400;" width="168">8/11/22 9:36 PM</td>
+<td style="font-weight: 400;" width="166">8/11/22 10:00 PM</td>
+<td style="font-weight: 400;" width="207">5th St/ N University St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-103613</td>
+<td style="font-weight: 400;" width="168">8/10/22 9:10 PM</td>
+<td style="font-weight: 400;" width="166">8/10/22 9:10 PM</td>
+<td style="font-weight: 400;" width="207">N Grant St/Northwestern Ave</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -669,7 +736,9 @@
 <td style="font-weight: 400;" width="168">8/10/22 8:45 AM</td>
 <td style="font-weight: 400;" width="166">8/10/22 9:19 AM</td>
 <td style="font-weight: 400;" width="207">North University St &amp; 4th St</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">
+<p>Pending Prosecutor Review</p>
+</td>
 </tr>
 </tbody>
 </table>
