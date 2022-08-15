@@ -607,6 +607,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log</h2>
 <ul>
+<li><a href="080822-daily-crime-log.php" title="080822 Daily Crime Log">Week of August 8, 2022</a></li>
 <li><a href="080122-daily-crime-log.php">Week of August 1, 2022</a></li>
 <li><a href="072522-daily-crime-log.php" title="072522 Daily Crime Log">Week of July 25, 2022</a></li>
 <li><a href="071822-daily-crime-log.php" title="071822 Daily Crime Log">Week of July 18, 2022</a></li>
@@ -815,7 +816,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://calendar.purdue.edu/">Calendar</a></li>
+                <li role="listitem"><a href="https://events.purdue.edu/">Events</a></li>
                                 
         
                             
