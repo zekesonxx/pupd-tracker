@@ -650,7 +650,7 @@
 <td style="font-weight: 400;" width="168">7/15/22 1:14 AM</td>
 <td style="font-weight: 400;" width="166">7/15/22 3:56 AM</td>
 <td style="font-weight: 400;" width="207">This was determined to be outside Clery Reportable Geography Nothing Further</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 </tbody>
 </table>
@@ -1003,7 +1003,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://calendar.purdue.edu/">Calendar</a></li>
+                <li role="listitem"><a href="https://events.purdue.edu/">Events</a></li>
                                 
         
                             
