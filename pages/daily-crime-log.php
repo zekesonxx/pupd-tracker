@@ -646,7 +646,58 @@
   
     	<section class="content__group">
   					<h3>Friday, August 19, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00925</td>
+<td style="font-weight: 400;" width="168">8/18/22 3:06 PM</td>
+<td style="font-weight: 400;" width="166">8/18/22 3:26 PM</td>
+<td style="font-weight: 400;" width="207">Honors College North</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU00926</td>
+<td style="font-weight: 400;" width="168">8/18/22 3:22 PM</td>
+<td style="font-weight: 400;" width="166">8/18/22 3:35 PM</td>
+<td style="font-weight: 400;" width="207">Honors College North</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00930</td>
+<td style="font-weight: 400;" width="168">8/18/22 9:03 PM</td>
+<td style="font-weight: 400;" width="166">8/18/22 9:19 PM</td>
+<td style="font-weight: 400;" width="207">800 Blk David Ross Rd</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU00931</td>
+<td style="font-weight: 400;" width="168">8/18/22 11:00 PM</td>
+<td style="font-weight: 400;" width="166">8/19/22 3:09 AM</td>
+<td style="font-weight: 400;" width="207">3rd St/N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU00932</td>
+<td style="font-weight: 400;" width="168">8/19/22 4:05 AM</td>
+<td style="font-weight: 400;" width="166">8/19/22 4:44 AM</td>
+<td style="font-weight: 400;" width="207">Mollenkopf Athletic Center</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

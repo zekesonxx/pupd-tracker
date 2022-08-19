@@ -649,7 +649,7 @@
 <td style="font-weight: 400;" width="168">7/20/22 1:52 PM</td>
 <td style="font-weight: 400;" width="166">7/20/22 2:25 PM</td>
 <td style="font-weight: 400;" width="207">Hansen Life Sciences Research Building</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 </tbody>
 </table>
@@ -1056,7 +1056,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://calendar.purdue.edu/">Calendar</a></li>
+                <li role="listitem"><a href="https://events.purdue.edu/">Events</a></li>
                                 
         
                             
