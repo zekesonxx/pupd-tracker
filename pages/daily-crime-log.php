@@ -667,7 +667,58 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;August 23, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00965</td>
+<td style="font-weight: 400;" width="168">8/22/22 12:00 AM</td>
+<td style="font-weight: 400;" width="166">8/22/22 10:46 AM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Threats</td>
+<td style="font-weight: 400;" width="154">2022PU00967</td>
+<td style="font-weight: 400;" width="168">8/22/22 9:00 AM</td>
+<td style="font-weight: 400;" width="166">8/22/22 1:36 PM</td>
+<td style="font-weight: 400;" width="207">PUPD</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU00970</td>
+<td style="font-weight: 400;" width="168">8/22/22 8:29 PM</td>
+<td style="font-weight: 400;" width="166">8/22/22 8:43 PM</td>
+<td style="font-weight: 400;" width="207">PUPD</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00971</td>
+<td style="font-weight: 400;" width="168">8/22/22 2:30 PM</td>
+<td style="font-weight: 400;" width="166">8/22/22 9:08 PM</td>
+<td style="font-weight: 400;" width="207">Physics Building</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-108806</td>
+<td style="font-weight: 400;" width="168">8/21/22 11:16 PM</td>
+<td style="font-weight: 400;" width="166">8/21/22 11:16 PM</td>
+<td style="font-weight: 400;" width="207">Beering Dr/ W Stadium Ave</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -698,7 +749,7 @@
 <td style="font-weight: 400;" width="168">8/19/22 12:00 AM</td>
 <td style="font-weight: 400;" width="166">8/19/22 1:09 PM</td>
 <td style="font-weight: 400;" width="207">Krach Leadership Center</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Criminal Mischief</td>
