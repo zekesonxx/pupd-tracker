@@ -660,7 +660,90 @@
   
     	<section class="content__group">
   					<h3>Wednesday, August 24, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<td width="156">Nature</td>
+<td width="154">Case Number</td>
+<td width="168">Date/Time Occurred</td>
+<td width="166">Date/Time Reported</td>
+<td width="207">General Location</td>
+<td width="181">Disposition&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00968</td>
+<td style="font-weight: 400;" width="168">1/5/22 3:35 PM</td>
+<td style="font-weight: 400;" width="166">8/22/22 5:00 PM</td>
+<td style="font-weight: 400;" width="207">Windsor Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00973</td>
+<td style="font-weight: 400;" width="168">8/14/22 3:22 PM</td>
+<td style="font-weight: 400;" width="166">8/23/22 6:29 AM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Blackmail</td>
+<td style="font-weight: 400;" width="154">2022PU00974</td>
+<td style="font-weight: 400;" width="168">8/23/22 12:32 PM</td>
+<td style="font-weight: 400;" width="166">8/23/22 1:01 PM</td>
+<td style="font-weight: 400;" width="207">Honors College North</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU00975</td>
+<td style="font-weight: 400;" width="168">8/17/22 9:00 AM</td>
+<td style="font-weight: 400;" width="166">8/23/22 2:49 PM</td>
+<td style="font-weight: 400;" width="207">Grant St Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00979</td>
+<td style="font-weight: 400;" width="168">8/23/22 4:24 PM</td>
+<td style="font-weight: 400;" width="166">8/23/22 4:39 PM</td>
+<td style="font-weight: 400;" width="207">Honors College South</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU00980</td>
+<td style="font-weight: 400;" width="168">8/23/22 9:19 PM</td>
+<td style="font-weight: 400;" width="166">8/23/22 9:37 PM</td>
+<td style="font-weight: 400;" width="207">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Blackmail</td>
+<td style="font-weight: 400;" width="154">2022PU00981</td>
+<td style="font-weight: 400;" width="168">8/23/22 11:30 PM</td>
+<td style="font-weight: 400;" width="166">8/24/22 12:06 AM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Blackmail</td>
+<td style="font-weight: 400;" width="154">2022PU00982</td>
+<td style="font-weight: 400;" width="168">8/24/22 1:03 AM</td>
+<td style="font-weight: 400;" width="166">8/24/22 2:21 AM</td>
+<td style="font-weight: 400;" width="207">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">8/20/22 3:00 PM</td>
+<td style="font-weight: 400;" width="166">8/22/22 9:25 PM</td>
+<td style="font-weight: 400;" width="207">Meredith South</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -698,7 +781,7 @@
 <td style="font-weight: 400;" width="154">2022PU00970</td>
 <td style="font-weight: 400;" width="168">8/22/22 8:29 PM</td>
 <td style="font-weight: 400;" width="166">8/22/22 8:43 PM</td>
-<td style="font-weight: 400;" width="207">PUPD</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
@@ -757,7 +840,7 @@
 <td style="font-weight: 400;" width="168">8/19/22 12:45 AM</td>
 <td style="font-weight: 400;" width="166">8/19/22 5:03 PM</td>
 <td style="font-weight: 400;" width="207">Wiley Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Fondling</td>
@@ -829,7 +912,7 @@
 <td style="font-weight: 400;" width="168">8/21/22 1:00 AM</td>
 <td style="font-weight: 400;" width="166">8/21/22 1:28 AM</td>
 <td style="font-weight: 400;" width="207">Windsor Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Operating While Intoxicated</td>

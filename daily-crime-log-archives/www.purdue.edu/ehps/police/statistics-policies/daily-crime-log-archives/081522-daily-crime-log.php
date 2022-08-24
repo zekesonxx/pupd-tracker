@@ -708,7 +708,7 @@
 <td style="font-weight: 400;" width="168">8/15/22 2:30 PM</td>
 <td style="font-weight: 400;" width="166">8/17/22 2:48 PM</td>
 <td style="font-weight: 400;" width="207">Winifred Parker Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Trespass</td>
