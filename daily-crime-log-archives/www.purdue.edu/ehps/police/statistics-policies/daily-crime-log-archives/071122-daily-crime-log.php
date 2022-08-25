@@ -702,7 +702,7 @@
 <td style="font-weight: 400;" width="168">7/13/22 2:23 AM</td>
 <td style="font-weight: 400;" width="166">7/13/22 3:16 AM</td>
 <td style="font-weight: 400;" width="207">Cherry Ln/ John R. Wooden Dr</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 </tbody>
 </table>

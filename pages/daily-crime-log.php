@@ -653,7 +653,82 @@
   
     	<section class="content__group">
   					<h3>Thursday, August 25, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00983</td>
+<td style="font-weight: 400;" width="168">8/19/22 9:00 PM</td>
+<td style="font-weight: 400;" width="166">8/21/22 2:25 PM</td>
+<td style="font-weight: 400;" width="207">Cary Quad</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU00984</td>
+<td style="font-weight: 400;" width="168">8/8/22 10:00 AM</td>
+<td style="font-weight: 400;" width="166">8/24/22 10:44 AM</td>
+<td style="font-weight: 400;" width="207">Sigma Kappa</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Public Indecency/Trespass</td>
+<td style="font-weight: 400;" width="154">2022PU00987</td>
+<td style="font-weight: 400;" width="168">8/24/22 12:20 PM</td>
+<td style="font-weight: 400;" width="166">8/24/22 1:15 PM</td>
+<td style="font-weight: 400;" width="207">Rawls Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespass</td>
+<td style="font-weight: 400;" width="154">2022PU00988</td>
+<td style="font-weight: 400;" width="168">8/24/22 4:18 PM</td>
+<td style="font-weight: 400;" width="166">8/24/22 5:08 PM</td>
+<td style="font-weight: 400;" width="207">Rawls Hall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00989</td>
+<td style="font-weight: 400;" width="168">8/24/22 5:54 PM</td>
+<td style="font-weight: 400;" width="166">8/24/22 6:07 PM</td>
+<td style="font-weight: 400;" width="207">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Blackmail</td>
+<td style="font-weight: 400;" width="154">2022PU00992</td>
+<td style="font-weight: 400;" width="168">8/24/22 6:00 PM</td>
+<td style="font-weight: 400;" width="166">8/24/22 7:31 PM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00993</td>
+<td style="font-weight: 400;" width="168">8/20/22 1:00 PM</td>
+<td style="font-weight: 400;" width="166">8/24/22 8:00 PM</td>
+<td style="font-weight: 400;" width="207">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-109842</td>
+<td style="font-weight: 400;" width="168">8/23/22 10:37 PM</td>
+<td style="font-weight: 400;" width="166">8/23/22 10:37 PM</td>
+<td style="font-weight: 400;" width="207">500 Blk Purdue Mall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -904,7 +979,7 @@
 <td style="font-weight: 400;" width="168">8/20/22 11:22 PM</td>
 <td style="font-weight: 400;" width="166">8/20/22 11:42 PM</td>
 <td style="font-weight: 400;" width="207">Hawkins Graduate House</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>
