@@ -646,7 +646,58 @@
   
     	<section class="content__group">
   					<h3>Friday, August 26, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU00977</td>
+<td style="font-weight: 400;" width="168">8/23/22 3:01 PM</td>
+<td style="font-weight: 400;" width="166">8/23/22 3:43 PM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00994</td>
+<td style="font-weight: 400;" width="168">8/14/22 1:00 PM</td>
+<td style="font-weight: 400;" width="166">8/25/22 1:20 PM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00995</td>
+<td style="font-weight: 400;" width="168">8/25/22 11:30 AM</td>
+<td style="font-weight: 400;" width="166">8/25/22 2:13 PM</td>
+<td style="font-weight: 400;" width="207">Armory</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU00996</td>
+<td style="font-weight: 400;" width="168">6/28/22 3:30 PM</td>
+<td style="font-weight: 400;" width="166">8/25/22 2:56 PM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU00997</td>
+<td style="font-weight: 400;" width="168">8/25/22 5:30 PM</td>
+<td style="font-weight: 400;" width="166">8/25/22 7:44 PM</td>
+<td style="font-weight: 400;" width="207">Purdue Menorial Union</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
