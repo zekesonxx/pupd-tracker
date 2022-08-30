@@ -698,7 +698,7 @@
 <td style="font-weight: 400;" width="168">8/26/22 5:06 PM</td>
 <td style="font-weight: 400;" width="166">8/26/22 5:19 PM</td>
 <td style="font-weight: 400;" width="207">University St Garage</td>
-<td style="font-weight: 400;" width="181"></td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-Bike</td>
