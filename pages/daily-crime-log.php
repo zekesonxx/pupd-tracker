@@ -660,7 +660,74 @@
   
     	<section class="content__group">
   					<h3>Wednesday, August 31, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01017</td>
+<td style="font-weight: 400;" width="168">8/30/22 10:00 AM</td>
+<td style="font-weight: 400;" width="166">8/30/22 10:15 AM</td>
+<td style="font-weight: 400;" width="207">Meredith South</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01019</td>
+<td style="font-weight: 400;" width="168">8/26/22 2:00 PM</td>
+<td style="font-weight: 400;" width="166">8/30/22 4:45 PM</td>
+<td style="font-weight: 400;" width="207">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01020</td>
+<td style="font-weight: 400;" width="168">8/29/22 6:00 PM</td>
+<td style="font-weight: 400;" width="166">8/30/22 4:56 PM</td>
+<td style="font-weight: 400;" width="207">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01021</td>
+<td style="font-weight: 400;" width="168">8/30/22 5:09 PM</td>
+<td style="font-weight: 400;" width="166">8/30/22 5:26 PM</td>
+<td style="font-weight: 400;" width="207">Ford Dining Court</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU01022</td>
+<td style="font-weight: 400;" width="168">8/30/22 5:35 PM</td>
+<td style="font-weight: 400;" width="166">8/30/22 6:29 PM</td>
+<td style="font-weight: 400;" width="207">Heavilon Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation&#160;</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-112876</td>
+<td style="font-weight: 400;" width="168">8/29/22 10:07 PM</td>
+<td style="font-weight: 400;" width="166">8/29/22 10:07 PM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-112815</td>
+<td style="font-weight: 400;" width="168">8/29/22 8:03 PM</td>
+<td style="font-weight: 400;" width="166">8/29/22 8:03 PM</td>
+<td style="font-weight: 400;" width="207">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
