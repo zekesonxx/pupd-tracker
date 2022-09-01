@@ -374,8 +374,9 @@
         
         <li role="none"><a href="../about/internships.php" role="menuitem">Student Internships</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -409,8 +410,9 @@
         
         <li role="none"><a href="weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -449,8 +451,9 @@
                                                         
                             <li role="none"><a href="../campus-safety-tips/violent-crimes/index.php" role="menuitem">Violent Crimes</a></li>
                                                         </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -474,8 +477,9 @@
                                                         
                             <li role="none"><a href="../community-services/services/index.php" role="menuitem">Safety and Security Services</a></li>
                                                         </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -524,8 +528,9 @@
         
         <li role="none"><a href="../contact/contact-form.php" role="menuitem">Contact and Feedback Form</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                 </ul>
     </section>
 </nav>
@@ -653,7 +658,66 @@
   
     	<section class="content__group">
   					<h3>Thursday, September 1, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01025</td>
+<td style="font-weight: 400;" width="168">8/31/22 3:38 AM</td>
+<td style="font-weight: 400;" width="166">8/31/22 11:26 AM</td>
+<td style="font-weight: 400;" width="207">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01026</td>
+<td style="font-weight: 400;" width="168">8/31/22 1:09 PM</td>
+<td style="font-weight: 400;" width="166">8/31/22 1:36 PM</td>
+<td style="font-weight: 400;" width="207">Hilltop Apartments</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01030</td>
+<td style="font-weight: 400;" width="168">3/3/20 11:00 AM</td>
+<td style="font-weight: 400;" width="166">8/31/22 4:36 PM</td>
+<td style="font-weight: 400;" width="207">Young Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01031</td>
+<td style="font-weight: 400;" width="168">8/30/22 4:30 AM</td>
+<td style="font-weight: 400;" width="166">8/31/22 5:57 PM</td>
+<td style="font-weight: 400;" width="207">Physics Building</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Blackmail</td>
+<td style="font-weight: 400;" width="154">2022PU01033</td>
+<td style="font-weight: 400;" width="168">8/31/22 6:59 PM</td>
+<td style="font-weight: 400;" width="166">8/31/22 7:33 PM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation&#160;</td>
+<td style="font-weight: 400;" width="154">CAD#2022113500</td>
+<td style="font-weight: 400;" width="168">8/31/2022 0:09</td>
+<td style="font-weight: 400;" width="166">8/31/2022 0:09</td>
+<td style="font-weight: 400;" width="207">Earhart Residence Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

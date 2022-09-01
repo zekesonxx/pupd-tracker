@@ -374,8 +374,9 @@
         
         <li role="none"><a href="../../about/internships.php" role="menuitem">Student Internships</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -409,8 +410,9 @@
         
         <li role="none"><a href="../weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -449,8 +451,9 @@
                                                         
                             <li role="none"><a href="../../campus-safety-tips/violent-crimes/index.php" role="menuitem">Violent Crimes</a></li>
                                                         </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -474,8 +477,9 @@
                                                         
                             <li role="none"><a href="../../community-services/services/index.php" role="menuitem">Safety and Security Services</a></li>
                                                         </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -524,8 +528,9 @@
         
         <li role="none"><a href="../../contact/contact-form.php" role="menuitem">Contact and Feedback Form</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                 </ul>
     </section>
 </nav>
@@ -782,7 +787,7 @@
 <td style="font-weight: 400;" width="168">1/5/22 3:35 PM</td>
 <td style="font-weight: 400;" width="166">8/22/22 5:00 PM</td>
 <td style="font-weight: 400;" width="207">Windsor Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Hit &amp; Run</td>
@@ -954,7 +959,7 @@
 <td style="font-weight: 400;" width="168">8/19/22 5:29 PM</td>
 <td style="font-weight: 400;" width="166">8/19/22 6:51 PM</td>
 <td style="font-weight: 400;" width="207">Gates Rd/ W State St</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft</td>
