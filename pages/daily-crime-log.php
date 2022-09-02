@@ -651,7 +651,282 @@
   
     	<section class="content__group">
   					<h3>Friday, September 2, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="156">Drug Law Violation</td>
+<td width="154">2022PU01035</td>
+<td width="168">9/1/22 10:22 AM</td>
+<td width="166">9/1/22 10:52 AM</td>
+<td width="207">Earhart Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01036</td>
+<td style="font-weight: 400;" width="168">9/1/22 10:39 AM</td>
+<td style="font-weight: 400;" width="166">9/1/22 10:52 AM</td>
+<td style="font-weight: 400;" width="207">Harrsion St Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01037</td>
+<td style="font-weight: 400;" width="168">8/31/22 1:20 PM</td>
+<td style="font-weight: 400;" width="166">9/1/22 11:02 AM</td>
+<td style="font-weight: 400;" width="207">Stewart Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Blackmail</td>
+<td style="font-weight: 400;" width="154">2022PU01038</td>
+<td style="font-weight: 400;" width="168">9/1/22 1:30 PM</td>
+<td style="font-weight: 400;" width="166">9/1/22 2:50 PM</td>
+<td style="font-weight: 400;" width="207">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01040</td>
+<td style="font-weight: 400;" width="168">9/1/22 6:20 PM</td>
+<td style="font-weight: 400;" width="166">9/1/22 6:29 PM</td>
+<td style="font-weight: 400;" width="207">300 Blk Centennial Mall Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Possession</td>
+<td style="font-weight: 400;" width="154">2022PU01041</td>
+<td style="font-weight: 400;" width="168">9/1/22 8:17 PM</td>
+<td style="font-weight: 400;" width="166">9/1/22 7:13 PM</td>
+<td style="font-weight: 400;" width="207">3rd St/ N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2022PU01043</td>
+<td style="font-weight: 400;" width="168">9/1/22 9:16 PM</td>
+<td style="font-weight: 400;" width="166">9/1/22 9:25 PM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2022PU01045</td>
+<td style="font-weight: 400;" width="168">9/1/22 11:51 PM</td>
+<td style="font-weight: 400;" width="166">9/2/22 12:31 AM</td>
+<td style="font-weight: 400;" width="207">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless&#160; Driver</td>
+<td style="font-weight: 400;" width="154">CAD#2022-114055</td>
+<td style="font-weight: 400;" width="168">8/31/2022 22:24</td>
+<td style="font-weight: 400;" width="166">8/31/2022 22:24</td>
+<td style="font-weight: 400;" width="207">Wood St Parking Garage</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver</td>
+<td style="font-weight: 400;">CAD#2022-114136</td>
+<td style="font-weight: 400;" width="168">9/1/2022 1:46</td>
+<td style="font-weight: 400;" width="166">9/1/2022 1:46</td>
+<td style="font-weight: 400;" width="207">W State St/ McCormick Rd</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft Property</td>
+<td style="font-weight: 400;" width="154">CAD#2022-113762</td>
+<td style="font-weight: 400;" width="168">8/31/2022 13:29</td>
+<td style="font-weight: 400;" width="166">8/31/2022 13:29</td>
+<td style="font-weight: 400;" width="207">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft of Bike&#160;</td>
+<td style="font-weight: 400;" width="154">CAD#2022-113684</td>
+<td style="font-weight: 400;" width="168">8/31/2022 11:13</td>
+<td style="font-weight: 400;" width="166">8/31/2022 11:13</td>
+<td style="font-weight: 400;" width="207">300 N Salisbury St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Burglary</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">8/31/22 3:00 PM</td>
+<td style="font-weight: 400;" width="166">9/1/22 5:35 PM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">8 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/19/22 12:00 AM</td>
+<td style="font-weight: 400;">8/19/22 12:29 AM</td>
+<td style="font-weight: 400;">Hillenbrand Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">9 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/19/22 12:30 AM</td>
+<td style="font-weight: 400;">8/19/22 1:03 AM</td>
+<td style="font-weight: 400;">Hillenbrand Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">7 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/19/22 10:45 PM</td>
+<td style="font-weight: 400;">8/19/22 11:55 PM</td>
+<td style="font-weight: 400;">300 N Salisbury St</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/20/22 2:30 PM</td>
+<td style="font-weight: 400;">8/20/22 2:58 PM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">5 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/20/22 9:45 PM</td>
+<td style="font-weight: 400;">8/20/22 11:06 PM</td>
+<td style="font-weight: 400;">300 N Salisbury St</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">7 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/20/22 10:15 PM</td>
+<td style="font-weight: 400;">8/20/22 11:04 PM</td>
+<td style="font-weight: 400;">300 N Salisbury St</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;">3 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/20/22 10:45 PM</td>
+<td style="font-weight: 400;">8/22/22 5:30 AM</td>
+<td style="font-weight: 400;">250 McCutcheon Dr</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">6 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/20/22 11:30 PM</td>
+<td style="font-weight: 400;">8/21/22 12:24 AM</td>
+<td style="font-weight: 400;">410 Steely St</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">5 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/21/22 12:00 AM</td>
+<td style="font-weight: 400;">8/21/22 2:02 AM</td>
+<td style="font-weight: 400;">300 N Salisbury St</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">7 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/21/22 12:15 AM</td>
+<td style="font-weight: 400;">8/21/22 2:00 AM</td>
+<td style="font-weight: 400;">300 N Salisbury St</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">8 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/21/22 12:30 AM</td>
+<td style="font-weight: 400;">8/21/22 2:08 AM</td>
+<td style="font-weight: 400;">300 N Salisbury St</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/21/22 1:00 AM</td>
+<td style="font-weight: 400;">8/22/22 3:39 PM</td>
+<td style="font-weight: 400;">Windsor Halls</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">4 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/21/22 1:30 AM</td>
+<td style="font-weight: 400;">8/21/22 2:14 AM</td>
+<td style="font-weight: 400;">300 N Salisbury St</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">5 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/21/22 10:00 PM</td>
+<td style="font-weight: 400;">8/22/22 12:26 AM</td>
+<td style="font-weight: 400;">Wiley Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">10 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/23/22 10:45 PM</td>
+<td style="font-weight: 400;">8/24/22 12:22 AM</td>
+<td style="font-weight: 400;">300 N Salisbury St</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/26/22 11:00 PM</td>
+<td style="font-weight: 400;">8/27/22 11:39 AM</td>
+<td style="font-weight: 400;">Meredith Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">10 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/26/22 11:30 PM</td>
+<td style="font-weight: 400;">8/27/22 12:10 AM</td>
+<td style="font-weight: 400;">300 N Salisbury St</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">3 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/27/22 11:15 PM</td>
+<td style="font-weight: 400;">8/28/22 2:51 AM</td>
+<td style="font-weight: 400;">Tarkington Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">8 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/28/22 12:15 AM</td>
+<td style="font-weight: 400;">8/28/22 3:03 AM</td>
+<td style="font-weight: 400;">Tarkington Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">6 Disciplinary Referral</td>
+<td style="font-weight: 400;">8/28/22 1:00 AM</td>
+<td style="font-weight: 400;">8/28/22 11:30 AM</td>
+<td style="font-weight: 400;">Wiley Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

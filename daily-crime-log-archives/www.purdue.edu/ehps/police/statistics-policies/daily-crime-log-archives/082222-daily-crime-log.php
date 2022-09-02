@@ -983,7 +983,7 @@
 <td style="font-weight: 400;" width="168">5/1/22 12:00 PM</td>
 <td style="font-weight: 400;" width="166">8/20/22 4:44 PM</td>
 <td style="font-weight: 400;" width="207">Wiley Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Blackmail</td>
@@ -991,7 +991,7 @@
 <td style="font-weight: 400;" width="168">8/20/22 6:20 PM</td>
 <td style="font-weight: 400;" width="166">8/20/22 6:29 PM</td>
 <td style="font-weight: 400;" width="207">Tarkington Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
