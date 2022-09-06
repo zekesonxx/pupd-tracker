@@ -374,8 +374,9 @@
         
         <li role="none"><a href="../../about/internships.php" role="menuitem">Student Internships</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -409,8 +410,9 @@
         
         <li role="none"><a href="../weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -449,8 +451,9 @@
                                                         
                             <li role="none"><a href="../../campus-safety-tips/violent-crimes/index.php" role="menuitem">Violent Crimes</a></li>
                                                         </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -474,8 +477,9 @@
                                                         
                             <li role="none"><a href="../../community-services/services/index.php" role="menuitem">Safety and Security Services</a></li>
                                                         </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -524,8 +528,9 @@
         
         <li role="none"><a href="../../contact/contact-form.php" role="menuitem">Contact and Feedback Form</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                 </ul>
     </section>
 </nav>
@@ -607,6 +612,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log</h2>
 <ul>
+<li><a href="082922-daily-crime-log.php" title="082922 Daily Crime Log">Week of August 29, 2022</a></li>
 <li><a href="082222-daily-crime-log.php" title="082222 Daily Crime Log">Week of August 22, 2022</a></li>
 <li><a href="081522-daily-crime-log.php" title="081522 Daily Crime Log">Week of August 15, 2022</a></li>
 <li><a href="080822-daily-crime-log.php" title="080822 Daily Crime Log">Week of August 8, 2022</a></li>
@@ -615,7 +621,7 @@
 <li><a href="071822-daily-crime-log.php" title="071822 Daily Crime Log">Week of July 18, 2022</a></li>
 <li><a href="071122-daily-crime-log.php" title="071122 Daily Crime Log">Week of July 11, 2022</a></li>
 <li><a href="070422-daily-crime-log.php" title="070422 Daily Crime Log">Week of July 4, 2022</a></li>
-<li><a href="062722-daily-crime-log.php" title="062722 Daily Crime Log">Week of June 27, 2022</a><a href="053022-daily-crime-log.php" title="053022 Daily Crime Log"></a><a href="2022-archive/050222-daily-crime-log.php" title="050222 Daily Crime Log"></a><a href="2022-archive/032822-daily-crime-log.php" title="032822 Daily Crime Log"></a></li>
+<li><a href="062722-daily-crime-log.php" title="062722 Daily Crime Log">Week of June 27, 2022</a><a href="2022-archive/053022-daily-crime-log.php" title="053022 Daily Crime Log"></a><a href="2022-archive/050222-daily-crime-log.php" title="050222 Daily Crime Log"></a><a href="2022-archive/032822-daily-crime-log.php" title="032822 Daily Crime Log"></a></li>
 </ul>
 		</section>
 	
