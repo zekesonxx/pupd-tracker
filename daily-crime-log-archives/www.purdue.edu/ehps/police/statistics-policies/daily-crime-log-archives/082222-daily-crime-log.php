@@ -787,7 +787,7 @@
 <td style="font-weight: 400;" width="168">1/5/22 3:35 PM</td>
 <td style="font-weight: 400;" width="166">8/22/22 5:00 PM</td>
 <td style="font-weight: 400;" width="207">Windsor Hall</td>
-<td style="font-weight: 400;" width="181">Suspended</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Hit &amp; Run</td>
@@ -975,7 +975,7 @@
 <td style="font-weight: 400;" width="168">8/20/22 2:26 PM</td>
 <td style="font-weight: 400;" width="166">8/20/22 2:33 PM</td>
 <td style="font-weight: 400;" width="207">Intramural Field</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-Bike</td>

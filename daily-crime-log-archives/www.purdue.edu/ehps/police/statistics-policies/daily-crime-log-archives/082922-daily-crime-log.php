@@ -1223,7 +1223,7 @@
 <td style="font-weight: 400;" width="168">Early August 2022</td>
 <td style="font-weight: 400;" width="166">8/22/22 9:30 PM</td>
 <td style="font-weight: 400;" width="207">Winifred Parker Hall</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
+<td style="font-weight: 400;" width="181">Documented in PUPD Case 2022PU00886</td>
 </tr>
 </tbody>
 </table>
