@@ -743,7 +743,7 @@
 <td style="font-weight: 400;" width="168">8/31/22 3:00 PM</td>
 <td style="font-weight: 400;" width="166">9/1/22 5:35 PM</td>
 <td style="font-weight: 400;" width="207">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
+<td style="font-weight: 400;" width="181">Documented in PUPD Case 2022PU01053</td>
 </tr>
 <tr>
 <td style="font-weight: 400;">Liquor Law Violation</td>
