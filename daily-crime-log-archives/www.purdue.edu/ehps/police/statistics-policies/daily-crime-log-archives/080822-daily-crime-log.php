@@ -841,7 +841,7 @@
 <td style="font-weight: 400;" width="168">8/7/22 12:47 AM</td>
 <td style="font-weight: 400;" width="166">8/7/22 1:32 AM</td>
 <td style="font-weight: 400;" width="207">1300 Blk Cherry Ln</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Harassment</td>

@@ -658,7 +658,66 @@
   
     	<section class="content__group">
   					<h3>Thursday, September 8, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="156">Theft</td>
+<td width="154">2022PU01053</td>
+<td width="168">8/30/22 3:00 PM</td>
+<td width="166">9/2/22 4:35 PM</td>
+<td width="207">McCutcheon Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01090</td>
+<td style="font-weight: 400;" width="168">9/7/22 2:40 AM</td>
+<td style="font-weight: 400;" width="166">9/7/22 7:40 AM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01095</td>
+<td style="font-weight: 400;" width="168">9/7/22 3:54 AM</td>
+<td style="font-weight: 400;" width="166">9/7/22 1:22 PM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01097</td>
+<td style="font-weight: 400;" width="168">9/1/22 4:00 PM</td>
+<td style="font-weight: 400;" width="166">9/7/22 3:17 PM</td>
+<td style="font-weight: 400;" width="207">Whistler Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Dating Violence</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">9/5/22 2:01 PM</td>
+<td style="font-weight: 400;" width="166">9/5/22 10:07 PM</td>
+<td style="font-weight: 400;" width="207">Res Halls or University Residences</td>
+<td style="font-weight: 400;" width="181">Documented in WLPD Case 2022-2104 / nothing further from PUPD</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Aggravated Assault</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">9/5/2022&#160;14:01</td>
+<td style="font-weight: 400;" width="166">9/5/22 10:07 PM</td>
+<td style="font-weight: 400;" width="207">Res Halls or University Residences</td>
+<td style="font-weight: 400;" width="181">Documented in WLPD Case 2022-2109 / nothing further from PUPD</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -747,7 +806,7 @@
 <td style="font-weight: 400;" width="168">9/1/22 Unknown Time</td>
 <td style="font-weight: 400;" width="166">9/1/22 Unknown Time</td>
 <td style="font-weight: 400;" width="207">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Documented in PUPD Case 2022PU01092</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Public Intoxication</td>
@@ -755,7 +814,7 @@
 <td style="font-weight: 400;" width="168">9/1/22 11:03 PM</td>
 <td style="font-weight: 400;" width="166">9/1/22 11:03 PM</td>
 <td style="font-weight: 400;" width="207">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Documented in PUPD Case 2022PU01093</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-Bike</td>
@@ -907,7 +966,7 @@
 <td style="font-weight: 400;" width="168">9/5/22 3:41 AM</td>
 <td style="font-weight: 400;" width="166">9/5/22 4:03 AM</td>
 <td style="font-weight: 400;" width="207">Wiley Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Fraud</td>

@@ -687,7 +687,7 @@
 <td style="font-weight: 400;" width="168">9/1/22 8:17 PM</td>
 <td style="font-weight: 400;" width="166">9/1/22 7:13 PM</td>
 <td style="font-weight: 400;" width="207">3rd St/ N Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Public Intoxication</td>
