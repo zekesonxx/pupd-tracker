@@ -669,12 +669,12 @@
 <th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
-<td width="156">Theft</td>
+<td width="156">Burglary</td>
 <td width="154">2022PU01053</td>
 <td width="168">8/30/22 3:00 PM</td>
 <td width="166">9/2/22 4:35 PM</td>
 <td width="207">McCutcheon Hall</td>
-<td width="181">Under Investigation</td>
+<td width="181">Documented in CSA 9/2/2022</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft</td>
