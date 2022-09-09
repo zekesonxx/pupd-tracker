@@ -663,7 +663,7 @@
 <td style="font-weight: 400;" width="168">8/25/22 11:30 AM</td>
 <td style="font-weight: 400;" width="166">8/25/22 2:13 PM</td>
 <td style="font-weight: 400;" width="207">Armory</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-Bike</td>

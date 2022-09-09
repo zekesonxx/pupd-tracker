@@ -651,7 +651,98 @@
   
     	<section class="content__group">
   					<h3>Friday, September 9, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01099</td>
+<td style="font-weight: 400;" width="168">9/8/22 7:59 AM</td>
+<td style="font-weight: 400;" width="166">9/8/22 8:17 AM</td>
+<td style="font-weight: 400;" width="207">Wood St Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01100</td>
+<td style="font-weight: 400;" width="168">8/27/22 11:00 AM</td>
+<td style="font-weight: 400;" width="166">9/8/22 10:27 AM</td>
+<td style="font-weight: 400;" width="207">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01101</td>
+<td style="font-weight: 400;" width="168">8/25/22 11:52 AM</td>
+<td style="font-weight: 400;" width="166">9/8/22 12:39 PM</td>
+<td style="font-weight: 400;" width="207">Honors College North</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01103</td>
+<td style="font-weight: 400;" width="168">9/8/22 1:00 PM</td>
+<td style="font-weight: 400;" width="166">9/8/22 3:31 PM</td>
+<td style="font-weight: 400;" width="207">CoRec</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01104</td>
+<td style="font-weight: 400;" width="168">9/8/22 4:35 PM</td>
+<td style="font-weight: 400;" width="166">9/8/22 4:42 PM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01105</td>
+<td style="font-weight: 400;" width="168">9/3/22 5:30 PM</td>
+<td style="font-weight: 400;" width="166">9/8/22 6:05 PM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01106</td>
+<td style="font-weight: 400;" width="168">9/8/22 8:34 PM</td>
+<td style="font-weight: 400;" width="166">9/8/22 9:01 PM</td>
+<td style="font-weight: 400;" width="207">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU01107</td>
+<td style="font-weight: 400;" width="168">9/8/22 4:00 PM</td>
+<td style="font-weight: 400;" width="166">9/8/22 11:13 PM</td>
+<td style="font-weight: 400;" width="207">Brunner Hospital</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft/ Public Intoxicaton/ False Informing</td>
+<td style="font-weight: 400;" width="154">2022PU01108</td>
+<td style="font-weight: 400;" width="168">9/9/22 1:00 AM</td>
+<td style="font-weight: 400;" width="166">9/9/22 1:42 AM</td>
+<td style="font-weight: 400;" width="207">W Stadium Ave/ N University St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01109</td>
+<td style="font-weight: 400;" width="168">9/8/22 3:00 PM</td>
+<td style="font-weight: 400;" width="166">9/9/22 2:37 AM</td>
+<td style="font-weight: 400;" width="207">Brunner Hospital</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
