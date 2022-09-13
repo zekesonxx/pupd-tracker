@@ -672,7 +672,138 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;September 13, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2022PU01128</td>
+<td style="font-weight: 400;" width="168">9/10/22 4:51 PM</td>
+<td style="font-weight: 400;" width="166">9/10/22 4:51 PM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Documented in PUPD Case 2022PU01138</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2022PU01138</td>
+<td style="font-weight: 400;" width="168">9/10/22 4:51 PM</td>
+<td style="font-weight: 400;" width="166">9/10/22 4:51 PM</td>
+<td style="font-weight: 400;" width="207">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Duplicate of PUPD 2022PU01128 Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01141</td>
+<td style="font-weight: 400;" width="168">9/12/22 8:05 AM</td>
+<td style="font-weight: 400;" width="166">9/12/22 8:18 AM</td>
+<td style="font-weight: 400;" width="207">Wetherill Building</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01142</td>
+<td style="font-weight: 400;" width="168">9/9/22 1:40 PM</td>
+<td style="font-weight: 400;" width="166">9/12/22 10:25 AM</td>
+<td style="font-weight: 400;" width="207">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01144</td>
+<td style="font-weight: 400;" width="168">9/12/22 10:31 AM</td>
+<td style="font-weight: 400;" width="166">9/12/22 10:52 AM</td>
+<td style="font-weight: 400;" width="207">Lyles Porter Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01145</td>
+<td style="font-weight: 400;" width="168">9/2/22 2:30 PM</td>
+<td style="font-weight: 400;" width="166">9/12/22 1:29 PM</td>
+<td style="font-weight: 400;" width="207">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU01146</td>
+<td style="font-weight: 400;" width="168">9/12/22 1:25 PM</td>
+<td style="font-weight: 400;" width="166">9/12/22 1:26 PM</td>
+<td style="font-weight: 400;" width="207">PUPD</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01147</td>
+<td style="font-weight: 400;" width="168">9/12/22 7:09 PM</td>
+<td style="font-weight: 400;" width="166">9/12/22 7:41 PM</td>
+<td style="font-weight: 400;" width="207">Wood St Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Buglary</td>
+<td style="font-weight: 400;" width="154">CAD#2022-118798</td>
+<td style="font-weight: 400;" width="168">9/9/2022 22:36</td>
+<td style="font-weight: 400;" width="166">9/9/2022 22:36</td>
+<td style="font-weight: 400;" width="207">Aspire</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;">CAD#2022-118862</td>
+<td style="font-weight: 400;" width="168">9/10/2022 0:35</td>
+<td style="font-weight: 400;" width="166">9/10/2022 0:35</td>
+<td style="font-weight: 400;" width="207">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">CAD#2022-119094&#160;</td>
+<td style="font-weight: 400;" width="168">9/10/2022 13:20</td>
+<td style="font-weight: 400;" width="166">9/10/2022 13:20</td>
+<td style="font-weight: 400;" width="207">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver/Traffic</td>
+<td style="font-weight: 400;" width="154">CAD#2022-118680</td>
+<td style="font-weight: 400;" width="168">9/9/2022 19:07</td>
+<td style="font-weight: 400;" width="166">9/9/2020 19:07</td>
+<td style="font-weight: 400;" width="207">Golf Course&#160;</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver/Traffic</td>
+<td style="font-weight: 400;" width="154">CAD#2022-118674</td>
+<td style="font-weight: 400;" width="168">9/9/2022 19:00</td>
+<td style="font-weight: 400;" width="166">9/9/2022 19:00</td>
+<td style="font-weight: 400;" width="207">Electrical Engineering&#160;</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">CAD#2022-118375</td>
+<td style="font-weight: 400;" width="168">9/9/2022 10:17</td>
+<td style="font-weight: 400;" width="166">9/9/2022 10:17</td>
+<td style="font-weight: 400;" width="207">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">CAD#2022-118402</td>
+<td style="font-weight: 400;" width="168">9/9/2022 10:47</td>
+<td style="font-weight: 400;" width="166">9/9/2022 10:47</td>
+<td style="font-weight: 400;" width="207">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

@@ -703,7 +703,7 @@
 <td style="font-weight: 400;" width="168">9/1/22 11:51 PM</td>
 <td style="font-weight: 400;" width="166">9/2/22 12:31 AM</td>
 <td style="font-weight: 400;" width="207">Cary Quadrangle</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Reckless&#160; Driver</td>
