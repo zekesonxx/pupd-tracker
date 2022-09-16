@@ -671,7 +671,7 @@
 <td style="font-weight: 400;" width="168">9/1/22 1:30 PM</td>
 <td style="font-weight: 400;" width="166">9/1/22 2:50 PM</td>
 <td style="font-weight: 400;" width="207">Cary Quadrangle</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft</td>
@@ -1027,7 +1027,7 @@
 <td style="font-weight: 400;" width="168">8/30/22 5:35 PM</td>
 <td style="font-weight: 400;" width="166">8/30/22 6:29 PM</td>
 <td style="font-weight: 400;" width="207">Heavilon Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation&#160;</td>
