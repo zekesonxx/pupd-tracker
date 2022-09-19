@@ -674,7 +674,186 @@
   
     	<section class="content__group">
   					<h3>Monday, September 19, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="width: 156px; vertical-align: middle; text-align: center;" width="156">Nature</th>
+<td style="text-align: center;" width="154"><strong>Case Number</strong></td>
+<td style="text-align: center;" width="168"><strong>Date/Time Occurred</strong></td>
+<td style="text-align: center;" width="166"><strong>Date/Time Reported</strong></td>
+<td style="text-align: center;" width="207"><strong>General Location</strong></td>
+<td style="text-align: center;" width="181"><strong>Disposition&#160;</strong></td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01175</td>
+<td style="font-weight: 400;" width="168">9/15/22 11:30 PM</td>
+<td style="font-weight: 400;" width="166">9/16/22 8:50 AM</td>
+<td style="font-weight: 400;" width="207">Hilltop Apartments</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike/ Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01177</td>
+<td style="font-weight: 400;" width="168">9/16/22 10:29 AM</td>
+<td style="font-weight: 400;" width="166">9/16/22 10:51 AM</td>
+<td style="font-weight: 400;" width="207">Alpha Gamma Delta</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Sex Offense/ Blackmail</td>
+<td style="font-weight: 400;" width="154">2022PU01178</td>
+<td style="font-weight: 400;" width="168">9/16/22 2:45 PM</td>
+<td style="font-weight: 400;" width="166">9/16/22 3:38 PM</td>
+<td style="font-weight: 400;" width="207">400 Blk N McCutcheon Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Blackmail</td>
+<td style="font-weight: 400;" width="154">2022PU01179</td>
+<td style="font-weight: 400;" width="168">9/16/22 4:58 PM</td>
+<td style="font-weight: 400;" width="166">9/16/22 5:27 PM</td>
+<td style="font-weight: 400;" width="207">Stewart Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01181</td>
+<td style="font-weight: 400;" width="168">9/16/22 9:52 PM</td>
+<td style="font-weight: 400;" width="166">9/16/22 10:13 PM</td>
+<td style="font-weight: 400;" width="207">Launch Campus Ministry</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01182</td>
+<td style="font-weight: 400;" width="168">9/17/22 12:34 AM</td>
+<td style="font-weight: 400;" width="166">9/17/22 12:59 AM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespass</td>
+<td style="font-weight: 400;" width="154">2022PU01183</td>
+<td style="font-weight: 400;" width="168">9/17/22 12:50 AM</td>
+<td style="font-weight: 400;" width="166">9/17/22 1:01 AM</td>
+<td style="font-weight: 400;" width="207">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU01185</td>
+<td style="font-weight: 400;" width="168">9/17/22 1:23 AM</td>
+<td style="font-weight: 400;" width="166">9/17/22 1:30 AM</td>
+<td style="font-weight: 400;" width="207">Slayter Hill</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespass</td>
+<td style="font-weight: 400;" width="154">2022PU01186</td>
+<td style="font-weight: 400;" width="168">9/17/22 2:30 AM</td>
+<td style="font-weight: 400;" width="166">9/17/22 2:52 AM</td>
+<td style="font-weight: 400;" width="207">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated/ Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01187</td>
+<td style="font-weight: 400;" width="168">9/17/22 2:15 AM</td>
+<td style="font-weight: 400;" width="166">9/17/22 2:15 AM</td>
+<td style="font-weight: 400;" width="207">W Stadium Ave/ N Russell St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01189</td>
+<td style="font-weight: 400;" width="168">9/17/22 4:30 PM</td>
+<td style="font-weight: 400;" width="166">9/17/22 4:30 PM</td>
+<td style="font-weight: 400;" width="207">Hilltop Apartments</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespass</td>
+<td style="font-weight: 400;" width="154">2022PU01190</td>
+<td style="font-weight: 400;" width="168">9/17/22 6:22 PM</td>
+<td style="font-weight: 400;" width="166">9/17/22 6:32 PM</td>
+<td style="font-weight: 400;" width="207">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Simple Assault</td>
+<td style="font-weight: 400;" width="154">2022PU01191</td>
+<td style="font-weight: 400;" width="168">9/17/22 6:50 PM</td>
+<td style="font-weight: 400;" width="166">9/17/22 6:50 PM</td>
+<td style="font-weight: 400;" width="207">500 Blk N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU01192</td>
+<td style="font-weight: 400;" width="168">9/18/22 1:02 AM</td>
+<td style="font-weight: 400;" width="166">9/18/22 1:40 AM</td>
+<td style="font-weight: 400;" width="207">US HWY 231/Cherry Ln</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU01193</td>
+<td style="font-weight: 400;" width="168">9/18/22 1:09 AM</td>
+<td style="font-weight: 400;" width="166">9/18/22 1:52 AM</td>
+<td style="font-weight: 400;" width="207">501 Northwestern Ave</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01194</td>
+<td style="font-weight: 400;" width="168">9/18/22 1:21 AM</td>
+<td style="font-weight: 400;" width="166">9/18/22 1:52 AM</td>
+<td style="font-weight: 400;" width="207">Meredith Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01195</td>
+<td style="font-weight: 400;" width="168">9/18/22 1:09 AM</td>
+<td style="font-weight: 400;" width="166">9/18/22 1:55 AM</td>
+<td style="font-weight: 400;" width="207">Aspire</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01196</td>
+<td style="font-weight: 400;" width="168">9/18/22 1:47 AM</td>
+<td style="font-weight: 400;" width="166">9/18/22 2:07 AM</td>
+<td style="font-weight: 400;" width="207">Meredith Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01197</td>
+<td style="font-weight: 400;" width="168">9/18/22 2:17 AM</td>
+<td style="font-weight: 400;" width="166">9/18/22 2:36 AM</td>
+<td style="font-weight: 400;" width="207">Meredith Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU01198</td>
+<td style="font-weight: 400;" width="168">9/18/22 3:09 AM</td>
+<td style="font-weight: 400;" width="166">9/18/22 3:59 AM</td>
+<td style="font-weight: 400;" width="207">1838 St Rd 26 W</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Simple Assault</td>
+<td style="font-weight: 400;" width="154">2022PU01199</td>
+<td style="font-weight: 400;" width="168">9/18/22 9:54 PM</td>
+<td style="font-weight: 400;" width="166">9/18/22 9:54 PM</td>
+<td style="font-weight: 400;" width="207">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Documented in CSA 9/18/2022 - Pending Prosecutor Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
