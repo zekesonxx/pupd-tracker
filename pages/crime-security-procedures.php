@@ -374,8 +374,9 @@
         
         <li role="none"><a href="../about/internships.php" role="menuitem">Student Internships</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -397,6 +398,11 @@
         
                                                             
         
+        <li role="none"><a href="daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                                                    
+        
+                                                            
+        
         <li role="none"><a href="drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                     
         
@@ -409,8 +415,9 @@
         
         <li role="none"><a href="weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -449,8 +456,9 @@
                                                         
                             <li role="none"><a href="../campus-safety-tips/violent-crimes/index.php" role="menuitem">Violent Crimes</a></li>
                                                         </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -474,8 +482,9 @@
                                                         
                             <li role="none"><a href="../community-services/services/index.php" role="menuitem">Safety and Security Services</a></li>
                                                         </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -524,8 +533,9 @@
         
         <li role="none"><a href="../contact/contact-form.php" role="menuitem">Contact and Feedback Form</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                 </ul>
     </section>
 </nav>
@@ -591,7 +601,7 @@
         
                 
     
-    <li role="none"><a href="daily-crime-log.php" role="menuitem"> Daily Crime Log</a></li>
+    <li role="none"><a href="daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
                                                                             
         
                 
@@ -1007,7 +1017,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://calendar.purdue.edu/">Calendar</a></li>
+                <li role="listitem"><a href="https://events.purdue.edu/">Events</a></li>
                                 
         
                             

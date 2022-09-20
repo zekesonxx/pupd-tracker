@@ -398,6 +398,11 @@
         
                                                             
         
+        <li role="none"><a href="../daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                                                    
+        
+                                                            
+        
         <li role="none"><a href="../drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                     
         
@@ -566,7 +571,7 @@
                                 
         
                 
-                     <li>Daily Crime Log</li>
+                     <li>091222 Daily Crime Log</li>
         
     </ul>
 </nav> 
@@ -596,12 +601,12 @@
         
                 
     
-    <li role="none"><a href="090922-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+    <li role="none"><a href="090522-daily-crime-log.php" role="menuitem">090522 Daily Crime Log</a></li>
                                                                             
         
                 
     
-    <li role="none"><a href="091222-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+    <li role="none"><a href="091222-daily-crime-log.php" role="menuitem">091222 Daily Crime Log</a></li>
                             </ul>
 </nav>
 
@@ -1049,7 +1054,7 @@
 <th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
 <th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
 <th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition </th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft</td>
@@ -1201,7 +1206,7 @@
 <td style="font-weight: 400;" width="168">9/11/22 1:37 AM</td>
 <td style="font-weight: 400;" width="166">9/11/22 1:46 AM</td>
 <td style="font-weight: 400;" width="207">1st St/North University St</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Public Intoxication</td>

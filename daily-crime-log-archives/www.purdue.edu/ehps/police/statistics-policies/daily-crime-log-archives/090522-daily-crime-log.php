@@ -398,6 +398,11 @@
         
                                                             
         
+        <li role="none"><a href="../daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                                                    
+        
+                                                            
+        
         <li role="none"><a href="../drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                     
         
@@ -566,7 +571,7 @@
                                 
         
                 
-                     <li>Daily Crime Log</li>
+                     <li>090522 Daily Crime Log</li>
         
     </ul>
 </nav> 
@@ -596,12 +601,12 @@
         
                 
     
-    <li role="none"><a href="090922-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+    <li role="none"><a href="090522-daily-crime-log.php" role="menuitem">090522 Daily Crime Log</a></li>
                                                                             
         
                 
     
-    <li role="none"><a href="091222-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+    <li role="none"><a href="091222-daily-crime-log.php" role="menuitem">091222 Daily Crime Log</a></li>
                             </ul>
 </nav>
 
