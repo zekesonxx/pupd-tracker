@@ -592,7 +592,17 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="090922-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                                                                            
+        
+                
+    
+    <li role="none"><a href="091222-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 

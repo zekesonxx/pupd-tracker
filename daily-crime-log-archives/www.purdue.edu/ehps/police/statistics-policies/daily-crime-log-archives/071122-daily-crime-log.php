@@ -374,8 +374,9 @@
         
         <li role="none"><a href="../../about/internships.php" role="menuitem">Student Internships</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -409,8 +410,9 @@
         
         <li role="none"><a href="../weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -449,8 +451,9 @@
                                                         
                             <li role="none"><a href="../../campus-safety-tips/violent-crimes/index.php" role="menuitem">Violent Crimes</a></li>
                                                         </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -474,8 +477,9 @@
                                                         
                             <li role="none"><a href="../../community-services/services/index.php" role="menuitem">Safety and Security Services</a></li>
                                                         </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -524,8 +528,9 @@
         
         <li role="none"><a href="../../contact/contact-form.php" role="menuitem">Contact and Feedback Form</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                 </ul>
     </section>
 </nav>
@@ -587,7 +592,17 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="090922-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                                                                            
+        
+                
+    
+    <li role="none"><a href="091222-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 

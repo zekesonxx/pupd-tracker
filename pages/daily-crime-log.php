@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			091922 Daily Crime Log - 
+			Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -561,7 +561,7 @@
                                 
         
                 
-                     <li>091922 Daily Crime Log</li>
+                     <li>Daily Crime Log</li>
         
     </ul>
 </nav> 
@@ -592,6 +592,11 @@
                 
     
     <li role="none"><a href="security-reports.php" role="menuitem">Annual Security Reports</a></li>
+                                                                            
+        
+                
+    
+    <li role="none"><a href="daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
                                                                             
         
                 
