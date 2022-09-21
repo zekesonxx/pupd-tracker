@@ -744,7 +744,7 @@
 <th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
 <th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
 <th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition </th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-Bike</td>
@@ -760,7 +760,7 @@
 <td style="font-weight: 400;" width="168">9/14/22 3:54 PM</td>
 <td style="font-weight: 400;" width="166">9/14/22 4:05 PM</td>
 <td style="font-weight: 400;" width="207">Peirce Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Fraud</td>

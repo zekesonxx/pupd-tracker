@@ -670,7 +670,66 @@
   
     	<section class="content__group">
   					<h3>Wednesday, September 21, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU01211</td>
+<td style="font-weight: 400;" width="168">9/20/22 10:49 AM</td>
+<td style="font-weight: 400;" width="166">9/20/22 11:05 AM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01212</td>
+<td style="font-weight: 400;" width="168">9/7/22 4:28 AM</td>
+<td style="font-weight: 400;" width="166">9/20/22 11:27 AM</td>
+<td style="font-weight: 400;" width="207">McCutcheon Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01214</td>
+<td style="font-weight: 400;" width="168">9/13/22 10:43 AM</td>
+<td style="font-weight: 400;" width="166">9/20/22 11:53 AM</td>
+<td style="font-weight: 400;" width="207">Hilltop Apartments</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU01215</td>
+<td style="font-weight: 400;" width="168">9/19/22 10:30 AM</td>
+<td style="font-weight: 400;" width="166">9/20/22 12:57 PM</td>
+<td style="font-weight: 400;" width="207">W State St/ N Russell St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01216</td>
+<td style="font-weight: 400;" width="168">9/16/22 5:30 PM</td>
+<td style="font-weight: 400;" width="166">9/20/22 1:22 PM</td>
+<td style="font-weight: 400;" width="207">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Intimidation/ Simple Assault/ Theft</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">9/20/22 1:00 PM</td>
+<td style="font-weight: 400;" width="166">9/20/22 1:16 PM</td>
+<td style="font-weight: 400;" width="207">Memorial Mall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
