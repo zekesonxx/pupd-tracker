@@ -499,11 +499,6 @@
         
                                                                                  
                                                         
-                            <li role="none"><a href="../../chiefsearch/index.php" role="menuitem">Chief Search</a></li>
-                                                                
-        
-                                                                                 
-                                                        
                                             <li class="dropdown" role="none">
                     <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../../contact/index.php" role="menuitem">Contact Us<span><i class="fas fa-chevron-down"></i></span></a>
                     <ul class="header__mainNav--dropdownOuter" role="menu">
@@ -662,7 +657,7 @@
 <td style="font-weight: 400;" width="168">9/22/22 2:12 AM</td>
 <td style="font-weight: 400;" width="166">9/22/22 2:29 AM</td>
 <td style="font-weight: 400;" width="207">Wiley Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-EMPV</td>

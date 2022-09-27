@@ -499,11 +499,6 @@
         
                                                                                  
                                                         
-                            <li role="none"><a href="../../chiefsearch/index.php" role="menuitem">Chief Search</a></li>
-                                                                
-        
-                                                                                 
-                                                        
                                             <li class="dropdown" role="none">
                     <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../../contact/index.php" role="menuitem">Contact Us<span><i class="fas fa-chevron-down"></i></span></a>
                     <ul class="header__mainNav--dropdownOuter" role="menu">
@@ -686,7 +681,7 @@
 <td style="font-weight: 400;" width="168">8/18/22 11:00 PM</td>
 <td style="font-weight: 400;" width="166">8/19/22 3:09 AM</td>
 <td style="font-weight: 400;" width="207">3rd St/N Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>
