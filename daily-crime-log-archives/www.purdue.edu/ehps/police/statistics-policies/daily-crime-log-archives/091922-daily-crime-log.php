@@ -1041,7 +1041,7 @@
 <td style="font-weight: 400;" width="168">9/16/22 9:52 PM</td>
 <td style="font-weight: 400;" width="166">9/16/22 10:13 PM</td>
 <td style="font-weight: 400;" width="207">Launch Campus Ministry</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>
