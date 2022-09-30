@@ -651,7 +651,58 @@
   
     	<section class="content__group">
   					<h3>Friday, September 30, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU01283</td>
+<td style="font-weight: 400;" width="168">9/14/22 10:32 AM</td>
+<td style="font-weight: 400;" width="166">9/29/22 10:50 AM</td>
+<td style="font-weight: 400;" width="207">Alpha Phi</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01285</td>
+<td style="font-weight: 400;" width="168">9/26/22 11:00 PM</td>
+<td style="font-weight: 400;" width="166">9/29/22 1:10 PM</td>
+<td style="font-weight: 400;" width="207">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU01286</td>
+<td style="font-weight: 400;" width="168">9/29/22 12:01 AM</td>
+<td style="font-weight: 400;" width="166">9/29/22 4:15 PM</td>
+<td style="font-weight: 400;" width="207">1200 Blk Tower Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver/Traffic</td>
+<td style="font-weight: 400;" width="154">CAD#2022-128920</td>
+<td style="font-weight: 400;" width="168">9/28/2022 15:57</td>
+<td style="font-weight: 400;" width="166">9/28/2022 15:57</td>
+<td style="font-weight: 400;" width="207">US HWY 231/Airport RD</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">9/29/22 7:40 PM</td>
+<td style="font-weight: 400;" width="166">9/29/22 7:50 PM</td>
+<td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Documented in PUPD Case 2022PU01259</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1016,7 +1067,7 @@
 <td style="font-weight: 400;" width="168">9/25/22 2:18 PM</td>
 <td style="font-weight: 400;" width="166">9/25/22 2:48 PM</td>
 <td style="font-weight: 400;" width="207">Spurgeon Golf Center</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-EMPV</td>

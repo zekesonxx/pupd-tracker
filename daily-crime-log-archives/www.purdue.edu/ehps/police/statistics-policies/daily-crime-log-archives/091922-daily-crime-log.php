@@ -1049,7 +1049,7 @@
 <td style="font-weight: 400;" width="168">9/17/22 12:34 AM</td>
 <td style="font-weight: 400;" width="166">9/17/22 12:59 AM</td>
 <td style="font-weight: 400;" width="207">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Trespass</td>

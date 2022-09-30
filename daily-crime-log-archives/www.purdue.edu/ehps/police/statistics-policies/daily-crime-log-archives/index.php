@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			091922 Daily Crime Log Archive - 
+			Daily Crime Log Archive - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -615,16 +615,6 @@
 <li><a href="091922-daily-crime-log.php">Week of September 19, 2022</a></li>
 <li><a href="091222-daily-crime-log.php" title="091222 Daily Crime Log">Week of September 12, 2022</a></li>
 <li><a href="090522-daily-crime-log.php" title="090522 Daily Crime Log">Week of September 5, 2022</a></li>
-<li><a href="082922-daily-crime-log.php" title="082922 Daily Crime Log">Week of August 29, 2022</a></li>
-<li><a href="082222-daily-crime-log.php" title="082222 Daily Crime Log">Week of August 22, 2022</a></li>
-<li><a href="081522-daily-crime-log.php" title="081522 Daily Crime Log">Week of August 15, 2022</a></li>
-<li><a href="080822-daily-crime-log.php" title="080822 Daily Crime Log">Week of August 8, 2022</a></li>
-<li><a href="080122-daily-crime-log.php">Week of August 1, 2022</a></li>
-<li><a href="072522-daily-crime-log.php" title="072522 Daily Crime Log">Week of July 25, 2022</a></li>
-<li><a href="071822-daily-crime-log.php" title="071822 Daily Crime Log">Week of July 18, 2022</a></li>
-<li><a href="071122-daily-crime-log.php" title="071122 Daily Crime Log">Week of July 11, 2022</a></li>
-<li><a href="070422-daily-crime-log.php" title="070422 Daily Crime Log">Week of July 4, 2022</a></li>
-<li><a href="062722-daily-crime-log.php" title="062722 Daily Crime Log">Week of June 27, 2022</a><a href="2022-archive/053022-daily-crime-log.php" title="053022 Daily Crime Log"></a><a href="2022-archive/050222-daily-crime-log.php" title="050222 Daily Crime Log"></a><a href="2022-archive/032822-daily-crime-log.php" title="032822 Daily Crime Log"></a></li>
 </ul>
 		</section>
 	
