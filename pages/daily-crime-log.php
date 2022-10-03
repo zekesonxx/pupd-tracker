@@ -679,7 +679,186 @@
   
     	<section class="content__group">
   					<h3>Monday, October 3, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="207">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01289</td>
+<td style="font-weight: 400;" width="168">9/21/22 12:00 PM</td>
+<td style="font-weight: 400;" width="166">9/30/22 12:09 PM</td>
+<td style="font-weight: 400;" width="207">Purdue MRI Facility</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01290</td>
+<td style="font-weight: 400;" width="168">9/30/22 1:27 AM</td>
+<td style="font-weight: 400;" width="166">9/30/22 12:13 PM</td>
+<td style="font-weight: 400;" width="207">Memorial Mall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU01292</td>
+<td style="font-weight: 400;" width="168">9/30/22 11:35 PM</td>
+<td style="font-weight: 400;" width="166">10/1/22 12:10 AM</td>
+<td style="font-weight: 400;" width="207">Aspire</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespassing</td>
+<td style="font-weight: 400;" width="154">2022PU01294</td>
+<td style="font-weight: 400;" width="168">10/1/22 12:52 AM</td>
+<td style="font-weight: 400;" width="166">10/1/22 1:36 AM</td>
+<td style="font-weight: 400;" width="207">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU01295</td>
+<td style="font-weight: 400;" width="168">10/1/2022 1:35</td>
+<td style="font-weight: 400;" width="166">10/1/2022 2:10</td>
+<td style="font-weight: 400;" width="207">S River Rd/US HWY 231</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01297</td>
+<td style="font-weight: 400;" width="168">10/1/22 3:16 AM</td>
+<td style="font-weight: 400;" width="166">10/1/22 3:36 AM</td>
+<td style="font-weight: 400;" width="207">Warren Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU01298</td>
+<td style="font-weight: 400;" width="168">9/29/22 12:30 PM</td>
+<td style="font-weight: 400;" width="166">10/1/22 12:24 PM</td>
+<td style="font-weight: 400;" width="207">Mackey Arena</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Simple Assault</td>
+<td style="font-weight: 400;" width="154">2022PU01299</td>
+<td style="font-weight: 400;" width="168">10/1/22 2:48 AM</td>
+<td style="font-weight: 400;" width="166">10/1/22 3:42 PM</td>
+<td style="font-weight: 400;" width="207">International Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01302</td>
+<td style="font-weight: 400;" width="168">10/2/22 12:24 AM</td>
+<td style="font-weight: 400;" width="166">10/2/22 12:55 AM</td>
+<td style="font-weight: 400;" width="207">Hilltop</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated/ Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01303</td>
+<td style="font-weight: 400;" width="168">10/2/22 2:05 AM</td>
+<td style="font-weight: 400;" width="166">10/2/22 2:35 AM</td>
+<td style="font-weight: 400;" width="207">McCormick Rd/Cherry Ln</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated/ Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01304</td>
+<td style="font-weight: 400;" width="168">10/2/22 3:50 AM</td>
+<td style="font-weight: 400;" width="166">10/2/22 4:32 AM</td>
+<td style="font-weight: 400;" width="207">1700 Blk W State St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01305</td>
+<td style="font-weight: 400;" width="168">10/1/22 7:25 PM</td>
+<td style="font-weight: 400;" width="166">10/2/22 8:11 AM</td>
+<td style="font-weight: 400;" width="207">Ackermann Golf Course</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU01308</td>
+<td style="font-weight: 400;" width="168">10/3/22 1:18 AM</td>
+<td style="font-weight: 400;" width="166">10/3/22 2:05 AM</td>
+<td style="font-weight: 400;" width="207">S River Rd/US HWY 231</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Crash Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">CAD#2022-129519</td>
+<td style="font-weight: 400;" width="168">9/29/2022 16:23</td>
+<td style="font-weight: 400;" width="166">9/29/2022 16:23</td>
+<td style="font-weight: 400;" width="207">775 Ahlers Dr</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;">CAD#2022-129717</td>
+<td style="font-weight: 400;" width="168">9/30/2022 1:08</td>
+<td style="font-weight: 400;" width="166">9/30/2022 1:08</td>
+<td style="font-weight: 400;" width="207">1275 1ST St&#160;</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver/Traffic</td>
+<td style="font-weight: 400;" width="154">CAD#2022-126651</td>
+<td style="font-weight: 400;" width="168">9/29/2022 21:47</td>
+<td style="font-weight: 400;" width="166">9/29/2022 21:47</td>
+<td style="font-weight: 400;" width="207">US HWY 231/ Cherry Ln</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">8 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">9/23/22 10:45 PM</td>
+<td style="font-weight: 400;" width="166">9/24/22 1:33 AM</td>
+<td style="font-weight: 400;" width="207">Aspire Apts</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">10 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">9/23/22 11:17 PM</td>
+<td style="font-weight: 400;" width="166">9/24/22 1:46 AM</td>
+<td style="font-weight: 400;" width="207">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">3 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">9/24/22 12:00 AM</td>
+<td style="font-weight: 400;" width="166">9/24/22 6:48 PM</td>
+<td style="font-weight: 400;" width="207">Aspire Apts</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">5 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">9/24/22 12:30 AM</td>
+<td style="font-weight: 400;" width="166">9/24/22 2:12 AM</td>
+<td style="font-weight: 400;" width="207">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">9/24/22 10:30 PM</td>
+<td style="font-weight: 400;" width="166">9/25/22 12:22 AM</td>
+<td style="font-weight: 400;" width="207">Meredith South</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
