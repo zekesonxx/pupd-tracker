@@ -1145,7 +1145,7 @@
 <td style="font-weight: 400;" width="168">8/27/22 10:35 PM</td>
 <td style="font-weight: 400;" width="166">8/27/22 11:02 PM</td>
 <td style="font-weight: 400;" width="207">Winifred Parker Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor in Consumption</td>
