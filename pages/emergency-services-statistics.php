@@ -330,9 +330,8 @@
       <article class="header__signature--siteName">
           
                          
-                <a href="../index.php" id="siteName">Fire Department</a>
-                        <div id="siteTagline">
-                                </div>
+                <a aria-label="Fire Department" href="../index.php" id="siteName">Fire Department</a>
+                               
       </article>
     </section>
 </section>
@@ -370,8 +369,9 @@
         
         <li role="none"><a href="../about/career-opportunities.php" role="menuitem">Career Opportunities</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -390,8 +390,9 @@
         
         <li role="none"><a href="emergency-services-statistics.php" role="menuitem">Emergency Services Statistics</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -429,9 +430,15 @@
                                                             
         
         <li role="none"><a href="../fire-safety/inspections.php" role="menuitem">Inspections</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../fire-safety/recreational-fire.php" role="menuitem">Recreational Fire Guidelines and Procedures</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -475,8 +482,9 @@
         
         <li role="none"><a href="../community-services/shop-with-firefighter.php" role="menuitem">Shop with a Firefighter</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                         
         
                                                                                  
@@ -495,8 +503,9 @@
         
         <li role="none"><a href="../contact/contact-form.php" role="menuitem">Contact Form</a></li>
                                             </ul>
-                        </li>
-                        
+                                            </li>
+            
+            
                                                                 </ul>
     </section>
 </nav>
@@ -1134,7 +1143,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://calendar.purdue.edu/">Calendar</a></li>
+                <li role="listitem"><a href="https://events.purdue.edu/">Events</a></li>
                                 
         
                             
