@@ -658,7 +658,50 @@
   
     	<section class="content__group">
   					<h3>Thursday, October 6, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="width: 156px; text-align: center; vertical-align: middle;" width="156"><strong>Nature</strong></th>
+<td style="text-align: center;" width="154"><strong>Case Number</strong></td>
+<td style="text-align: center;" width="168"><strong>Date/Time Occurred</strong></td>
+<td style="text-align: center;" width="166"><strong>Date/Time Reported</strong></td>
+<td style="text-align: center;" width="212"><strong>General Location</strong></td>
+<td style="text-align: center;" width="181"><strong>Disposition&#160;</strong></td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01312</td>
+<td style="font-weight: 400;" width="168">9/30/22 4:30 PM</td>
+<td style="font-weight: 400;" width="166">10/3/22 3:06 PM</td>
+<td style="font-weight: 400;" width="212">Pao Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Murder</td>
+<td style="font-weight: 400;" width="154">2022PU01317</td>
+<td style="font-weight: 400;" width="168">10/5/22 12:44 AM</td>
+<td style="font-weight: 400;" width="166">10/5/22 12:44 AM</td>
+<td style="font-weight: 400;" width="212">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Simple Battery</td>
+<td style="font-weight: 400;" width="154">2022PU01320</td>
+<td style="font-weight: 400;" width="168">10/5/22 9:40 AM</td>
+<td style="font-weight: 400;" width="166">10/5/22 10:02 AM</td>
+<td style="font-weight: 400;" width="212">Hawkins Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU01324</td>
+<td style="font-weight: 400;" width="168">9/30/22 6:00 PM</td>
+<td style="font-weight: 400;" width="166">10/5/22 5:16 PM</td>
+<td style="font-weight: 400;" width="212">Marriott Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
