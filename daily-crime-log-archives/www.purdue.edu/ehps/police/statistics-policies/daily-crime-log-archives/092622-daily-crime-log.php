@@ -879,7 +879,7 @@
 <td style="font-weight: 400;" width="168">9/25/22 11:35 PM</td>
 <td style="font-weight: 400;" width="166">9/26/22 12:49 AM</td>
 <td style="font-weight: 400;" width="207">Honors College North</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-EMPV</td>
@@ -985,7 +985,7 @@
 <td style="font-weight: 400;" width="168">9/24/22 2:27 AM</td>
 <td style="font-weight: 400;" width="166">9/24/22 2:51 AM</td>
 <td style="font-weight: 400;" width="207">Alpha Sigma Phi</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Public Intoxication</td>

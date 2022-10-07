@@ -651,7 +651,82 @@
   
     	<section class="content__group">
   					<h3>Friday, October 7, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief/Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01321</td>
+<td style="font-weight: 400;" width="168">10/4/22 3:30 PM</td>
+<td style="font-weight: 400;" width="166">10/5/22 10:23 AM</td>
+<td style="font-weight: 400;" width="212">Union Club Hotel</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01328</td>
+<td style="font-weight: 400;" width="168">10/6/22 6:49 PM</td>
+<td style="font-weight: 400;" width="166">10/6/22 7:25 PM</td>
+<td style="font-weight: 400;" width="212">Windsor Dining Court</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Comsumption</td>
+<td style="font-weight: 400;" width="154">2022PU01330</td>
+<td style="font-weight: 400;" width="168">10/6/22 11:05 PM</td>
+<td style="font-weight: 400;" width="166">10/6/22 11:25 PM</td>
+<td style="font-weight: 400;" width="212">Sigma Nu</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Comsumption</td>
+<td style="font-weight: 400;" width="154">2022PU01332</td>
+<td style="font-weight: 400;" width="168">10/7/22 1:12 AM</td>
+<td style="font-weight: 400;" width="166">10/7/22 1:48 AM</td>
+<td style="font-weight: 400;" width="212">Honors College North</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-132993</td>
+<td style="font-weight: 400;" width="168">10/5/22 10:32 PM</td>
+<td style="font-weight: 400;" width="166">10/5/22 10:32 PM</td>
+<td style="font-weight: 400;" width="212">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-133050</td>
+<td style="font-weight: 400;" width="168">10/6/22 12:52 AM</td>
+<td style="font-weight: 400;" width="166">10/6/22 12:52 AM</td>
+<td style="font-weight: 400;" width="212">Grant St Parking Garage</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-133017</td>
+<td style="font-weight: 400;" width="168">10/5/22 11:39 PM</td>
+<td style="font-weight: 400;" width="166">10/5/22 11:39 PM</td>
+<td style="font-weight: 400;" width="212">University Parking Garage</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">10/4/22 11:58 PM</td>
+<td style="font-weight: 400;" width="166">10/5/22 11:58 AM</td>
+<td style="font-weight: 400;" width="212">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
