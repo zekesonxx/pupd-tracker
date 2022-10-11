@@ -672,7 +672,82 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;October 11, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Battery</td>
+<td style="font-weight: 400;" width="154">2022PU01315</td>
+<td style="font-weight: 400;" width="168">10/4/22 10:08 AM</td>
+<td style="font-weight: 400;" width="166">10/4/22 10:08 AM</td>
+<td style="font-weight: 400;" width="212">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU01350</td>
+<td style="font-weight: 400;" width="168">10/10/22 1:30 PM</td>
+<td style="font-weight: 400;" width="166">10/10/22 1:46 PM</td>
+<td style="font-weight: 400;" width="212">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01352</td>
+<td style="font-weight: 400;" width="168">10/11/22 2:05 AM</td>
+<td style="font-weight: 400;" width="166">10/11/22 2:33 AM</td>
+<td style="font-weight: 400;" width="212">Theta Chi</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU01353</td>
+<td style="font-weight: 400;" width="168">10/11/22 1:40 AM</td>
+<td style="font-weight: 400;" width="166">10/11/22 2:40 AM</td>
+<td style="font-weight: 400;" width="212">S River Rd/Ahlers Dr</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-133972</td>
+<td style="font-weight: 400;" width="168">10/7/22 1:04 PM</td>
+<td style="font-weight: 400;" width="166">10/7/22 1:04 PM</td>
+<td style="font-weight: 400;" width="212">Class of 1950 Lecture Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-133896</td>
+<td style="font-weight: 400;" width="168">10/7/22 8:33 PM</td>
+<td style="font-weight: 400;" width="166">10/7/22 8:33 PM</td>
+<td style="font-weight: 400;" width="212">US HWY 231/Cherry Ln</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-134301</td>
+<td style="font-weight: 400;" width="168">10/8/22 8:42 PM</td>
+<td style="font-weight: 400;" width="166">10/8/22 8:42 PM</td>
+<td style="font-weight: 400;" width="212">Wood St Parking Garage</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">10/7/22 11:44 PM</td>
+<td style="font-weight: 400;" width="166">10/8/22 10:39 AM</td>
+<td style="font-weight: 400;" width="212">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
