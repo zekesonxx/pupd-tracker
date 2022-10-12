@@ -707,7 +707,7 @@
 <td style="font-weight: 400;" width="168">9/21/22 7:37 AM</td>
 <td style="font-weight: 400;" width="166">9/21/22 7:55 AM</td>
 <td style="font-weight: 400;" width="207">US HWY 231 S/S River Rd</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
