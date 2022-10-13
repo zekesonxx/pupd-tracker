@@ -658,7 +658,58 @@
   
     	<section class="content__group">
   					<h3>Thursday, October 13, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU01359</td>
+<td style="font-weight: 400;" width="168">10/12/22 2:26 PM</td>
+<td style="font-weight: 400;" width="166">10/12/22 2:29 PM</td>
+<td style="font-weight: 400;" width="212">Schleman Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU01360</td>
+<td style="font-weight: 400;" width="168">10/12/22 4:56 PM</td>
+<td style="font-weight: 400;" width="166">10/12/22 4:56 PM</td>
+<td style="font-weight: 400;" width="212">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU01361</td>
+<td style="font-weight: 400;" width="168">10/12/22 5:29 PM</td>
+<td style="font-weight: 400;" width="166">10/12/22 5:29 PM</td>
+<td style="font-weight: 400;" width="212">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU01363</td>
+<td style="font-weight: 400;" width="168">10/12/22 8:03 PM</td>
+<td style="font-weight: 400;" width="166">10/12/22 8:03 PM</td>
+<td style="font-weight: 400;" width="212">Mackey Arena</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01364</td>
+<td style="font-weight: 400;" width="168">10/12/22 9:39 PM</td>
+<td style="font-weight: 400;" width="166">10/12/22 11:19 PM</td>
+<td style="font-weight: 400;" width="212">CoRec</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
