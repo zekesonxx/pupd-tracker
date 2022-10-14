@@ -1113,7 +1113,7 @@
 <td style="font-weight: 400;" width="168">9/10/22 1:14 AM</td>
 <td style="font-weight: 400;" width="166">9/10/22 1:41 AM</td>
 <td style="font-weight: 400;" width="207">712 3rd St</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Operating While Intoxicated</td>

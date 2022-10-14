@@ -887,7 +887,7 @@
 <td style="font-weight: 400;" width="168">9/1/22 Unknown Time</td>
 <td style="font-weight: 400;" width="166">9/1/22 Unknown Time</td>
 <td style="font-weight: 400;" width="207">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Documented in PUPD Case 2022PU01092</td>
+<td style="font-weight: 400;" width="181">Documented in PUPD Case 2022PU01092 - Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Public Intoxication</td>

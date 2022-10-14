@@ -668,12 +668,12 @@
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Minor Comsumption</td>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
 <td style="font-weight: 400;" width="154">2022PU01330</td>
 <td style="font-weight: 400;" width="168">10/6/22 11:05 PM</td>
 <td style="font-weight: 400;" width="166">10/6/22 11:25 PM</td>
 <td style="font-weight: 400;" width="212">Sigma Nu</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Comsumption</td>

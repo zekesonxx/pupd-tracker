@@ -953,7 +953,7 @@
 <td style="font-weight: 400;" width="168">9/23/22 8:44 PM</td>
 <td style="font-weight: 400;" width="166">9/23/22 9:05 PM</td>
 <td style="font-weight: 400;" width="207">Sigma Kappa</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Harassment</td>
