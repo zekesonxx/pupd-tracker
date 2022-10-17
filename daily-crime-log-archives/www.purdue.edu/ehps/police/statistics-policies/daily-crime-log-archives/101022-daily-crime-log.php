@@ -799,7 +799,7 @@
 <td style="font-weight: 400;" width="168">10/4/22 10:08 AM</td>
 <td style="font-weight: 400;" width="166">10/4/22 10:08 AM</td>
 <td style="font-weight: 400;" width="212">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-EMPV</td>

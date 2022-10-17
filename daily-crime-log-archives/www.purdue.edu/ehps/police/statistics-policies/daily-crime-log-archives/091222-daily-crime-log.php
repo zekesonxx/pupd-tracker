@@ -1169,7 +1169,7 @@
 <td style="font-weight: 400;" width="168">9/10/22 7:22 PM</td>
 <td style="font-weight: 400;" width="166">9/10/22 7:41 PM</td>
 <td style="font-weight: 400;" width="207">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
@@ -1185,7 +1185,7 @@
 <td style="font-weight: 400;" width="168">9/11/22 1:16 AM</td>
 <td style="font-weight: 400;" width="166">9/11/22 1:32 AM</td>
 <td style="font-weight: 400;" width="207">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>
@@ -1217,7 +1217,7 @@
 <td style="font-weight: 400;" width="168">9/11/22 3:59 AM</td>
 <td style="font-weight: 400;" width="166">9/11/22 4:13 AM</td>
 <td style="font-weight: 400;" width="207">Honors Collge</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation/Operating While Intoxicated</td>
