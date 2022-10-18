@@ -731,7 +731,7 @@
 <td style="font-weight: 400;" width="168">9/12/22 1:51 PM</td>
 <td style="font-weight: 400;" width="166">9/21/22 2:24 PM</td>
 <td style="font-weight: 400;" width="207">Third Street Market</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft</td>
@@ -1137,7 +1137,7 @@
 <td style="font-weight: 400;" width="168">9/18/22 1:09 AM</td>
 <td style="font-weight: 400;" width="166">9/18/22 1:55 AM</td>
 <td style="font-weight: 400;" width="207">Aspire</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>

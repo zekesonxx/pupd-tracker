@@ -672,7 +672,114 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;October 18, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01388</td>
+<td style="font-weight: 400;" width="168">10/15/22 9:59 PM</td>
+<td style="font-weight: 400;" width="166">10/15/22 10:04 PM</td>
+<td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Battery (Simple)</td>
+<td style="font-weight: 400;" width="154">2022PU01395</td>
+<td style="font-weight: 400;" width="168">10/15/22 11:32 PM</td>
+<td style="font-weight: 400;" width="166">10/16/22 9:56 PM</td>
+<td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Voyeurism</td>
+<td style="font-weight: 400;" width="154">2022PU01400</td>
+<td style="font-weight: 400;" width="168">10/17/22 9:47 AM</td>
+<td style="font-weight: 400;" width="166">10/17/22 9:47 AM</td>
+<td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU01401</td>
+<td style="font-weight: 400;" width="168">10/8/22 11:30 AM</td>
+<td style="font-weight: 400;" width="166">10/17/22 11:27 AM</td>
+<td style="font-weight: 400;" width="212">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespassing</td>
+<td style="font-weight: 400;" width="154">2022PU01402</td>
+<td style="font-weight: 400;" width="168">10/17/22 9:00 PM</td>
+<td style="font-weight: 400;" width="166">10/17/22 9:24 PM</td>
+<td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation/Weapons Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU01403</td>
+<td style="font-weight: 400;" width="168">10/18/22 1:56 AM</td>
+<td style="font-weight: 400;" width="166">10/18/22 2:25 AM</td>
+<td style="font-weight: 400;" width="212">1200 West Stadium Avenue</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2022-137186</td>
+<td style="font-weight: 400;" width="168">10/14/22 10:27 PM</td>
+<td style="font-weight: 400;" width="166">10/14/22 10:27 PM</td>
+<td style="font-weight: 400;" width="212">Hillenbrand Residence Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2022-137747</td>
+<td style="font-weight: 400;" width="168">10/16/22 12:36 AM</td>
+<td style="font-weight: 400;" width="166">10/16/22 12:36 AM</td>
+<td style="font-weight: 400;" width="212">Wiley Residence Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Public Intox</td>
+<td style="font-weight: 400;">CAD#2022-137626</td>
+<td style="font-weight: 400;" width="168">10/15/2022 19:34</td>
+<td style="font-weight: 400;" width="166">10/15/2022 19:34</td>
+<td style="font-weight: 400;" width="212">Alpha Gamma Delta</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Public Intox</td>
+<td style="font-weight: 400;" width="154">CAD#2022-137624</td>
+<td style="font-weight: 400;" width="168">10/15/2022 19:32</td>
+<td style="font-weight: 400;" width="166">10/15/2022 19:32</td>
+<td style="font-weight: 400;" width="212">By Gateway Complex</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Public Intox</td>
+<td style="font-weight: 400;" width="154">CAD#2022-137742</td>
+<td style="font-weight: 400;" width="168">10/16/2022 0:29</td>
+<td style="font-weight: 400;" width="166">10/16/2022 0:29</td>
+<td style="font-weight: 400;" width="212">Purdue Airport</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Rape</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">4/24/2022&#160; Unknown Time</td>
+<td style="font-weight: 400;" width="166">10/17/22 4:00 PM</td>
+<td style="font-weight: 400;" width="212">300 Blk N Salisbury St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -786,7 +893,7 @@
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="156">MV Theft</td>
 <td style="font-weight: 400;" width="154">2022PU01390</td>
 <td style="font-weight: 400;" width="168">10/16/22 12:18 AM</td>
 <td style="font-weight: 400;" width="166">10/16/22 12:43 AM</td>
