@@ -665,7 +665,58 @@
   
     	<section class="content__group">
   					<h3>Wednesday, October 19, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01405</td>
+<td style="font-weight: 400;" width="168">10/13/22 5:30 PM</td>
+<td style="font-weight: 400;" width="166">10/18/22 5:00 PM</td>
+<td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU01406</td>
+<td style="font-weight: 400;" width="168">10/19/22 12:00 AM</td>
+<td style="font-weight: 400;" width="166">10/19/22 12:45 AM</td>
+<td style="font-weight: 400;" width="212">West Stadium Ave/McCormick Rd</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Public Intoxication/Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU01407</td>
+<td style="font-weight: 400;" width="168">10/19/22 1:34 AM</td>
+<td style="font-weight: 400;" width="166">10/19/22 1:44 AM</td>
+<td style="font-weight: 400;" width="212">CoRec</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drugging</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">10/15/22 10:31 PM</td>
+<td style="font-weight: 400;" width="166">10/18/22 11:32 AM</td>
+<td style="font-weight: 400;" width="212">Phi Kappa Psi</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Stalking</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">10/13/22 12:00 AM</td>
+<td style="font-weight: 400;" width="166">10/18/22 4:02 PM</td>
+<td style="font-weight: 400;" width="212">First Street Towers</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
