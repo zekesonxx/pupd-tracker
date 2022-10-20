@@ -658,7 +658,66 @@
   
     	<section class="content__group">
   					<h3>Thursday, October 20, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">False Informing</td>
+<td style="font-weight: 400;" width="154">2022PU01409</td>
+<td style="font-weight: 400;" width="168">10/19/22 6:39 PM</td>
+<td style="font-weight: 400;" width="166">10/19/22 6:51 PM</td>
+<td style="font-weight: 400;" width="212">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01411</td>
+<td style="font-weight: 400;" width="168">10/16/22 10:26 PM</td>
+<td style="font-weight: 400;" width="166">10/19/22 10:27 PM</td>
+<td style="font-weight: 400;" width="212">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU01412</td>
+<td style="font-weight: 400;" width="168">10/19/22 11:59 PM</td>
+<td style="font-weight: 400;" width="166">10/20/22 12:21 AM</td>
+<td style="font-weight: 400;" width="212">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Crash Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">CAD#2022-139036</td>
+<td style="font-weight: 400;" width="168">10/18/22 4:20 PM</td>
+<td style="font-weight: 400;" width="166">10/18/22 4:20 PM</td>
+<td style="font-weight: 400;" width="212">University Parking Garage&#160;</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft Of Property</td>
+<td style="font-weight: 400;" width="154">CAD#2022-138861</td>
+<td style="font-weight: 400;" width="168">10/18/22 10:09 AM</td>
+<td style="font-weight: 400;" width="166">10/18/22 10:09 AM</td>
+<td style="font-weight: 400;" width="212">Lyles-Porter Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Stalking/Verbal Threats</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">9/22/22 10:00 PM</td>
+<td style="font-weight: 400;" width="166">10/19/22 9:45 PM</td>
+<td style="font-weight: 400;" width="212">Grant St Apartments</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
