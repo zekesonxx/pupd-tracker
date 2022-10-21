@@ -1105,7 +1105,7 @@
 <td style="font-weight: 400;" width="168">9/17/22 6:50 PM</td>
 <td style="font-weight: 400;" width="166">9/17/22 6:50 PM</td>
 <td style="font-weight: 400;" width="207">500 Blk N Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
@@ -1145,7 +1145,7 @@
 <td style="font-weight: 400;" width="168">9/18/22 1:47 AM</td>
 <td style="font-weight: 400;" width="166">9/18/22 2:07 AM</td>
 <td style="font-weight: 400;" width="207">Meredith Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>
@@ -1169,7 +1169,7 @@
 <td style="font-weight: 400;" width="168">9/18/22 9:54 PM</td>
 <td style="font-weight: 400;" width="166">9/18/22 9:54 PM</td>
 <td style="font-weight: 400;" width="207">Owen Hall</td>
-<td style="font-weight: 400;" width="181">Documented in CSA 9/18/2022 - Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Documented in CSA 9/18/2022 - Closed</td>
 </tr>
 </tbody>
 </table>

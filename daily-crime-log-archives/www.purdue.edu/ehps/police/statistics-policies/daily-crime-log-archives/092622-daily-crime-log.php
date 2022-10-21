@@ -813,7 +813,7 @@
 <td style="font-weight: 400;" width="168">9/26/22 3:37 PM</td>
 <td style="font-weight: 400;" width="166">9/26/22 4:02 PM</td>
 <td style="font-weight: 400;" width="207">Purdue Memorial Union</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Driving While Suspended</td>
