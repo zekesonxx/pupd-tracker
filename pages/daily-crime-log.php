@@ -679,7 +679,98 @@
   
     	<section class="content__group">
   					<h3>Monday, October 24, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Crash Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU01424</td>
+<td style="font-weight: 400;" width="168">10/14/22 8:00 AM</td>
+<td style="font-weight: 400;" width="166">10/18/22 4:20 PM</td>
+<td style="font-weight: 400;" width="212">University Parking Garage</td>
+<td style="font-weight: 400;" width="181">Documented in CAD# 2022-139036 - Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01430</td>
+<td style="font-weight: 400;" width="168">10/22/22 12:26 AM</td>
+<td style="font-weight: 400;" width="166">10/22/22 12:27 AM</td>
+<td style="font-weight: 400;" width="212">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01431</td>
+<td style="font-weight: 400;" width="168">10/22/22 12:27 AM</td>
+<td style="font-weight: 400;" width="166">10/22/22 12:38 AM</td>
+<td style="font-weight: 400;" width="212">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01433</td>
+<td style="font-weight: 400;" width="168">10/22/22 2:57 AM</td>
+<td style="font-weight: 400;" width="166">10/22/22 3:10 AM</td>
+<td style="font-weight: 400;" width="212">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU01438</td>
+<td style="font-weight: 400;" width="168">10/22/22 10:00 PM</td>
+<td style="font-weight: 400;" width="166">10/23/22 1:00 AM</td>
+<td style="font-weight: 400;" width="212">Hawkins Graduate House</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01439</td>
+<td style="font-weight: 400;" width="168">10/23/22 12:58 AM</td>
+<td style="font-weight: 400;" width="166">10/23/22 1:47 AM</td>
+<td style="font-weight: 400;" width="212">Aspire</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption/False Informing</td>
+<td style="font-weight: 400;" width="154">2022PU01442</td>
+<td style="font-weight: 400;" width="168">10/23/22 1:46 AM</td>
+<td style="font-weight: 400;" width="166">10/23/22 2:14 AM</td>
+<td style="font-weight: 400;" width="212">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01443</td>
+<td style="font-weight: 400;" width="168">10/23/22 2:28 AM</td>
+<td style="font-weight: 400;" width="166">10/23/22 2:48 AM</td>
+<td style="font-weight: 400;" width="212">Rawls Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespassing</td>
+<td style="font-weight: 400;" width="154">2022PU01445</td>
+<td style="font-weight: 400;" width="168">10/24/22 12:28 AM</td>
+<td style="font-weight: 400;" width="166">10/24/22 12:40 AM</td>
+<td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Vandalism</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">10/23/22 11:30 PM</td>
+<td style="font-weight: 400;" width="166">10/23/22 11:40 PM</td>
+<td style="font-weight: 400;" width="212">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

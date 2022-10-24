@@ -993,7 +993,7 @@
 <td style="font-weight: 400;" width="168">9/24/22 2:57 AM</td>
 <td style="font-weight: 400;" width="166">9/24/22 3:09 AM</td>
 <td style="font-weight: 400;" width="207">N Russell St/W Stadium Avenue</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft</td>
