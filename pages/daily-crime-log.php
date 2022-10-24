@@ -698,6 +698,14 @@
 <td style="font-weight: 400;" width="181">Documented in CAD# 2022-139036 - Under Investigation</td>
 </tr>
 <tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU01429</td>
+<td style="font-weight: 400;" width="168">10/21/22 11:22 PM</td>
+<td style="font-weight: 400;" width="166">10/21/22 11:48 PM</td>
+<td style="font-weight: 400;" width="212">Theta Chi</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>
 <td style="font-weight: 400;" width="154">2022PU01430</td>
 <td style="font-weight: 400;" width="168">10/22/22 12:26 AM</td>
@@ -762,7 +770,7 @@
 <td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Vandalism</td>
+<td style="font-weight: 400;" width="156">Larceny</td>
 <td style="font-weight: 400;" width="154">CSA</td>
 <td style="font-weight: 400;" width="168">10/23/22 11:30 PM</td>
 <td style="font-weight: 400;" width="166">10/23/22 11:40 PM</td>
