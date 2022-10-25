@@ -869,7 +869,7 @@
 <td style="font-weight: 400;" width="168">10/19/22 1:34 AM</td>
 <td style="font-weight: 400;" width="166">10/19/22 1:44 AM</td>
 <td style="font-weight: 400;" width="212">CoRec</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drugging</td>

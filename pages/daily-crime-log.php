@@ -672,7 +672,50 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;October 25, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01446</td>
+<td style="font-weight: 400;" width="168">10/3/22 8:00 AM</td>
+<td style="font-weight: 400;" width="166">10/24/22 2:30 PM</td>
+<td style="font-weight: 400;" width="212">Horticulture Park</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01447</td>
+<td style="font-weight: 400;" width="168">10/20/22 8:00 PM</td>
+<td style="font-weight: 400;" width="166">10/24/22 2:43 PM</td>
+<td style="font-weight: 400;" width="212">Hicks Undergraduate Library</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01448</td>
+<td style="font-weight: 400;" width="168">10/21/22 3:30 PM</td>
+<td style="font-weight: 400;" width="166">10/24/22 4:52 PM</td>
+<td style="font-weight: 400;" width="212">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Unlawful Entry of Motor Vehicle</td>
+<td style="font-weight: 400;" width="154">2022PU01451</td>
+<td style="font-weight: 400;" width="168">10/25/22 12:41 AM</td>
+<td style="font-weight: 400;" width="166">10/25/22 1:03 AM</td>
+<td style="font-weight: 400;" width="212">Hawkins Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

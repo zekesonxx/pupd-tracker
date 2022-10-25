@@ -1087,7 +1087,7 @@
 <td style="font-weight: 400;" width="168">9/5/22 6:30 PM</td>
 <td style="font-weight: 400;" width="166">9/5/22 11:59 PM</td>
 <td style="font-weight: 400;" width="207">Windsor Hall</td>
-<td style="font-weight: 400;" width="181">Reported in CSA 9/7/22. Under Investigation</td>
+<td style="font-weight: 400;" width="181">Reported in CSA 9/7/22. Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
