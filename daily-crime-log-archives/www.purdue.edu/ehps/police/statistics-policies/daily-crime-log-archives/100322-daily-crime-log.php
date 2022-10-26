@@ -905,7 +905,7 @@
 <td style="font-weight: 400;" width="168">9/30/22 1:27 AM</td>
 <td style="font-weight: 400;" width="166">9/30/22 12:13 PM</td>
 <td style="font-weight: 400;" width="207">Memorial Mall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
