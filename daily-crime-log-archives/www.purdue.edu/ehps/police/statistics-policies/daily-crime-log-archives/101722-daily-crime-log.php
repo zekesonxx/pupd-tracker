@@ -924,7 +924,7 @@
 <tr>
 <td style="font-weight: 400;" width="156">Voyeurism</td>
 <td style="font-weight: 400;" width="154">2022PU01400</td>
-<td style="font-weight: 400;" width="168">10/17/22 9:47 AM</td>
+<td style="font-weight: 400;" width="168">10/15/22 9:27 PM</td>
 <td style="font-weight: 400;" width="166">10/17/22 9:47 AM</td>
 <td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
