@@ -29,8 +29,6 @@
 		<!--United sans -->
 <link href="https://www.purdue.edu/purdue/fonts/united-sans/united-sans.css" rel="stylesheet"/>
 
-
-
 <link href="https://www.purdue.edu/purdue/css/pu/content/content-2.0-2020.css" rel="stylesheet" type="text/css"/>
 
 
@@ -897,7 +895,7 @@
 <td style="font-weight: 400;" width="168">9/21/22 12:00 PM</td>
 <td style="font-weight: 400;" width="166">9/30/22 12:09 PM</td>
 <td style="font-weight: 400;" width="207">Purdue MRI Facility</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft</td>

@@ -29,8 +29,6 @@
 		<!--United sans -->
 <link href="https://www.purdue.edu/purdue/fonts/united-sans/united-sans.css" rel="stylesheet"/>
 
-
-
 <link href="https://www.purdue.edu/purdue/css/pu/content/content-2.0-2020.css" rel="stylesheet" type="text/css"/>
 
 
@@ -612,6 +610,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log</h2>
 <ul>
+<li><a href="102422-daily-crime-log.php" title="102422 Daily Crime Log">Week of October 24, 2022</a></li>
 <li><a href="101722-daily-crime-log.php" title="101722 Daily Crime Log">Week of October 17, 2022</a></li>
 <li><a href="101022-daily-crime-log.php">Week of October 10, 2022</a></li>
 <li><a href="100322-daily-crime-log.php">Week of October 3, 2022</a></li>
