@@ -29,8 +29,6 @@
 		<!--United sans -->
 <link href="https://www.purdue.edu/purdue/fonts/united-sans/united-sans.css" rel="stylesheet"/>
 
-
-
 <link href="https://www.purdue.edu/purdue/css/pu/content/content-2.0-2020.css" rel="stylesheet" type="text/css"/>
 
 
@@ -943,7 +941,7 @@
 <td style="font-weight: 400;" width="168">10/17/22 9:00 PM</td>
 <td style="font-weight: 400;" width="166">10/17/22 9:24 PM</td>
 <td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation/Weapons Law Violation</td>

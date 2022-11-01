@@ -670,7 +670,74 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;November 1, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU01494</td>
+<td style="font-weight: 400;" width="168">10/31/22 10:00 AM</td>
+<td style="font-weight: 400;" width="166">10/31/22 12:48 PM</td>
+<td style="font-weight: 400;" width="212">North Martin Jischke Dr/West Stadium Ave</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU01497</td>
+<td style="font-weight: 400;" width="168">10/31/22 2:57 PM</td>
+<td style="font-weight: 400;" width="166">10/31/22 3:01 PM</td>
+<td style="font-weight: 400;" width="212">Cary Quad South</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU01499</td>
+<td style="font-weight: 400;" width="168">10/31/22 4:02 PM</td>
+<td style="font-weight: 400;" width="166">10/31/22 6:03 PM</td>
+<td style="font-weight: 400;" width="212">Hagle Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01500</td>
+<td style="font-weight: 400;" width="168">11/1/22 1:09 AM</td>
+<td style="font-weight: 400;" width="166">11/1/22 1:21 AM</td>
+<td style="font-weight: 400;" width="212">West Stadium Ave/North University St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2022-144229</td>
+<td style="font-weight: 400;" width="168">10/28/22 8:55 PM</td>
+<td style="font-weight: 400;" width="166">10/28/22 8:55 PM</td>
+<td style="font-weight: 400;" width="212">Meredith Residence Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drunk Driver</td>
+<td style="font-weight: 400;" width="154">CAD#2022-144799</td>
+<td style="font-weight: 400;" width="168">10/30/22 2:07 AM</td>
+<td style="font-weight: 400;" width="166">10/20/22 2:07 AM</td>
+<td style="font-weight: 400;" width="212">US HWY 231 / W State St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft Of Property</td>
+<td style="font-weight: 400;" width="154">CAD#2022-144031&#160;</td>
+<td style="font-weight: 400;" width="168">10/28/22 3:40 PM</td>
+<td style="font-weight: 400;" width="166">10/28/22 3:40 PM</td>
+<td style="font-weight: 400;" width="212">Beering Hall Of Liberal Arts</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

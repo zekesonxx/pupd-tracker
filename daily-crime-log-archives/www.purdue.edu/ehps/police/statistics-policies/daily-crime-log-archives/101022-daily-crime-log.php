@@ -29,8 +29,6 @@
 		<!--United sans -->
 <link href="https://www.purdue.edu/purdue/fonts/united-sans/united-sans.css" rel="stylesheet"/>
 
-
-
 <link href="https://www.purdue.edu/purdue/css/pu/content/content-2.0-2020.css" rel="stylesheet" type="text/css"/>
 
 
@@ -937,7 +935,7 @@
 <td style="font-weight: 400;" width="168">10/8/22 12:53 AM</td>
 <td style="font-weight: 400;" width="166">10/8/22 1:38 AM</td>
 <td style="font-weight: 400;" width="212">Alpha Epsilon Pi</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Trespassing</td>
