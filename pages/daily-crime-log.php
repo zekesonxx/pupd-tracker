@@ -663,7 +663,42 @@
   
     	<section class="content__group">
   					<h3>Wednesday, November 2, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01501</td>
+<td style="font-weight: 400;" width="168">10/29/22 6:11 AM</td>
+<td style="font-weight: 400;" width="166">11/1/22 3:13 PM</td>
+<td style="font-weight: 400;" width="212">Purdue Surplus Warehouse</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01503</td>
+<td style="font-weight: 400;" width="168">11/1/22 6:05 PM</td>
+<td style="font-weight: 400;" width="166">11/1/22 6:08 PM</td>
+<td style="font-weight: 400;" width="212">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2022-145650</td>
+<td style="font-weight: 400;" width="168">10/31/2022 22:54</td>
+<td style="font-weight: 400;" width="166">10/31/2022 22:54</td>
+<td style="font-weight: 400;" width="212">Meredith Residence Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -702,7 +737,7 @@
 <td style="font-weight: 400;" width="168">10/31/22 4:02 PM</td>
 <td style="font-weight: 400;" width="166">10/31/22 6:03 PM</td>
 <td style="font-weight: 400;" width="212">Hagle Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Criminal Mischief</td>
