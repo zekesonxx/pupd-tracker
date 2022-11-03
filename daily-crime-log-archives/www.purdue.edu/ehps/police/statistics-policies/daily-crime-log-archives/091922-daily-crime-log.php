@@ -29,8 +29,6 @@
 		<!--United sans -->
 <link href="https://www.purdue.edu/purdue/fonts/united-sans/united-sans.css" rel="stylesheet"/>
 
-
-
 <link href="https://www.purdue.edu/purdue/css/pu/content/content-2.0-2020.css" rel="stylesheet" type="text/css"/>
 
 
@@ -813,7 +811,7 @@
 <td style="font-weight: 400;" width="168">9/19/22 10:30 AM</td>
 <td style="font-weight: 400;" width="166">9/20/22 12:57 PM</td>
 <td style="font-weight: 400;" width="207">W State St/ N Russell St</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-Bike</td>
