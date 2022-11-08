@@ -911,7 +911,7 @@
 <td style="font-weight: 400;" width="168">10/22/22 2:57 AM</td>
 <td style="font-weight: 400;" width="166">10/22/22 3:10 AM</td>
 <td style="font-weight: 400;" width="212">Harrison Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-EMPV</td>
@@ -927,7 +927,7 @@
 <td style="font-weight: 400;" width="168">10/23/22 12:58 AM</td>
 <td style="font-weight: 400;" width="166">10/23/22 1:47 AM</td>
 <td style="font-weight: 400;" width="212">Aspire</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption/False Informing</td>

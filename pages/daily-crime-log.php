@@ -670,7 +670,26 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;November 8, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01535</td>
+<td style="font-weight: 400;" width="168">11/7/22 9:08 PM</td>
+<td style="font-weight: 400;" width="166">11/7/22 9:26 PM</td>
+<td style="font-weight: 400;" width="212">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -717,7 +736,7 @@
 <td style="font-weight: 400;" width="168">11/4/22 6:51 PM</td>
 <td style="font-weight: 400;" width="166">11/4/22 7:38 PM</td>
 <td style="font-weight: 400;" width="212">200 Blck S Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-EMPV</td>
@@ -752,7 +771,7 @@
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Aggravated Assault/Public Intoxication</td>
+<td style="font-weight: 400;" width="156">Battery-Simple/Public Intoxication</td>
 <td style="font-weight: 400;" width="154">2022PU01525</td>
 <td style="font-weight: 400;" width="168">11/5/22 6:32 PM</td>
 <td style="font-weight: 400;" width="166">11/5/22 7:05 PM</td>
@@ -800,7 +819,7 @@
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
 <td style="font-weight: 400;" width="154">2022PU01531</td>
 <td style="font-weight: 400;" width="168">11/5/22 8:00 PM</td>
 <td style="font-weight: 400;" width="166">11/6/22 9:34 PM</td>
