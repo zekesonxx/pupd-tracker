@@ -656,7 +656,74 @@
   
     	<section class="content__group">
   					<h3>Thursday, November 10, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Sexual Battery</td>
+<td style="font-weight: 400;" width="154">2022PU01548</td>
+<td style="font-weight: 400;" width="168">11/6/22 10:00 AM</td>
+<td style="font-weight: 400;" width="166">11/9/22 10:32 AM</td>
+<td style="font-weight: 400;" width="212">1100 Blk West Stadium Ave</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01550</td>
+<td style="font-weight: 400;" width="168">11/4/22 8:00 PM</td>
+<td style="font-weight: 400;" width="166">11/9/22 6:51 PM</td>
+<td style="font-weight: 400;" width="212">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU01552</td>
+<td style="font-weight: 400;" width="168">11/9/22 8:57 PM</td>
+<td style="font-weight: 400;" width="166">11/9/22 9:43 PM</td>
+<td style="font-weight: 400;" width="212">Cary Quad South</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Sexual Assault</td>
+<td style="font-weight: 400;" width="154">2022PU01553</td>
+<td style="font-weight: 400;" width="168">10/23/22 8:30 AM</td>
+<td style="font-weight: 400;" width="166">11/9/22 11:17 PM</td>
+<td style="font-weight: 400;" width="212">400 Blk West Wood Street West Lafayette</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">False Informing</td>
+<td style="font-weight: 400;" width="154">2022PU01554</td>
+<td style="font-weight: 400;" width="168">11/10/22 12:07 AM</td>
+<td style="font-weight: 400;" width="166">11/10/22 12:18 AM</td>
+<td style="font-weight: 400;" width="212">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud/Scam/Counterfeit</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-149706</td>
+<td style="font-weight: 400;" width="168">11/8/2022 16:48</td>
+<td style="font-weight: 400;" width="166">11/8/2022 16:48</td>
+<td style="font-weight: 400;" width="212">Owen Residence Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fondling</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">11/6/22 10:00 AM</td>
+<td style="font-weight: 400;" width="166">11/8/22 4:19 PM</td>
+<td style="font-weight: 400;" width="212">Ford Dining Court</td>
+<td style="font-weight: 400;" width="181">Documented in 2022PU01548</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -759,7 +826,7 @@
 <td style="font-weight: 400;" width="168">11/7/22 4:00 PM</td>
 <td style="font-weight: 400;" width="166">11/8/22 4:00 PM</td>
 <td style="font-weight: 400;" width="212">Unknown Campus Location</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
+<td style="font-weight: 400;" width="181">Determined Non-Clery Reportable Geography - Nothing Further</td>
 </tr>
 </tbody>
 </table>
@@ -859,7 +926,7 @@
 <td style="font-weight: 400;" width="168">11/5/22 11:22 AM</td>
 <td style="font-weight: 400;" width="166">11/5/22 11:32 AM</td>
 <td style="font-weight: 400;" width="212">Tower Dr/N Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">False Reporting</td>
