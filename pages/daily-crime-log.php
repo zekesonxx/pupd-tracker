@@ -649,7 +649,74 @@
   
     	<section class="content__group">
   					<h3>Friday, November 11, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01555</td>
+<td style="font-weight: 400;" width="168">10/27/22 11:00 AM</td>
+<td style="font-weight: 400;" width="166">11/10/22 1:30 PM</td>
+<td style="font-weight: 400;" width="212">600 Blk Oval Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01557</td>
+<td style="font-weight: 400;" width="168">11/9/22 3:20 PM</td>
+<td style="font-weight: 400;" width="166">11/10/22 3:24 PM</td>
+<td style="font-weight: 400;" width="212">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespassing</td>
+<td style="font-weight: 400;" width="154">2022PU01558</td>
+<td style="font-weight: 400;" width="168">11/10/22 6:45 PM</td>
+<td style="font-weight: 400;" width="166">11/10/22 7:07 PM</td>
+<td style="font-weight: 400;" width="212">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01559</td>
+<td style="font-weight: 400;" width="168">11/8/22 11:00 PM</td>
+<td style="font-weight: 400;" width="166">11/10/22 11:04 PM</td>
+<td style="font-weight: 400;" width="212">Waldron St/ 6th St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01560</td>
+<td style="font-weight: 400;" width="168">11/11/22 1:15 AM</td>
+<td style="font-weight: 400;" width="166">11/11/22 1:41 AM</td>
+<td style="font-weight: 400;" width="212">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Rape</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">11/7/22 12:05 AM</td>
+<td style="font-weight: 400;" width="166">11/9/22 4:30 PM</td>
+<td style="font-weight: 400;" width="212">Unknown On-Campus Housing</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Rape/Dating Violence</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">10/26/22 12:00 AM</td>
+<td style="font-weight: 400;" width="166">11/11/22 4:30 PM</td>
+<td style="font-weight: 400;" width="212">Unknown On-Campus Housing</td>
+<td style="font-weight: 400;" width="181">Documented in 2022PU01553</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
