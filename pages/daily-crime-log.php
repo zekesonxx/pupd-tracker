@@ -670,7 +670,138 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;November 15, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Burglary</td>
+<td style="font-weight: 400;" width="154">2022PU01578</td>
+<td style="font-weight: 400;" width="168">11/11/22 10:13 AM</td>
+<td style="font-weight: 400;" width="166">11/14/22 9:48 AM</td>
+<td style="font-weight: 400;" width="212">Stewart Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01580</td>
+<td style="font-weight: 400;" width="168">10/14/22 12:00 PM</td>
+<td style="font-weight: 400;" width="166">11/14/22 4:40 PM</td>
+<td style="font-weight: 400;" width="212">Hilltop Apartments</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Blackmail</td>
+<td style="font-weight: 400;" width="154">2022PU01581</td>
+<td style="font-weight: 400;" width="168">11/14/22 9:00 PM</td>
+<td style="font-weight: 400;" width="166">11/14/22 10:26 PM</td>
+<td style="font-weight: 400;" width="212">Aspire Apartments</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2022-152253</td>
+<td style="font-weight: 400;" width="168">11/13/22 9:41 PM</td>
+<td style="font-weight: 400;" width="166">11/13/22 9:41 PM</td>
+<td style="font-weight: 400;" width="212">Earhart Residence Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Futher</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consuming</td>
+<td style="font-weight: 400;" width="154">CAD#2022-151457</td>
+<td style="font-weight: 400;" width="168">11/12/22 12:43 AM</td>
+<td style="font-weight: 400;" width="166">11/12/22 12:43 AM</td>
+<td style="font-weight: 400;" width="212">Winifred Parker Residence Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">12 Disciplinary Referral</td>
+<td style="font-weight: 400;">10/28/22 12:00 AM</td>
+<td style="font-weight: 400;">10/28/22 12:53 AM</td>
+<td style="font-weight: 400;">Village West Apts</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">10/28/22 1:23 AM</td>
+<td style="font-weight: 400;">10/28/22 2:13 AM</td>
+<td style="font-weight: 400;">Earhart Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">9 Disciplinary Referral</td>
+<td style="font-weight: 400;">10/28/22 7:45 PM</td>
+<td style="font-weight: 400;">10/28/22 9:05 PM</td>
+<td style="font-weight: 400;">Hilltop Apts</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">5 Disciplinary Referral</td>
+<td style="font-weight: 400;">10/29/22 1:00 AM</td>
+<td style="font-weight: 400;">10/29/22 2:37 AM</td>
+<td style="font-weight: 400;">Meredith Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">8 Disciplinary Referral</td>
+<td style="font-weight: 400;">10/29/22 10:45 PM</td>
+<td style="font-weight: 400;">10/30/22 1:02 AM</td>
+<td style="font-weight: 400;">Aspire Apts</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/4/22 5:00 PM</td>
+<td style="font-weight: 400;">11/7/22 10:42 AM</td>
+<td style="font-weight: 400;">Tarkington Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">4 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/4/22 11:30 PM</td>
+<td style="font-weight: 400;">11/5/22 12:08 AM</td>
+<td style="font-weight: 400;">Benchmark Apts</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/5/22 10:00 PM</td>
+<td style="font-weight: 400;">11/5/22 11:36 PM</td>
+<td style="font-weight: 400;">Tarkington Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/5/22 11:40 PM</td>
+<td style="font-weight: 400;">11/6/22 1:38 AM</td>
+<td style="font-weight: 400;">Earhart Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">5 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/6/22 12:20 AM</td>
+<td style="font-weight: 400;">11/6/22 2:40 AM</td>
+<td style="font-weight: 400;">Earhart Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

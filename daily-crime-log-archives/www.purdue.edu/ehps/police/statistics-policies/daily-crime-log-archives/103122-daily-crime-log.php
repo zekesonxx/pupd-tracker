@@ -964,7 +964,7 @@
 <td style="font-weight: 400;" width="168">10/29/22 11:10 PM</td>
 <td style="font-weight: 400;" width="166">10/29/22 11:37 PM</td>
 <td style="font-weight: 400;" width="212">422 Steely St</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
