@@ -663,7 +663,66 @@
   
     	<section class="content__group">
   					<h3>Wednesday, November 16, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU01509</td>
+<td style="font-weight: 400;" width="168">11/2/22 6:19 PM</td>
+<td style="font-weight: 400;" width="166">11/2/22 6:30 PM</td>
+<td style="font-weight: 400;" width="212">Mackey Arena</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01561</td>
+<td style="font-weight: 400;" width="168">11/11/22 9:02 AM</td>
+<td style="font-weight: 400;" width="166">11/11/22 9:23 AM</td>
+<td style="font-weight: 400;" width="212">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01583</td>
+<td style="font-weight: 400;" width="168">11/15/22 11:10 AM</td>
+<td style="font-weight: 400;" width="166">11/15/22 11:23 AM</td>
+<td style="font-weight: 400;" width="212">Hawkins Graduate House</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU01584</td>
+<td style="font-weight: 400;" width="168">11/12/22 9:00 PM</td>
+<td style="font-weight: 400;" width="166">11/15/22 1:04 PM</td>
+<td style="font-weight: 400;" width="212">Hagle Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Sex Offense</td>
+<td style="font-weight: 400;" width="154">2022PU01585</td>
+<td style="font-weight: 400;" width="168">11/15/22 3:54 PM</td>
+<td style="font-weight: 400;" width="166">11/15/22 3:55 PM</td>
+<td style="font-weight: 400;" width="212">200 Block North University St</td>
+<td style="font-weight: 400;" width="181">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Crimial Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01588</td>
+<td style="font-weight: 400;" width="168">11/16/22 1:32 AM</td>
+<td style="font-weight: 400;" width="166">11/16/22 1:32 AM</td>
+<td style="font-weight: 400;" width="212">Northwestern Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
