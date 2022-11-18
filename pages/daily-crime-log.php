@@ -649,7 +649,42 @@
   
     	<section class="content__group">
   					<h3>Friday, November 18, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Rape</td>
+<td style="font-weight: 400;" width="154">2022PU01594</td>
+<td style="font-weight: 400;" width="168">11/8/22 1:19 PM</td>
+<td style="font-weight: 400;" width="166">11/17/22 2:18 PM</td>
+<td style="font-weight: 400;" width="212">200 Block S Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Battery-Simple</td>
+<td style="font-weight: 400;" width="154">2022PU01596</td>
+<td style="font-weight: 400;" width="168">11/17/22 3:00 PM</td>
+<td style="font-weight: 400;" width="166">11/17/22 6:16 PM</td>
+<td style="font-weight: 400;" width="212">1400 Block West State St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption&#160;</td>
+<td style="font-weight: 400;" width="154">2022PU01598</td>
+<td style="font-weight: 400;" width="168">11/18/22 12:20 AM</td>
+<td style="font-weight: 400;" width="166">11/18/22 12:44 AM</td>
+<td style="font-weight: 400;" width="212">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
