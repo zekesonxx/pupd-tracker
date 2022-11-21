@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			111422 Daily Crime Log - 
+			112122 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -648,295 +648,35 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, November 18, 2022</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Rape</td>
-<td style="font-weight: 400;" width="154">2022PU01594</td>
-<td style="font-weight: 400;" width="168">11/8/22 1:19 PM</td>
-<td style="font-weight: 400;" width="166">11/17/22 2:18 PM</td>
-<td style="font-weight: 400;" width="212">200 Block S Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Battery-Simple</td>
-<td style="font-weight: 400;" width="154">2022PU01596</td>
-<td style="font-weight: 400;" width="168">11/17/22 3:00 PM</td>
-<td style="font-weight: 400;" width="166">11/17/22 6:16 PM</td>
-<td style="font-weight: 400;" width="212">1400 Block West State St</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Minor Consumption&#160;</td>
-<td style="font-weight: 400;" width="154">2022PU01598</td>
-<td style="font-weight: 400;" width="168">11/18/22 12:20 AM</td>
-<td style="font-weight: 400;" width="166">11/18/22 12:44 AM</td>
-<td style="font-weight: 400;" width="212">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Friday, November 25, 2022</h3>
+<p>Thanksgiving Break.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, November 17, 2022</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">False Reporting</td>
-<td style="font-weight: 400;" width="154">2022PU01586</td>
-<td style="font-weight: 400;" width="168">11/15/22 3:54 PM</td>
-<td style="font-weight: 400;" width="166">11/15/22 3:56 PM</td>
-<td style="font-weight: 400;" width="212">205 S Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Drug Law Violation</td>
-<td style="font-weight: 400;" width="154">2022PU01590</td>
-<td style="font-weight: 400;" width="168">11/16/22 3:18 PM</td>
-<td style="font-weight: 400;" width="166">11/16/22 3:36 PM</td>
-<td style="font-weight: 400;" width="212">Wiley Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Theft-EMPV</td>
-<td style="font-weight: 400;" width="154">2022PU01591</td>
-<td style="font-weight: 400;" width="168">11/16/22 6:10 PM</td>
-<td style="font-weight: 400;" width="166">11/16/22 6:15 PM</td>
-<td style="font-weight: 400;" width="212">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, November 24, 2022</h3>
+<p>Thanksgiving Break.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, November 16, 2022</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Fraud</td>
-<td style="font-weight: 400;" width="154">2022PU01509</td>
-<td style="font-weight: 400;" width="168">11/2/22 6:19 PM</td>
-<td style="font-weight: 400;" width="166">11/2/22 6:30 PM</td>
-<td style="font-weight: 400;" width="212">Mackey Arena</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Theft</td>
-<td style="font-weight: 400;" width="154">2022PU01561</td>
-<td style="font-weight: 400;" width="168">11/11/22 9:02 AM</td>
-<td style="font-weight: 400;" width="166">11/11/22 9:23 AM</td>
-<td style="font-weight: 400;" width="212">Wiley Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2022PU01583</td>
-<td style="font-weight: 400;" width="168">11/15/22 11:10 AM</td>
-<td style="font-weight: 400;" width="166">11/15/22 11:23 AM</td>
-<td style="font-weight: 400;" width="212">Hawkins Graduate House</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Theft-EMPV</td>
-<td style="font-weight: 400;" width="154">2022PU01584</td>
-<td style="font-weight: 400;" width="168">11/12/22 9:00 PM</td>
-<td style="font-weight: 400;" width="166">11/15/22 1:04 PM</td>
-<td style="font-weight: 400;" width="212">Hagle Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Sex Offense</td>
-<td style="font-weight: 400;" width="154">2022PU01585</td>
-<td style="font-weight: 400;" width="168">11/15/22 3:54 PM</td>
-<td style="font-weight: 400;" width="166">11/15/22 3:55 PM</td>
-<td style="font-weight: 400;" width="212">200 Block North University St</td>
-<td style="font-weight: 400;" width="181">Unfounded</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Crimial Mischief</td>
-<td style="font-weight: 400;" width="154">2022PU01588</td>
-<td style="font-weight: 400;" width="168">11/16/22 1:32 AM</td>
-<td style="font-weight: 400;" width="166">11/16/22 1:32 AM</td>
-<td style="font-weight: 400;" width="212">Northwestern Parking Garage</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, November 23, 2022</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday,&#160;November 15, 2022</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Burglary</td>
-<td style="font-weight: 400;" width="154">2022PU01578</td>
-<td style="font-weight: 400;" width="168">11/11/22 10:13 AM</td>
-<td style="font-weight: 400;" width="166">11/14/22 9:48 AM</td>
-<td style="font-weight: 400;" width="212">Stewart Center</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2022PU01580</td>
-<td style="font-weight: 400;" width="168">10/14/22 12:00 PM</td>
-<td style="font-weight: 400;" width="166">11/14/22 4:40 PM</td>
-<td style="font-weight: 400;" width="212">Hilltop Apartments</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Blackmail</td>
-<td style="font-weight: 400;" width="154">2022PU01581</td>
-<td style="font-weight: 400;" width="168">11/14/22 9:00 PM</td>
-<td style="font-weight: 400;" width="166">11/14/22 10:26 PM</td>
-<td style="font-weight: 400;" width="212">Aspire Apartments</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Drug Law Violation</td>
-<td style="font-weight: 400;" width="154">CAD#2022-152253</td>
-<td style="font-weight: 400;" width="168">11/13/22 9:41 PM</td>
-<td style="font-weight: 400;" width="166">11/13/22 9:41 PM</td>
-<td style="font-weight: 400;" width="212">Earhart Residence Hall</td>
-<td style="font-weight: 400;" width="181">Nothing Futher</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Minor Consuming</td>
-<td style="font-weight: 400;" width="154">CAD#2022-151457</td>
-<td style="font-weight: 400;" width="168">11/12/22 12:43 AM</td>
-<td style="font-weight: 400;" width="166">11/12/22 12:43 AM</td>
-<td style="font-weight: 400;" width="212">Winifred Parker Residence Hall</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">12 Disciplinary Referral</td>
-<td style="font-weight: 400;">10/28/22 12:00 AM</td>
-<td style="font-weight: 400;">10/28/22 12:53 AM</td>
-<td style="font-weight: 400;">Village West Apts</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">1 Disciplinary Referral</td>
-<td style="font-weight: 400;">10/28/22 1:23 AM</td>
-<td style="font-weight: 400;">10/28/22 2:13 AM</td>
-<td style="font-weight: 400;">Earhart Hall</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">9 Disciplinary Referral</td>
-<td style="font-weight: 400;">10/28/22 7:45 PM</td>
-<td style="font-weight: 400;">10/28/22 9:05 PM</td>
-<td style="font-weight: 400;">Hilltop Apts</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">5 Disciplinary Referral</td>
-<td style="font-weight: 400;">10/29/22 1:00 AM</td>
-<td style="font-weight: 400;">10/29/22 2:37 AM</td>
-<td style="font-weight: 400;">Meredith Hall</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">8 Disciplinary Referral</td>
-<td style="font-weight: 400;">10/29/22 10:45 PM</td>
-<td style="font-weight: 400;">10/30/22 1:02 AM</td>
-<td style="font-weight: 400;">Aspire Apts</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">2 Disciplinary Referral</td>
-<td style="font-weight: 400;">11/4/22 5:00 PM</td>
-<td style="font-weight: 400;">11/7/22 10:42 AM</td>
-<td style="font-weight: 400;">Tarkington Hall</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">4 Disciplinary Referral</td>
-<td style="font-weight: 400;">11/4/22 11:30 PM</td>
-<td style="font-weight: 400;">11/5/22 12:08 AM</td>
-<td style="font-weight: 400;">Benchmark Apts</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">1 Disciplinary Referral</td>
-<td style="font-weight: 400;">11/5/22 10:00 PM</td>
-<td style="font-weight: 400;">11/5/22 11:36 PM</td>
-<td style="font-weight: 400;">Tarkington Hall</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">2 Disciplinary Referral</td>
-<td style="font-weight: 400;">11/5/22 11:40 PM</td>
-<td style="font-weight: 400;">11/6/22 1:38 AM</td>
-<td style="font-weight: 400;">Earhart Hall</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">5 Disciplinary Referral</td>
-<td style="font-weight: 400;">11/6/22 12:20 AM</td>
-<td style="font-weight: 400;">11/6/22 2:40 AM</td>
-<td style="font-weight: 400;">Earhart Hall</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday,&#160;November 22, 2022</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, November 14, 2022</h3>
+  					<h3>Monday, November 21, 2022</h3>
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
@@ -948,107 +688,115 @@
 <th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2022PU01562</td>
-<td style="font-weight: 400;" width="168">11/9/22 8:00 PM</td>
-<td style="font-weight: 400;" width="166">11/11/22 1:39 PM</td>
-<td style="font-weight: 400;" width="212">Tarkington Hall</td>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU01602</td>
+<td style="font-weight: 400;" width="168">11/18/22 9:01 AM</td>
+<td style="font-weight: 400;" width="166">11/18/22 9:12 AM</td>
+<td style="font-weight: 400;" width="212">Hilltop</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2022PU01564</td>
-<td style="font-weight: 400;" width="168">11/12/22 2:07 AM</td>
-<td style="font-weight: 400;" width="166">11/12/22 2:21 AM</td>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU01603</td>
+<td style="font-weight: 400;" width="168">11/18/22 4:35 PM</td>
+<td style="font-weight: 400;" width="166">11/18/22 7:02 PM</td>
 <td style="font-weight: 400;" width="212">Frieda Parker Hall</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="154">2022PU01565</td>
-<td style="font-weight: 400;" width="168">11/12/22 2:21 AM</td>
-<td style="font-weight: 400;" width="166">11/12/22 2:48 AM</td>
-<td style="font-weight: 400;" width="212">Northwestern Ave/West Stadium Ave</td>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU01604</td>
+<td style="font-weight: 400;" width="168">11/18/22 11:50 PM</td>
+<td style="font-weight: 400;" width="166">11/19/22 12:12 AM</td>
+<td style="font-weight: 400;" width="212">Harrison Hall</td>
 <td style="font-weight: 400;" width="181">Arrest Made</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="154">2022PU01566</td>
-<td style="font-weight: 400;" width="168">11/12/22 2:39 AM</td>
-<td style="font-weight: 400;" width="166">11/12/22 3:21 AM</td>
-<td style="font-weight: 400;" width="212">South River Rd/Ahlers Dr</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01605</td>
+<td style="font-weight: 400;" width="168">11/19/22 12:24 AM</td>
+<td style="font-weight: 400;" width="166">11/19/22 12:48 AM</td>
+<td style="font-weight: 400;" width="212">1100 Blk West Stadium Ave</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Theft</td>
-<td style="font-weight: 400;" width="154">2022PU01567</td>
-<td style="font-weight: 400;" width="168">11/4/22 2:00 PM</td>
-<td style="font-weight: 400;" width="166">11/12/22 10:57 AM</td>
-<td style="font-weight: 400;" width="212">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Blackmail</td>
-<td style="font-weight: 400;" width="154">2022PU01569</td>
-<td style="font-weight: 400;" width="168">11/10/22 12:00 AM</td>
-<td style="font-weight: 400;" width="166">11/12/22 12:54 PM</td>
-<td style="font-weight: 400;" width="212">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="154">2022PU01570</td>
-<td style="font-weight: 400;" width="168">11/13/22 1:18 AM</td>
-<td style="font-weight: 400;" width="166">11/13/22 1:46 AM</td>
-<td style="font-weight: 400;" width="212">South Grant St/West Wood St</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Driving While Suspended</td>
-<td style="font-weight: 400;" width="154">2022PU01571</td>
-<td style="font-weight: 400;" width="168">11/13/22 1:45 AM</td>
-<td style="font-weight: 400;" width="166">11/13/22 1:49 AM</td>
-<td style="font-weight: 400;" width="212">US HWY 231 S/S River Rd</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Blackmail</td>
-<td style="font-weight: 400;" width="154">2022PU01573</td>
-<td style="font-weight: 400;" width="168">11/13/22 7:30 AM</td>
-<td style="font-weight: 400;" width="166">11/13/22 8:16 AM</td>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01606</td>
+<td style="font-weight: 400;" width="168">11/19/22 2:47 AM</td>
+<td style="font-weight: 400;" width="166">11/19/22 3:01 AM</td>
 <td style="font-weight: 400;" width="212">Honors College</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2022PU01607</td>
+<td style="font-weight: 400;" width="168">11/19/22 12:15 PM</td>
+<td style="font-weight: 400;" width="166">11/19/22 12:29 PM</td>
+<td style="font-weight: 400;" width="212">900 Tower Dr</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2022PU01608</td>
+<td style="font-weight: 400;" width="168">11/19/22 1:07 PM</td>
+<td style="font-weight: 400;" width="166">11/19/22 1:09 PM</td>
+<td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Public Intoxication/Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01609</td>
+<td style="font-weight: 400;" width="168">11/19/22 1:20 PM</td>
+<td style="font-weight: 400;" width="166">11/19/22 1:21 PM</td>
+<td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">False Reporting</td>
+<td style="font-weight: 400;" width="154">2022PU01610</td>
+<td style="font-weight: 400;" width="168">11/19/22 1:02 PM</td>
+<td style="font-weight: 400;" width="166">11/19/22 1:23 PM</td>
+<td style="font-weight: 400;" width="212">University Hall</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Fraud</td>
-<td style="font-weight: 400;" width="154">2022PU01574</td>
-<td style="font-weight: 400;" width="168">11/13/22 7:23 PM</td>
-<td style="font-weight: 400;" width="166">11/13/22 7:35 PM</td>
-<td style="font-weight: 400;" width="212">400 Blk Steely St</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="156">Trespassing</td>
+<td style="font-weight: 400;" width="154">2022PU01612</td>
+<td style="font-weight: 400;" width="168">11/20/22 1:06 AM</td>
+<td style="font-weight: 400;" width="166">11/20/22 1:19 AM</td>
+<td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft</td>
-<td style="font-weight: 400;" width="154">2022PU01575</td>
-<td style="font-weight: 400;" width="168">11/13/22 8:33 PM</td>
-<td style="font-weight: 400;" width="166">11/13/22 8:53 PM</td>
-<td style="font-weight: 400;" width="212">Kappa Delta</td>
+<td style="font-weight: 400;" width="154">2022PU01613</td>
+<td style="font-weight: 400;" width="168">11/20/22 7:10 AM</td>
+<td style="font-weight: 400;" width="166">11/20/22 11:04 AM</td>
+<td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Rape</td>
+<td style="font-weight: 400;" width="156">Blackmail</td>
+<td style="font-weight: 400;" width="154">2022PU01614</td>
+<td style="font-weight: 400;" width="168">11/20/22 6:00 PM</td>
+<td style="font-weight: 400;" width="166">11/20/22 9:57 PM</td>
+<td style="font-weight: 400;" width="212">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Stalking</td>
 <td style="font-weight: 400;" width="154">CSA</td>
-<td style="font-weight: 400;" width="168">11/12/22 6:55 PM</td>
-<td style="font-weight: 400;" width="166">11/12/22 9:35 PM</td>
-<td style="font-weight: 400;" width="212">Unknown Campus Location</td>
+<td style="font-weight: 400;" width="168">11/2/22 5:00 PM</td>
+<td style="font-weight: 400;" width="166">11/4/22 9:30 AM</td>
+<td style="font-weight: 400;" width="212">On-Campus Housing</td>
 <td style="font-weight: 400;" width="181">Nothing Further</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Fraud/Scam/Counterfeit</td>
-<td style="font-weight: 400;" width="154">CAD#2022-151025</td>
-<td style="font-weight: 400;" width="168">11/11/22 6:18 AM</td>
-<td style="font-weight: 400;" width="166">11/11/22 6:18 AM</td>
-<td style="font-weight: 400;" width="212">Mccutcheon Hall</td>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2022-154177</td>
+<td style="font-weight: 400;" width="168">11/17/22 11:29 PM</td>
+<td style="font-weight: 400;" width="166">11/17/22 11:29 PM</td>
+<td style="font-weight: 400;" width="212">Meredith Residence Hall</td>
 <td style="font-weight: 400;" width="181">Nothing Futher</td>
 </tr>
 </tbody>
