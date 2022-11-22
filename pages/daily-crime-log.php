@@ -670,7 +670,74 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;November 22, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01620</td>
+<td style="font-weight: 400;" width="168">11/21/22 9:31 PM</td>
+<td style="font-weight: 400;" width="166">11/21/22 9:40 PM</td>
+<td style="font-weight: 400;" width="212">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU01622</td>
+<td style="font-weight: 400;" width="168">11/22/22 12:07 AM</td>
+<td style="font-weight: 400;" width="166">11/22/22 12:33 AM</td>
+<td style="font-weight: 400;" width="212">Airport Rd/US 231 Hwy</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01623</td>
+<td style="font-weight: 400;" width="168">11/19/22 12:01 AM</td>
+<td style="font-weight: 400;" width="166">11/22/22 3:52 AM</td>
+<td style="font-weight: 400;" width="212">Armstrong Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-154738</td>
+<td style="font-weight: 400;" width="168">11/19/22 12:42 AM</td>
+<td style="font-weight: 400;" width="166">11/19/2022 0:42</td>
+<td style="font-weight: 400;" width="212">Meredith Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Futher</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-155046</td>
+<td style="font-weight: 400;" width="168">11/19/22 7:00 PM</td>
+<td style="font-weight: 400;" width="166">11/19/2022 19:00</td>
+<td style="font-weight: 400;" width="212">Aspire Apartments</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;">CAD# 2022-155120</td>
+<td style="font-weight: 400;" width="168">11/19/22 11:09 PM</td>
+<td style="font-weight: 400;" width="166">11/19/2022 23:09</td>
+<td style="font-weight: 400;" width="212">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-155518</td>
+<td style="font-weight: 400;" width="168">11/20/22 8:43 PM</td>
+<td style="font-weight: 400;" width="166">11/20/2022 20:43</td>
+<td style="font-weight: 400;" width="212">Meredith Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

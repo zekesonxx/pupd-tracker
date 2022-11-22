@@ -803,7 +803,7 @@
 <td style="font-weight: 400;" width="168">11/5/22 8:00 AM</td>
 <td style="font-weight: 400;" width="166">11/8/22 9:13 AM</td>
 <td style="font-weight: 400;" width="212">Lilly Hall of Life Sciences</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Dating Violence/Battery-Simple</td>
@@ -867,7 +867,7 @@
 <td style="font-weight: 400;" width="168">11/9/22 3:47 AM</td>
 <td style="font-weight: 400;" width="166">11/9/22 4:32 AM</td>
 <td style="font-weight: 400;" width="212">Hawkins Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft of Property</td>
@@ -991,7 +991,7 @@
 <td style="font-weight: 400;" width="168">11/5/22 2:54 PM</td>
 <td style="font-weight: 400;" width="166">11/5/22 2:55 PM</td>
 <td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Battery-Simple/Public Intoxication</td>
