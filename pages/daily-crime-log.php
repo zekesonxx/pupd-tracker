@@ -663,7 +663,66 @@
   
     	<section class="content__group">
   					<h3>Wednesday, November 23, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU01615</td>
+<td style="font-weight: 400;" width="168">11/21/22 10:00 AM</td>
+<td style="font-weight: 400;" width="166">11/21/22 11:33 AM</td>
+<td style="font-weight: 400;" width="212">Knoy Hall of Technology</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU01616</td>
+<td style="font-weight: 400;" width="168">11/21/22 12:06 PM</td>
+<td style="font-weight: 400;" width="166">11/21/22 12:26 PM</td>
+<td style="font-weight: 400;" width="212">3rd St/N Macarthur Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01617</td>
+<td style="font-weight: 400;" width="168">11/21/22 12:49 PM</td>
+<td style="font-weight: 400;" width="166">11/21/22 1:04 PM</td>
+<td style="font-weight: 400;" width="212">Materials Management &amp; Distribution Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Arson/Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01627</td>
+<td style="font-weight: 400;" width="168">11/22/22 9:14 PM</td>
+<td style="font-weight: 400;" width="166">11/22/22 10:48 PM</td>
+<td style="font-weight: 400;" width="212">University Church</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-155744</td>
+<td style="font-weight: 400;" width="168">11/21/2022 12:33</td>
+<td style="font-weight: 400;" width="166">11/21/2022 12:33</td>
+<td style="font-weight: 400;" width="212">W Stadium Ave/N Russell St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-156040</td>
+<td style="font-weight: 400;" width="168">11/22/22 1:07 AM</td>
+<td style="font-weight: 400;" width="166">11/22/22 1:07 AM</td>
+<td style="font-weight: 400;" width="212">W State St/N Russell St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -803,7 +862,7 @@
 <td style="font-weight: 400;" width="181">Arrest Made</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Public Intoxication</td>
+<td style="font-weight: 400;" width="156">Public Intoxication/Minor Consumption</td>
 <td style="font-weight: 400;" width="154">2022PU01608</td>
 <td style="font-weight: 400;" width="168">11/19/22 1:07 PM</td>
 <td style="font-weight: 400;" width="166">11/19/22 1:09 PM</td>
