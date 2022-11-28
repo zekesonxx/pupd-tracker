@@ -677,7 +677,106 @@
   
     	<section class="content__group">
   					<h3>Monday, November 28, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU01633</td>
+<td style="font-weight: 400;" width="168">11/15/22 11:52 AM</td>
+<td style="font-weight: 400;" width="166">11/25/22 10:00 AM</td>
+<td style="font-weight: 400;" width="212">2550 Northwestern Ave</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Driving While Suspended</td>
+<td style="font-weight: 400;" width="154">2022PU01637</td>
+<td style="font-weight: 400;" width="168">11/27/22 12:04 AM</td>
+<td style="font-weight: 400;" width="166">11/27/22 12:38 AM</td>
+<td style="font-weight: 400;" width="212">South River Rd/US HWY 231 S</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-156283</td>
+<td style="font-weight: 400;" width="168">11/22/22 3:35 PM</td>
+<td style="font-weight: 400;" width="166">11/22/22 3:35 PM</td>
+<td style="font-weight: 400;" width="212">234 Marsteller St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-156340</td>
+<td style="font-weight: 400;" width="168">11/22/22 5:40 PM</td>
+<td style="font-weight: 400;" width="166">11/22/22 5:40 PM</td>
+<td style="font-weight: 400;" width="212">US Hwy 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/9/22 9:00 PM</td>
+<td style="font-weight: 400;">11/9/22 10:26 PM</td>
+<td style="font-weight: 400;">Cary Quad</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">4 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/11/22 10:30 PM</td>
+<td style="font-weight: 400;">11/11/22 11:47 PM</td>
+<td style="font-weight: 400;">Shreve Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">16 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/12/22 12:30 AM</td>
+<td style="font-weight: 400;">11/12/22 1:55 AM</td>
+<td style="font-weight: 400;">Winifred Paker Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/12/22 2:45 AM</td>
+<td style="font-weight: 400;">11/12/22 12:19 PM</td>
+<td style="font-weight: 400;">Hillenbrand Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/16/22 3:00 PM</td>
+<td style="font-weight: 400;">11/17/22 3:14 PM</td>
+<td style="font-weight: 400;">Wiley Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/16/22 9:00 PM</td>
+<td style="font-weight: 400;">11/16/22 11:31 PM</td>
+<td style="font-weight: 400;">Aspire Apartments</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">4 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/17/22 11:45 PM</td>
+<td style="font-weight: 400;">11/18/22 12:07 AM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
