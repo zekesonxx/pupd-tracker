@@ -670,7 +670,82 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;November 29, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01641</td>
+<td style="font-weight: 400;" width="168">11/23/22 4:00 PM</td>
+<td style="font-weight: 400;" width="166">11/28/22 10:33 AM</td>
+<td style="font-weight: 400;" width="212">Mackey Arena</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01643</td>
+<td style="font-weight: 400;" width="168">11/28/22 10:26 AM</td>
+<td style="font-weight: 400;" width="166">11/28/22 11:38 AM</td>
+<td style="font-weight: 400;" width="212">Rawls Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">11/19/22 12:15 AM</td>
+<td style="font-weight: 400;" width="166">11/19/22 1:33 AM</td>
+<td style="font-weight: 400;" width="212">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">11/19/22 12:24 AM</td>
+<td style="font-weight: 400;" width="166">11/28/22 2:16 PM</td>
+<td style="font-weight: 400;" width="212">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/19/22 6:40 PM</td>
+<td style="font-weight: 400;">11/19/22 7:31 PM</td>
+<td style="font-weight: 400;">McCutcheon Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">4 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/19/22 7:30 PM</td>
+<td style="font-weight: 400;">11/19/22 8:32 PM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">7 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/19/22 9:15 PM</td>
+<td style="font-weight: 400;">11/19/22 10:27 PM</td>
+<td style="font-weight: 400;">McCutcheon Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">3 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/19/22 11:45 PM</td>
+<td style="font-weight: 400;">11/20/22 12:32 AM</td>
+<td style="font-weight: 400;">Windsor Halls</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
