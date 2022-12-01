@@ -656,7 +656,50 @@
   
     	<section class="content__group">
   					<h3>Thursday, December 1, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Blackmail</td>
+<td style="font-weight: 400;" width="154">2022PU01653</td>
+<td style="font-weight: 400;" width="168">11/30/22 1:15 PM</td>
+<td style="font-weight: 400;" width="166">11/30/22 1:55 PM</td>
+<td style="font-weight: 400;" width="212">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01654</td>
+<td style="font-weight: 400;" width="168">11/30/22 2:43 PM</td>
+<td style="font-weight: 400;" width="166">11/30/22 3:15 PM</td>
+<td style="font-weight: 400;" width="212">Hagle Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Battery-Simple</td>
+<td style="font-weight: 400;" width="154">2022PU01656</td>
+<td style="font-weight: 400;" width="168">11/30/22 9:51 PM</td>
+<td style="font-weight: 400;" width="166">11/30/22 10:32 PM</td>
+<td style="font-weight: 400;" width="212">Psychological Sciences Building</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">False Reporting</td>
+<td style="font-weight: 400;" width="154">2022PU01660</td>
+<td style="font-weight: 400;" width="168">12/1/22 1:19 AM</td>
+<td style="font-weight: 400;" width="166">12/1/22 1:34 AM</td>
+<td style="font-weight: 400;" width="212">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
