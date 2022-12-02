@@ -649,7 +649,66 @@
   
     	<section class="content__group">
   					<h3>Friday, December 2, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01661</td>
+<td style="font-weight: 400;" width="168">12/1/22 8:18 AM</td>
+<td style="font-weight: 400;" width="166">12/1/22 8:27 AM</td>
+<td style="font-weight: 400;" width="212">CoRec</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01665</td>
+<td style="font-weight: 400;" width="168">12/2/22 12:45 AM</td>
+<td style="font-weight: 400;" width="166">12/2/22 12:59 AM</td>
+<td style="font-weight: 400;" width="212">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated/Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01667</td>
+<td style="font-weight: 400;" width="168">12/2/22 2:24 AM</td>
+<td style="font-weight: 400;" width="166">12/2/22 2:48 AM</td>
+<td style="font-weight: 400;" width="212">N Grant St/Sylvia St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU01668</td>
+<td style="font-weight: 400;" width="168">12/2/22 2:55 AM</td>
+<td style="font-weight: 400;" width="166">12/2/22 3:21 AM</td>
+<td style="font-weight: 400;" width="212">N McCutcheon Dr/W State St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated/Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01669</td>
+<td style="font-weight: 400;" width="168">12/2/22 3:12 AM</td>
+<td style="font-weight: 400;" width="166">12/2/22 3:42 AM</td>
+<td style="font-weight: 400;" width="212">W State St/Memorial Mall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft Of Property&#160;</td>
+<td style="font-weight: 400;" width="154">CAD#2022-159898</td>
+<td style="font-weight: 400;" width="168">11/30/2022 16:40</td>
+<td style="font-weight: 400;" width="166">11/30/2022 16:40</td>
+<td style="font-weight: 400;" width="212">Mechanical Engineering Building</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
