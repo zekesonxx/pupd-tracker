@@ -735,7 +735,7 @@
 <td style="font-weight: 400;" width="168">11/21/22 9:31 PM</td>
 <td style="font-weight: 400;" width="166">11/21/22 9:40 PM</td>
 <td style="font-weight: 400;" width="212">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Recovered - Nothing Further</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>

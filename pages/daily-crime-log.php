@@ -677,7 +677,122 @@
   
     	<section class="content__group">
   					<h3>Monday, December 5, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU01670</td>
+<td style="font-weight: 400;" width="168">12/2/22 5:23 PM</td>
+<td style="font-weight: 400;" width="166">12/2/22 5:48 PM</td>
+<td style="font-weight: 400;" width="212">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01671</td>
+<td style="font-weight: 400;" width="168">12/2/22 6:15 PM</td>
+<td style="font-weight: 400;" width="166">12/2/22 9:05 PM</td>
+<td style="font-weight: 400;" width="212">CoRec</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01672</td>
+<td style="font-weight: 400;" width="168">12/3/22 12:08 AM</td>
+<td style="font-weight: 400;" width="166">12/3/22 12:31 AM</td>
+<td style="font-weight: 400;" width="212">Alpha Sigma Phi</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU01673</td>
+<td style="font-weight: 400;" width="168">12/3/22 9:13 AM</td>
+<td style="font-weight: 400;" width="166">12/3/22 9:31 AM</td>
+<td style="font-weight: 400;" width="212">David Ross Rd/Tower Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU01674</td>
+<td style="font-weight: 400;" width="168">11/29/22 11:00 PM</td>
+<td style="font-weight: 400;" width="166">12/3/22 10:02 AM</td>
+<td style="font-weight: 400;" width="212">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2022PU01677</td>
+<td style="font-weight: 400;" width="168">12/3/22 7:00 PM</td>
+<td style="font-weight: 400;" width="166">12/3/22 9:15 PM</td>
+<td style="font-weight: 400;" width="212">Hicks Undergraduate Library</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2022PU01678</td>
+<td style="font-weight: 400;" width="168">12/3/22 5:24 PM</td>
+<td style="font-weight: 400;" width="166">12/3/22 9:21 PM</td>
+<td style="font-weight: 400;" width="212">Meredith Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01681</td>
+<td style="font-weight: 400;" width="168">12/4/22 3:23 AM</td>
+<td style="font-weight: 400;" width="166">12/4/22 3:45 AM</td>
+<td style="font-weight: 400;" width="212">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU01682</td>
+<td style="font-weight: 400;" width="168">12/3/22 2:30 PM</td>
+<td style="font-weight: 400;" width="166">12/4/22 3:25 PM</td>
+<td style="font-weight: 400;" width="212">David Ross Rd/Tower Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01683</td>
+<td style="font-weight: 400;" width="168">12/3/22 11:30 PM</td>
+<td style="font-weight: 400;" width="166">12/4/22 8:27 PM</td>
+<td style="font-weight: 400;" width="212">CoRec</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU01684</td>
+<td style="font-weight: 400;" width="168">12/4/22 5:00 PM</td>
+<td style="font-weight: 400;" width="166">12/5/22 12:54 AM</td>
+<td style="font-weight: 400;" width="212">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU01685</td>
+<td style="font-weight: 400;" width="168">12/5/22 12:39 AM</td>
+<td style="font-weight: 400;" width="166">12/5/22 12:58 AM</td>
+<td style="font-weight: 400;" width="212">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Stalking</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">11/29/22 7:30 PM</td>
+<td style="font-weight: 400;" width="166">12/2/22 3:00 PM</td>
+<td style="font-weight: 400;" width="212">On-Campus Housing</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
