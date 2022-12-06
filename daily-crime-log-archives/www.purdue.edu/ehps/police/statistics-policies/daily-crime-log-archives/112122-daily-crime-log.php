@@ -841,7 +841,7 @@
 <td style="font-weight: 400;" width="168">11/19/22 2:47 AM</td>
 <td style="font-weight: 400;" width="166">11/19/22 3:01 AM</td>
 <td style="font-weight: 400;" width="212">Honors College</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Public Intoxication</td>

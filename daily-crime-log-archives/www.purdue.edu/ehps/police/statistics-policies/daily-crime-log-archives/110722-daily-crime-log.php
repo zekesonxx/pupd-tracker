@@ -951,7 +951,7 @@
 <td style="font-weight: 400;" width="168">11/3/22 11:00 PM</td>
 <td style="font-weight: 400;" width="166">11/4/22 5:34 PM</td>
 <td style="font-weight: 400;" width="212">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
@@ -1015,7 +1015,7 @@
 <td style="font-weight: 400;" width="168">11/6/22 1:56 AM</td>
 <td style="font-weight: 400;" width="166">11/6/22 2:14 AM</td>
 <td style="font-weight: 400;" width="212">Rawls Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Criminal Mischief</td>
