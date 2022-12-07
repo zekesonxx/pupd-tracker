@@ -663,7 +663,58 @@
   
     	<section class="content__group">
   					<h3>Wednesday, December 7, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU01692</td>
+<td style="font-weight: 400;" width="168">12/6/22 7:53 AM</td>
+<td style="font-weight: 400;" width="166">12/6/22 8:25 AM</td>
+<td style="font-weight: 400;" width="212">Grant St Parking Garage</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01695</td>
+<td style="font-weight: 400;" width="168">12/6/22 10:00 AM</td>
+<td style="font-weight: 400;" width="166">12/6/22 10:30 AM</td>
+<td style="font-weight: 400;" width="212">Hampton Hall of Civil Engineering</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01698</td>
+<td style="font-weight: 400;" width="168">12/6/22 6:10 PM</td>
+<td style="font-weight: 400;" width="166">12/6/22 7:20 PM</td>
+<td style="font-weight: 400;" width="212">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated/Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU01699</td>
+<td style="font-weight: 400;" width="168">12/7/22 2:12 AM</td>
+<td style="font-weight: 400;" width="166">12/7/22 2:56 AM</td>
+<td style="font-weight: 400;" width="212">S River Rd/US HWY 231 S</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Rape</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">3/26/22 12:00 AM</td>
+<td style="font-weight: 400;" width="166">12/6/22 2:07 AM</td>
+<td style="font-weight: 400;" width="212">On-Campus Housing</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

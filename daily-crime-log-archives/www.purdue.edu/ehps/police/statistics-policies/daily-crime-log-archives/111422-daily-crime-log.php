@@ -747,7 +747,7 @@
 <td style="font-weight: 400;" width="168">11/11/22 9:02 AM</td>
 <td style="font-weight: 400;" width="166">11/11/22 9:23 AM</td>
 <td style="font-weight: 400;" width="212">Wiley Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-Bike</td>
@@ -951,7 +951,7 @@
 <td style="font-weight: 400;" width="168">11/12/22 2:07 AM</td>
 <td style="font-weight: 400;" width="166">11/12/22 2:21 AM</td>
 <td style="font-weight: 400;" width="212">Frieda Parker Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
