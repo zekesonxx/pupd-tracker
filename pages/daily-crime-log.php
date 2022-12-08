@@ -656,7 +656,66 @@
   
     	<section class="content__group">
   					<h3>Thursday, December 8, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="156">Theft</td>
+<td width="154">2022PU01703</td>
+<td width="168">12/7/22 2:48 PM</td>
+<td width="166">12/7/22 3:58 PM</td>
+<td width="212">Dauch Alumni Center</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01704</td>
+<td style="font-weight: 400;" width="168">12/7/22 4:52 PM</td>
+<td style="font-weight: 400;" width="166">12/7/22 7:28 PM</td>
+<td style="font-weight: 400;" width="212">Hicks Undergraduate Library</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2022PU01706</td>
+<td style="font-weight: 400;" width="168">12/7/22 8:42 PM</td>
+<td style="font-weight: 400;" width="166">12/7/22 9:26 PM</td>
+<td style="font-weight: 400;" width="212">Hawkins Graduate House</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Blackmail</td>
+<td style="font-weight: 400;" width="154">2022PU01707</td>
+<td style="font-weight: 400;" width="168">12/7/22 8:00 PM</td>
+<td style="font-weight: 400;" width="166">12/7/22 11:52 PM</td>
+<td style="font-weight: 400;" width="212">Cary Quad Northeast</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2022-162973</td>
+<td style="font-weight: 400;" width="168">11/6/2022 21:32</td>
+<td style="font-weight: 400;" width="166">11/6/2022 21:32</td>
+<td style="font-weight: 400;" width="212">1ST St Apartments&#160;</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Rape</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">1/1/2012 12:00</td>
+<td style="font-weight: 400;" width="166">12/7/2022 10:52</td>
+<td style="font-weight: 400;" width="212">Unknown Campus Location</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -846,7 +905,7 @@
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="156">Blackmail</td>
 <td style="font-weight: 400;" width="154">2022PU01685</td>
 <td style="font-weight: 400;" width="168">12/5/22 12:39 AM</td>
 <td style="font-weight: 400;" width="166">12/5/22 12:58 AM</td>
