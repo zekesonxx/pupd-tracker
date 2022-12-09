@@ -649,7 +649,42 @@
   
     	<section class="content__group">
   					<h3>Friday, December 9, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Motor Vehicle</td>
+<td style="font-weight: 400;" width="154">2022PU01697</td>
+<td style="font-weight: 400;" width="168">12/6/22 2:00 AM</td>
+<td style="font-weight: 400;" width="166">12/6/22 5:10 PM</td>
+<td style="font-weight: 400;" width="212">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01709</td>
+<td style="font-weight: 400;" width="168">12/4/22 11:00 PM</td>
+<td style="font-weight: 400;" width="166">12/8/22 2:26 PM</td>
+<td style="font-weight: 400;" width="212">CoRec</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-163402</td>
+<td style="font-weight: 400;" width="168">12/7/22 5:22 PM</td>
+<td style="font-weight: 400;" width="166">12/7/22 5:22 PM</td>
+<td style="font-weight: 400;" width="212">Meredith South</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -762,7 +797,7 @@
 <td style="font-weight: 400;" width="168">12/7/22 2:12 AM</td>
 <td style="font-weight: 400;" width="166">12/7/22 2:56 AM</td>
 <td style="font-weight: 400;" width="212">S River Rd/US HWY 231 S</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Determined to be outside of Clery reportable geography</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Rape</td>

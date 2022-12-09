@@ -895,7 +895,7 @@
 <td style="font-weight: 400;" width="168">10/22/22 12:26 AM</td>
 <td style="font-weight: 400;" width="166">10/22/22 12:27 AM</td>
 <td style="font-weight: 400;" width="212">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>
