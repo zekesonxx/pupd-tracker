@@ -833,7 +833,7 @@
 <td style="font-weight: 400;" width="168">11/19/22 12:24 AM</td>
 <td style="font-weight: 400;" width="166">11/19/22 12:48 AM</td>
 <td style="font-weight: 400;" width="212">1100 Blk West Stadium Ave</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>

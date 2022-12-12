@@ -940,7 +940,7 @@
 <td style="font-weight: 400;" width="168">10/29/22 1:50 AM</td>
 <td style="font-weight: 400;" width="166">10/29/22 2:13 AM</td>
 <td style="font-weight: 400;" width="212">Wiley Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>

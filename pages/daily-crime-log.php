@@ -677,7 +677,74 @@
   
     	<section class="content__group">
   					<h3>Monday, December 12, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU01710</td>
+<td style="font-weight: 400;" width="168">12/9/22 1:10 PM</td>
+<td style="font-weight: 400;" width="166">12/9/22 2:40 PM</td>
+<td style="font-weight: 400;" width="212">Purdue Surplus Warehouse</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01712</td>
+<td style="font-weight: 400;" width="168">12/9/22 11:14 PM</td>
+<td style="font-weight: 400;" width="166">12/9/22 11:38 PM</td>
+<td style="font-weight: 400;" width="212">Heavilon Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated/Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2022PU01713</td>
+<td style="font-weight: 400;" width="168">12/10/22 2:58 AM</td>
+<td style="font-weight: 400;" width="166">12/10/22 3:46 AM</td>
+<td style="font-weight: 400;" width="212">US HWY 231/West State St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU01716</td>
+<td style="font-weight: 400;" width="168">12/9/22 10:15 PM</td>
+<td style="font-weight: 400;" width="166">12/10/22 5:04 PM</td>
+<td style="font-weight: 400;" width="212">Zeta Psi</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2022PU01717</td>
+<td style="font-weight: 400;" width="168">12/9/22 11:30 AM</td>
+<td style="font-weight: 400;" width="166">12/10/22 5:28 PM</td>
+<td style="font-weight: 400;" width="212">Grissom Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Never Receiving a License</td>
+<td style="font-weight: 400;" width="154">2022PU01719</td>
+<td style="font-weight: 400;" width="168">12/11/22 12:47 AM</td>
+<td style="font-weight: 400;" width="166">12/11/22 1:09 AM</td>
+<td style="font-weight: 400;" width="212">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2022PU01724</td>
+<td style="font-weight: 400;" width="168">12/12/22 3:00 AM</td>
+<td style="font-weight: 400;" width="166">12/12/22 3:36 AM</td>
+<td style="font-weight: 400;" width="212">US HWY 231 S/Airport Rd</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
