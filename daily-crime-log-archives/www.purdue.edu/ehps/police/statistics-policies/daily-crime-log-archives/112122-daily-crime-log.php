@@ -743,7 +743,7 @@
 <td style="font-weight: 400;" width="168">11/22/22 12:07 AM</td>
 <td style="font-weight: 400;" width="166">11/22/22 12:33 AM</td>
 <td style="font-weight: 400;" width="212">Airport Rd/US 231 Hwy</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Criminal Mischief</td>

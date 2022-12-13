@@ -697,7 +697,7 @@
 <td width="168">12/7/22 2:48 PM</td>
 <td width="166">12/7/22 3:58 PM</td>
 <td width="212">Dauch Alumni Center</td>
-<td width="181">Under Investigation</td>
+<td width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft</td>
