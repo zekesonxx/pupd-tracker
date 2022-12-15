@@ -656,7 +656,50 @@
   
     	<section class="content__group">
   					<h3>Thursday, December 15, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2022PU01732</td>
+<td style="font-weight: 400;" width="168">12/14/22 4:45 PM</td>
+<td style="font-weight: 400;" width="166">12/14/22 5:14 PM</td>
+<td style="font-weight: 400;" width="212">Grant St Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2022PU01733</td>
+<td style="font-weight: 400;" width="168">12/14/22 8:55 PM</td>
+<td style="font-weight: 400;" width="166">12/14/22 9:04 PM</td>
+<td style="font-weight: 400;" width="212">CoRec</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespassing</td>
+<td style="font-weight: 400;" width="154">2022PU01734</td>
+<td style="font-weight: 400;" width="168">12/15/22 4:05 AM</td>
+<td style="font-weight: 400;" width="166">12/15/22 4:17 AM</td>
+<td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drunk Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2022-166427</td>
+<td style="font-weight: 400;" width="168">12/13/22 10:46 PM</td>
+<td style="font-weight: 400;" width="166">12/13/22 10:46 PM</td>
+<td style="font-weight: 400;" width="212">Northwestern Ave/Cherry Ln</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
