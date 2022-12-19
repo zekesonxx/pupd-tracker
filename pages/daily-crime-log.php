@@ -677,7 +677,42 @@
   
     	<section class="content__group">
   					<h3>Monday, December 19, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="156">Burglary</td>
+<td width="154">2022PU01742</td>
+<td width="168">12/16/22 1:55 PM</td>
+<td width="166">12/16/22 2:55 PM</td>
+<td width="212">Theta Chi</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Burglary/Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2022PU01743</td>
+<td style="font-weight: 400;" width="168">12/16/22 4:20 PM</td>
+<td style="font-weight: 400;" width="166">12/16/22 4:40 PM</td>
+<td style="font-weight: 400;" width="212">Sigma Nu</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Driving While Suspended</td>
+<td style="font-weight: 400;" width="154">2022PU01745</td>
+<td style="font-weight: 400;" width="168">12/17/22 9:11 PM</td>
+<td style="font-weight: 400;" width="166">12/17/22 9:32 PM</td>
+<td style="font-weight: 400;" width="212">West State St/Macarthur</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

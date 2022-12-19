@@ -729,7 +729,7 @@
 <td style="font-weight: 400;" width="168">11/6/22 10:00 AM</td>
 <td style="font-weight: 400;" width="166">11/9/22 10:32 AM</td>
 <td style="font-weight: 400;" width="212">1100 Blk West Stadium Ave</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-Bike</td>

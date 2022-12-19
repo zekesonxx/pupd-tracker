@@ -849,7 +849,7 @@
 <td style="font-weight: 400;" width="168">11/19/22 12:15 PM</td>
 <td style="font-weight: 400;" width="166">11/19/22 12:29 PM</td>
 <td style="font-weight: 400;" width="212">900 Tower Dr</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Public Intoxication/Minor Consumption</td>

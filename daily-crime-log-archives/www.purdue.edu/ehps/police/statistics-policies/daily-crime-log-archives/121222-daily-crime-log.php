@@ -747,7 +747,7 @@
 <td style="font-weight: 400;" width="168">12/13/22 4:49 PM</td>
 <td style="font-weight: 400;" width="166">12/13/22 5:13 PM</td>
 <td style="font-weight: 400;" width="212">Aspire</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Bike Recovered. Nothing Further</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Hit &amp; Run</td>

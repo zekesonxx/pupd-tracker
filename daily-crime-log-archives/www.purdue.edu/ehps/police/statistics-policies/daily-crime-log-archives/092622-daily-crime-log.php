@@ -29,8 +29,6 @@
 		<!--United sans -->
 <link href="https://www.purdue.edu/purdue/fonts/united-sans/united-sans.css" rel="stylesheet"/>
 
-
-
 <link href="https://www.purdue.edu/purdue/css/pu/content/content-2.0-2020.css" rel="stylesheet" type="text/css"/>
 
 
@@ -1033,7 +1031,7 @@
 <td style="font-weight: 400;" width="168">9/25/22 1:12 AM</td>
 <td style="font-weight: 400;" width="166">9/25/22 1:24 AM</td>
 <td style="font-weight: 400;" width="207">Tarkington Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
