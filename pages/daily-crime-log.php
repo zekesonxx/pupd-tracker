@@ -663,7 +663,42 @@
   
     	<section class="content__group">
   					<h3>Wednesday, December 21, 2022</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU01751</td>
+<td style="font-weight: 400;" width="168">12/20/22 9:16 AM</td>
+<td style="font-weight: 400;" width="166">12/20/22 9:34 AM</td>
+<td style="font-weight: 400;" width="212">Beering Hall of Liberal Arts &amp; Education</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2022PU01752</td>
+<td style="font-weight: 400;" width="168">12/20/22 10:02 AM</td>
+<td style="font-weight: 400;" width="166">12/20/22 10:48 AM</td>
+<td style="font-weight: 400;" width="212">205 S Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Dating Violence</td>
+<td style="font-weight: 400;" width="154">2022PU01753</td>
+<td style="font-weight: 400;" width="168">12/20/22 8:19 PM</td>
+<td style="font-weight: 400;" width="166">12/20/22 10:21 PM</td>
+<td style="font-weight: 400;" width="212">Provenance Apartments</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
