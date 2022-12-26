@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			121922 Daily Crime Log - 
+			122622 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -648,152 +648,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, December 23, 2022</h3>
-<p>Nothing to report.</p>
+  					<h3>Friday, December 30, 2022</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, December 22, 2022</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Theft</td>
-<td style="font-weight: 400;" width="154">2022PU01756</td>
-<td style="font-weight: 400;" width="168">12/20/22 12:59 PM</td>
-<td style="font-weight: 400;" width="166">12/21/22 1:18 PM</td>
-<td style="font-weight: 400;" width="212">CoRec</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, December 29, 2022</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, December 21, 2022</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Harassment</td>
-<td style="font-weight: 400;" width="154">2022PU01751</td>
-<td style="font-weight: 400;" width="168">12/20/22 9:16 AM</td>
-<td style="font-weight: 400;" width="166">12/20/22 9:34 AM</td>
-<td style="font-weight: 400;" width="212">Beering Hall of Liberal Arts &amp; Education</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Harassment</td>
-<td style="font-weight: 400;" width="154">2022PU01752</td>
-<td style="font-weight: 400;" width="168">12/20/22 10:02 AM</td>
-<td style="font-weight: 400;" width="166">12/20/22 10:48 AM</td>
-<td style="font-weight: 400;" width="212">205 S Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Dating Violence</td>
-<td style="font-weight: 400;" width="154">2022PU01753</td>
-<td style="font-weight: 400;" width="168">12/20/22 8:19 PM</td>
-<td style="font-weight: 400;" width="166">12/20/22 10:21 PM</td>
-<td style="font-weight: 400;" width="212">Provenance Apartments</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, December 28, 2022</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday,&#160;December 20, 2022</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Burglary</td>
-<td style="font-weight: 400;" width="154">2022PU01747</td>
-<td style="font-weight: 400;" width="168">12/15/22 1:59 PM</td>
-<td style="font-weight: 400;" width="166">12/19/22 2:02 PM</td>
-<td style="font-weight: 400;" width="212">Delta Upsilon</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Drug Law Violation</td>
-<td style="font-weight: 400;" width="154">CAD# 2022-168127</td>
-<td style="font-weight: 400;" width="168">12/17/22 8:43 PM</td>
-<td style="font-weight: 400;" width="166">12/17/22 8:43 PM</td>
-<td style="font-weight: 400;" width="212">Hawkins Graduate House</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday,&#160;December 27, 2022</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, December 19, 2022</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="156">Burglary</td>
-<td width="154">2022PU01742</td>
-<td width="168">12/16/22 1:55 PM</td>
-<td width="166">12/16/22 2:55 PM</td>
-<td width="212">Theta Chi</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Burglary/Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2022PU01743</td>
-<td style="font-weight: 400;" width="168">12/16/22 4:20 PM</td>
-<td style="font-weight: 400;" width="166">12/16/22 4:40 PM</td>
-<td style="font-weight: 400;" width="212">Sigma Nu</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="156">Driving While Suspended</td>
-<td style="font-weight: 400;" width="154">2022PU01745</td>
-<td style="font-weight: 400;" width="168">12/17/22 9:11 PM</td>
-<td style="font-weight: 400;" width="166">12/17/22 9:32 PM</td>
-<td style="font-weight: 400;" width="212">West State St/Macarthur</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Monday, December 26, 2022</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
