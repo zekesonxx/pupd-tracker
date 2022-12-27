@@ -697,7 +697,7 @@
 <td style="font-weight: 400;" width="168">11/15/22 3:54 PM</td>
 <td style="font-weight: 400;" width="166">11/15/22 3:56 PM</td>
 <td style="font-weight: 400;" width="212">205 S Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
@@ -739,7 +739,7 @@
 <td style="font-weight: 400;" width="168">11/2/22 6:19 PM</td>
 <td style="font-weight: 400;" width="166">11/2/22 6:30 PM</td>
 <td style="font-weight: 400;" width="212">Mackey Arena</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft</td>
