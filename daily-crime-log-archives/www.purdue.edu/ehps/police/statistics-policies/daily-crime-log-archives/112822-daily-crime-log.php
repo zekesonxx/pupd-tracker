@@ -787,7 +787,7 @@
 <td style="font-weight: 400;" width="168">11/29/22 10:37 PM</td>
 <td style="font-weight: 400;" width="166">11/29/22 10:57 PM</td>
 <td style="font-weight: 400;" width="212">Wiley Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
