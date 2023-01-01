@@ -610,6 +610,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log</h2>
 <ul>
+<li><a href="122622-daily-crime-log.php" title="122622 Daily Crime Log">Week of December 26, 2022</a></li>
 <li><a href="121922-daily-crime-log.php" title="121922 Daily Crime">Week of December 19, 2022</a></li>
 <li><a href="121222-daily-crime-log.php" title="121222 Daily Crime Log">Week of December 12, 2022</a></li>
 <li><a href="120522-daily-crime-log.php" title="120522 Daily Crime Log">Week of December 5, 2022</a></li>
