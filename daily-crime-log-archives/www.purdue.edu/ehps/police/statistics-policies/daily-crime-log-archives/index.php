@@ -622,11 +622,7 @@
 <li><a href="102422-daily-crime-log.php" title="102422 Daily Crime Log">Week of October 24, 2022</a></li>
 <li><a href="101722-daily-crime-log.php" title="101722 Daily Crime Log">Week of October 17, 2022</a></li>
 <li><a href="101022-daily-crime-log.php">Week of October 10, 2022</a></li>
-<li><a href="100322-daily-crime-log.php">Week of October 3, 2022</a></li>
-<li><a href="092622-daily-crime-log.php" title="092622 Daily Crime Log">Week of September 26, 2022</a></li>
-<li><a href="091922-daily-crime-log.php">Week of September 19, 2022</a></li>
-<li><a href="091222-daily-crime-log.php" title="091222 Daily Crime Log">Week of September 12, 2022</a></li>
-<li><a href="090522-daily-crime-log.php" title="090522 Daily Crime Log">Week of September 5, 2022</a><a href="2022-archive/080122-daily-crime-log.php"></a></li>
+<li><a href="100322-daily-crime-log.php">Week of October 3, 2022</a><a href="2022-archive/090522-daily-crime-log.php" title="090522 Daily Crime Log"></a><a href="2022-archive/080122-daily-crime-log.php"></a></li>
 </ul>
 		</section>
 	
@@ -1102,7 +1098,7 @@
 <section class="footer__contact">
     <article class="footer__contact--list">
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
-		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2022 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
+		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2023 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
                                  
         
