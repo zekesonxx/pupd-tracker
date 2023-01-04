@@ -590,17 +590,7 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                                                                                                
-        
-                
-    
-    <li role="none"><a href="090522-daily-crime-log.php" role="menuitem">090522 Daily Crime Log</a></li>
-                                                                            
-        
-                
-    
-    <li role="none"><a href="091222-daily-crime-log.php" role="menuitem">091222 Daily Crime Log</a></li>
-                            </ul>
+                                            </ul>
 </nav>
 
 
@@ -759,7 +749,7 @@
 <td style="font-weight: 400;" width="168">11/19/22 12:42 AM</td>
 <td style="font-weight: 400;" width="166">11/19/2022 0:42</td>
 <td style="font-weight: 400;" width="212">Meredith Hall</td>
-<td style="font-weight: 400;" width="181">Nothing Futher</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
@@ -913,7 +903,7 @@
 <td style="font-weight: 400;" width="168">11/17/22 11:29 PM</td>
 <td style="font-weight: 400;" width="166">11/17/22 11:29 PM</td>
 <td style="font-weight: 400;" width="212">Meredith Residence Hall</td>
-<td style="font-weight: 400;" width="181">Nothing Futher</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
 </tr>
 </tbody>
 </table>
@@ -1399,7 +1389,7 @@
 <section class="footer__contact">
     <article class="footer__contact--list">
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
-		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2022 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
+		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2023 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
                                  
         
