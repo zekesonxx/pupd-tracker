@@ -663,7 +663,7 @@
   
     	<section class="content__group">
   					<h3>Wednesday, January 4, 2023</h3>
-<p>Will be posted soon.</p>
+<p>Nothing to report.</p>
 		</section>
 	
           <div class="clearfix"></div>
