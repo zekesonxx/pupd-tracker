@@ -689,7 +689,7 @@
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="156">Criminal Mischief/Attempted Theft</td>
 <td style="font-weight: 400;" width="154">2023PU00018</td>
 <td style="font-weight: 400;" width="168">1/9/23 11:25 AM</td>
 <td style="font-weight: 400;" width="166">1/9/23 1:47 PM</td>
