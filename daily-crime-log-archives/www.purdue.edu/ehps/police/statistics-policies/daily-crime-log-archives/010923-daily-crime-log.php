@@ -650,7 +650,7 @@
 <td style="font-weight: 400;" width="168">1/12/23 1:00 PM</td>
 <td style="font-weight: 400;" width="166">1/12/23 2:37 PM</td>
 <td style="font-weight: 400;" width="212">Wiley Dining Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Recovered. Nothing Further</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>

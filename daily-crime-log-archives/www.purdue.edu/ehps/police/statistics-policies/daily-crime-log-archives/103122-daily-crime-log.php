@@ -665,7 +665,7 @@
 <td style="font-weight: 400;" width="168">11/2/22 10:10 AM</td>
 <td style="font-weight: 400;" width="166">11/2/22 12:02 PM</td>
 <td style="font-weight: 400;" width="212">Aspire</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Criminal Mischief</td>

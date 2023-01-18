@@ -668,7 +668,66 @@
   
     	<section class="content__group">
   					<h3>Wednesday, January 18, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00058</td>
+<td style="font-weight: 400;" width="168">1/17/23 8:23 PM</td>
+<td style="font-weight: 400;" width="166">1/17/23 8:38 PM</td>
+<td style="font-weight: 400;" width="212">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation&#160;</td>
+<td style="font-weight: 400;" width="154">CAD#2023-006365</td>
+<td style="font-weight: 400;" width="168">1/14/2023 17:07</td>
+<td style="font-weight: 400;" width="166">1/14/2023 17:07</td>
+<td style="font-weight: 400;" width="212">Meredith South</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2023-006412</td>
+<td style="font-weight: 400;" width="168">1/14/2023 19:34</td>
+<td style="font-weight: 400;" width="166">1/14/2023 19:34</td>
+<td style="font-weight: 400;" width="212">Aspire</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;">CAD#2023-006789</td>
+<td style="font-weight: 400;" width="168">1/15/2023 16:26</td>
+<td style="font-weight: 400;" width="166">1/15/2023 16:26</td>
+<td style="font-weight: 400;" width="212">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2023-006899</td>
+<td style="font-weight: 400;" width="168">1/15/2023 21:58</td>
+<td style="font-weight: 400;" width="166">1/15/2023 21:58</td>
+<td style="font-weight: 400;" width="212">Hillenbrand</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Vandalism</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">1/17/23 7:49 PM</td>
+<td style="font-weight: 400;" width="166">1/17/23 9:09 PM</td>
+<td style="font-weight: 400;" width="212">On-Campus Housing</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
