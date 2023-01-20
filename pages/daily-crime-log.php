@@ -654,7 +654,42 @@
   
     	<section class="content__group">
   					<h3>Friday, January 20, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00060</td>
+<td style="font-weight: 400;" width="168">1/17/23 7:30 AM</td>
+<td style="font-weight: 400;" width="166">1/18/23 5:22 PM</td>
+<td style="font-weight: 400;" width="212">Purdue Student Hospital</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00063</td>
+<td style="font-weight: 400;" width="168">1/19/23 6:00 AM</td>
+<td style="font-weight: 400;" width="166">1/19/23 7:27 PM</td>
+<td style="font-weight: 400;" width="212">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver/Traffic&#160;</td>
+<td style="font-weight: 400;" width="154">CAD#2023-008047</td>
+<td style="font-weight: 400;" width="168">1/18/2023 9:06</td>
+<td style="font-weight: 400;" width="166">1/18/2023 9:06</td>
+<td style="font-weight: 400;" width="212">US HWY 231/ Cherry Ln</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
