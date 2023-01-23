@@ -625,12 +625,7 @@
 <li><a href="112822-daily-crime-log.php" title="112822 Daily Crime Log">Week of November 28, 2022</a></li>
 <li><a href="112122-daily-crime-log.php" title="112122 Daily Crime Log">Week of November 21, 2022</a></li>
 <li><a href="111422-daily-crime-log.php" title="111422 Daily Crime Log">Week of November 14, 2022</a></li>
-<li><a href="110722-daily-crime-log.php" title="110722 Daily Crime Log">Week of November 7, 2022</a></li>
-<li><a href="103122-daily-crime-log.php" title="103122 Daily Crime Log">Week of October 31, 2022</a></li>
-<li><a href="102422-daily-crime-log.php" title="102422 Daily Crime Log">Week of October 24, 2022</a></li>
-<li><a href="101722-daily-crime-log.php" title="101722 Daily Crime Log">Week of October 17, 2022</a></li>
-<li><a href="101022-daily-crime-log.php">Week of October 10, 2022</a></li>
-<li><a href="100322-daily-crime-log.php">Week of October 3, 2022</a><a href="2022-archive/090522-daily-crime-log.php" title="090522 Daily Crime Log"></a><a href="2022-archive/080122-daily-crime-log.php"></a></li>
+<li><a href="110722-daily-crime-log.php" title="110722 Daily Crime Log">Week of November 7, 2022</a><a href="2022-archive/100322-daily-crime-log.php"></a><a href="2022-archive/090522-daily-crime-log.php" title="090522 Daily Crime Log"></a><a href="2022-archive/080122-daily-crime-log.php"></a></li>
 </ul>
 		</section>
 	
