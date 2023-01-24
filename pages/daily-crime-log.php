@@ -675,7 +675,82 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;January 24, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2023PU00087</td>
+<td style="font-weight: 400;" width="168">1/18/23 9:13 PM</td>
+<td style="font-weight: 400;" width="166">1/23/20 5:02 PM</td>
+<td style="font-weight: 400;" width="212">Heine Pharmacy</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2023PU00089</td>
+<td style="font-weight: 400;" width="168">1/23/23 6:35 PM</td>
+<td style="font-weight: 400;" width="166">1/12/23 7:11 PM</td>
+<td style="font-weight: 400;" width="212">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Trespass</td>
+<td style="font-weight: 400;" width="154">2023PU00092</td>
+<td style="font-weight: 400;" width="168">1/24/23 12:19 AM</td>
+<td style="font-weight: 400;" width="166">1/24/23 12:50 AM</td>
+<td style="font-weight: 400;" width="212">Stewart Center</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2023-009361</td>
+<td style="font-weight: 400;" width="168">1/20/2023 22:21</td>
+<td style="font-weight: 400;" width="166">1/20/2023 22:21</td>
+<td style="font-weight: 400;" width="212">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2023-010294</td>
+<td style="font-weight: 400;" width="168">1/22/2023 21:13</td>
+<td style="font-weight: 400;" width="166">1/22/2023 21:13</td>
+<td style="font-weight: 400;" width="212">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver/Traffic</td>
+<td style="font-weight: 400;">CAD#2023-009584</td>
+<td style="font-weight: 400;" width="168">1/21/2023 9:43</td>
+<td style="font-weight: 400;" width="166">1/21/2023 9:43</td>
+<td style="font-weight: 400;" width="212">Farmhouse Fraternity</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Dating Violence</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">1/21/23 11:30 PM</td>
+<td style="font-weight: 400;" width="166">1/23/23 10:46 AM</td>
+<td style="font-weight: 400;" width="212">On-Campus Location</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Stalking</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">1/23/23 12:00 PM</td>
+<td style="font-weight: 400;" width="166">1/23/23 6:00 PM</td>
+<td style="font-weight: 400;" width="212">On-Campus Housing</td>
+<td style="font-weight: 400;" width="181">Documented in 2023PU00089</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -805,7 +880,7 @@
 <td style="font-weight: 400;" width="181">Nothing Further</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Stalking</td>
+<td style="font-weight: 400;" width="156">Blackmail</td>
 <td style="font-weight: 400;" width="154">CSA</td>
 <td style="font-weight: 400;" width="168">1/21/23 11:19 PM</td>
 <td style="font-weight: 400;" width="166">1/22/23 12:20 AM</td>

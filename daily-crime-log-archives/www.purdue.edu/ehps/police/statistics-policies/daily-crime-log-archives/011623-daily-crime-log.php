@@ -650,7 +650,7 @@
 <td style="font-weight: 400;" width="168">1/17/23 7:30 AM</td>
 <td style="font-weight: 400;" width="166">1/18/23 5:22 PM</td>
 <td style="font-weight: 400;" width="212">Purdue Student Hospital</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Unfounded</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft</td>
