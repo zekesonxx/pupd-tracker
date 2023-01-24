@@ -840,7 +840,7 @@
 <td style="font-weight: 400;" width="168">1/15/23 8:36 PM</td>
 <td style="font-weight: 400;" width="166">1/15/23 9:02 PM</td>
 <td style="font-weight: 400;" width="212">Tarkington Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
