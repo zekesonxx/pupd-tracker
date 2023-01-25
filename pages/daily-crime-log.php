@@ -679,6 +679,14 @@
 <th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
+<td style="font-weight: 400;" width="156">Attempted Burglary</td>
+<td style="font-weight: 400;" width="154">2023PU00086</td>
+<td style="font-weight: 400;" width="168">1/19/23 5:00 PM</td>
+<td style="font-weight: 400;" width="166">1/23/23 10:31 AM</td>
+<td style="font-weight: 400;" width="212">Wang Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
 <td style="font-weight: 400;" width="156">Theft</td>
 <td style="font-weight: 400;" width="154">2023PU00094</td>
 <td style="font-weight: 400;" width="168">1/24/23 1:10 PM</td>
@@ -697,33 +705,33 @@
 <tr>
 <td style="font-weight: 400;" width="156">Theft</td>
 <td style="font-weight: 400;" width="154">2023PU00096</td>
-<td style="font-weight: 400;" width="168">1/23/23 5:18 PM</td>
-<td style="font-weight: 400;" width="166">1/24/20 2:15 PM</td>
+<td style="font-weight: 400;" width="168">1/23/2023 17:18</td>
+<td style="font-weight: 400;" width="166">1/24/2020 14:15</td>
 <td style="font-weight: 400;" width="212">Purdue Memorial Union</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation/Public Intoxication</td>
 <td style="font-weight: 400;" width="154">2023PU00097</td>
-<td style="font-weight: 400;" width="168">1/24/2023 18:13</td>
-<td style="font-weight: 400;" width="166">1/24/2020 18:37</td>
+<td style="font-weight: 400;" width="168">1/24/23 6:13 PM</td>
+<td style="font-weight: 400;" width="166">1/24/20 6:37 PM</td>
 <td style="font-weight: 400;" width="212">Hillenbrand Hall</td>
 <td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Threats</td>
 <td style="font-weight: 400;" width="154">2023PU00098</td>
-<td style="font-weight: 400;" width="168">1/19/23 7:00 PM</td>
-<td style="font-weight: 400;" width="166">1/24/23 6:44 PM</td>
+<td style="font-weight: 400;" width="168">1/19/2023 19:00</td>
+<td style="font-weight: 400;" width="166">1/24/2023 18:44</td>
 <td style="font-weight: 400;" width="212">Wilmeth Active Learning Center</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
 <td style="font-weight: 400;" width="154">CAD#2023-010858</td>
-<td style="font-weight: 400;" width="168">1/23/2023 20:24</td>
-<td style="font-weight: 400;" width="166">1/23/2023 20:24</td>
-<td style="font-weight: 400;" width="212">Tarkington Residence Hall</td>
+<td style="font-weight: 400;" width="168">1/23/23 8:24 PM</td>
+<td style="font-weight: 400;" width="166">1/23/23 8:24 PM</td>
+<td style="font-weight: 400;" width="212">Tarkington Hall</td>
 <td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
 </tr>
 </tbody>
