@@ -896,7 +896,7 @@
 <td style="font-weight: 400;" width="168">1/16/23 10:53 PM</td>
 <td style="font-weight: 400;" width="166">1/16/23 11:08 PM</td>
 <td style="font-weight: 400;" width="212">Owen Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Rape</td>
