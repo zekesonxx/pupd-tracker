@@ -661,7 +661,82 @@
   
     	<section class="content__group">
   					<h3>Thursday, January 26, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2023-011384</td>
+<td style="font-weight: 400;" width="168">1/24/23 8:56 PM</td>
+<td style="font-weight: 400;" width="166">1/24/23 8:56 PM</td>
+<td style="font-weight: 400;" width="212">Mccutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver/Traffic</td>
+<td style="font-weight: 400;" width="154">CAD#2023-011021</td>
+<td style="font-weight: 400;" width="168">1/24/2023 8:08</td>
+<td style="font-weight: 400;" width="166">1/24/2023 8:08</td>
+<td style="font-weight: 400;" width="212">W State St/ US HWY 231</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Reckless Driver/Traffic</td>
+<td style="font-weight: 400;">CAD#2023-011369</td>
+<td style="font-weight: 400;" width="168">1/24/23 8:32 PM</td>
+<td style="font-weight: 400;" width="166">1/24/23 8:32 PM</td>
+<td style="font-weight: 400;" width="212">US HWY 231/ Sagamore PKWY</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft Of Property&#160;</td>
+<td style="font-weight: 400;" width="154">CAD#2023-011209</td>
+<td style="font-weight: 400;" width="168">1/24/23 1:59 PM</td>
+<td style="font-weight: 400;" width="166">1/24/23 1:59 PM</td>
+<td style="font-weight: 400;" width="212">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Documented in 2023PU00095</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referral</td>
+<td style="font-weight: 400;">1/9/23 10:30 PM</td>
+<td style="font-weight: 400;">1/10/23 12:30 AM</td>
+<td style="font-weight: 400;">Hillenbrand Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referral</td>
+<td style="font-weight: 400;">1/12/23 9:15 PM</td>
+<td style="font-weight: 400;">1/12/23 9:46 PM</td>
+<td style="font-weight: 400;">Tarkington Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">10 Disciplinary Referral</td>
+<td style="font-weight: 400;">1/12/23 9:50 PM</td>
+<td style="font-weight: 400;">1/13/23 12:02 AM</td>
+<td style="font-weight: 400;">Windsor Halls</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referral</td>
+<td style="font-weight: 400;">1/16/23 8:15 PM</td>
+<td style="font-weight: 400;">1/16/23 10:35 PM</td>
+<td style="font-weight: 400;">Harrison Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -766,7 +841,7 @@
 <td style="font-weight: 400;" width="168">1/23/23 6:35 PM</td>
 <td style="font-weight: 400;" width="166">1/12/23 7:11 PM</td>
 <td style="font-weight: 400;" width="212">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Trespass</td>
