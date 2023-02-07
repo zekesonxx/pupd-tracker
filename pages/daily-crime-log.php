@@ -675,7 +675,66 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;February 7, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00176</td>
+<td style="font-weight: 400;" width="168">2/3/23 11:00 PM</td>
+<td style="font-weight: 400;" width="166">2/6/23 2:39 PM</td>
+<td style="font-weight: 400;" width="212">Krannert</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2023PU00178</td>
+<td style="font-weight: 400;" width="168">2/6/23 6:20 PM</td>
+<td style="font-weight: 400;" width="166">2/6/23 6:56 PM</td>
+<td style="font-weight: 400;" width="212">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2023-016151</td>
+<td style="font-weight: 400;" width="168">2/3/23 6:05 PM</td>
+<td style="font-weight: 400;" width="166">2/3/23 6:05 PM</td>
+<td style="font-weight: 400;" width="212">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2023-016581</td>
+<td style="font-weight: 400;" width="168">2/4/23 2:28 PM</td>
+<td style="font-weight: 400;" width="166">2/4/23 2:28 PM</td>
+<td style="font-weight: 400;" width="212">Meredith Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;">CAD#2023-016610</td>
+<td style="font-weight: 400;" width="168">2/4/23 3:45 PM</td>
+<td style="font-weight: 400;" width="166">2/4/23 3:45 PM</td>
+<td style="font-weight: 400;" width="212">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Public Intox</td>
+<td style="font-weight: 400;" width="154">CAD#2023-016890</td>
+<td style="font-weight: 400;" width="168">2/5/23 2:35 AM</td>
+<td style="font-weight: 400;" width="166">2/5/23 2:35 AM</td>
+<td style="font-weight: 400;" width="212">Aspire</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
