@@ -668,7 +668,34 @@
   
     	<section class="content__group">
   					<h3>Wednesday, February 8, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00181</td>
+<td style="font-weight: 400;" width="168">2/7/23 1:14 PM</td>
+<td style="font-weight: 400;" width="166">2/7/23 1:40 PM</td>
+<td style="font-weight: 400;" width="212">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00182</td>
+<td style="font-weight: 400;" width="168">2/5/23 4:30 PM</td>
+<td style="font-weight: 400;" width="166">2/7/23 1:40 PM</td>
+<td style="font-weight: 400;" width="212">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

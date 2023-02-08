@@ -1018,7 +1018,7 @@
 <td style="font-weight: 400;" width="168">1/22/23 1:22 AM</td>
 <td style="font-weight: 400;" width="166">1/22/23 1:36 AM</td>
 <td style="font-weight: 400;" width="212">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Trespassing/Resisting Law Enforcement</td>
