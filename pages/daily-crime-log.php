@@ -654,7 +654,74 @@
   
     	<section class="content__group">
   					<h3>Friday, February 10, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2023PU00191</td>
+<td style="font-weight: 400;" width="168">2/9/23 10:21 AM</td>
+<td style="font-weight: 400;" width="166">2/9/23 10:42 AM</td>
+<td style="font-weight: 400;" width="212">Airport Rd/US HWY 231 S</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">14 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">1/20/23 8:45 PM</td>
+<td style="font-weight: 400;" width="166">1/20/23 9:54 PM</td>
+<td style="font-weight: 400;" width="212">Fuse UR Apts</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">2 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">1/20/23 10:45 PM</td>
+<td style="font-weight: 400;" width="166">1/20/23 11:08 PM</td>
+<td style="font-weight: 400;" width="212">Meredith Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">8 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;" width="168">1/21/23 12:15 AM</td>
+<td style="font-weight: 400;" width="166">1/21/23 2:50 AM</td>
+<td style="font-weight: 400;" width="212">Honors Residence</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">7 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">1/21/23 1:15 AM</td>
+<td style="font-weight: 400;" width="166">1/21/23 3:12 AM</td>
+<td style="font-weight: 400;" width="212">Honors Residence</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">5 Disciplinary&#160; Referral</td>
+<td style="font-weight: 400;" width="168">1/21/23 1:45 AM</td>
+<td style="font-weight: 400;" width="166">1/21/22 2:56 AM</td>
+<td style="font-weight: 400;" width="212">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">9 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">1/21/23 9:30 PM</td>
+<td style="font-weight: 400;" width="166">1/23/23 5:26 PM</td>
+<td style="font-weight: 400;" width="212">Aspire UR Apts</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -693,7 +760,7 @@
 <td style="font-weight: 400;" width="168">1/23/23 1:47 AM</td>
 <td style="font-weight: 400;" width="166">2/8/23 10:10 AM</td>
 <td style="font-weight: 400;" width="212">Tarkington Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Battery-Simple</td>
