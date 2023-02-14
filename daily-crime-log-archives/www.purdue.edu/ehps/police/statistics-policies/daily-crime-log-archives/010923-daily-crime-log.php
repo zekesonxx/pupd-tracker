@@ -774,7 +774,7 @@
 <td style="font-weight: 400;" width="168">1/9/23 7:00 PM</td>
 <td style="font-weight: 400;" width="166">1/10/23 3:13 PM</td>
 <td style="font-weight: 400;" width="212">Purdue Memorial Union</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
