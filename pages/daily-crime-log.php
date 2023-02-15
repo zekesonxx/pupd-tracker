@@ -668,7 +668,138 @@
   
     	<section class="content__group">
   					<h3>Wednesday, February 15, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2023PU00219</td>
+<td style="font-weight: 400;" width="168">2/6/23 4:40 PM</td>
+<td style="font-weight: 400;" width="166">2/13/23 5:43 PM</td>
+<td style="font-weight: 400;" width="212">Neil Armstrong Hall of Engineering</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00221</td>
+<td style="font-weight: 400;" width="168">2/14/23 8:04 AM</td>
+<td style="font-weight: 400;" width="166">2/14/23 8:27 AM</td>
+<td style="font-weight: 400;" width="212">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00223</td>
+<td style="font-weight: 400;" width="168">2/11/23 11:41 PM</td>
+<td style="font-weight: 400;" width="166">2/14/23 2:49 PM</td>
+<td style="font-weight: 400;" width="212">Cary Quad South</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2023PU00224</td>
+<td style="font-weight: 400;" width="168">2/10/23 12:00 PM</td>
+<td style="font-weight: 400;" width="166">2/14/23 5:19 PM</td>
+<td style="font-weight: 400;" width="212">Honors College</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2023PU00225</td>
+<td style="font-weight: 400;" width="168">2/14/23 6:19 PM</td>
+<td style="font-weight: 400;" width="166">2/14/23 6:23 PM</td>
+<td style="font-weight: 400;" width="212">Sigma Kappa</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00226</td>
+<td style="font-weight: 400;" width="168">2/14/23 8:27 PM</td>
+<td style="font-weight: 400;" width="166">2/14/23 8:50 PM</td>
+<td style="font-weight: 400;" width="212">Lambert Field House</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Blackmail</td>
+<td style="font-weight: 400;" width="154">2023PU00228</td>
+<td style="font-weight: 400;" width="168">2/15/23 1:55 AM</td>
+<td style="font-weight: 400;" width="166">2/15/23 2:05 AM</td>
+<td style="font-weight: 400;" width="212">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;">5 Disciplinary Referral</td>
+<td style="font-weight: 400;">2/1/23 12:00 AM</td>
+<td style="font-weight: 400;">2/2/23 12:59 AM</td>
+<td style="font-weight: 400;">Wiley Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referral</td>
+<td style="font-weight: 400;">2/1/23 12:00 AM</td>
+<td style="font-weight: 400;">2/2/23 12:59 AM</td>
+<td style="font-weight: 400;">Wiley Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">2/2/23 10:00 PM</td>
+<td style="font-weight: 400;">2/3/23 1:17 AM</td>
+<td style="font-weight: 400;">Meredith South</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">9 Disciplinary Referral</td>
+<td style="font-weight: 400;">2/3/23 5:30 PM</td>
+<td style="font-weight: 400;">2/3/23 5:30 PM</td>
+<td style="font-weight: 400;">Aspire UR Apts</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">6 Disciplinary Referral&#160;</td>
+<td style="font-weight: 400;">2/4/23 11:45 PM</td>
+<td style="font-weight: 400;">2/5/23 1:11 AM</td>
+<td style="font-weight: 400;">Meredith South</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">10 Disciplinary Referral</td>
+<td style="font-weight: 400;">2/4/23 11:45 PM</td>
+<td style="font-weight: 400;">2/5/23 1:23 AM</td>
+<td style="font-weight: 400;">Wiley Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">4 Disciplinary Referral</td>
+<td style="font-weight: 400;">2/5/23 8:30 PM</td>
+<td style="font-weight: 400;">2/5/23 1:07 PM</td>
+<td style="font-weight: 400;">Frieda Parker Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referral</td>
+<td style="font-weight: 400;">2/9/23 10:15 PM</td>
+<td style="font-weight: 400;">2/9/23 10:39 PM</td>
+<td style="font-weight: 400;">Honors Residence Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
