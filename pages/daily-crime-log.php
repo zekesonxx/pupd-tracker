@@ -661,7 +661,42 @@
   
     	<section class="content__group">
   					<h3>Thursday, February 16, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00231</td>
+<td style="font-weight: 400;" width="168">2/11/23 8:00 AM</td>
+<td style="font-weight: 400;" width="166">2/15/23 9:27 AM</td>
+<td style="font-weight: 400;" width="212">Aspire</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00233</td>
+<td style="font-weight: 400;" width="168">2/15/23 2:57 PM</td>
+<td style="font-weight: 400;" width="166">2/15/23 3:07 PM</td>
+<td style="font-weight: 400;" width="212">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Harassment</td>
+<td style="font-weight: 400;" width="154">2023PU00238</td>
+<td style="font-weight: 400;" width="168">2/15/23 11:29 PM</td>
+<td style="font-weight: 400;" width="166">2/15/23 11:46 PM</td>
+<td style="font-weight: 400;" width="212">Kappa Alpha Theta</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -700,7 +735,7 @@
 <td style="font-weight: 400;" width="168">2/11/23 11:41 PM</td>
 <td style="font-weight: 400;" width="166">2/14/23 2:49 PM</td>
 <td style="font-weight: 400;" width="212">Cary Quad South</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Fraud</td>
@@ -904,7 +939,7 @@
 <td style="font-weight: 400;" width="168">2/11/23 1:28 AM</td>
 <td style="font-weight: 400;" width="166">2/11/23 1:54 AM</td>
 <td style="font-weight: 400;" width="212">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft</td>
