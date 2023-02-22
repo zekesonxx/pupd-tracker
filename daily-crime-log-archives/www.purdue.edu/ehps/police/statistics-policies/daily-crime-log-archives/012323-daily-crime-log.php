@@ -994,7 +994,7 @@
 <td style="font-weight: 400;" width="168">1/21/23 11:52 PM</td>
 <td style="font-weight: 400;" width="166">1/22/23 12:13 AM</td>
 <td style="font-weight: 400;" width="212">Frieda Parker Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation/Minor Consumption</td>

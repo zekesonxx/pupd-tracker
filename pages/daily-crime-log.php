@@ -668,7 +668,66 @@
   
     	<section class="content__group">
   					<h3>Wednesday, February 22, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Domestic Violence/Simple Assault</td>
+<td style="font-weight: 400;" width="154">2023PU00263</td>
+<td style="font-weight: 400;" width="168">2/21/23 9:33 AM</td>
+<td style="font-weight: 400;" width="166">2/21/23 10:27 AM</td>
+<td style="font-weight: 400;" width="212">Neil Armstrong Hall of Engineering</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00265</td>
+<td style="font-weight: 400;" width="168">2/21/23 2:27 PM</td>
+<td style="font-weight: 400;" width="166">2/21/23 2:46 PM</td>
+<td style="font-weight: 400;" width="212">Northwestern Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2023PU00266</td>
+<td style="font-weight: 400;" width="168">2/20/23 9:30 AM</td>
+<td style="font-weight: 400;" width="166">2/21/23 4:47 PM</td>
+<td style="font-weight: 400;" width="212">Wood St Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2023-024870</td>
+<td style="font-weight: 400;" width="168">2/20/23 11:01 AM</td>
+<td style="font-weight: 400;" width="166">2/20/23 11:01 AM</td>
+<td style="font-weight: 400;" width="212">Neil Armstrong Hall of Engineering</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2023-025230</td>
+<td style="font-weight: 400;" width="168">2/21/23 1:05 AM</td>
+<td style="font-weight: 400;" width="166">2/21/23 1:05 AM</td>
+<td style="font-weight: 400;" width="212">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Rape</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">2/20/23 11:10 PM</td>
+<td style="font-weight: 400;" width="166">2/20/23 11:10 PM</td>
+<td style="font-weight: 400;" width="212">Unknown Campus Location</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -686,12 +745,12 @@
 <th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="156">Attempted Theft</td>
 <td style="font-weight: 400;" width="154">2023PU00261</td>
 <td style="font-weight: 400;" width="168">2/20/23 12:44 PM</td>
 <td style="font-weight: 400;" width="166">2/20/23 1:29 PM</td>
 <td style="font-weight: 400;" width="212">Winifred Parker Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
