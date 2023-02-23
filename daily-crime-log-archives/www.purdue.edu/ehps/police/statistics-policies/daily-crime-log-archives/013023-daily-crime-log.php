@@ -930,7 +930,7 @@
 <td style="font-weight: 400;" width="168">1/27/23 7:29 PM</td>
 <td style="font-weight: 400;" width="166">1/27/23 7:59 PM</td>
 <td style="font-weight: 400;" width="212">Wiley Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Criminal Mischief</td>
@@ -954,7 +954,7 @@
 <td style="font-weight: 400;" width="168">1/28/23 1:51 AM</td>
 <td style="font-weight: 400;" width="166">1/28/23 2:01 AM</td>
 <td style="font-weight: 400;" width="212">Meredith South Hall</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>
