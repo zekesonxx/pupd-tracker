@@ -922,7 +922,7 @@
 <td style="font-weight: 400;" width="168">2/4/23 3:11 AM</td>
 <td style="font-weight: 400;" width="166">2/4/23 3:32 AM</td>
 <td style="font-weight: 400;" width="212">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
