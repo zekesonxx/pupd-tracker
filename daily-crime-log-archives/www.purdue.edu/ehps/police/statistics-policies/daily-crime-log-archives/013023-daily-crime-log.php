@@ -946,7 +946,7 @@
 <td style="font-weight: 400;" width="168">1/28/23 12:16 AM</td>
 <td style="font-weight: 400;" width="166">1/28/23 12:29 AM</td>
 <td style="font-weight: 400;" width="212">Honors College</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>
@@ -962,7 +962,7 @@
 <td style="font-weight: 400;" width="168">1/28/23 3:41 AM</td>
 <td style="font-weight: 400;" width="166">1/28/23 3:53 AM</td>
 <td style="font-weight: 400;" width="212">Beering Hall of Liberal Arts &amp; Education</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Criminal Mischief</td>
