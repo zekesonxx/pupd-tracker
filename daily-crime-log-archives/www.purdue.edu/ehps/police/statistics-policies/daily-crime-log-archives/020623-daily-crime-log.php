@@ -962,7 +962,7 @@
 <td style="font-weight: 400;" width="168">2/5/23 9:44 AM</td>
 <td style="font-weight: 400;" width="166">2/5/23 10:01 AM</td>
 <td style="font-weight: 400;" width="212">Hillel Jewish Foundation</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Fraud</td>
