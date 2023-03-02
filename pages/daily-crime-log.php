@@ -661,7 +661,74 @@
   
     	<section class="content__group">
   					<h3>Thursday, March 2, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="156">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00305</td>
+<td style="font-weight: 400;" width="168">2/28/23 4:45 PM</td>
+<td style="font-weight: 400;" width="166">3/1/23 7:40 AM</td>
+<td style="font-weight: 400;" width="212">Steven Beering Dr/Joe Tiller Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Fraud</td>
+<td style="font-weight: 400;" width="154">2023PU00306</td>
+<td style="font-weight: 400;" width="168">8/1/20 12:42 PM</td>
+<td style="font-weight: 400;" width="166">3/1/23 10:58 AM</td>
+<td style="font-weight: 400;" width="212">Stewart Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00307</td>
+<td style="font-weight: 400;" width="168">3/1/23 11:49 AM</td>
+<td style="font-weight: 400;" width="166">3/1/23 12:14 PM</td>
+<td style="font-weight: 400;" width="212">Horticultural Greenhouse</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00308</td>
+<td style="font-weight: 400;" width="168">2/28/23 7:30 PM</td>
+<td style="font-weight: 400;" width="166">3/1/23 1:14 PM</td>
+<td style="font-weight: 400;" width="212">Wiley Dining Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2023PU00310</td>
+<td style="font-weight: 400;" width="168">3/1/23 10:35 PM</td>
+<td style="font-weight: 400;" width="166">3/1/23 10:53 PM</td>
+<td style="font-weight: 400;" width="212">Horticulture Park Barn</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU00311</td>
+<td style="font-weight: 400;" width="168">3/2/23 12:55 AM</td>
+<td style="font-weight: 400;" width="166">3/2/23 2:02 AM</td>
+<td style="font-weight: 400;" width="212">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="156">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2023-029303</td>
+<td style="font-weight: 400;" width="168">3/1/23 12:34 AM</td>
+<td style="font-weight: 400;" width="166">3/1/23 12:34 AM</td>
+<td style="font-weight: 400;" width="212">Oakwood Apartments</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
