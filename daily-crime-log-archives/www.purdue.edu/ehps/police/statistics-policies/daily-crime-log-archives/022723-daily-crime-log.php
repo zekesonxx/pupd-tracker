@@ -1002,7 +1002,7 @@
 <td style="font-weight: 400;" width="168">2/25/23 12:32 AM</td>
 <td style="font-weight: 400;" width="166">2/25/23 1:33 AM</td>
 <td style="font-weight: 400;" width="212">Shreve Hall</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>
@@ -1010,7 +1010,7 @@
 <td style="font-weight: 400;" width="168">2/25/23 1:44 AM</td>
 <td style="font-weight: 400;" width="166">2/25/23 2:03 AM</td>
 <td style="font-weight: 400;" width="212">Wiley Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Blackmail</td>
