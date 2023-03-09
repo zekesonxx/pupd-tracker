@@ -874,7 +874,7 @@
 <td style="font-weight: 400;" width="154">CSA</td>
 <td style="font-weight: 400;" width="168">3/2/23 10:00 PM</td>
 <td style="font-weight: 400;" width="166">3/2/23 10:25 PM</td>
-<td style="font-weight: 400;" width="212">On-Campus Location</td>
+<td style="font-weight: 400;" width="212">Non-Campus Property</td>
 <td style="font-weight: 400;" width="181">Nothing Further</td>
 </tr>
 <tr>
