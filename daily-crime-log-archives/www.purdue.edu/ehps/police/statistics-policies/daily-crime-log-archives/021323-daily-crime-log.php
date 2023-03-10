@@ -938,7 +938,7 @@
 <td style="font-weight: 400;" width="168">2/10/23 5:40 PM</td>
 <td style="font-weight: 400;" width="166">2/10/23 6:01 PM</td>
 <td style="font-weight: 400;" width="212">Harrison Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Drug Law Violation</td>
@@ -1002,7 +1002,7 @@
 <td style="font-weight: 400;" width="168">2/12/23 2:25 AM</td>
 <td style="font-weight: 400;" width="166">2/12/23 2:46 AM</td>
 <td style="font-weight: 400;" width="212">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Criminal Mischief</td>

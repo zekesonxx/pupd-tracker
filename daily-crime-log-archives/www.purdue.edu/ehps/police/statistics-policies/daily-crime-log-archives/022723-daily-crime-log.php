@@ -1050,7 +1050,7 @@
 <td style="font-weight: 400;" width="168">2/26/23 2:32 AM</td>
 <td style="font-weight: 400;" width="166">2/26/23 2:44 AM</td>
 <td style="font-weight: 400;" width="212">Continuum</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Fraud</td>
