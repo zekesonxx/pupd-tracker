@@ -682,7 +682,66 @@
   
     	<section class="content__group">
   					<h3>Monday, March 13, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00362</td>
+<td style="font-weight: 400;" width="168">3/10/23 9:14 AM</td>
+<td style="font-weight: 400;" width="166">3/10/23 9:23 AM</td>
+<td style="font-weight: 400;" width="212">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00364</td>
+<td style="font-weight: 400;" width="168">3/6/23 9:30 AM</td>
+<td style="font-weight: 400;" width="166">3/10/23 12:41 PM</td>
+<td style="font-weight: 400;" width="212">Alpha Sigma Phi</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00366</td>
+<td style="font-weight: 400;" width="168">3/11/23 12:29 AM</td>
+<td style="font-weight: 400;" width="166">3/11/23 12:39 AM</td>
+<td style="font-weight: 400;" width="212">Slayter Center of Performing Arts</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00368</td>
+<td style="font-weight: 400;" width="168">3/11/23 6:24 PM</td>
+<td style="font-weight: 400;" width="166">3/11/23 6:39 PM</td>
+<td style="font-weight: 400;" width="212">Wimeth Active Learning Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Blackmail</td>
+<td style="font-weight: 400;" width="154">2023PU00370</td>
+<td style="font-weight: 400;" width="168">3/12/23 7:53 PM</td>
+<td style="font-weight: 400;" width="166">3/12/23 8:44 PM</td>
+<td style="font-weight: 400;" width="212">Provenance</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2023-034052</td>
+<td style="font-weight: 400;" width="168">3/9/23 6:55 PM</td>
+<td style="font-weight: 400;" width="166">3/9/23 6:55 PM</td>
+<td style="font-weight: 400;" width="212">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
