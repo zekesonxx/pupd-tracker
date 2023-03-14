@@ -954,7 +954,7 @@
 <td style="font-weight: 400;" width="168">2/11/23 1:04 AM</td>
 <td style="font-weight: 400;" width="166">2/11/23 1:32 AM</td>
 <td style="font-weight: 400;" width="212">Harrison Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>
