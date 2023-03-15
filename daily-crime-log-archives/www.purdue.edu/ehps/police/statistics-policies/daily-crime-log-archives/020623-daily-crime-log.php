@@ -914,7 +914,7 @@
 <td style="font-weight: 400;" width="168">2/4/23 2:18 AM</td>
 <td style="font-weight: 400;" width="166">2/4/23 3:13 AM</td>
 <td style="font-weight: 400;" width="212">Sigma Delta Tau</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>
