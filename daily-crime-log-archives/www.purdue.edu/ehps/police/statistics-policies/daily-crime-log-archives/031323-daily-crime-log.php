@@ -683,7 +683,7 @@
 <td style="font-weight: 400;" width="168">3/8/23 12:00 AM</td>
 <td style="font-weight: 400;" width="166">3/14/23 3:10 PM</td>
 <td style="font-weight: 400;" width="212">Shreve Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Duplicate Report of 2023PU00362-Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft</td>
@@ -743,7 +743,7 @@
 <td style="font-weight: 400;" width="168">3/10/23 9:14 AM</td>
 <td style="font-weight: 400;" width="166">3/10/23 9:23 AM</td>
 <td style="font-weight: 400;" width="212">Tarkington Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Duplicate Report of 2023PU00372-Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft-Bike</td>

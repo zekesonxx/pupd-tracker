@@ -650,7 +650,7 @@
 <td style="font-weight: 400;" width="168">3/2/23 10:23 PM</td>
 <td style="font-weight: 400;" width="166">3/2/23 11:09 PM</td>
 <td style="font-weight: 400;" width="212">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Blackmail</td>
