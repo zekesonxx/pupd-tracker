@@ -675,7 +675,50 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;March 21, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00388</td>
+<td style="font-weight: 400;" width="168">3/10/23 8:00 AM</td>
+<td style="font-weight: 400;" width="166">3/20/23 12:15 PM</td>
+<td style="font-weight: 400;" width="212">Hilltop</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Battery-Simple</td>
+<td style="font-weight: 400;" width="154">2023PU00389</td>
+<td style="font-weight: 400;" width="168">2/17/23 4:00 AM</td>
+<td style="font-weight: 400;" width="166">3/20/23 1:58 PM</td>
+<td style="font-weight: 400;" width="212">Hawkins Graudate House</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Harassment</td>
+<td style="font-weight: 400;" width="154">2023PU00391</td>
+<td style="font-weight: 400;" width="168">3/20/23 6:00 PM</td>
+<td style="font-weight: 400;" width="166">3/20/23 6:44 PM</td>
+<td style="font-weight: 400;" width="212">Meredith South Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Stalking</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">3/8/23 3:00 PM</td>
+<td style="font-weight: 400;" width="166">3/20/23 9:00 AM</td>
+<td style="font-weight: 400;" width="212">On-Campus Housing</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
