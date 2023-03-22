@@ -906,7 +906,7 @@
 <td style="font-weight: 400;">3/4/23 3:47 AM</td>
 <td style="font-weight: 400;">3/4/23 4:12 AM</td>
 <td style="font-weight: 400;">Harrison Hall</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;">Criminal Mischief</td>
