@@ -654,7 +654,90 @@
   
     	<section class="content__group">
   					<h3>Friday, March 24, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU00397</td>
+<td width="168">3/22/23 9:39 PM</td>
+<td width="166">3/22/23 9:46 PM</td>
+<td width="212">Winifred Parker Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Fraud</td>
+<td style="font-weight: 400;" width="154">2023PU00399</td>
+<td style="font-weight: 400;" width="168">1/20/23 8:00 AM</td>
+<td style="font-weight: 400;" width="166">3/23/23 8:02 AM</td>
+<td style="font-weight: 400;" width="212">200 Blk S Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Burglary</td>
+<td style="font-weight: 400;" width="154">2023PU00400</td>
+<td style="font-weight: 400;" width="168">3/19/23 9:00 PM</td>
+<td style="font-weight: 400;" width="166">3/23/23 12:43 PM</td>
+<td style="font-weight: 400;" width="212">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00401</td>
+<td style="font-weight: 400;" width="168">3/22/23 2:00 PM</td>
+<td style="font-weight: 400;" width="166">3/23/23 2:04 PM</td>
+<td style="font-weight: 400;" width="212">Grant St Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Harassment</td>
+<td style="font-weight: 400;" width="154">2023PU00402</td>
+<td style="font-weight: 400;" width="168">3/23/23 3:13 PM</td>
+<td style="font-weight: 400;" width="166">3/23/23 3:38 PM</td>
+<td style="font-weight: 400;" width="212">Stadium Ave/Waldron St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00403</td>
+<td style="font-weight: 400;" width="168">1/1/23 8:00 AM</td>
+<td style="font-weight: 400;" width="166">3/23/23 4:43 PM</td>
+<td style="font-weight: 400;" width="212">Hawkins Graudate House</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU00404</td>
+<td style="font-weight: 400;" width="168">3/23/23 11:28 PM</td>
+<td style="font-weight: 400;" width="166">3/23/23 11:51 PM</td>
+<td style="font-weight: 400;" width="212">400 Blk Waldron St</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2023-040205</td>
+<td style="font-weight: 400;" width="168">3/22/23 7:21 PM</td>
+<td style="font-weight: 400;" width="166">3/22/23 7:21 PM</td>
+<td style="font-weight: 400;" width="212">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Burglary</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">3/23/23 10:36 AM</td>
+<td style="font-weight: 400;" width="166">3/23/23 10:36 AM</td>
+<td style="font-weight: 400;" width="212">On-Campus Housing</td>
+<td style="font-weight: 400;" width="181">Documented in 2023PU00403 - Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
