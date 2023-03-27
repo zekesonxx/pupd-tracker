@@ -519,6 +519,11 @@
         
                                                             
         
+        <li role="none"><a href="../../contact/extra-patrol.php" role="menuitem">Extra Patrol Request Form</a></li>
+                                                    
+        
+                                                            
+        
         <li role="none"><a href="../../contact/report-crime.php" role="menuitem">How to Report a Crime</a></li>
                                                     
         
@@ -657,7 +662,7 @@
 <td style="font-weight: 400;" width="154">2023PU00399</td>
 <td style="font-weight: 400;" width="168">1/20/23 8:00 AM</td>
 <td style="font-weight: 400;" width="166">3/23/23 8:02 AM</td>
-<td style="font-weight: 400;" width="212">200 Blk S Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="212">610 Purdue Mall</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
@@ -682,7 +687,7 @@
 <td style="font-weight: 400;" width="168">3/23/23 3:13 PM</td>
 <td style="font-weight: 400;" width="166">3/23/23 3:38 PM</td>
 <td style="font-weight: 400;" width="212">Stadium Ave/Waldron St</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Unfounded</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft</td>

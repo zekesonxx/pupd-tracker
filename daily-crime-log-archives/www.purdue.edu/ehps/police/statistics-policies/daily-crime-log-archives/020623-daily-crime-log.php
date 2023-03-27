@@ -519,6 +519,11 @@
         
                                                             
         
+        <li role="none"><a href="../../contact/extra-patrol.php" role="menuitem">Extra Patrol Request Form</a></li>
+                                                    
+        
+                                                            
+        
         <li role="none"><a href="../../contact/report-crime.php" role="menuitem">How to Report a Crime</a></li>
                                                     
         
@@ -946,7 +951,7 @@
 <td style="font-weight: 400;" width="168">2/5/23 1:33 AM</td>
 <td style="font-weight: 400;" width="166">2/5/23 1:55 AM</td>
 <td style="font-weight: 400;" width="212">Harrison Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Minor Consumption</td>

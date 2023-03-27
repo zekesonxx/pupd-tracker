@@ -519,6 +519,11 @@
         
                                                             
         
+        <li role="none"><a href="../contact/extra-patrol.php" role="menuitem">Extra Patrol Request Form</a></li>
+                                                    
+        
+                                                            
+        
         <li role="none"><a href="../contact/report-crime.php" role="menuitem">How to Report a Crime</a></li>
                                                     
         
@@ -682,7 +687,162 @@
   
     	<section class="content__group">
   					<h3>Monday, March 27, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00405</td>
+<td style="font-weight: 400;" width="168">3/22/23 8:24 PM</td>
+<td style="font-weight: 400;" width="166">3/24/23 2:44 PM</td>
+<td style="font-weight: 400;" width="212">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">False Informing</td>
+<td style="font-weight: 400;" width="154">2023PU00406</td>
+<td style="font-weight: 400;" width="168">3/25/23 1:14 AM</td>
+<td style="font-weight: 400;" width="166">3/25/23 1:28 AM</td>
+<td style="font-weight: 400;" width="212">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU00407</td>
+<td style="font-weight: 400;" width="168">3/25/23 4:05 AM</td>
+<td style="font-weight: 400;" width="166">3/25/23 4:36 AM</td>
+<td style="font-weight: 400;" width="212">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Fraud</td>
+<td style="font-weight: 400;" width="154">2023PU00409</td>
+<td style="font-weight: 400;" width="168">3/22/23 2:34 PM</td>
+<td style="font-weight: 400;" width="166">3/25/23 2:47 PM</td>
+<td style="font-weight: 400;" width="212">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU00410</td>
+<td style="font-weight: 400;" width="168">3/25/23 6:23 PM</td>
+<td style="font-weight: 400;" width="166">3/25/23 6:42 PM</td>
+<td style="font-weight: 400;" width="212">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespassing</td>
+<td style="font-weight: 400;" width="154">2023PU00413</td>
+<td style="font-weight: 400;" width="168">3/25/23 7:41 PM</td>
+<td style="font-weight: 400;" width="166">3/25/23 9:03 PM</td>
+<td style="font-weight: 400;" width="212">1400 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2023PU00414</td>
+<td style="font-weight: 400;" width="168">3/25/23 9:50 PM</td>
+<td style="font-weight: 400;" width="166">3/25/23 10:20 PM</td>
+<td style="font-weight: 400;" width="212">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00416</td>
+<td style="font-weight: 400;" width="168">3/26/23 2:53 PM</td>
+<td style="font-weight: 400;" width="166">3/26/23 3:05 PM</td>
+<td style="font-weight: 400;" width="212">Martin Jischke Dr/Stadium Ave</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">10 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">2/26/23 12:40 AM</td>
+<td style="font-weight: 400;" width="166">2/26/23 1:39 AM</td>
+<td style="font-weight: 400;" width="212">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">2/26/23 4:15 PM</td>
+<td style="font-weight: 400;" width="166">2/27/23 4:07 PM</td>
+<td style="font-weight: 400;" width="212">Windsor Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">7 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">3/2/23 10:30 PM</td>
+<td style="font-weight: 400;" width="166">3/2/23 11:43 PM</td>
+<td style="font-weight: 400;" width="212">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">3/3/23 1:40 PM</td>
+<td style="font-weight: 400;" width="166">3/3/23 3:31 PM</td>
+<td style="font-weight: 400;" width="212">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">3/3/23 1:40 PM</td>
+<td style="font-weight: 400;" width="166">3/3/23 3:31 PM</td>
+<td style="font-weight: 400;" width="212">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">2 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">3/3/23 10:30 PM</td>
+<td style="font-weight: 400;" width="166">3/4/23 12:09 AM</td>
+<td style="font-weight: 400;" width="212">Aspire Apartments</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">8 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">3/3/23 11:30 PM</td>
+<td style="font-weight: 400;" width="166">3/4/23 12:37 AM</td>
+<td style="font-weight: 400;" width="212">Aspire Apartments</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">6 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">3/4/23 1:00 AM</td>
+<td style="font-weight: 400;" width="166">3/4/23 2:25 AM</td>
+<td style="font-weight: 400;" width="212">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">4 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">3/8/23 9:12 PM</td>
+<td style="font-weight: 400;" width="166">3/8/23 10:00 PM</td>
+<td style="font-weight: 400;" width="212">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">2 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">3/10/23 12:05 AM</td>
+<td style="font-weight: 400;" width="166">3/10/23 12:45 AM</td>
+<td style="font-weight: 400;" width="212">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
