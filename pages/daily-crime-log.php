@@ -680,7 +680,82 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;March 28, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="width: 187px; text-align: center; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU00408</td>
+<td width="168">3/23/23 10:28 AM</td>
+<td width="166">3/25/23 12:14 PM</td>
+<td width="212">Meredith Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Battery-Simple</td>
+<td style="font-weight: 400;" width="154">2023PU00417</td>
+<td style="font-weight: 400;" width="168">3/27/23 2:07 PM</td>
+<td style="font-weight: 400;" width="166">3/27/23 3:30 PM</td>
+<td style="font-weight: 400;" width="212">Mackey Arena</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00419</td>
+<td style="font-weight: 400;" width="168">3/26/23 3:39 AM</td>
+<td style="font-weight: 400;" width="166">3/27/23 4:05 PM</td>
+<td style="font-weight: 400;" width="212">Northwestern Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00422</td>
+<td style="font-weight: 400;" width="168">3/27/23 6:30 PM</td>
+<td style="font-weight: 400;" width="166">3/27/23 7:01 PM</td>
+<td style="font-weight: 400;" width="212">Harrison St Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation/Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2023PU00424</td>
+<td style="font-weight: 400;" width="168">3/28/23 12:26 AM</td>
+<td style="font-weight: 400;" width="166">3/28/23 1:38 AM</td>
+<td style="font-weight: 400;" width="212">S River Rd/Ahlers Dr</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2023-041478</td>
+<td style="font-weight: 400;" width="168">3/25/23 12:43 AM</td>
+<td style="font-weight: 400;" width="166">3/25/23 12:43 AM</td>
+<td style="font-weight: 400;" width="212">Shreve Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD#2023-041924</td>
+<td style="font-weight: 400;" width="168">3/25/23 11:14 PM</td>
+<td style="font-weight: 400;" width="166">3/25/23 11:14 PM</td>
+<td style="font-weight: 400;" width="212">Meredith Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Public Intox</td>
+<td style="font-weight: 400;" width="154">CAD#2023-042019</td>
+<td style="font-weight: 400;" width="168">3/26/23 3:35 AM</td>
+<td style="font-weight: 400;" width="166">3/26/23 3:35 AM</td>
+<td style="font-weight: 400;" width="212">Brunner Equine Hospital</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -703,7 +778,7 @@
 <td style="font-weight: 400;" width="168">3/22/23 8:24 PM</td>
 <td style="font-weight: 400;" width="166">3/24/23 2:44 PM</td>
 <td style="font-weight: 400;" width="212">Purdue Memorial Union</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">False Informing</td>
