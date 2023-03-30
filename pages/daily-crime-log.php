@@ -666,7 +666,7 @@
   
     	<section class="content__group">
   					<h3>Thursday, March 30, 2023</h3>
-<p>Will be posted soon.</p>
+<p>Nothing to report.</p>
 		</section>
 	
           <div class="clearfix"></div>
