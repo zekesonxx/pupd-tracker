@@ -519,6 +519,11 @@
         
                                                             
         
+        <li role="none"><a href="../../contact/extra-patrol.php" role="menuitem">Extra Patrol Request Form</a></li>
+                                                    
+        
+                                                            
+        
         <li role="none"><a href="../../contact/report-crime.php" role="menuitem">How to Report a Crime</a></li>
                                                     
         
@@ -615,6 +620,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log</h2>
 <ul>
+<li><a href="032723-daily-crime-log.php" title="032723 Daily Crime Log">Week of March 27, 2023</a></li>
 <li><a href="032023-daily-crime-log.php" title="032023 Daily Crime Log">Week of March 20, 2023</a></li>
 <li><a href="031323-daily-crime-log.php" title="031323 Daily Crime Log">Week of March 13, 2023</a></li>
 <li><a href="030623-daily-crime-log.php" title="030623 Daily Crime Log">Week of March 6, 2023</a></li>
