@@ -673,13 +673,6 @@
   
     	<section class="content__group">
   					<h3>Wednesday, April 5, 2023</h3>
-<p>Will be posted soon.</p>
-		</section>
-	
-          <div class="clearfix"></div>
-  
-    	<section class="content__group">
-  					<h3>Tuesday,&#160;April 4, 2023</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -756,6 +749,13 @@
 </tr>
 </tbody>
 </table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Tuesday,&#160;April 4, 2023</h3>
+<p>Nothing to report.</p>
 		</section>
 	
           <div class="clearfix"></div>
