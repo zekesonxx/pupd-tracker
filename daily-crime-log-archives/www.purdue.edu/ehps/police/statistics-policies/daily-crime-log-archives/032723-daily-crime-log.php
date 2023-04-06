@@ -712,7 +712,7 @@
 <td style="font-weight: 400;" width="168">3/27/23 4:23 PM</td>
 <td style="font-weight: 400;" width="166">3/29/23 9:06 AM</td>
 <td style="font-weight: 400;" width="212">Shreve Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 </tbody>
 </table>

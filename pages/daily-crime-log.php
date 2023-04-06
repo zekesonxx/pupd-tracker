@@ -666,7 +666,66 @@
   
     	<section class="content__group">
   					<h3>Thursday, April 6, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="3" cellspacing="3" style="float: left;" width="100%">
+<tbody>
+<tr>
+<td width="187">Nature</td>
+<td width="154">Case Number</td>
+<td width="168">Date/Time Occurred</td>
+<td width="166">Date/Time Reported</td>
+<td width="212">General Location</td>
+<td width="181">Disposition&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00473</td>
+<td style="font-weight: 400;" width="168">4/5/23 8:00 AM</td>
+<td style="font-weight: 400;" width="166">4/5/23 12:28 PM</td>
+<td style="font-weight: 400;" width="212">Lilly Hall of Life Sciences</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00474</td>
+<td style="font-weight: 400;" width="168">4/5/23 8:28 PM</td>
+<td style="font-weight: 400;" width="166">4/5/23 8:51 PM</td>
+<td style="font-weight: 400;" width="212">Hampton Hall of Civil Engineering</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00475</td>
+<td style="font-weight: 400;" width="168">4/5/23 10:22 PM</td>
+<td style="font-weight: 400;" width="166">4/5/23 10:34 PM</td>
+<td style="font-weight: 400;" width="212">Class of 1950 Lecture Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespassing/Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU00476</td>
+<td style="font-weight: 400;" width="168">4/5/23 11:16 PM</td>
+<td style="font-weight: 400;" width="166">4/5/23 11:57 PM</td>
+<td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">One Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation&#160;</td>
+<td style="font-weight: 400;" width="154">CAD#2023-047157</td>
+<td style="font-weight: 400;" width="168">4/4/2023 20:42</td>
+<td style="font-weight: 400;" width="166">4/4/2023 20:42</td>
+<td style="font-weight: 400;" width="212">First St Towers</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft Of Property&#160;</td>
+<td style="font-weight: 400;" width="154">CAD#2023-046959</td>
+<td style="font-weight: 400;" width="168">4/4/2023 14:50</td>
+<td style="font-weight: 400;" width="166">4/4/2023 14:50</td>
+<td style="font-weight: 400;" width="212">College Of Pharmacy&#160;</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
