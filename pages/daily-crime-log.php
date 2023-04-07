@@ -659,7 +659,58 @@
   
     	<section class="content__group">
   					<h3>Friday, April 7, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Harassment</td>
+<td style="font-weight: 400;" width="154">2023PU00480</td>
+<td style="font-weight: 400;" width="168">4/6/23 10:00 AM</td>
+<td style="font-weight: 400;" width="166">4/6/23 11:41 AM</td>
+<td style="font-weight: 400;" width="212">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Harassment</td>
+<td style="font-weight: 400;" width="154">2023PU00482</td>
+<td style="font-weight: 400;" width="168">4/6/23 3:32 PM</td>
+<td style="font-weight: 400;" width="166">4/6/23 3:33 PM</td>
+<td style="font-weight: 400;" width="212">Acacia Fraternity</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU00483</td>
+<td style="font-weight: 400;" width="168">4/5/23 9:30 PM</td>
+<td style="font-weight: 400;" width="166">4/6/23 5:05 PM</td>
+<td style="font-weight: 400;" width="212">Hawkins Graduate House</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU00485</td>
+<td style="font-weight: 400;" width="168">4/7/23 1:48 AM</td>
+<td style="font-weight: 400;" width="166">4/7/23 2:25 AM</td>
+<td style="font-weight: 400;" width="212">W State St/N Grant St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Fraud</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">4/6/2023 3:00</td>
+<td style="font-weight: 400;" width="166">4/6/2023 14:14</td>
+<td style="font-weight: 400;" width="212">Off-Campus Location</td>
+<td style="font-weight: 400;" width="181">This was determined to be outside Clery Reportable Geography - Documented in 2023PU00482</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
