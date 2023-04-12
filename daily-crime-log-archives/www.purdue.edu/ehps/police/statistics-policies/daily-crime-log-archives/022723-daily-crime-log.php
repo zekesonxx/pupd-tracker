@@ -793,7 +793,7 @@
 <td style="font-weight: 400;" width="168">2/28/23 4:45 PM</td>
 <td style="font-weight: 400;" width="166">3/1/23 7:40 AM</td>
 <td style="font-weight: 400;" width="212">Steven Beering Dr/Joe Tiller Dr</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Fraud</td>

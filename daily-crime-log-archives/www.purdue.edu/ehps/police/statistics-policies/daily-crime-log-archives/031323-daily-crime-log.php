@@ -696,7 +696,7 @@
 <td style="font-weight: 400;" width="168">3/9/23 6:00 PM</td>
 <td style="font-weight: 400;" width="166">3/14/23 3:51 PM</td>
 <td style="font-weight: 400;" width="212">CoRec</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 </tbody>
 </table>
