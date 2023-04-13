@@ -666,7 +666,74 @@
   
     	<section class="content__group">
   					<h3>Thursday, April 13, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00520</td>
+<td style="font-weight: 400;" width="168">4/11/23 9:00 PM</td>
+<td style="font-weight: 400;" width="166">4/12/23 9:57 AM</td>
+<td style="font-weight: 400;" width="212">Birck Boilermaker Golf Complex</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespassing</td>
+<td style="font-weight: 400;" width="154">2023PU00521</td>
+<td style="font-weight: 400;" width="168">4/12/23 4:52 PM</td>
+<td style="font-weight: 400;" width="166">4/12/23 4:54 PM</td>
+<td style="font-weight: 400;" width="212">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00525</td>
+<td style="font-weight: 400;" width="168">4/12/23 3:30 AM</td>
+<td style="font-weight: 400;" width="166">4/12/23 8:44 PM</td>
+<td style="font-weight: 400;" width="212">Class of 1950 Lecture Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Blackmail</td>
+<td style="font-weight: 400;" width="154">2023PU00526</td>
+<td style="font-weight: 400;" width="168">4/12/23 10:18 PM</td>
+<td style="font-weight: 400;" width="166">4/12/23 10:41 PM</td>
+<td style="font-weight: 400;" width="212">300 Blk S Grant St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU00527</td>
+<td style="font-weight: 400;" width="168">4/13/23 12:23 AM</td>
+<td style="font-weight: 400;" width="166">4/13/23 12:50 AM</td>
+<td style="font-weight: 400;" width="212">Chi Omega</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU00528</td>
+<td style="font-weight: 400;" width="168">4/12/23 7:00 PM</td>
+<td style="font-weight: 400;" width="166">4/13/23 2:50 AM</td>
+<td style="font-weight: 400;" width="212">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Stalking</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">4/9/23 11:49 AM</td>
+<td style="font-weight: 400;" width="166">4/12/23 11:50 AM</td>
+<td style="font-weight: 400;" width="212">On-Campus Location</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -957,7 +1024,7 @@
 <td style="font-weight: 400;" width="168">4/8/23 7:30 PM</td>
 <td style="font-weight: 400;" width="166">4/8/23 7:47 PM</td>
 <td style="font-weight: 400;" width="212">Winifred Parker Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Minor Consumption</td>
