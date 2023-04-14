@@ -659,7 +659,74 @@
   
     	<section class="content__group">
   					<h3>Friday, April 14, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2023PU00530</td>
+<td style="font-weight: 400;" width="168">4/11/23 5:00 PM</td>
+<td style="font-weight: 400;" width="166">4/13/23 7:57 AM</td>
+<td style="font-weight: 400;" width="212">Lambertus Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00531</td>
+<td style="font-weight: 400;" width="168">4/12/23 11:30 PM</td>
+<td style="font-weight: 400;" width="166">4/13/23 1:03 PM</td>
+<td style="font-weight: 400;" width="212">Hawkins Graduate House</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00532</td>
+<td style="font-weight: 400;" width="168">4/13/23 9:00 AM</td>
+<td style="font-weight: 400;" width="166">4/13/23 1:57 PM</td>
+<td style="font-weight: 400;" width="212">Felix Haas Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00533</td>
+<td style="font-weight: 400;" width="168">4/13/23 2:58 PM</td>
+<td style="font-weight: 400;" width="166">4/13/28 3:26 PM</td>
+<td style="font-weight: 400;" width="212">Hilltop</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2023PU00534</td>
+<td style="font-weight: 400;" width="168">4/13/23 3:55 PM</td>
+<td style="font-weight: 400;" width="166">4/13/23 4:28 PM</td>
+<td style="font-weight: 400;" width="212">6th St/Waldron St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU00535</td>
+<td style="font-weight: 400;" width="168">4/13/23 9:21 PM</td>
+<td style="font-weight: 400;" width="166">4/12/23 9:34 PM</td>
+<td style="font-weight: 400;" width="212">Cary Quad South</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00537</td>
+<td style="font-weight: 400;" width="168">4/13/23 10:15 PM</td>
+<td style="font-weight: 400;" width="166">4/13/23 11:59 PM</td>
+<td style="font-weight: 400;" width="212">Material Sciences &amp; Electrical Engineering Building</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
