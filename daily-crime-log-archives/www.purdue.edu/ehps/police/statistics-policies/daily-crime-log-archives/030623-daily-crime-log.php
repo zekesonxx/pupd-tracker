@@ -943,7 +943,7 @@
 <td style="font-weight: 400;">3/5/23 1:39 AM</td>
 <td style="font-weight: 400;">3/5/23 2:02 AM</td>
 <td style="font-weight: 400;">Meredith South Hall</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;">Criminal Mischief</td>

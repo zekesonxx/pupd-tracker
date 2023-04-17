@@ -687,7 +687,130 @@
   
     	<section class="content__group">
   					<h3>Monday, April 17, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00539</td>
+<td style="font-weight: 400;" width="168">4/13/23 8:00 AM</td>
+<td style="font-weight: 400;" width="166">4/14/23 1:32 PM</td>
+<td style="font-weight: 400;" width="212">Waldron Square Apts</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2023PU00540</td>
+<td style="font-weight: 400;" width="168">4/13/23 12:00 PM</td>
+<td style="font-weight: 400;" width="166">4/14/23 1:34 PM</td>
+<td style="font-weight: 400;" width="212">Hilltop</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU00541</td>
+<td style="font-weight: 400;" width="168">4/13/23 2:30 PM</td>
+<td style="font-weight: 400;" width="166">4/14/23 2:59 PM</td>
+<td style="font-weight: 400;" width="212">Wetherill Chemical Building</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Harassment</td>
+<td style="font-weight: 400;" width="154">2023PU00542</td>
+<td style="font-weight: 400;" width="168">2/1/23 12:00 AM</td>
+<td style="font-weight: 400;" width="166">4/14/23 4:04 PM</td>
+<td style="font-weight: 400;" width="212">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00545</td>
+<td style="font-weight: 400;" width="168">4/14/23 6:51 PM</td>
+<td style="font-weight: 400;" width="166">4/14/23 7:14 PM</td>
+<td style="font-weight: 400;" width="212">Beering Hall of Liberal Arts &amp; Education</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespass</td>
+<td style="font-weight: 400;" width="154">2023PU00546</td>
+<td style="font-weight: 400;" width="168">4/15/23 1:01 AM</td>
+<td style="font-weight: 400;" width="166">4/15/23 1:17 AM</td>
+<td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Public Intoxication/Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU00547</td>
+<td style="font-weight: 400;" width="168">4/15/23 1:18 AM</td>
+<td style="font-weight: 400;" width="166">4/15/23 1:36 AM</td>
+<td style="font-weight: 400;" width="212">N University St/W Stadium Ave</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00549</td>
+<td style="font-weight: 400;" width="168">4/15/23 3:06 AM</td>
+<td style="font-weight: 400;" width="166">4/15/23 3:15 AM</td>
+<td style="font-weight: 400;" width="212">Memorial Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU00551</td>
+<td style="font-weight: 400;" width="168">4/15/23 8:36 PM</td>
+<td style="font-weight: 400;" width="166">4/15/23 8:51 PM</td>
+<td style="font-weight: 400;" width="212">Brees Athletic Center</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Battery-Simple</td>
+<td style="font-weight: 400;" width="154">2023PU00552</td>
+<td style="font-weight: 400;" width="168">4/15/23 8:38 PM</td>
+<td style="font-weight: 400;" width="166">4/15/23 9:28 PM</td>
+<td style="font-weight: 400;" width="212">Beta Upsilon</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU00553</td>
+<td style="font-weight: 400;" width="168">4/15/23 9:11 PM</td>
+<td style="font-weight: 400;" width="166">4/15/23 9:45 PM</td>
+<td style="font-weight: 400;" width="212">W State St/N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2023PU00555</td>
+<td style="font-weight: 400;" width="168">4/16/23 2:07 AM</td>
+<td style="font-weight: 400;" width="166">4/16/23 2:41 AM</td>
+<td style="font-weight: 400;" width="212">300 Blk Northwestern Ave</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2023PU00556</td>
+<td style="font-weight: 400;" width="168">4/16/23 2:31 AM</td>
+<td style="font-weight: 400;" width="166">4/16/23 3:00 AM</td>
+<td style="font-weight: 400;" width="212">S River Rd/US HWY 231 S</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00557</td>
+<td style="font-weight: 400;" width="168">4/15/23 7:00 PM</td>
+<td style="font-weight: 400;" width="166">4/16/23 11:14 AM</td>
+<td style="font-weight: 400;" width="212">Golf Course Maintenance Barn</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

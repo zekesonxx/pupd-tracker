@@ -688,7 +688,7 @@
 <td style="font-weight: 400;" width="168">3/28/23 12:54 PM</td>
 <td style="font-weight: 400;" width="166">3/28/23 1:22 PM</td>
 <td style="font-weight: 400;" width="212">Winifred Parker Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft</td>

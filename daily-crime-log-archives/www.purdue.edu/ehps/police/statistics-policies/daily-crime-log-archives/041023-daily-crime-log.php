@@ -671,7 +671,7 @@
 <td style="font-weight: 400;" width="168">4/13/23 9:00 AM</td>
 <td style="font-weight: 400;" width="166">4/13/23 1:57 PM</td>
 <td style="font-weight: 400;" width="212">Felix Haas Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft</td>

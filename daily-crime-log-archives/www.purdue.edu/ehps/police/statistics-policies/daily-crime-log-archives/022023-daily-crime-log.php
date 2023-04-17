@@ -991,7 +991,7 @@
 <td style="font-weight: 400;" width="168">2/18/23 4:45 AM</td>
 <td style="font-weight: 400;" width="166">2/18/23 5:05 AM</td>
 <td style="font-weight: 400;" width="212">Winifred Parker Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Operating While Intoxicated</td>
