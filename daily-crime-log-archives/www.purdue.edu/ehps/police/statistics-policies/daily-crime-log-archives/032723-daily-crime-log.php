@@ -770,7 +770,7 @@
 <td style="font-weight: 400;" width="168">3/28/23 12:26 AM</td>
 <td style="font-weight: 400;" width="166">3/28/23 1:38 AM</td>
 <td style="font-weight: 400;" width="212">S River Rd/Ahlers Dr</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Drug Law Violation</td>
