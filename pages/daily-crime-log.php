@@ -886,7 +886,7 @@
 <td style="font-weight: 400;" width="168">4/17/23 11:07 PM</td>
 <td style="font-weight: 400;" width="166">4/18/23 12:56 AM</td>
 <td style="font-weight: 400;" width="212">Kappa Delta Rho&#160;</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Assisting Another Agency Ref. 2023WL00961</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">False Reporting</td>
