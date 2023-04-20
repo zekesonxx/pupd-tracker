@@ -679,7 +679,7 @@
 <td style="font-weight: 400;" width="168">4/13/23 2:58 PM</td>
 <td style="font-weight: 400;" width="166">4/13/28 3:26 PM</td>
 <td style="font-weight: 400;" width="212">Hilltop</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;">Hit &amp; Run</td>
