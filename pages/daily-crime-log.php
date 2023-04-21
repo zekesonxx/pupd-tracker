@@ -659,7 +659,58 @@
   
     	<section class="content__group">
   					<h3>Friday, April 21, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00586</td>
+<td style="font-weight: 400;" width="168">4/20/23 12:13 PM</td>
+<td style="font-weight: 400;" width="166">4/20/23 12:36 PM</td>
+<td style="font-weight: 400;" width="212">Pfendler Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief/Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00588</td>
+<td style="font-weight: 400;" width="168">4/19/23 10:49 PM</td>
+<td style="font-weight: 400;" width="166">4/20/23 4:33 PM</td>
+<td style="font-weight: 400;" width="212">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Fraud</td>
+<td style="font-weight: 400;" width="154">2023PU00589</td>
+<td style="font-weight: 400;" width="168">4/20/23 5:13 PM</td>
+<td style="font-weight: 400;" width="166">4/20/23 6:47 PM</td>
+<td style="font-weight: 400;" width="212">Aspire</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00590</td>
+<td style="font-weight: 400;" width="168">4/21/23 12:19 AM</td>
+<td style="font-weight: 400;" width="166">4/21/23 12:56 AM</td>
+<td style="font-weight: 400;" width="212">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Burglary</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">4/19/23 10:49 PM</td>
+<td style="font-weight: 400;" width="166">4/20/23 3:36 PM</td>
+<td style="font-weight: 400;" width="212">On-Campus Housing</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
