@@ -746,7 +746,7 @@
 <td style="font-weight: 400;" width="168">3/27/23 2:07 PM</td>
 <td style="font-weight: 400;" width="166">3/27/23 3:30 PM</td>
 <td style="font-weight: 400;" width="212">Mackey Arena</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Criminal Mischief</td>
