@@ -747,7 +747,7 @@
 <td style="font-weight: 400;" width="168">2/6/23 4:40 PM</td>
 <td style="font-weight: 400;" width="166">2/13/23 5:43 PM</td>
 <td style="font-weight: 400;" width="212">Neil Armstrong Hall of Engineering</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="156">Theft-Bike</td>
