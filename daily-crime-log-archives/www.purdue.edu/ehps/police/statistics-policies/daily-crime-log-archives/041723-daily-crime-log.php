@@ -1007,7 +1007,7 @@
 <td style="font-weight: 400;" width="168">4/15/23 1:18 AM</td>
 <td style="font-weight: 400;" width="166">4/15/23 1:36 AM</td>
 <td style="font-weight: 400;" width="212">N University St/W Stadium Ave</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Criminal Mischief</td>
