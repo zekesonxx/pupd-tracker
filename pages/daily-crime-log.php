@@ -659,7 +659,42 @@
   
     	<section class="content__group">
   					<h3>Friday, April 28, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Fondling</td>
+<td style="font-weight: 400;" width="154">2023PU00628</td>
+<td style="font-weight: 400;" width="168">1/6/23 8:00 PM</td>
+<td style="font-weight: 400;" width="166">4/27/23 3:32 PM</td>
+<td style="font-weight: 400;" width="212">400 Blk McCutcheon Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Battery-Simple</td>
+<td style="font-weight: 400;" width="154">2023PU00629</td>
+<td style="font-weight: 400;" width="168">4/23/23 3:30 AM</td>
+<td style="font-weight: 400;" width="166">4/28/23 3:49 PM</td>
+<td style="font-weight: 400;" width="212">400 Blk McCutcheon Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Stalking</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">4/26/23 8:00 PM</td>
+<td style="font-weight: 400;" width="166">4/27/23 4:00 PM</td>
+<td style="font-weight: 400;" width="212">On-Campus Location</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
