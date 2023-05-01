@@ -780,13 +780,13 @@
 <p style="padding-left: 90px;">e.&#160;The policies regarding fire safety education and training programs provided to the students and employees, including a description of the procedures that students and employees should follow in the case of a fire;</p>
 <p style="padding-left: 90px;">f.&#160;A list of the titles of each person or organization to which students and employees should report that a fire occurred.</p>
 <p style="padding-left: 90px;">g.&#160; Plans for future improvements in fire safety, if known as of the date of the Annual Security and Fire Safety Report.</p>
-<p style="padding-left: 60px;">17.&#160;&#160;Fire Statistics: Each Annual Security and Fire Safety Report will include fire safety statistics for each Campus student housing facility for themost recent calendar year and the two immediately preceding calendar years. The University must report statistics concerning:</p>
+<p style="padding-left: 60px;">17.&#160;&#160;Fire Statistics: Each Annual Security and Fire Safety Report will include fire safety statistics for each Campus student housing facility for the most recent calendar year and the two immediately preceding calendar years. The University must report statistics concerning:</p>
 <p style="padding-left: 90px;">a. The number of fires and the cause of each fire;</p>
 <p style="padding-left: 90px;">b.&#160;The number of individuals who received Fire-related Injuries that resulted in treatment at a medical facility, including at the Purdue University Student Health Center;</p>
 <p style="padding-left: 90px;">c.&#160;The number of Fire-related Deaths; and</p>
 <p style="padding-left: 90px;">d. The value of property damage caused by a fire.</p>
 <p><strong><a id="II"></a>II. Timely Warning to the Campus Community<br/></strong></p>
-<p style="padding-left: 30px;">A.&#160; To ensure the safety of the Campus community, the senior director, environmental health and public safety (West Lafayette), the vice chancellors responsible for Campus security (Regional Campuses) and the directors of SeparateCampuses, or their designees, will issue timely warnings to the Campus community regarding crimes that are:&#160;&#160;&#160;&#160;&#160;</p>
+<p style="padding-left: 30px;">A.&#160; To ensure the safety of the Campus community, the senior director, environmental health and public safety (West Lafayette), the vice chancellors responsible for Campus security (Regional Campuses) and the directors of Separate Campuses, or their designees, will issue timely warnings to the Campus community regarding crimes that are:&#160;&#160;&#160;&#160;&#160;</p>
 <p style="padding-left: 60px;">1.&#160; Listed in section I.C.13. above;</p>
 <p style="padding-left: 60px;">2.&#160; Reported to University Police, a Campus Security Authority, or relevant local police agencies; and</p>
 <p style="padding-left: 60px;">3.&#160; Considered by the senior director, environmental health and public safety, the vice chancellor or the director, or their designees, to be a threat to students and employees.</p>

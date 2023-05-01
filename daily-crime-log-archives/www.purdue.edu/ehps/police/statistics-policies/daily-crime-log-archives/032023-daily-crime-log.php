@@ -694,7 +694,7 @@
 <td style="font-weight: 400;" width="154">2023PU00403</td>
 <td style="font-weight: 400;" width="168">1/1/23 8:00 AM</td>
 <td style="font-weight: 400;" width="166">3/23/23 4:43 PM</td>
-<td style="font-weight: 400;" width="212">Hawkins Graudate House</td>
+<td style="font-weight: 400;" width="212">Hawkins Graduate&#160;House</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>

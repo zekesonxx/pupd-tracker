@@ -771,7 +771,7 @@
 <td style="font-weight: 400;" width="154">2023PU00368</td>
 <td style="font-weight: 400;" width="168">3/11/23 6:24 PM</td>
 <td style="font-weight: 400;" width="166">3/11/23 6:39 PM</td>
-<td style="font-weight: 400;" width="212">Wimeth Active Learning Center</td>
+<td style="font-weight: 400;" width="212">Wilmeth Active Learning Center</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
