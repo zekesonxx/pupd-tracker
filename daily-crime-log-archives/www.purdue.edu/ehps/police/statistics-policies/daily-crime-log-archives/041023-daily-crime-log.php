@@ -1079,7 +1079,7 @@
 <td style="font-weight: 400;" width="168">4/9/23 12:25 AM</td>
 <td style="font-weight: 400;" width="166">4/9/23 12:43 AM</td>
 <td style="font-weight: 400;" width="212">Aspire</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Trespassing</td>

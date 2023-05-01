@@ -687,7 +687,98 @@
   
     	<section class="content__group">
   					<h3>Monday, May 1, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00630</td>
+<td style="font-weight: 400;" width="168">4/26/23 4:00 PM</td>
+<td style="font-weight: 400;" width="166">4/28/23 12:59 PM</td>
+<td style="font-weight: 400;" width="212">Cary Quad East</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU00633</td>
+<td style="font-weight: 400;" width="168">4/28/23 8:32 PM</td>
+<td style="font-weight: 400;" width="166">4/28/23 8:47 PM</td>
+<td style="font-weight: 400;" width="212">Delta Gamma</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2023PU00634</td>
+<td style="font-weight: 400;" width="168">4/29/23 2:46 AM</td>
+<td style="font-weight: 400;" width="166">4/29/23 3:28 AM</td>
+<td style="font-weight: 400;" width="212">1900 Blk State Rd 26 W</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU00635</td>
+<td style="font-weight: 400;" width="168">4/29/23 3:03 AM</td>
+<td style="font-weight: 400;" width="166">4/29/23 3:28 AM</td>
+<td style="font-weight: 400;" width="212">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00636</td>
+<td style="font-weight: 400;" width="168">4/28/23 8:00 PM</td>
+<td style="font-weight: 400;" width="166">4/29/23 11:49 AM</td>
+<td style="font-weight: 400;" width="212">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00637</td>
+<td style="font-weight: 400;" width="168">4/29/23 5:32 PM</td>
+<td style="font-weight: 400;" width="166">4/29/23 5:54 PM</td>
+<td style="font-weight: 400;" width="212">Cary Quad Northwest</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00639</td>
+<td style="font-weight: 400;" width="168">4/29/23 9:53 PM</td>
+<td style="font-weight: 400;" width="166">4/29/23 10:07 PM</td>
+<td style="font-weight: 400;" width="212">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2023PU00640</td>
+<td style="font-weight: 400;" width="168">4/30/23 2:48 AM</td>
+<td style="font-weight: 400;" width="166">4/30/23 3:43 AM</td>
+<td style="font-weight: 400;" width="212">W State St/McCormick Rd</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2023PU00643</td>
+<td style="font-weight: 400;" width="168">4/30/23 2:54 PM</td>
+<td style="font-weight: 400;" width="166">4/30/23 3:08 PM</td>
+<td style="font-weight: 400;" width="212">Wood St Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespass/Resisting Law Enforcement</td>
+<td style="font-weight: 400;" width="154">2023PU00644</td>
+<td style="font-weight: 400;" width="168">4/30/23 9:42 PM</td>
+<td style="font-weight: 400;" width="166">4/30/23 9:55 PM</td>
+<td style="font-weight: 400;" width="212">University St Parking Garage</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

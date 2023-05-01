@@ -914,7 +914,7 @@
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="156">Battery-Simple/Residental Entry</td>
+<td style="font-weight: 400;" width="156">Battery-Simple/Residential&#160;Entry</td>
 <td style="font-weight: 400;" width="154">2023PU00157</td>
 <td style="font-weight: 400;" width="168">2/4/23 2:18 AM</td>
 <td style="font-weight: 400;" width="166">2/4/23 3:13 AM</td>

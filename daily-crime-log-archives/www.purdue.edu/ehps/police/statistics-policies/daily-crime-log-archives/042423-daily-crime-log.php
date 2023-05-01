@@ -821,7 +821,7 @@
 <td style="font-weight: 400;" width="168">4/21/23 6:30 PM</td>
 <td style="font-weight: 400;" width="166">4/24/23 9:19 PM</td>
 <td style="font-weight: 400;" width="212">Electrical Engineering Building</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft</td>
@@ -935,7 +935,7 @@
 <td style="font-weight: 400;" width="168">4/22/23 12:23 AM</td>
 <td style="font-weight: 400;" width="166">4/22/23 12:40 AM</td>
 <td style="font-weight: 400;" width="212">Shreve Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft</td>
