@@ -655,7 +655,7 @@
 <td style="font-weight: 400;" width="168">1/6/23 8:00 PM</td>
 <td style="font-weight: 400;" width="166">4/27/23 3:32 PM</td>
 <td style="font-weight: 400;" width="212">400 Blk McCutcheon Dr</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Battery-Simple</td>
@@ -663,7 +663,7 @@
 <td style="font-weight: 400;" width="168">4/23/23 3:30 AM</td>
 <td style="font-weight: 400;" width="166">4/28/23 3:49 PM</td>
 <td style="font-weight: 400;" width="212">400 Blk McCutcheon Dr</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Stalking</td>

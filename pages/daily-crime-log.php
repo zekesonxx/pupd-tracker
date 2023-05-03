@@ -673,7 +673,98 @@
   
     	<section class="content__group">
   					<h3>Wednesday, May 3, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00654</td>
+<td style="font-weight: 400;" width="168">5/2/23 8:08 AM</td>
+<td style="font-weight: 400;" width="166">5/2/23 8:40 AM</td>
+<td style="font-weight: 400;" width="212">Alpha Phi</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00655</td>
+<td style="font-weight: 400;" width="168">5/1/23 8:00 PM</td>
+<td style="font-weight: 400;" width="166">5/2/23 10:06 AM</td>
+<td style="font-weight: 400;" width="212">Zeta Psi</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00656</td>
+<td style="font-weight: 400;" width="168">5/1/23 5:30 PM</td>
+<td style="font-weight: 400;" width="166">5/2/23 10:13 AM</td>
+<td style="font-weight: 400;" width="212">Zeta Psi</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Unlawful Entry of Motor Vehicle</td>
+<td style="font-weight: 400;" width="154">2023PU00657</td>
+<td style="font-weight: 400;" width="168">5/2/23 10:20 AM</td>
+<td style="font-weight: 400;" width="166">5/2/23 11:03 AM</td>
+<td style="font-weight: 400;" width="212">Alpha Chi Omega</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Unlawful Entry of Motor Vehicle</td>
+<td style="font-weight: 400;" width="154">2023PU00658</td>
+<td style="font-weight: 400;" width="168">5/2/23010:23</td>
+<td style="font-weight: 400;" width="166">5/2/23 11:06 AM</td>
+<td style="font-weight: 400;" width="212">Alpha Chi Omega</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00659</td>
+<td style="font-weight: 400;" width="168">5/2/23 11:02 AM</td>
+<td style="font-weight: 400;" width="166">5/2/23 11:09 AM</td>
+<td style="font-weight: 400;" width="212">Alpha Chi Omega</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00661</td>
+<td style="font-weight: 400;" width="168">5/1/23 5:00 PM</td>
+<td style="font-weight: 400;" width="166">5/2/23 11:34 AM</td>
+<td style="font-weight: 400;" width="212">Circle Pines Cooperative</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00662</td>
+<td style="font-weight: 400;" width="168">5/2/23 11:18 AM</td>
+<td style="font-weight: 400;" width="166">5/2/23 11:38 AM</td>
+<td style="font-weight: 400;" width="212">Circle Pines Cooperative</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00663</td>
+<td style="font-weight: 400;" width="168">4/18/23 1:30 PM</td>
+<td style="font-weight: 400;" width="166">5/2/23 1:15 PM</td>
+<td style="font-weight: 400;" width="212">Mechanical Engineering Building</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Operating While Never Receiving a License</td>
+<td style="font-weight: 400;" width="154">2023PU00664</td>
+<td style="font-weight: 400;" width="168">5/2/23 2:53 PM</td>
+<td style="font-weight: 400;" width="166">5/2/23 3:55 PM</td>
+<td style="font-weight: 400;" width="212">100 Blk N Grant St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
