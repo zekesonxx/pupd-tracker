@@ -727,7 +727,7 @@
 <tr>
 <td style="font-weight: 400;" width="187">Theft</td>
 <td style="font-weight: 400;" width="154">2023PU00675</td>
-<td style="font-weight: 400;" width="168">5/3/23 4:57 PM</td>
+<td style="font-weight: 400;" width="168">4/15/23 12:00 AM</td>
 <td style="font-weight: 400;" width="166">5/3/23 5:33 PM</td>
 <td style="font-weight: 400;" width="212">Sigma Pi</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
