@@ -620,6 +620,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log</h2>
 <ul>
+<li><a href="050123-daily-crime-log.php" title="050123 Daily Crime Log">Week of May 1, 2023</a></li>
 <li><a href="042423-daily-crime-log.php" title="042423 Daily Crime Log">Week of April 24, 2023</a></li>
 <li><a href="041723-daily-crime-log.php" title="041723 Daily Crime Log">Week of April 17, 2023</a></li>
 <li><a href="041023-daily-crime-log.php" title="041023 Daily Crime Log">Week of April 10, 2023</a></li>
@@ -632,7 +633,7 @@
 <li><a href="022023-daily-crime-log.php" title="022023 Daily Crime Log">Week of February 20, 2023</a></li>
 <li><a href="021323-daily-crime-log.php" title="021323 Daily Crime Log">Week of February 13, 2023</a></li>
 <li><a href="020623-daily-crime-log.php" title="020623 Daily Crime Log">Week of February 6, 2023</a></li>
-<li><a href="013023-daily-crime-log.php" title="013023 Daily Crime Log">Week of January 30, 2023</a><a href="2022-archive/010223-daily-crime-log.php" title="010223 Daily Crime Log"></a><a href="2022-archive/120522-daily-crime-log.php" title="120522 Daily Crime Log"></a><a href="2022-archive/110722-daily-crime-log.php" title="110722 Daily Crime Log"></a><a href="2022-archive/100322-daily-crime-log.php"></a><a href="2022-archive/090522-daily-crime-log.php" title="090522 Daily Crime Log"></a><a href="2022-archive/080122-daily-crime-log.php"></a></li>
+<li><a href="013023-daily-crime-log.php" title="013023 Daily Crime Log">Week of January 30, 2023</a><a href="2023-archive/010223-daily-crime-log.php" title="010223 Daily Crime Log"></a><a href="2022-archive/120522-daily-crime-log.php" title="120522 Daily Crime Log"></a><a href="2022-archive/110722-daily-crime-log.php" title="110722 Daily Crime Log"></a><a href="2022-archive/100322-daily-crime-log.php"></a><a href="2022-archive/090522-daily-crime-log.php" title="090522 Daily Crime Log"></a><a href="2022-archive/080122-daily-crime-log.php"></a></li>
 </ul>
 		</section>
 	
