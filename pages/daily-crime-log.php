@@ -687,7 +687,122 @@
   
     	<section class="content__group">
   					<h3>Monday, May 8, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00682</td>
+<td style="font-weight: 400;" width="168">4/2/23 9:25 AM</td>
+<td style="font-weight: 400;" width="166">5/5/23 9:44 AM</td>
+<td style="font-weight: 400;" width="212">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Conversion</td>
+<td style="font-weight: 400;" width="154">2023PU00684</td>
+<td style="font-weight: 400;" width="168">5/5/23 10:51 AM</td>
+<td style="font-weight: 400;" width="166">5/5/23 11:26 AM</td>
+<td style="font-weight: 400;" width="212">Martin Jischke Dr/1st St N</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU00685</td>
+<td style="font-weight: 400;" width="168">5/5/23 11:09 AM</td>
+<td style="font-weight: 400;" width="166">5/5/23 11:30 AM</td>
+<td style="font-weight: 400;" width="212">Waldron Square Apts.</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00686</td>
+<td style="font-weight: 400;" width="168">5/5/23 12:02 PM</td>
+<td style="font-weight: 400;" width="166">5/5/23 1:01 PM</td>
+<td style="font-weight: 400;" width="212">Aspire</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00687</td>
+<td style="font-weight: 400;" width="168">5/4/23 10:00 PM</td>
+<td style="font-weight: 400;" width="166">5/5/23 2:40 PM</td>
+<td style="font-weight: 400;" width="212">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00688</td>
+<td style="font-weight: 400;" width="168">5/5/23 2:30 PM</td>
+<td style="font-weight: 400;" width="166">5/5/23 2:41 PM</td>
+<td style="font-weight: 400;" width="212">Crosswalk Commons</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00689</td>
+<td style="font-weight: 400;" width="168">4/24/23 8:58 AM</td>
+<td style="font-weight: 400;" width="166">5/5/23 3:22 PM</td>
+<td style="font-weight: 400;" width="212">Hawkins Graduate House</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00692</td>
+<td style="font-weight: 400;" width="168">5/5/23 7:00 PM</td>
+<td style="font-weight: 400;" width="166">5/6/23 7:53 AM</td>
+<td style="font-weight: 400;" width="212">Birck Boilermaker Golfe Complex</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00693</td>
+<td style="font-weight: 400;" width="168">4/19/23 12:00 AM</td>
+<td style="font-weight: 400;" width="166">5/6/23 1:31 PM</td>
+<td style="font-weight: 400;" width="212">Cary Quad East</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU00695</td>
+<td style="font-weight: 400;" width="168">5/7/23 11:52 AM</td>
+<td style="font-weight: 400;" width="166">5/7/23 12:37 PM</td>
+<td style="font-weight: 400;" width="212">Tarkington Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00696</td>
+<td style="font-weight: 400;" width="168">5/5/23 12:00 AM</td>
+<td style="font-weight: 400;" width="166">5/7/23 12:44 PM</td>
+<td style="font-weight: 400;" width="212">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00697</td>
+<td style="font-weight: 400;" width="168">5/7/23 12:13 PM</td>
+<td style="font-weight: 400;" width="166">5/7/23 12:46 PM</td>
+<td style="font-weight: 400;" width="212">Aspire</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-063856</td>
+<td style="font-weight: 400;" width="168">5/4/23 11:28 PM</td>
+<td style="font-weight: 400;" width="166">5/4/23 11:28 PM</td>
+<td style="font-weight: 400;" width="212">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
