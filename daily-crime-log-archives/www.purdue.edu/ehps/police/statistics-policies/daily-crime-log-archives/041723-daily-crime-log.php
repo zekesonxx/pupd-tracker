@@ -1023,7 +1023,7 @@
 <td style="font-weight: 400;" width="168">4/15/23 8:36 PM</td>
 <td style="font-weight: 400;" width="166">4/15/23 8:51 PM</td>
 <td style="font-weight: 400;" width="212">Brees Athletic Center</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Battery-Simple</td>

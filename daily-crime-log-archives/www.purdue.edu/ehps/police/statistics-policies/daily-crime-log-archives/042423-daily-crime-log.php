@@ -991,7 +991,7 @@
 <td style="font-weight: 400;" width="168">4/23/23 8:30 PM</td>
 <td style="font-weight: 400;" width="166">4/23/23 9:03 PM</td>
 <td style="font-weight: 400;" width="212">Aspire</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Drug Law Violation/Resisting Law Enforcement</td>
