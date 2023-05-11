@@ -666,7 +666,50 @@
   
     	<section class="content__group">
   					<h3>Thursday, May 11, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00705</td>
+<td style="font-weight: 400;" width="168">5/10/23 9:04 AM</td>
+<td style="font-weight: 400;" width="166">5/10/23 9:19 AM</td>
+<td style="font-weight: 400;" width="212">Northwestern Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00706</td>
+<td style="font-weight: 400;" width="168">5/5/23 10:30 AM</td>
+<td style="font-weight: 400;" width="166">5/10/23 10:08 AM</td>
+<td style="font-weight: 400;" width="212">McCutcheon Parking Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2023PU00707</td>
+<td style="font-weight: 400;" width="168">5/10/23 11:07 AM</td>
+<td style="font-weight: 400;" width="166">5/10/23 11:16 AM</td>
+<td style="font-weight: 400;" width="212">100 Blk Waldron St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-066538</td>
+<td style="font-weight: 400;" width="168">5/9/23 5:20 PM</td>
+<td style="font-weight: 400;" width="166">5/9/23 5:20 PM</td>
+<td style="font-weight: 400;" width="212">US HWY 231 S/Airport Rd</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
