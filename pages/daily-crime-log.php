@@ -687,7 +687,66 @@
   
     	<section class="content__group">
   					<h3>Monday, May 15, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00712</td>
+<td style="font-weight: 400;" width="168">5/12/23 7:00 AM</td>
+<td style="font-weight: 400;" width="166">5/12/23 1:51 PM</td>
+<td style="font-weight: 400;" width="212">Earhart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00713</td>
+<td style="font-weight: 400;" width="168">5/12/23 1:30 PM</td>
+<td style="font-weight: 400;" width="166">5/12/23 4:10 PM</td>
+<td style="font-weight: 400;" width="212">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00714</td>
+<td style="font-weight: 400;" width="168">5/8/23 2:30 PM</td>
+<td style="font-weight: 400;" width="166">5/12/23 4:46 PM</td>
+<td style="font-weight: 400;" width="212">Krannert</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespass</td>
+<td style="font-weight: 400;" width="154">2023PU00715</td>
+<td style="font-weight: 400;" width="168">5/12/23 10:58 PM</td>
+<td style="font-weight: 400;" width="166">5/12/23 11:11 PM</td>
+<td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2023PU00717</td>
+<td style="font-weight: 400;" width="168">5/13/23 1:19 AM</td>
+<td style="font-weight: 400;" width="166">5/13/23 1:19 AM</td>
+<td style="font-weight: 400;" width="212">US HWY 231 S/Ahlers Dr</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00718</td>
+<td style="font-weight: 400;" width="168">5/13/23 2:30 PM</td>
+<td style="font-weight: 400;" width="166">5/13/23 4:14 PM</td>
+<td style="font-weight: 400;" width="212">Neil Armstrong Hall of Engineering</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
