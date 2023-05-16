@@ -967,7 +967,7 @@
 <td style="font-weight: 400;" width="168">4/29/23 3:03 AM</td>
 <td style="font-weight: 400;" width="166">4/29/23 3:28 AM</td>
 <td style="font-weight: 400;" width="212">Owen Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft-Bike</td>
