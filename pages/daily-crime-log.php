@@ -666,7 +666,50 @@
   
     	<section class="content__group">
   					<h3>Thursday, May 18, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-070584</td>
+<td style="font-weight: 400;" width="168">5/16/23 7:22 AM</td>
+<td style="font-weight: 400;" width="166">5/16/23 7:22 AM</td>
+<td style="font-weight: 400;" width="212">Knoy Hall of Technology</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-070714</td>
+<td style="font-weight: 400;" width="168">5/16/23 10:30 PM</td>
+<td style="font-weight: 400;" width="166">5/16/23 10:10 PM</td>
+<td style="font-weight: 400;" width="212">1400 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="181">Documented 2023WL01228 : Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drunk Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-070724</td>
+<td style="font-weight: 400;" width="168">5/16/23 10:55 PM</td>
+<td style="font-weight: 400;" width="166">5/16/23 10:55 PM</td>
+<td style="font-weight: 400;" width="212">US HWY 231 S/Ahlers Dr</td>
+<td style="font-weight: 400;" width="181">Documented 2023WL01229 : Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-070767</td>
+<td style="font-weight: 400;" width="168">5/17/23 12:14 AM</td>
+<td style="font-weight: 400;" width="166">5/17/23 12:14 AM</td>
+<td style="font-weight: 400;" width="212">100 Blk N Grant St</td>
+<td style="font-weight: 400;" width="181">Documented 2023WL01230 : Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
