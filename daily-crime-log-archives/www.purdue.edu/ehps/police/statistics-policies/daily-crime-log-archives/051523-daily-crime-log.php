@@ -911,7 +911,7 @@
 <td style="font-weight: 400;" width="168">5/12/23 10:58 PM</td>
 <td style="font-weight: 400;" width="166">5/12/23 11:11 PM</td>
 <td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
@@ -1151,7 +1151,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://www.purdue.edu/bursar/tuition/calculator.php">Tuition Calculator</a></li>
+                <li role="listitem"><a href="https://www.purdue.edu/treasurer/finance/bursar-office/tuition/tuition-calculator/">Tuition Calculator</a></li>
                                 
         
                             

@@ -967,7 +967,7 @@
 <td style="font-weight: 400;" width="168">4/22/23 10:30 PM</td>
 <td style="font-weight: 400;" width="166">4/22/23 11:40 PM</td>
 <td style="font-weight: 400;" width="212">Hawkins Graduate House</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Drug Law Violation</td>
@@ -1239,7 +1239,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://www.purdue.edu/bursar/tuition/calculator.php">Tuition Calculator</a></li>
+                <li role="listitem"><a href="https://www.purdue.edu/treasurer/finance/bursar-office/tuition/tuition-calculator/">Tuition Calculator</a></li>
                                 
         
                             
