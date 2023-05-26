@@ -665,6 +665,14 @@
 <td style="font-weight: 400;" width="212">McCormick Rd/West State St</td>
 <td style="font-weight: 400;" width="181">Nothing Further</td>
 </tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2023PU00751</td>
+<td style="font-weight: 400;" width="168">5/25/23 11:59 PM</td>
+<td style="font-weight: 400;" width="166">5/26/23 1:17 AM</td>
+<td style="font-weight: 400;" width="212">S Grant St/W Williams St</td>
+<td style="font-weight: 400;" width="181">Assisting Another Agency Ref. 2023WL01318, 2023WL01319, 2023WL01320 - Nothing Further</td>
+</tr>
 </tbody>
 </table>
 		</section>
