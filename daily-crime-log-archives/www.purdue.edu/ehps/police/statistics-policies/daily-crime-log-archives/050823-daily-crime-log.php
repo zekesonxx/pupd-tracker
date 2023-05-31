@@ -739,7 +739,7 @@
 <td style="font-weight: 400;" width="168">5/9/23 3:35 AM</td>
 <td style="font-weight: 400;" width="166">5/9/23 10:26 AM</td>
 <td style="font-weight: 400;" width="212">Cary Quad East</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Criminal Mischief</td>
@@ -1135,7 +1135,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://www.purdue.edu/bursar/tuition/calculator.php">Tuition Calculator</a></li>
+                <li role="listitem"><a href="https://www.purdue.edu/treasurer/finance/bursar-office/tuition/tuition-calculator/">Tuition Calculator</a></li>
                                 
         
                             
@@ -1175,7 +1175,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://www.itap.purdue.edu/">Information Technology</a></li>
+                <li role="listitem"><a href="https://it.purdue.edu/">Information Technology</a></li>
                                 
         
                             
