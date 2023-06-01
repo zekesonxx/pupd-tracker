@@ -823,7 +823,7 @@
 <td style="font-weight: 400;" width="168">5/5/23 10:51 AM</td>
 <td style="font-weight: 400;" width="166">5/5/23 11:26 AM</td>
 <td style="font-weight: 400;" width="212">Martin Jischke Dr/1st St N</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft-EMPV</td>
