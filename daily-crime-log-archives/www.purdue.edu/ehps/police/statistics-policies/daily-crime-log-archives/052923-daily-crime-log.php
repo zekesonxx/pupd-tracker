@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			040323 Daily Crime Log - 
+			052923 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -638,7 +638,7 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, April 7, 2023</h3>
+  					<h3>Friday, June 2, 2023</h3>
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
@@ -650,192 +650,20 @@
 <th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="187">Harassment</td>
-<td style="font-weight: 400;" width="154">2023PU00480</td>
-<td style="font-weight: 400;" width="168">4/6/23 10:00 AM</td>
-<td style="font-weight: 400;" width="166">4/6/23 11:41 AM</td>
-<td style="font-weight: 400;" width="212">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00767</td>
+<td style="font-weight: 400;" width="168">6/1/23 8:09 AM</td>
+<td style="font-weight: 400;" width="166">6/1/23 8:10 AM</td>
+<td style="font-weight: 400;" width="212">N Russell St/W Stadium Ave</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Harassment</td>
-<td style="font-weight: 400;" width="154">2023PU00482</td>
-<td style="font-weight: 400;" width="168">4/6/23 3:32 PM</td>
-<td style="font-weight: 400;" width="166">4/6/23 3:33 PM</td>
-<td style="font-weight: 400;" width="212">Acacia Fraternity</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft-EMPV</td>
-<td style="font-weight: 400;" width="154">2023PU00483</td>
-<td style="font-weight: 400;" width="168">4/5/23 9:30 PM</td>
-<td style="font-weight: 400;" width="166">4/6/23 5:05 PM</td>
-<td style="font-weight: 400;" width="212">Hawkins Graduate House</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Minor Consumption</td>
-<td style="font-weight: 400;" width="154">2023PU00485</td>
-<td style="font-weight: 400;" width="168">4/7/23 1:48 AM</td>
-<td style="font-weight: 400;" width="166">4/7/23 2:25 AM</td>
-<td style="font-weight: 400;" width="212">W State St/N Grant St</td>
-<td style="font-weight: 400;" width="181">Closed</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Fraud</td>
-<td style="font-weight: 400;" width="154">CSA</td>
-<td style="font-weight: 400;" width="168">4/6/2023 3:00</td>
-<td style="font-weight: 400;" width="166">4/6/2023 14:14</td>
-<td style="font-weight: 400;" width="212">Off-Campus Location</td>
-<td style="font-weight: 400;" width="181">This was determined to be outside Clery Reportable Geography - Documented in 2023PU00482</td>
-</tr>
-</tbody>
-</table>
-		</section>
-	
-          <div class="clearfix"></div>
-  
-    	<section class="content__group">
-  					<h3>Thursday, April 6, 2023</h3>
-<table cellpadding="3" cellspacing="3" style="float: left;" width="100%">
-<tbody>
-<tr>
-<td width="187">Nature</td>
-<td width="154">Case Number</td>
-<td width="168">Date/Time Occurred</td>
-<td width="166">Date/Time Reported</td>
-<td width="212">General Location</td>
-<td width="181">Disposition&#160;</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2023PU00473</td>
-<td style="font-weight: 400;" width="168">4/5/23 8:00 AM</td>
-<td style="font-weight: 400;" width="166">4/5/23 12:28 PM</td>
-<td style="font-weight: 400;" width="212">Lilly Hall of Life Sciences</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2023PU00474</td>
-<td style="font-weight: 400;" width="168">4/5/23 8:28 PM</td>
-<td style="font-weight: 400;" width="166">4/5/23 8:51 PM</td>
-<td style="font-weight: 400;" width="212">Hampton Hall of Civil Engineering</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2023PU00475</td>
-<td style="font-weight: 400;" width="168">4/5/23 10:22 PM</td>
-<td style="font-weight: 400;" width="166">4/5/23 10:34 PM</td>
-<td style="font-weight: 400;" width="212">Class of 1950 Lecture Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Trespassing/Minor Consumption</td>
-<td style="font-weight: 400;" width="154">2023PU00476</td>
-<td style="font-weight: 400;" width="168">4/5/23 11:16 PM</td>
-<td style="font-weight: 400;" width="166">4/5/23 11:57 PM</td>
-<td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="181">One Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Drug Law Violation&#160;</td>
-<td style="font-weight: 400;" width="154">CAD#2023-047157</td>
-<td style="font-weight: 400;" width="168">4/4/2023 20:42</td>
-<td style="font-weight: 400;" width="166">4/4/2023 20:42</td>
-<td style="font-weight: 400;" width="212">First St Towers</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft Of Property&#160;</td>
-<td style="font-weight: 400;" width="154">CAD#2023-046959</td>
-<td style="font-weight: 400;" width="168">4/4/2023 14:50</td>
-<td style="font-weight: 400;" width="166">4/4/2023 14:50</td>
-<td style="font-weight: 400;" width="212">College Of Pharmacy&#160;</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-</tbody>
-</table>
-		</section>
-	
-          <div class="clearfix"></div>
-  
-    	<section class="content__group">
-  					<h3>Wednesday, April 5, 2023</h3>
-<table width="100%">
-<tbody>
-<tr>
-<th scope="col" width="187">Nature</th>
-<th scope="col" width="154">Case Number</th>
-<th scope="col" width="168">Date/Time Occurred</th>
-<th scope="col" width="166">Date/Time Reported</th>
-<th scope="col" width="212">General Location</th>
-<th scope="col" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft</td>
-<td style="font-weight: 400;" width="154">2023PU00465</td>
-<td style="font-weight: 400;" width="168">4/4/23 11:26 AM</td>
-<td style="font-weight: 400;" width="166">4/4/23 11:44 AM</td>
-<td style="font-weight: 400;" width="212">Bechtel Innovation Design Center</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft-EMPV</td>
-<td style="font-weight: 400;" width="154">2023PU00466</td>
-<td style="font-weight: 400;" width="168">3/31/23 11:00 AM</td>
-<td style="font-weight: 400;" width="166">4/4/23 11:47 AM</td>
-<td style="font-weight: 400;" width="212">Wilmeth Active Learning Center</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2023PU00467</td>
-<td style="font-weight: 400;" width="168">4/4/23 9:19 AM</td>
-<td style="font-weight: 400;" width="166">4/4/23 12:39 PM</td>
-<td style="font-weight: 400;" width="212">Lambertus Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Harassment</td>
-<td style="font-weight: 400;" width="154">2023PU00469</td>
-<td style="font-weight: 400;" width="168">4/3/23 11:59 AM</td>
-<td style="font-weight: 400;" width="166">4/4/23 4:19 PM</td>
-<td style="font-weight: 400;" width="212">Stewart Center</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Blackmail</td>
-<td style="font-weight: 400;" width="154">2023PU00472</td>
-<td style="font-weight: 400;" width="168">4/4/23 7:54 PM</td>
-<td style="font-weight: 400;" width="166">4/4/23 10:34 PM</td>
-<td style="font-weight: 400;" width="212">Harrison Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Drug Law Violation&#160;</td>
-<td style="font-weight: 400;" width="154">CAD#2023-045170</td>
-<td style="font-weight: 400;" width="168">4/1/23 1:40 AM</td>
-<td style="font-weight: 400;" width="166">4/1/23 1:40 AM</td>
+<td style="font-weight: 400;" width="154">2023PU00768</td>
+<td style="font-weight: 400;" width="168">5/31/23 8:39 AM</td>
+<td style="font-weight: 400;" width="166">6/1/23 9:34 AM</td>
 <td style="font-weight: 400;" width="212">Aspire</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Rape</td>
-<td style="font-weight: 400;" width="154">CSA</td>
-<td style="font-weight: 400;" width="168">4/1/23 2:00 AM</td>
-<td style="font-weight: 400;" width="166">4/3/23 9:35 AM</td>
-<td style="font-weight: 400;" width="212">Non-Campus Location</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Fondling/Stalking</td>
-<td style="font-weight: 400;" width="154">CSA</td>
-<td style="font-weight: 400;" width="168">11/1/22 12:00 AM</td>
-<td style="font-weight: 400;" width="166">4/4/23 2:30 PM</td>
-<td style="font-weight: 400;" width="212">On-Campus Location</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 </tbody>
 </table>
@@ -844,138 +672,110 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday,&#160;April 4, 2023</h3>
-<p>Nothing to report.</p>
-		</section>
-	
-          <div class="clearfix"></div>
-  
-    	<section class="content__group">
-  					<h3>Monday, April 3, 2023</h3>
+  					<h3>Thursday, June 1, 2023</h3>
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
-<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="187">Fraud</td>
-<td style="font-weight: 400;" width="154">2023PU00441</td>
-<td style="font-weight: 400;" width="168">3/31/23 9:57 AM</td>
-<td style="font-weight: 400;" width="166">3/31/23 10:33 AM</td>
-<td style="font-weight: 400;" width="212">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2023PU00442</td>
-<td style="font-weight: 400;" width="168">3/31/23 11:14 AM</td>
-<td style="font-weight: 400;" width="166">3/31/23 11:44 AM</td>
-<td style="font-weight: 400;" width="212">Phi Sigma Rho</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2023PU00445</td>
-<td style="font-weight: 400;" width="168">3/30/23 7:00 PM</td>
-<td style="font-weight: 400;" width="166">3/31/23 3:12 PM</td>
-<td style="font-weight: 400;" width="212">Zeta PSI</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft-EMPV</td>
-<td style="font-weight: 400;" width="154">2023PU00447</td>
-<td style="font-weight: 400;" width="168">3/31/23 3:00 PM</td>
-<td style="font-weight: 400;" width="166">3/31/23 5:52 PM</td>
-<td style="font-weight: 400;" width="212">Stewart Center</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft-EMPV</td>
-<td style="font-weight: 400;" width="154">2023PU00448</td>
-<td style="font-weight: 400;" width="168">3/31/23 2:30 PM</td>
-<td style="font-weight: 400;" width="166">3/31/23 5:54 PM</td>
-<td style="font-weight: 400;" width="212">Stewart Center</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Minor Consumption</td>
-<td style="font-weight: 400;" width="154">2023PU00452</td>
-<td style="font-weight: 400;" width="168">4/1/23 4:19 AM</td>
-<td style="font-weight: 400;" width="166">4/1/23 4:38 AM</td>
-<td style="font-weight: 400;" width="212">Earhart Hall</td>
-<td style="font-weight: 400;" width="181">Closed</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2023PU00453</td>
-<td style="font-weight: 400;" width="168">4/1/23 6:00 PM</td>
-<td style="font-weight: 400;" width="166">4/1/23 6:35 PM</td>
-<td style="font-weight: 400;" width="212">Lambertus Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Dating Violence/Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2023PU00456</td>
-<td style="font-weight: 400;" width="168">4/1/23 4:00 AM</td>
-<td style="font-weight: 400;" width="166">4/2/23 12:12 AM</td>
-<td style="font-weight: 400;" width="212">Frieda Parker Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Minor Consumption</td>
-<td style="font-weight: 400;" width="154">2023PU00457</td>
-<td style="font-weight: 400;" width="168">4/2/23 2:10 AM</td>
-<td style="font-weight: 400;" width="166">4/2/23 2:29 AM</td>
-<td style="font-weight: 400;" width="212">Owen Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Blackmail</td>
-<td style="font-weight: 400;" width="154">2023PU00459</td>
-<td style="font-weight: 400;" width="168">4/2/23 7:00 AM</td>
-<td style="font-weight: 400;" width="166">4/2/23 8:54 AM</td>
-<td style="font-weight: 400;" width="212">Sigma Nu</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2023PU00460</td>
-<td style="font-weight: 400;" width="168">3/18/23 1:44 PM</td>
-<td style="font-weight: 400;" width="166">4/2/23 1:59 PM</td>
-<td style="font-weight: 400;" width="212">Harrison Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2023PU00461</td>
-<td style="font-weight: 400;" width="168">4/2/23 6:01 PM</td>
-<td style="font-weight: 400;" width="166">4/2/23 6:25 PM</td>
-<td style="font-weight: 400;" width="212">Grant St Parking Garage</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2023PU00463</td>
-<td style="font-weight: 400;" width="168">4/3/23 1:35 AM</td>
-<td style="font-weight: 400;" width="166">4/3/23 1:42 AM</td>
-<td style="font-weight: 400;" width="212">Engineering Fountain</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Drug Law Violation&#160;</td>
-<td style="font-weight: 400;" width="154">CAD#2023-044253</td>
-<td style="font-weight: 400;" width="168">3/30/23 2:04 PM</td>
-<td style="font-weight: 400;" width="166">3/30/23 2:04 PM</td>
-<td style="font-weight: 400;" width="212">Cary Hall</td>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00766</td>
+<td style="font-weight: 400;" width="168">5/31/23 8:30 AM</td>
+<td style="font-weight: 400;" width="166">5/31/23 6:14 PM</td>
+<td style="font-weight: 400;" width="212">Hampton Hall of Civil Engineering</td>
 <td style="font-weight: 400;" width="181">Nothing Further</td>
 </tr>
 </tbody>
 </table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Wednesday, May 31, 2023</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-077165</td>
+<td style="font-weight: 400;" width="168">5/29/23 1:52 PM</td>
+<td style="font-weight: 400;" width="166">5/29/23 1:52 PM</td>
+<td style="font-weight: 400;" width="212">US HWY 231 S/W State St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Tuesday,&#160;May 30, 2023</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2023PU00757</td>
+<td style="font-weight: 400;" width="168">5/27/23 1:53 AM</td>
+<td style="font-weight: 400;" width="166">5/27/23 2:26 AM</td>
+<td style="font-weight: 400;" width="212">US HWY 231 S/W State St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2023PU00758</td>
+<td style="font-weight: 400;" width="168">5/27/23 2:40 AM</td>
+<td style="font-weight: 400;" width="166">5/27/23 3:19 AM</td>
+<td style="font-weight: 400;" width="212">Airport Rd/US HWY 231 S&#160;</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Fraud</td>
+<td style="font-weight: 400;" width="154">2023PU00760</td>
+<td style="font-weight: 400;" width="168">5/28/23 8:50 PM</td>
+<td style="font-weight: 400;" width="166">5/28/23 9:36 PM</td>
+<td style="font-weight: 400;" width="212">Crosswalk Commons</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00761</td>
+<td style="font-weight: 400;" width="168">5/27/23 1:00 PM</td>
+<td style="font-weight: 400;" width="166">5/29/23 2:23 PM</td>
+<td style="font-weight: 400;" width="212">First Street Towers West</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Monday, May 29, 2023</h3>
+<p>Memorial Day.</p>
 		</section>
 	
           <div class="clearfix"></div>

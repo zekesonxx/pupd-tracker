@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			052923 Daily Crime Log - 
+			060523 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -658,117 +658,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, June 2, 2023</h3>
+  					<h3>Friday, June 9, 2023</h3>
 <p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, June 1, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft</td>
-<td style="font-weight: 400;" width="154">2023PU00766</td>
-<td style="font-weight: 400;" width="168">5/31/23 8:30 AM</td>
-<td style="font-weight: 400;" width="166">5/31/23 6:14 PM</td>
-<td style="font-weight: 400;" width="212">Hampton Hall of Civil Engineering</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, June 8, 2023</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, May 31, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Reckless Driver</td>
-<td style="font-weight: 400;" width="154">CAD# 2023-077165</td>
-<td style="font-weight: 400;" width="168">5/29/23 1:52 PM</td>
-<td style="font-weight: 400;" width="166">5/29/23 1:52 PM</td>
-<td style="font-weight: 400;" width="212">US HWY 231 S/W State St</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, June 7, 2023</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday,&#160;May 30, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="154">2023PU00757</td>
-<td style="font-weight: 400;" width="168">5/27/23 1:53 AM</td>
-<td style="font-weight: 400;" width="166">5/27/23 2:26 AM</td>
-<td style="font-weight: 400;" width="212">US HWY 231 S/W State St</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="154">2023PU00758</td>
-<td style="font-weight: 400;" width="168">5/27/23 2:40 AM</td>
-<td style="font-weight: 400;" width="166">5/27/23 3:19 AM</td>
-<td style="font-weight: 400;" width="212">Airport Rd/US HWY 231 S&#160;</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Fraud</td>
-<td style="font-weight: 400;" width="154">2023PU00760</td>
-<td style="font-weight: 400;" width="168">5/28/23 8:50 PM</td>
-<td style="font-weight: 400;" width="166">5/28/23 9:36 PM</td>
-<td style="font-weight: 400;" width="212">Crosswalk Commons</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2023PU00761</td>
-<td style="font-weight: 400;" width="168">5/27/23 1:00 PM</td>
-<td style="font-weight: 400;" width="166">5/29/23 2:23 PM</td>
-<td style="font-weight: 400;" width="212">First Street Towers West</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday,&#160;June 6, 2023</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, May 29, 2023</h3>
-<p>Memorial Day.</p>
+  					<h3>Monday, June 5, 2023</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
