@@ -687,7 +687,50 @@
   
     	<section class="content__group">
   					<h3>Monday, June 5, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00771</td>
+<td style="font-weight: 400;" width="168">6/2/23 5:10 PM</td>
+<td style="font-weight: 400;" width="166">6/2/23 5:24 PM</td>
+<td style="font-weight: 400;" width="212">Pfendler Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation/Resisting Law Enforcement</td>
+<td style="font-weight: 400;" width="154">2023PU00774</td>
+<td style="font-weight: 400;" width="168">6/4/23 1:51 AM</td>
+<td style="font-weight: 400;" width="166">6/4/23 2:28 AM</td>
+<td style="font-weight: 400;" width="212">W Stadium Ave/McCormick Rd</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Stalking/Invasion of Privacy</td>
+<td style="font-weight: 400;" width="154">2023PU00775</td>
+<td style="font-weight: 400;" width="168">6/2/23 8:05 PM</td>
+<td style="font-weight: 400;" width="166">6/4/23 2:55 PM</td>
+<td style="font-weight: 400;" width="212">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Stalking</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">6/2/23 8:10 PM</td>
+<td style="font-weight: 400;" width="166">6/2/23 8:18 PM</td>
+<td style="font-weight: 400;" width="212">On-Campus Housing</td>
+<td style="font-weight: 400;" width="181">Documented in 2023PU00775</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
