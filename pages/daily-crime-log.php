@@ -673,7 +673,42 @@
   
     	<section class="content__group">
   					<h3>Wednesday, June 7, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Fraud</td>
+<td style="font-weight: 400;" width="154">2023PU00770</td>
+<td style="font-weight: 400;" width="168">5/31/23 8:00 AM</td>
+<td style="font-weight: 400;" width="166">6/2/23 11:28 AM</td>
+<td style="font-weight: 400;" width="212">On-Campus Location</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Harassment</td>
+<td style="font-weight: 400;" width="154">2023PU00780</td>
+<td style="font-weight: 400;" width="168">6/6/23 9:25 AM</td>
+<td style="font-weight: 400;" width="166">6/6/23 10:13 AM</td>
+<td style="font-weight: 400;" width="212">Wade Utility Plant</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2023PU00782</td>
+<td style="font-weight: 400;" width="168">6/6/23 10:38 PM</td>
+<td style="font-weight: 400;" width="166">6/7/23 12:00 AM</td>
+<td style="font-weight: 400;" width="212">800 Blk 3rd St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
