@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			060523 Daily Crime Log - 
+			061223 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -658,176 +658,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, June 9, 2023</h3>
+  					<h3>Friday, June 16, 2023</h3>
 <p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, June 8, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Fraud</td>
-<td style="font-weight: 400;" width="154">2023PU00783</td>
-<td style="font-weight: 400;" width="168">6/6/23 9:53 PM</td>
-<td style="font-weight: 400;" width="166">6/7/23 8:12 AM</td>
-<td style="font-weight: 400;" width="212">Winifred Parker Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Trespassing</td>
-<td style="font-weight: 400;" width="154">CAD# 2023-081672</td>
-<td style="font-weight: 400;" width="168">6/6/23 8:04 PM</td>
-<td style="font-weight: 400;" width="166">6/6/23 8:04 PM</td>
-<td style="font-weight: 400;" width="212">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, June 15, 2023</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, June 7, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Fraud</td>
-<td style="font-weight: 400;" width="154">2023PU00770</td>
-<td style="font-weight: 400;" width="168">5/31/23 8:00 AM</td>
-<td style="font-weight: 400;" width="166">6/2/23 11:28 AM</td>
-<td style="font-weight: 400;" width="212">On-Campus Location</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Harassment</td>
-<td style="font-weight: 400;" width="154">2023PU00780</td>
-<td style="font-weight: 400;" width="168">6/6/23 9:25 AM</td>
-<td style="font-weight: 400;" width="166">6/6/23 10:13 AM</td>
-<td style="font-weight: 400;" width="212">Wade Utility Plant</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Drug Law Violation</td>
-<td style="font-weight: 400;" width="154">2023PU00782</td>
-<td style="font-weight: 400;" width="168">6/6/23 10:38 PM</td>
-<td style="font-weight: 400;" width="166">6/7/23 12:00 AM</td>
-<td style="font-weight: 400;" width="212">800 Blk 3rd St</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, June 14, 2023</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday,&#160;June 6, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="154">2023PU00778</td>
-<td style="font-weight: 400;" width="168">6/5/23 3:58 PM</td>
-<td style="font-weight: 400;" width="166">6/5/23 4:25 PM</td>
-<td style="font-weight: 400;" width="212">University St Parking Garage</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Drug Law Violation</td>
-<td style="font-weight: 400;" width="154">2023PU00779</td>
-<td style="font-weight: 400;" width="168">6/5/23 11:28 PM</td>
-<td style="font-weight: 400;" width="166">6/6/23 12:40 AM</td>
-<td style="font-weight: 400;" width="212">1 N Sharon Chapel Rd</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft</td>
-<td style="font-weight: 400;" width="154">CAD# 2023-080813</td>
-<td style="font-weight: 400;" width="168">6/5/23 9:22 AM</td>
-<td style="font-weight: 400;" width="166">6/5/23 9:22 AM</td>
-<td style="font-weight: 400;" width="212">Smith Hall</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday,&#160;June 13, 2023</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, June 5, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft</td>
-<td style="font-weight: 400;" width="154">2023PU00771</td>
-<td style="font-weight: 400;" width="168">6/2/23 5:10 PM</td>
-<td style="font-weight: 400;" width="166">6/2/23 5:24 PM</td>
-<td style="font-weight: 400;" width="212">Pfendler Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Drug Law Violation/Resisting Law Enforcement</td>
-<td style="font-weight: 400;" width="154">2023PU00774</td>
-<td style="font-weight: 400;" width="168">6/4/23 1:51 AM</td>
-<td style="font-weight: 400;" width="166">6/4/23 2:28 AM</td>
-<td style="font-weight: 400;" width="212">W Stadium Ave/McCormick Rd</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Stalking/Invasion of Privacy</td>
-<td style="font-weight: 400;" width="154">2023PU00775</td>
-<td style="font-weight: 400;" width="168">6/2/23 8:05 PM</td>
-<td style="font-weight: 400;" width="166">6/4/23 2:55 PM</td>
-<td style="font-weight: 400;" width="212">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Stalking</td>
-<td style="font-weight: 400;" width="154">CSA</td>
-<td style="font-weight: 400;" width="168">6/2/23 8:10 PM</td>
-<td style="font-weight: 400;" width="166">6/2/23 8:18 PM</td>
-<td style="font-weight: 400;" width="212">On-Campus Housing</td>
-<td style="font-weight: 400;" width="181">Documented in 2023PU00775</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Monday, June 12, 2023</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
