@@ -687,7 +687,82 @@
   
     	<section class="content__group">
   					<h3>Monday, June 12, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU00792</td>
+<td width="168">6/9/23 9:51 AM</td>
+<td width="166">6/9/23 10:24 AM</td>
+<td width="212">Hampton Hall of Civil Engineering</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU00795</td>
+<td width="168">6/8/23 9:30 PM</td>
+<td width="166">6/9/23 1:42 PM</td>
+<td width="212">Mackey Arena</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU00796</td>
+<td width="168">6/8/23 12:18 AM</td>
+<td width="166">6/9/23 2:07 PM</td>
+<td width="212">Mackey Arena</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU00797</td>
+<td width="168">6/9/23 8:00 AM</td>
+<td width="166">6/9/23 4:14 PM</td>
+<td width="212">Lynn Hall of Vet Medicine</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated</td>
+<td width="154">2023PU00799</td>
+<td width="168">6/10/23 1:45 AM</td>
+<td width="166">6/10/23 2:10 AM</td>
+<td width="212">Cherry Ln/US HWY 231 N</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated</td>
+<td width="154">2023PU00800</td>
+<td width="168">6/10/23 2:50 AM</td>
+<td width="166">6/10/23 3:13 AM</td>
+<td width="212">US HWY 231 S/S River Rd</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU00801</td>
+<td width="168">6/10/23 8:51 PM</td>
+<td width="166">6/10/23 9:04 PM</td>
+<td width="212">Meridian St/Northwestern Ave</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated</td>
+<td width="154">2023PU00802</td>
+<td width="168">6/11/23 1:58 AM</td>
+<td width="166">6/11/23 2:24 AM</td>
+<td width="212">US HWY 231 S/Airport Rd</td>
+<td width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
