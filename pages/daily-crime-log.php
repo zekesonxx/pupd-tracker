@@ -680,7 +680,42 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;June 13, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="212">General Location</th>
+<th scope="col" style="text-align: center; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Invasion of Privacy</td>
+<td width="154">2023PU00791</td>
+<td width="168">6/9/23 1:40 AM</td>
+<td width="166">6/9/23 2:03 AM</td>
+<td width="212">1700 Blk of Newman Rd</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Trespass</td>
+<td width="154">2023PU00806</td>
+<td width="168">6/12/23 11:44 PM</td>
+<td width="166">6/13/23 12:00 AM</td>
+<td width="212">Hillenbrand Hall</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Reckless Driver</td>
+<td width="154">CAD# 2023-084100</td>
+<td width="168">6/12/23 6:40 AM</td>
+<td width="166">6/12/23 6:40 AM</td>
+<td width="212">Hilltop Apartments</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
