@@ -65,7 +65,7 @@ jQuery(document).ready(function($){
   <div id="content">
     <h1> Campus connectivity interrupted by network fiber cut</h1>
     <p>&nbsp;</p>
-<p>The West Lafayette campus has been disconnected the primary internet connections. At least two network fiber cuts have been reported in Indiana. More information will be posted here as it is available.</p>	
+<p>The West Lafayette campus has been disconnected from the primary internet connections. At least two network fiber cuts have been reported in Indiana. More information will be posted here as it is available.</p>	
     <p>Additional information may be distributed by email or text. </p>
     <br>
 <br>
