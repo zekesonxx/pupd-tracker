@@ -698,7 +698,7 @@
 <th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
-<td width="187">Battery-Simple</td>
+<td width="187">Fondling</td>
 <td width="154">2023PU00812</td>
 <td width="168">6/15/23 2:30 PM</td>
 <td width="166">6/16/23 3:43 PM</td>
