@@ -687,7 +687,42 @@
   
     	<section class="content__group">
   					<h3>Monday, June 19, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Battery-Simple</td>
+<td width="154">2023PU00812</td>
+<td width="168">6/15/23 2:30 PM</td>
+<td width="166">6/16/23 3:43 PM</td>
+<td width="223">300 Blk N Martin Jischke Dr</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated</td>
+<td width="154">2023PU00814</td>
+<td width="168">6/16/23 10:21 PM</td>
+<td width="166">6/17/23 12:06 AM</td>
+<td width="223">US HWY 231 S/West State St</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU00816</td>
+<td width="168">6/17/23 11:45 PM</td>
+<td width="166">6/17/23 11:57 PM</td>
+<td width="223">US HWY 231 S/S River Rd</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
