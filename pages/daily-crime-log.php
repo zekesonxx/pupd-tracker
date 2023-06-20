@@ -680,7 +680,42 @@
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;June 20, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Assisting Another Agency/Arson</td>
+<td width="154">2023PU00817</td>
+<td width="168">6/8/23 3:35 AM</td>
+<td width="166">6/18/23 3:48 AM</td>
+<td width="223">Non-Campus Property</td>
+<td width="181">Documented in 2023WL01428</td>
+</tr>
+<tr>
+<td width="187">Trespassing</td>
+<td width="154">2023PU00818</td>
+<td width="168">6/19/23 2:30 PM</td>
+<td width="166">6/19/23 4:44 PM</td>
+<td width="223">Wetherill Chem Building</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td>Reckless Driver</td>
+<td width="154">CAD# 2023-086873</td>
+<td width="168">6/17/23 3:47 PM</td>
+<td width="166">6/17/23 3:47 PM</td>
+<td>Elliott Hall of Music</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
