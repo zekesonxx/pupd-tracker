@@ -220,7 +220,7 @@
         
         
             
-                    <li role="none"><a href="https://www.purdue.edu/purdue/apply/" role="menuitem">Apply</a></li>
+                    <li role="none"><a href="https://discover.online.purdue.edu/academics/apply.php" role="menuitem">Apply</a></li>
             
                                  
         
@@ -659,7 +659,50 @@
   
     	<section class="content__group">
   					<h3>Friday, June 23, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Hit &amp; Run</td>
+<td width="154">2023PU00832</td>
+<td width="168">6/19/23 2:00 PM</td>
+<td width="166">6/21/23 1:33 PM</td>
+<td width="223">600 Blk Oval Dr</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Vandalism/ Trespass</td>
+<td width="154">2023PU00835</td>
+<td width="168">6/21/23 9:50 PM</td>
+<td width="166">6/22/23 7:51 AM</td>
+<td width="223">Ross Ade Stadium</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft from Vehicle</td>
+<td width="154">2023PU00836</td>
+<td width="168">6/22/23 6:50 AM</td>
+<td width="166">6/22/23 9:24 AM</td>
+<td width="223">Hawkins Hall Parking Garage</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td>Trespass</td>
+<td width="154">2023PU00838</td>
+<td width="168">6/22/23 4:03 PM</td>
+<td width="166">6/22/23 4:42 PM</td>
+<td>Engineering Mall</td>
+<td width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
