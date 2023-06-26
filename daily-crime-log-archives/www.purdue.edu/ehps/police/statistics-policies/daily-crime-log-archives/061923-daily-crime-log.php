@@ -10,7 +10,7 @@
 
 
 
-<meta content="Review the daily crime log archive maintained by the Purdue University Police Department." name="description"/>
+<meta content="Review the daily crime log maintained by the Purdue University Police Department." name="description"/>
 <meta content="Purdue University Police Department; Daily Crime Log; Clery Act" name="keywords"/>
 <meta content="Purdue University Administrative Operations Communications" name="author"/>
 
@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			Daily Crime Log Archive - 
+			061923 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -39,7 +39,7 @@
                                          
 		
 		    <style type="text/css">
-	    /* Any CSS placed in this text area will be placed inside of a style tag located in the head section of the page. */
+	    tr:nth-child(even){background-color:#f2f2f2}
 	</style>
 
 		
@@ -574,7 +574,7 @@
                                 
         
                 
-                     <li>Daily Crime Log Archive</li>
+                     <li>061923 Daily Crime Log</li>
         
     </ul>
 </nav> 
@@ -592,6 +592,16 @@
 					<aside class="content__aside">
 						
 						
+<nav class="content__side-nav">
+        
+           
+                
+        
+                
+    <ul aria-label="Side Navigation" role="menu">
+                                     <li role="none">Daily Crime Log</li>
+                                            </ul>
+</nav>
 
 
 
@@ -615,28 +625,248 @@
 
 						
 						
-      <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h2>Archived Daily Crime Log</h2>
-<ul>
-<li><a href="061923-daily-crime-log.php" title="061923 Daily Crime Log">Week of June 19, 2023</a></li>
-<li><a href="061223-daily-crime-log.php" title="061223 Daily Crime Log">Week of June 12, 2023</a></li>
-<li><a href="060523-daily-crime-log.php" title="060523 Daily Crime Log">Week of June 5, 2023</a></li>
-<li><a href="052923-daily-crime-log.php" title="052923 Daily Crime Log">Week of May 29, 2023</a></li>
-<li><a href="052223-daily-crime-log.php" title="052223 Daily Crime Log">Week of May 22, 2023</a></li>
-<li><a href="051523-daily-crime-log.php" title="051523 Daily Crime Log">Week of May 15, 2023</a></li>
-<li><a href="050823-daily-crime-log.php" title="050823 Daily Crime Log">Week of May 8, 2023</a></li>
-<li><a href="050123-daily-crime-log.php" title="050123 Daily Crime Log">Week of May 1, 2023</a></li>
-<li><a href="042423-daily-crime-log.php" title="042423 Daily Crime Log">Week of April 24, 2023</a></li>
-<li><a href="041723-daily-crime-log.php" title="041723 Daily Crime Log">Week of April 17, 2023</a></li>
-<li><a href="041023-daily-crime-log.php" title="041023 Daily Crime Log">Week of April 10, 2023</a></li>
-<li><a href="040323-daily-crime-log.php" title="040323 Daily Crime Log">Week of April 3, 2023</a></li>
-<li><a href="032723-daily-crime-log.php" title="032723 Daily Crime Log">Week of March 27, 2023</a></li>
-<li><a href="032023-daily-crime-log.php" title="032023 Daily Crime Log">Week of March 20, 2023</a></li>
-<li><a href="031323-daily-crime-log.php" title="031323 Daily Crime Log">Week of March 13, 2023</a></li>
-<li><a href="030623-daily-crime-log.php" title="030623 Daily Crime Log">Week of March 6, 2023</a><a href="2023-archive/013023-daily-crime-log.php" title="013023 Daily Crime Log"></a><br/><a href="2022-archive/080122-daily-crime-log.php"></a></li>
-</ul>
+  					<p>In accordance with the 1998 Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act (Clery Act), the Purdue University Police Department (PUPD) maintains a daily crime log.</p>
+<p>The daily crime log documents all crimes reported to the department, the dates the crimes were reported and whether the crimes occurred on campus, another Clery Act reportable geographic area or within the patrol jurisdiction.</p>
+<p>PUPD will make the crime log available for public inspection during normal business hours. Daily crime logs older than 60 days will be available within two business days of a request for public inspection. The most recent log entries are posted below.</p>
+<p>Understanding how the information in the log is collected and compiled is important to developing an accurate picture of campus crime.</p>
+<p>Not all of these crimes have been reported to the Purdue University Police Department for the purpose of police services. Rather, many of these crimes have been reported to University employees, who have identified by the Vice President for Ethics and Compliance (VPEC) as Campus Security Authorities (CSAs). CSAs are obligated by the Clery Act to report certain crimes to the university police department so the campus community may be notified of potential ongoing public safety issues and accurate statistics maintained. Many of these crime victims do not want immediate police intervention and may elect not to pursue a criminal investigation.</p>
+<h2>Daily Crime Log</h2>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Friday, June 23, 2023</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Hit &amp; Run</td>
+<td width="154">2023PU00832</td>
+<td width="168">6/19/23 2:00 PM</td>
+<td width="166">6/21/23 1:33 PM</td>
+<td width="223">600 Blk Oval Dr</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Vandalism/ Trespass</td>
+<td width="154">2023PU00835</td>
+<td width="168">6/21/23 9:50 PM</td>
+<td width="166">6/22/23 7:51 AM</td>
+<td width="223">Ross Ade Stadium</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft from Vehicle</td>
+<td width="154">2023PU00836</td>
+<td width="168">6/22/23 6:50 AM</td>
+<td width="166">6/22/23 9:24 AM</td>
+<td width="223">Hawkins Hall Parking Garage</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td>Trespass</td>
+<td width="154">2023PU00838</td>
+<td width="168">6/22/23 4:03 PM</td>
+<td width="166">6/22/23 4:42 PM</td>
+<td>Engineering Mall</td>
+<td width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Thursday, June 22, 2023</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU00823</td>
+<td width="168">6/19/23 8:00 PM</td>
+<td width="166">6/20/23 3:32 PM</td>
+<td width="223">Psychological Sciences Building</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU00831</td>
+<td width="168">6/21/23 5:30 AM</td>
+<td width="166">6/21/23 1:20 PM</td>
+<td width="223">Hawkins Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td width="154">2023PU00833</td>
+<td width="168">6/21/23 8:56 PM</td>
+<td width="166">6/21/23 9:31 PM</td>
+<td>N University St/ W Stadium Ave</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Reckless Driver</td>
+<td width="154">CAD# 2023-088727</td>
+<td width="168">6/21/23 7:51 AM</td>
+<td width="166">6/21/23 7:51 AM</td>
+<td width="223">Harrison St/ Marstellar St</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Wednesday, June 21, 2023</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Trespass</td>
+<td width="154">2023PU00818</td>
+<td width="168">6/19/23 2:30 PM</td>
+<td width="166">6/19/23 4:40 PM</td>
+<td width="223">Wetherill Hall</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU00822</td>
+<td width="168">5/26/23 9:00 AM</td>
+<td width="166">6/20/23 1:39 PM</td>
+<td width="223">Forney Hall of Chemical Engineering</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td>Weapon Law Violation/ Drug Law Violation</td>
+<td width="154">2023PU00827</td>
+<td width="168">6/20/23 11:17 PM</td>
+<td width="166">6/21/23 12:07 AM</td>
+<td>US 231/ Cherry Ln</td>
+<td width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Tuesday,&#160;June 20, 2023</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Assisting Another Agency/Arson</td>
+<td width="154">2023PU00817</td>
+<td width="168">6/8/23 3:35 AM</td>
+<td width="166">6/18/23 3:48 AM</td>
+<td width="223">Non-Campus Property</td>
+<td width="181">Documented in 2023WL01428</td>
+</tr>
+<tr>
+<td width="187">Trespassing</td>
+<td width="154">2023PU00818</td>
+<td width="168">6/19/23 2:30 PM</td>
+<td width="166">6/19/23 4:44 PM</td>
+<td width="223">Wetherill Chem Building</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td>Reckless Driver</td>
+<td width="154">CAD# 2023-086873</td>
+<td width="168">6/17/23 3:47 PM</td>
+<td width="166">6/17/23 3:47 PM</td>
+<td>Elliott Hall of Music</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Monday, June 19, 2023</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Fondling</td>
+<td width="154">2023PU00812</td>
+<td width="168">6/15/23 2:30 PM</td>
+<td width="166">6/16/23 3:43 PM</td>
+<td width="223">300 Blk N Martin Jischke Dr</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated</td>
+<td width="154">2023PU00814</td>
+<td width="168">6/16/23 10:21 PM</td>
+<td width="166">6/17/23 12:06 AM</td>
+<td width="223">US HWY 231 S/West State St</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU00816</td>
+<td width="168">6/17/23 11:45 PM</td>
+<td width="166">6/17/23 11:57 PM</td>
+<td width="223">US HWY 231 S/S River Rd</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<p>&#160;</p>
+<p>*EMPV=Electronic Motorized Personal Vehicle (Elec. Scooter/Elec. Skateboard/Segway/Etc.)</p>
+<p><br/>An&#160;<a href="index.php">archived daily crime log</a>&#160;is available.</p>
 		</section>
 	
     

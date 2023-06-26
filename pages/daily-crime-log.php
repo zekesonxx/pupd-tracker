@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			061923 Daily Crime Log - 
+			062623 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -658,191 +658,35 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, June 23, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="187">Hit &amp; Run</td>
-<td width="154">2023PU00832</td>
-<td width="168">6/19/23 2:00 PM</td>
-<td width="166">6/21/23 1:33 PM</td>
-<td width="223">600 Blk Oval Dr</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Vandalism/ Trespass</td>
-<td width="154">2023PU00835</td>
-<td width="168">6/21/23 9:50 PM</td>
-<td width="166">6/22/23 7:51 AM</td>
-<td width="223">Ross Ade Stadium</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Theft from Vehicle</td>
-<td width="154">2023PU00836</td>
-<td width="168">6/22/23 6:50 AM</td>
-<td width="166">6/22/23 9:24 AM</td>
-<td width="223">Hawkins Hall Parking Garage</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td>Trespass</td>
-<td width="154">2023PU00838</td>
-<td width="168">6/22/23 4:03 PM</td>
-<td width="166">6/22/23 4:42 PM</td>
-<td>Engineering Mall</td>
-<td width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Friday, June 30, 2023</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, June 22, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="187">Theft</td>
-<td width="154">2023PU00823</td>
-<td width="168">6/19/23 8:00 PM</td>
-<td width="166">6/20/23 3:32 PM</td>
-<td width="223">Psychological Sciences Building</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Theft-Bike</td>
-<td width="154">2023PU00831</td>
-<td width="168">6/21/23 5:30 AM</td>
-<td width="166">6/21/23 1:20 PM</td>
-<td width="223">Hawkins Hall</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td>Drug Law Violation</td>
-<td width="154">2023PU00833</td>
-<td width="168">6/21/23 8:56 PM</td>
-<td width="166">6/21/23 9:31 PM</td>
-<td>N University St/ W Stadium Ave</td>
-<td width="181">Arrest Made</td>
-</tr>
-<tr>
-<td width="187">Reckless Driver</td>
-<td width="154">CAD# 2023-088727</td>
-<td width="168">6/21/23 7:51 AM</td>
-<td width="166">6/21/23 7:51 AM</td>
-<td width="223">Harrison St/ Marstellar St</td>
-<td width="181">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, June 29, 2023</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, June 21, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="187">Trespass</td>
-<td width="154">2023PU00818</td>
-<td width="168">6/19/23 2:30 PM</td>
-<td width="166">6/19/23 4:40 PM</td>
-<td width="223">Wetherill Hall</td>
-<td width="181">Arrest Made</td>
-</tr>
-<tr>
-<td width="187">Theft</td>
-<td width="154">2023PU00822</td>
-<td width="168">5/26/23 9:00 AM</td>
-<td width="166">6/20/23 1:39 PM</td>
-<td width="223">Forney Hall of Chemical Engineering</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td>Weapon Law Violation/ Drug Law Violation</td>
-<td width="154">2023PU00827</td>
-<td width="168">6/20/23 11:17 PM</td>
-<td width="166">6/21/23 12:07 AM</td>
-<td>US 231/ Cherry Ln</td>
-<td width="181">Arrest Made</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, June 28, 2023</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday,&#160;June 20, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="187">Assisting Another Agency/Arson</td>
-<td width="154">2023PU00817</td>
-<td width="168">6/8/23 3:35 AM</td>
-<td width="166">6/18/23 3:48 AM</td>
-<td width="223">Non-Campus Property</td>
-<td width="181">Documented in 2023WL01428</td>
-</tr>
-<tr>
-<td width="187">Trespassing</td>
-<td width="154">2023PU00818</td>
-<td width="168">6/19/23 2:30 PM</td>
-<td width="166">6/19/23 4:44 PM</td>
-<td width="223">Wetherill Chem Building</td>
-<td width="181">Arrest Made</td>
-</tr>
-<tr>
-<td>Reckless Driver</td>
-<td width="154">CAD# 2023-086873</td>
-<td width="168">6/17/23 3:47 PM</td>
-<td width="166">6/17/23 3:47 PM</td>
-<td>Elliott Hall of Music</td>
-<td width="181">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday,&#160;June 27, 2023</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, June 19, 2023</h3>
+  					<h3>Monday, June 26, 2023</h3>
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
@@ -854,28 +698,20 @@
 <th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
 </tr>
 <tr>
-<td width="187">Fondling</td>
-<td width="154">2023PU00812</td>
-<td width="168">6/15/23 2:30 PM</td>
-<td width="166">6/16/23 3:43 PM</td>
-<td width="223">300 Blk N Martin Jischke Dr</td>
-<td width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="187">Voyeurism/ Trespass/ False Informing</td>
+<td style="font-weight: 400;" width="154">2023PU00840</td>
+<td style="font-weight: 400;" width="168">6/23/23 9:56 AM</td>
+<td style="font-weight: 400;" width="166">6/23/23 10:54 AM</td>
+<td style="font-weight: 400;" width="223">Heavilon Hall</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
 </tr>
 <tr>
-<td width="187">Operating While Intoxicated</td>
-<td width="154">2023PU00814</td>
-<td width="168">6/16/23 10:21 PM</td>
-<td width="166">6/17/23 12:06 AM</td>
-<td width="223">US HWY 231 S/West State St</td>
-<td width="181">Arrest Made</td>
-</tr>
-<tr>
-<td width="187">Drug Law Violation</td>
-<td width="154">2023PU00816</td>
-<td width="168">6/17/23 11:45 PM</td>
-<td width="166">6/17/23 11:57 PM</td>
-<td width="223">US HWY 231 S/S River Rd</td>
-<td width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2023PU00841</td>
+<td style="font-weight: 400;" width="168">6/23/23 9:12 PM</td>
+<td style="font-weight: 400;" width="166">6/23/23 9:47 PM</td>
+<td style="font-weight: 400;">US 231/ Cherry Ln</td>
+<td style="font-weight: 400;">Pending Prosecutor Review</td>
 </tr>
 </tbody>
 </table>
