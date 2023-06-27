@@ -680,7 +680,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;June 27, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU00848</td>
+<td width="168">6/21/23 5:00 PM</td>
+<td width="166">6/26/23 10:55 AM</td>
+<td width="223">Heavilon Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td>Theft-Bike</td>
+<td width="154">2023PU00849</td>
+<td width="168">6/18/23 12:00 PM</td>
+<td width="166">6/26/23 4:06 PM</td>
+<td>Wood St Parking Garage</td>
+<td>Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Operating While Never Receiving a License</td>
+<td width="154">2023PU00850</td>
+<td width="168">6/26/23 8:39 PM</td>
+<td width="166">6/26/23 9:09 PM</td>
+<td width="223">Steely St/S Grant St</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Reckless Driver</td>
+<td width="154">CAD# 2023-090635</td>
+<td width="168">6/24/23 4:44 PM</td>
+<td width="166">6/24/23 4:44 PM</td>
+<td width="223">800 Blk of Beering Dr</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
