@@ -673,7 +673,26 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, June 28, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU00854</td>
+<td width="168">6/27/23 8:46 PM</td>
+<td width="166">6/27/23 8:51 PM</td>
+<td width="223">Northwestern Parking Garage</td>
+<td width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -754,7 +773,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="168">6/23/23 9:12 PM</td>
 <td style="font-weight: 400;" width="166">6/23/23 9:47 PM</td>
 <td style="font-weight: 400;">US 231/ Cherry Ln</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 </tbody>
 </table>
