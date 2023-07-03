@@ -687,7 +687,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, July 3, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2023PU00861</td>
+<td style="font-weight: 400;" width="168">7/1/23 10:51 PM</td>
+<td style="font-weight: 400;" width="166">7/1/23 11:29 PM</td>
+<td style="font-weight: 400;" width="223">1700 Blk Mitch Daniels Blvd.</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU00862</td>
+<td style="font-weight: 400;" width="168">7/1/23 11:48 PM</td>
+<td style="font-weight: 400;" width="166">7/2/23 12:11 AM</td>
+<td style="font-weight: 400;" width="223">Grant Street Garage</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2023PU00863</td>
+<td style="font-weight: 400;" width="168">7/2/23 12:23 AM</td>
+<td style="font-weight: 400;" width="166">7/2/23 12:51 AM</td>
+<td style="font-weight: 400;">S Martin Jischke Dr/ US 231 Hwy</td>
+<td style="font-weight: 400;">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespass</td>
+<td style="font-weight: 400;" width="154">2023PU00864</td>
+<td style="font-weight: 400;" width="168">7/2/23 1:41 AM</td>
+<td style="font-weight: 400;" width="166">7/2/23 1:54 AM</td>
+<td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

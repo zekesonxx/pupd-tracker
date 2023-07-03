@@ -220,7 +220,7 @@
         
         
             
-                    <li role="none"><a href="https://www.purdue.edu/purdue/apply/" role="menuitem">Apply</a></li>
+                    <li role="none"><a href="https://discover.online.purdue.edu/academics/apply.php" role="menuitem">Apply</a></li>
             
                                  
         
@@ -714,7 +714,7 @@
 <td style="font-weight: 400;" width="154">2023PU00770</td>
 <td style="font-weight: 400;" width="168">5/31/23 8:00 AM</td>
 <td style="font-weight: 400;" width="166">6/2/23 11:28 AM</td>
-<td style="font-weight: 400;" width="212">On-Campus Location</td>
+<td style="font-weight: 400;" width="212">This was determined to be outside Clery Reportable Geography. Nothing Further.</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
