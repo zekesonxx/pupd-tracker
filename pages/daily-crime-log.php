@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			062623 Daily Crime Log - 
+			070323 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -673,7 +673,7 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, July 5, 2023</h3>
-Will be posted soon.
+Nothing to report.
 		</section>
 	
           <div class="clearfix"></div>
