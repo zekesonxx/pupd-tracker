@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			070323 Daily Crime Log - 
+			071023 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -250,7 +250,7 @@
         
         
             
-                    <li role="none"><a href="https://www.purdueteamstore.com" role="menuitem">Shop</a></li>
+                    <li role="none"><a href="http://www.purdueteamstore.com" role="menuitem">Shop</a></li>
             
                                  
         
@@ -658,98 +658,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, July 7, 2023</h3>
+  					<h3>Friday, July 14, 2023</h3>
+<p>Will be posted soon.</p>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Thursday, July 13, 2023</h3>
+<p>Will be posted soon.</p>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Wednesday, July 12, 2023</h3>
 Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, July 6, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2023PU00870</td>
-<td style="font-weight: 400;" width="168">7/5/23 8:47 AM</td>
-<td style="font-weight: 400;" width="166">7/5/23 9:07 AM</td>
-<td style="font-weight: 400;" width="223">Memorial Mall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday,&#160;July 11, 2023</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, July 5, 2023</h3>
-Nothing to report.
-		</section>
-	
-          <div class="clearfix"></div>
-  
-    	<section class="content__group">
-  					<h3>Tuesday,&#160;July 4, 2023</h3>
-4th of July
-		</section>
-	
-          <div class="clearfix"></div>
-  
-    	<section class="content__group">
-  					<h3>Monday, July 3, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="154">2023PU00861</td>
-<td style="font-weight: 400;" width="168">7/1/23 10:51 PM</td>
-<td style="font-weight: 400;" width="166">7/1/23 11:29 PM</td>
-<td style="font-weight: 400;" width="223">1700 Blk Mitch Daniels Blvd.</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2023PU00862</td>
-<td style="font-weight: 400;" width="168">7/1/23 11:48 PM</td>
-<td style="font-weight: 400;" width="166">7/2/23 12:11 AM</td>
-<td style="font-weight: 400;" width="223">Grant Street Garage</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="154">2023PU00863</td>
-<td style="font-weight: 400;" width="168">7/2/23 12:23 AM</td>
-<td style="font-weight: 400;" width="166">7/2/23 12:51 AM</td>
-<td style="font-weight: 400;">S Martin Jischke Dr/ US 231 Hwy</td>
-<td style="font-weight: 400;">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Trespass</td>
-<td style="font-weight: 400;" width="154">2023PU00864</td>
-<td style="font-weight: 400;" width="168">7/2/23 1:41 AM</td>
-<td style="font-weight: 400;" width="166">7/2/23 1:54 AM</td>
-<td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Monday, July 10, 2023</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
