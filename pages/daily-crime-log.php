@@ -411,6 +411,11 @@
         
                                                             
         
+        <li role="none"><a href="persona-non-grada.php" role="menuitem">Persona Non Grata</a></li>
+                                                    
+        
+                                                            
+        
         <li role="none"><a href="weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
                                             </ul>
                                             </li>
@@ -619,6 +624,11 @@
         
                 
     
+    <li role="none"><a href="persona-non-grada.php" role="menuitem">Persona Non Grata</a></li>
+                                                                            
+        
+                
+    
     <li role="none"><a href="weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
                             </ul>
 </nav>
@@ -687,7 +697,74 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, July 10, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00872</td>
+<td style="font-weight: 400;" width="168">7/6/23 10:17 AM</td>
+<td style="font-weight: 400;" width="166">7/7/23 11:16 AM</td>
+<td style="font-weight: 400;" width="223">Creighton Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00877</td>
+<td style="font-weight: 400;" width="168">7/7/23 9:30 AM</td>
+<td style="font-weight: 400;" width="166">7/7/23 6:55 PM</td>
+<td style="font-weight: 400;" width="223">Aspire Apts</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00878</td>
+<td style="font-weight: 400;" width="168">7/8/23 6:20 PM</td>
+<td style="font-weight: 400;" width="166">7/8/23 6:28 PM</td>
+<td style="font-weight: 400;" width="223">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2023PU00882</td>
+<td style="font-weight: 400;" width="168">7/9/23 5:35 AM</td>
+<td style="font-weight: 400;" width="166">7/9/23 6:21 AM</td>
+<td style="font-weight: 400;" width="223">US 231 Hwy/Ahlers Dr</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00883</td>
+<td style="font-weight: 400;" width="168">7/8/23 8:00 PM</td>
+<td style="font-weight: 400;" width="166">7/9/23 11:41 AM</td>
+<td style="font-weight: 400;" width="223">Earthart Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00885</td>
+<td style="font-weight: 400;" width="168">7/9/23 5:45 PM</td>
+<td style="font-weight: 400;" width="166">7/9/23 6:26 PM</td>
+<td style="font-weight: 400;" width="223">Transportation Services</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespass</td>
+<td style="font-weight: 400;" width="154">2023PU00887</td>
+<td style="font-weight: 400;" width="168">7/9/23 8:56 PM</td>
+<td style="font-weight: 400;" width="166">7/9/23 9:06 PM</td>
+<td style="font-weight: 400;" width="223">1200 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

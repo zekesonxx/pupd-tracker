@@ -250,7 +250,7 @@
         
         
             
-                    <li role="none"><a href="https://www.purdueteamstore.com" role="menuitem">Shop</a></li>
+                    <li role="none"><a href="http://www.purdueteamstore.com" role="menuitem">Shop</a></li>
             
                                  
         
@@ -407,6 +407,11 @@
                                                             
         
         <li role="none"><a href="../crime-security-procedures.php" role="menuitem">Operating Procedures for Gathering and Reporting Crime Statistics</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../persona-non-grada.php" role="menuitem">Persona Non Grata</a></li>
                                                     
         
                                                             

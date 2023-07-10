@@ -220,7 +220,7 @@
         
         
             
-                    <li role="none"><a href="https://www.purdue.edu/purdue/apply/" role="menuitem">Apply</a></li>
+                    <li role="none"><a href="https://discover.online.purdue.edu/academics/apply.php" role="menuitem">Apply</a></li>
             
                                  
         
@@ -250,7 +250,7 @@
         
         
             
-                    <li role="none"><a href="https://www.purdueteamstore.com" role="menuitem">Shop</a></li>
+                    <li role="none"><a href="http://www.purdueteamstore.com" role="menuitem">Shop</a></li>
             
                                  
         
@@ -407,6 +407,11 @@
                                                             
         
         <li role="none"><a href="../crime-security-procedures.php" role="menuitem">Operating Procedures for Gathering and Reporting Crime Statistics</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../persona-non-grada.php" role="menuitem">Persona Non Grata</a></li>
                                                     
         
                                                             
@@ -1191,7 +1196,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://www.itap.purdue.edu/">Information Technology</a></li>
+                <li role="listitem"><a href="https://it.purdue.edu/">Information Technology</a></li>
                                 
         
                             
