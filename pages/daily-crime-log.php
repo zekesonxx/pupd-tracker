@@ -250,7 +250,7 @@
         
         
             
-                    <li role="none"><a href="http://www.purdueteamstore.com" role="menuitem">Shop</a></li>
+                    <li role="none"><a href="http://purdueteamstore.com" role="menuitem">Shop</a></li>
             
                                  
         
@@ -690,7 +690,34 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;July 11, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU00890</td>
+<td width="168">7/10/23 5:11 PM</td>
+<td width="166">7/10/23 5:28 PM</td>
+<td width="223">Birck Center</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU00891</td>
+<td width="168">7/9/23 12:00 PM</td>
+<td width="166">7/10/23 5:52 PM</td>
+<td width="223">Shreve Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

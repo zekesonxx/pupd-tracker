@@ -250,7 +250,7 @@
         
         
             
-                    <li role="none"><a href="http://www.purdueteamstore.com" role="menuitem">Shop</a></li>
+                    <li role="none"><a href="http://purdueteamstore.com" role="menuitem">Shop</a></li>
             
                                  
         
@@ -659,15 +659,15 @@
 <td width="154">2023PU00871</td>
 <td width="168">3/3/21 12:00 AM</td>
 <td width="166">7/6/23 11:14 AM</td>
-<td width="223">Lynn Hall of Vet Medicine</td>
-<td width="181">Under Investigation</td>
+<td width="223">Brunner Vet Hospital</td>
+<td width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="187">Theft</td>
 <td width="154">2023PU00873</td>
 <td width="168">7/6/23 1:10 PM</td>
 <td width="166">7/6/23 1:29 PM</td>
-<td width="223">Aspire</td>
+<td width="223">Aspire&#160;</td>
 <td width="181">Under Investigation</td>
 </tr>
 <tr>
