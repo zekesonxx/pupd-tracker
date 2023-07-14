@@ -669,7 +669,34 @@
   
     	<section class="content__group">
   					<h3>Friday, July 14, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Aggravated Battery</td>
+<td style="font-weight: 400;" width="154">2023PU00899</td>
+<td style="font-weight: 400;" width="168">7/13/23 11:45 AM</td>
+<td style="font-weight: 400;" width="166">7/13/23 12:10 PM</td>
+<td style="font-weight: 400;" width="223">500 Blk S Russell St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU00900</td>
+<td style="font-weight: 400;" width="168">7/11/23 6:00 PM</td>
+<td style="font-weight: 400;" width="166">7/13/23 12:39 PM</td>
+<td style="font-weight: 400;" width="223">Krach Lawn</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
