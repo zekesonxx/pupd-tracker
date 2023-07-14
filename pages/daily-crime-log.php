@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			071023 Daily Crime Log - 
+			071723 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -668,219 +668,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, July 14, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Aggravated Battery</td>
-<td style="font-weight: 400;" width="154">2023PU00899</td>
-<td style="font-weight: 400;" width="168">7/13/23 11:45 AM</td>
-<td style="font-weight: 400;" width="166">7/13/23 12:10 PM</td>
-<td style="font-weight: 400;" width="223">500 Blk S Russell St</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft</td>
-<td style="font-weight: 400;" width="154">2023PU00900</td>
-<td style="font-weight: 400;" width="168">7/11/23 6:00 PM</td>
-<td style="font-weight: 400;" width="166">7/13/23 12:39 PM</td>
-<td style="font-weight: 400;" width="223">Krach Lawn</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Friday, July 21, 2023</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, July 13, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft</td>
-<td style="font-weight: 400;" width="154">2023PU00876</td>
-<td style="font-weight: 400;" width="168">7/7/23 12:50 PM</td>
-<td style="font-weight: 400;" width="166">7/7/23 4:05 PM</td>
-<td style="font-weight: 400;" width="223">Grounds/Maintenance Building</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Fraud</td>
-<td style="font-weight: 400;" width="154">2023PU00895</td>
-<td style="font-weight: 400;" width="168">7/12/23 8:57 PM</td>
-<td style="font-weight: 400;" width="166">7/12/23 9:30 PM</td>
-<td style="font-weight: 400;" width="223">Hilltop Apts</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="154">2023PU00897</td>
-<td style="font-weight: 400;" width="168">7/13/23 2:14 AM</td>
-<td style="font-weight: 400;" width="166">7/13/23 2:37 AM</td>
-<td style="font-weight: 400;" width="223">US 231 Hwy/ E Wood St</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, July 20, 2023</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, July 12, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2023PU00892</td>
-<td style="font-weight: 400;" width="168">7/11/23 11:07 AM</td>
-<td style="font-weight: 400;" width="166">7/11/23 11:16 AM</td>
-<td style="font-weight: 400;" width="223">Dudley Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2023PU00893</td>
-<td style="font-weight: 400;" width="168">7/10/23 11:00 AM</td>
-<td style="font-weight: 400;" width="166">7/11/23 11:17 AM</td>
-<td style="font-weight: 400;" width="223">Physics Building</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, July 19, 2023</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday,&#160;July 11, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="187">Theft-Bike</td>
-<td width="154">2023PU00890</td>
-<td width="168">7/10/23 5:11 PM</td>
-<td width="166">7/10/23 5:28 PM</td>
-<td width="223">Birck Center</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Theft-Bike</td>
-<td width="154">2023PU00891</td>
-<td width="168">7/9/23 12:00 PM</td>
-<td width="166">7/10/23 5:52 PM</td>
-<td width="223">Shreve Hall</td>
-<td width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday,&#160;July 18, 2023</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, July 10, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft</td>
-<td style="font-weight: 400;" width="154">2023PU00872</td>
-<td style="font-weight: 400;" width="168">7/6/23 10:17 AM</td>
-<td style="font-weight: 400;" width="166">7/7/23 11:16 AM</td>
-<td style="font-weight: 400;" width="223">Creighton Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2023PU00877</td>
-<td style="font-weight: 400;" width="168">7/7/23 9:30 AM</td>
-<td style="font-weight: 400;" width="166">7/7/23 6:55 PM</td>
-<td style="font-weight: 400;" width="223">Aspire Apts</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2023PU00878</td>
-<td style="font-weight: 400;" width="168">7/8/23 6:20 PM</td>
-<td style="font-weight: 400;" width="166">7/8/23 6:28 PM</td>
-<td style="font-weight: 400;" width="223">Purdue Memorial Union</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Drug Law Violation</td>
-<td style="font-weight: 400;" width="154">2023PU00882</td>
-<td style="font-weight: 400;" width="168">7/9/23 5:35 AM</td>
-<td style="font-weight: 400;" width="166">7/9/23 6:21 AM</td>
-<td style="font-weight: 400;" width="223">US 231 Hwy/Ahlers Dr</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2023PU00883</td>
-<td style="font-weight: 400;" width="168">7/8/23 8:00 PM</td>
-<td style="font-weight: 400;" width="166">7/9/23 11:41 AM</td>
-<td style="font-weight: 400;" width="223">Earthart Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft</td>
-<td style="font-weight: 400;" width="154">2023PU00885</td>
-<td style="font-weight: 400;" width="168">7/9/23 5:45 PM</td>
-<td style="font-weight: 400;" width="166">7/9/23 6:26 PM</td>
-<td style="font-weight: 400;" width="223">Transportation Services</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Trespass</td>
-<td style="font-weight: 400;" width="154">2023PU00887</td>
-<td style="font-weight: 400;" width="168">7/9/23 8:56 PM</td>
-<td style="font-weight: 400;" width="166">7/9/23 9:06 PM</td>
-<td style="font-weight: 400;" width="223">1200 Blk Mitch Daniels Blvd</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Monday, July 17, 2023</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
