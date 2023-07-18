@@ -694,7 +694,7 @@
 <td style="font-weight: 400;" width="168">7/7/23 12:50 PM</td>
 <td style="font-weight: 400;" width="166">7/7/23 4:05 PM</td>
 <td style="font-weight: 400;" width="223">Grounds/Maintenance Building</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Fraud</td>

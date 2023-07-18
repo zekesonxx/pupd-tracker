@@ -690,7 +690,34 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday,&#160;July 18, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU00912</td>
+<td width="168">5/9/23 12:30 PM</td>
+<td width="166">7/17/23 1:48 PM</td>
+<td width="223">Trec Center</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU00913</td>
+<td width="168">7/14/23 3:00 PM</td>
+<td width="166">7/17/23 3:22 PM</td>
+<td width="223">Oakwood Apartments</td>
+<td width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
