@@ -852,7 +852,7 @@
 <td style="font-weight: 400;" width="168">7/9/23 8:56 PM</td>
 <td style="font-weight: 400;" width="166">7/9/23 9:06 PM</td>
 <td style="font-weight: 400;" width="223">1200 Blk Mitch Daniels Blvd</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 </tbody>
 </table>
