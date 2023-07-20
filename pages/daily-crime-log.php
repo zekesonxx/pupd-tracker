@@ -250,7 +250,7 @@
         
         
             
-                    <li role="none"><a href="http://purdueteamstore.com" role="menuitem">Shop</a></li>
+                    <li role="none"><a href="https://www.bkstr.com/boilermakersstore" role="menuitem">Shop</a></li>
             
                                  
         
@@ -676,7 +676,7 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, July 20, 2023</h3>
-Will be posted soon.
+Nothing to report.
 		</section>
 	
           <div class="clearfix"></div>
