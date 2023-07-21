@@ -250,7 +250,7 @@
         
         
             
-                    <li role="none"><a href="http://purdueteamstore.com" role="menuitem">Shop</a></li>
+                    <li role="none"><a href="https://www.bkstr.com/boilermakersstore" role="menuitem">Shop</a></li>
             
                                  
         
@@ -769,7 +769,7 @@
 <td width="168">6/8/23 9:30 PM</td>
 <td width="166">6/9/23 1:42 PM</td>
 <td width="212">Mackey Arena</td>
-<td width="181">Under Investigation</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="187">Burglary</td>
@@ -777,7 +777,7 @@
 <td width="168">6/8/23 12:18 AM</td>
 <td width="166">6/9/23 2:07 PM</td>
 <td width="212">Mackey Arena</td>
-<td width="181">Under Investigation</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft-Bike</td>

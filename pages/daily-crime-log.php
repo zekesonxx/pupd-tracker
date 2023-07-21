@@ -669,7 +669,26 @@
   
     	<section class="content__group">
   					<h3>Friday, July 21, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU00922</td>
+<td width="168">7/20/23 9:42 PM</td>
+<td width="166">7/20/23 10:15 PM</td>
+<td width="223">Mitch Daniels Blvd/N Martin Jischke Dr</td>
+<td width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -759,7 +778,7 @@ Nothing to report.
 <td style="font-weight: 400;" width="168">7/15/23 12:46 AM</td>
 <td style="font-weight: 400;" width="166">7/15/23 1:38 AM</td>
 <td style="font-weight: 400;" width="223">1200 Blk 1st St</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Trespassing</td>
