@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			071723 Daily Crime Log - 
+			072423 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -668,136 +668,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, July 21, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="187">Drug Law Violation</td>
-<td width="154">2023PU00922</td>
-<td width="168">7/20/23 9:42 PM</td>
-<td width="166">7/20/23 10:15 PM</td>
-<td width="223">Mitch Daniels Blvd/N Martin Jischke Dr</td>
-<td width="181">Arrest Made</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Friday, July 28, 2023</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, July 20, 2023</h3>
-Nothing to report.
+  					<h3>Thursday, July 27, 2023</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, July 19, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="187">Drug Law Violation</td>
-<td width="154">2023PU00918</td>
-<td width="168">7/18/23 10:32 PM</td>
-<td width="166">7/19/23 12:01 AM</td>
-<td width="223">Honors College&#160;</td>
-<td width="181">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, July 26, 2023</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday,&#160;July 18, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="187">Criminal Mischief</td>
-<td width="154">2023PU00912</td>
-<td width="168">5/9/23 12:30 PM</td>
-<td width="166">7/17/23 1:48 PM</td>
-<td width="223">Trec Center</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Criminal Mischief</td>
-<td width="154">2023PU00913</td>
-<td width="168">7/14/23 3:00 PM</td>
-<td width="166">7/17/23 3:22 PM</td>
-<td width="223">Oakwood Apartments</td>
-<td width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday,&#160;July 25, 2023</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, July 17, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Minor Consumption</td>
-<td style="font-weight: 400;" width="154">2023PU00905</td>
-<td style="font-weight: 400;" width="168">7/15/23 12:46 AM</td>
-<td style="font-weight: 400;" width="166">7/15/23 1:38 AM</td>
-<td style="font-weight: 400;" width="223">1200 Blk 1st St</td>
-<td style="font-weight: 400;" width="181">Closed</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Trespassing</td>
-<td style="font-weight: 400;" width="154">2023PU00908</td>
-<td style="font-weight: 400;" width="168">7/16/23 3:20 AM</td>
-<td style="font-weight: 400;" width="166">7/16/23 3:32 AM</td>
-<td style="font-weight: 400;" width="223">Purdue Memorial Union</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft-EMPV</td>
-<td style="font-weight: 400;" width="154">2023PU00909</td>
-<td style="font-weight: 400;" width="168">7/16/23 6:54 PM</td>
-<td style="font-weight: 400;" width="166">7/16/23 8:14 PM</td>
-<td style="font-weight: 400;" width="223">Wilmeth Active Learning Center</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Monday, July 24, 2023</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
