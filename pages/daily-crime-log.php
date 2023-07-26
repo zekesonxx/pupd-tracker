@@ -683,7 +683,50 @@
   
     	<section class="content__group">
   					<h3>Wednesday, July 26, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU00934</td>
+<td width="168">7/24/23 2:00 PM</td>
+<td width="166">7/25/23 7:50 AM</td>
+<td width="223">Physical Facilities&#160;</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU00936</td>
+<td width="168">7/24/23 5:00 PM</td>
+<td width="166">7/25/23 2:49 PM</td>
+<td width="223">Hillenbrand Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU00937</td>
+<td width="168">7/26/23 1:31 AM</td>
+<td width="166">7/26/23 1:46 AM</td>
+<td width="223">Potter Engineering Center</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Dating Violence</td>
+<td width="154">CSA</td>
+<td width="168">Unknown</td>
+<td width="166">7/25/23 1:05 PM</td>
+<td width="223">Unknown Location</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
