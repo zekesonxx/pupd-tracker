@@ -697,7 +697,34 @@
   
     	<section class="content__group">
   					<h3>Monday, July 31, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespass</td>
+<td style="font-weight: 400;" width="154">2023PU00944</td>
+<td style="font-weight: 400;" width="168">7/28/23 10:41 PM</td>
+<td style="font-weight: 400;" width="166">7/29/23 1:14 AM</td>
+<td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespass/ Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU00948</td>
+<td style="font-weight: 400;" width="168">7/30/23 2:18 AM</td>
+<td style="font-weight: 400;" width="166">7/30/23 2:33 AM</td>
+<td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
