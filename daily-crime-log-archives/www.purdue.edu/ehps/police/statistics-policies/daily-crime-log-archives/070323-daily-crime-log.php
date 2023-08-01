@@ -250,7 +250,7 @@
         
         
             
-                    <li role="none"><a href="http://purdueteamstore.com" role="menuitem">Shop</a></li>
+                    <li role="none"><a href="https://www.bkstr.com/boilermakersstore" role="menuitem">Shop</a></li>
             
                                  
         
@@ -676,7 +676,7 @@
 <td width="168">7/6/23 10:23 PM</td>
 <td width="166">7/6/23 10:42 PM</td>
 <td>800 Blk Beering Dr</td>
-<td>Pending Prosecutor Review</td>
+<td>Closed</td>
 </tr>
 <tr>
 <td width="187">Operating While Intoxicated</td>

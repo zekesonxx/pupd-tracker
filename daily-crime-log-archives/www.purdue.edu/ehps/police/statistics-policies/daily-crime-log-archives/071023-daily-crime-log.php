@@ -250,7 +250,7 @@
         
         
             
-                    <li role="none"><a href="http://purdueteamstore.com" role="menuitem">Shop</a></li>
+                    <li role="none"><a href="https://www.bkstr.com/boilermakersstore" role="menuitem">Shop</a></li>
             
                                  
         
@@ -844,7 +844,7 @@
 <td style="font-weight: 400;" width="168">7/9/23 5:45 PM</td>
 <td style="font-weight: 400;" width="166">7/9/23 6:26 PM</td>
 <td style="font-weight: 400;" width="223">Transportation Services</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Trespass</td>
