@@ -683,7 +683,66 @@
   
     	<section class="content__group">
   					<h3>Wednesday, August 2, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU00955</td>
+<td width="168">7/31/23 5:50 PM</td>
+<td width="166">7/31/23 5:50 PM</td>
+<td width="223">Wiley Dining Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Assisting Another Agency/Theft-Vehicle</td>
+<td width="154">2023PU00956</td>
+<td width="168">8/1/23 10:00 AM</td>
+<td width="166">8/1/23 10:45 AM</td>
+<td width="223">Continuum</td>
+<td width="181">Documented in 2023WL01884&#160;</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU00957</td>
+<td width="168">8/1/23 11:43 AM</td>
+<td width="166">8/1/23 11:58 AM</td>
+<td width="223">Stewart Center</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU00958</td>
+<td width="168">8/1/23 1:45 PM</td>
+<td width="166">8/1/23 4:50 PM</td>
+<td width="223">Harrison Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU00959</td>
+<td width="168">8/1/23 7:27 PM</td>
+<td width="166">8/1/23 7:43 PM</td>
+<td width="223">Harrison Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Harassment</td>
+<td width="154">CSA</td>
+<td width="168">Unknown</td>
+<td width="166">8/1/23 5:55 PM</td>
+<td width="223">Unknown Location</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
