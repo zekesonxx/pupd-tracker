@@ -697,7 +697,58 @@
   
     	<section class="content__group">
   					<h3>Monday, August 7, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU00967</td>
+<td width="168">8/3/23 2:00 PM</td>
+<td width="166">8/4/23 7:01 AM</td>
+<td width="223">Harrison Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU00968</td>
+<td width="168">8/4/23 8:36 AM</td>
+<td width="166">8/4/23 9:09 AM</td>
+<td width="223">231 Flats</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU00970</td>
+<td width="168">8/2/23 12:00 PM</td>
+<td width="166">8/4/23 1:17 PM</td>
+<td width="223">Hillenbrand Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU00973</td>
+<td width="168">8/4/23 12:10 AM</td>
+<td width="166">8/5/23 4:43 PM</td>
+<td width="223">Honors College</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Reckless Driver</td>
+<td width="154">CAD# 2023-111406</td>
+<td width="168">8/3/23 9:03 AM</td>
+<td width="166">8/3/23 9:03 AM</td>
+<td width="223">Russel St/Mitch Daniels Blvd</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
