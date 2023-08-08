@@ -660,7 +660,7 @@
 <td width="168">3/3/21 12:00 AM</td>
 <td width="166">7/6/23 11:14 AM</td>
 <td width="223">Brunner Vet Hospital</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Under Investigation</td>
 </tr>
 <tr>
 <td width="187">Theft-EMPV and Bike</td>
