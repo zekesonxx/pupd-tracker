@@ -683,7 +683,34 @@
   
     	<section class="content__group">
   					<h3>Wednesday, August 9, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="colgroup" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="colgroup" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="colgroup" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="colgroup" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="colgroup" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="colgroup" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU00985</td>
+<td style="font-weight: 400;" width="168">8/7/23 1:30 PM</td>
+<td style="font-weight: 400;" width="166">8/8/23 12:52 PM</td>
+<td style="font-weight: 400;" width="223">Church of Latter-Day Saints</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Attempted Fraud</td>
+<td style="font-weight: 400;" width="154">2023PU00986</td>
+<td style="font-weight: 400;" width="168">8/8/23 4:21 PM</td>
+<td style="font-weight: 400;" width="166">8/8/23 4:31 PM</td>
+<td style="font-weight: 400;" width="223">Math Building</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
