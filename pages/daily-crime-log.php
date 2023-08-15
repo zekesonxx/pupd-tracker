@@ -690,7 +690,34 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, August 15, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01001</td>
+<td width="168">8/14/23 11:00 AM</td>
+<td width="166">8/14/23 7:10 PM</td>
+<td width="223">Purdue Memorial Union</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Driving While Suspended</td>
+<td width="154">2023PU01004</td>
+<td width="168">8/15/23 3:34 AM</td>
+<td width="166">8/15/23 4:30 AM</td>
+<td width="223">S River Rd/US HWY 231 S</td>
+<td width="181">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
