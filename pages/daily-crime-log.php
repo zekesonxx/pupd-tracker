@@ -683,7 +683,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, August 16, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01008</td>
+<td width="168">7/28/23 1:00 PM</td>
+<td width="166">8/15/23 4:29 PM</td>
+<td width="223">Wetherill</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01010</td>
+<td width="168">8/16/23 12:14 AM</td>
+<td width="166">8/16/23 12:53 AM</td>
+<td width="223">Mitch Daniels Blvd/McCormick Rd</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated</td>
+<td width="154">2023PU01011</td>
+<td width="168">8/16/23 1:19 AM</td>
+<td width="166">8/16/23 2:15 AM</td>
+<td width="223">Northwestern Ave</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Reckless Driver</td>
+<td width="154">CAD# 2023-117288</td>
+<td width="168">8/15/23 8:41 AM</td>
+<td width="166">8/15/23 8:41 AM</td>
+<td width="223">HWY 231 S/W State St</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Sexual Harassment</td>
+<td width="154">CSA</td>
+<td width="168">8/3/23 11:00 PM</td>
+<td width="166">8/15/23 9:45 AM</td>
+<td width="223">100 Blk N Grant St</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -740,7 +791,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="168">8/10/23 10:54 AM</td>
 <td style="font-weight: 400;" width="166">8/10/23 11:12 AM</td>
 <td style="font-weight: 400;" width="223">Purdue Memorial Union</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Indecent Exposure</td>
