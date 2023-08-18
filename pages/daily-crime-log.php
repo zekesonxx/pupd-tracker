@@ -669,7 +669,58 @@
   
     	<section class="content__group">
   					<h3>Friday, August 18, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU1014</td>
+<td style="font-weight: 400;" width="168">8/17/23 7:12 AM</td>
+<td style="font-weight: 400;" width="166">8/17/23 7:25 AM</td>
+<td style="font-weight: 400;" width="223">Meredith South</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU1016</td>
+<td style="font-weight: 400;" width="168">8/17/23 8:48 PM</td>
+<td style="font-weight: 400;" width="166">8/17/23 8:49 PM</td>
+<td style="font-weight: 400;" width="223">Elliott Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Operating while Intoxicated</td>
+<td style="font-weight: 400;" width="154">2023PU01018</td>
+<td style="font-weight: 400;" width="168">8/18/23 1:11 AM</td>
+<td style="font-weight: 400;" width="166">8/18/23 1:57 AM</td>
+<td style="font-weight: 400;" width="223">1200 Blk Northwestern Ave</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-118368</td>
+<td style="font-weight: 400;" width="168">8/16/23 10:38 PM</td>
+<td style="font-weight: 400;" width="166">8/16/23 10:38 PM</td>
+<td style="font-weight: 400;" width="223">Aspire Apt</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-118060</td>
+<td style="font-weight: 400;" width="168">8/16/23 12:36 PM</td>
+<td style="font-weight: 400;" width="166">8/16/23 12:26 PM</td>
+<td style="font-weight: 400;" width="223">W Stadium Ave/N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
