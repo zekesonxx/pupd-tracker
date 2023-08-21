@@ -780,7 +780,7 @@
 <td width="168">8/4/23 8:36 AM</td>
 <td width="166">8/4/23 9:09 AM</td>
 <td width="223">231 Flats</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft-EMPV</td>
@@ -1053,7 +1053,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://www.purdue.edu/hotline/">Speak Up</a></li>
+                <li role="listitem"><a href="https://www.purdue.edu/hotline/">Purdue Hotline</a></li>
                                 
         
                             
