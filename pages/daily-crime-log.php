@@ -690,7 +690,66 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, August 22, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01046</td>
+<td width="168">8/19/23 12:00 AM</td>
+<td width="166">8/21/23 8:29 AM</td>
+<td width="223">Earhart Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01048</td>
+<td width="168">8/15/23 8:02 AM</td>
+<td width="166">8/21/23 8:31 AM</td>
+<td width="223">Hilltop</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD# 2023-119273</td>
+<td width="168">8/18/23 1:57 PM</td>
+<td width="166">8/18/23 1:57 PM</td>
+<td width="223">Cary Quad</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD# 2023-120193</td>
+<td width="168">8/20/23 1:06 AM</td>
+<td width="166">8/20/23 1:06 AM</td>
+<td width="223">Aspire Apts</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Reckless Driver</td>
+<td width="154">CAD# 2023-120382</td>
+<td width="168">8/20/23 12:08 PM</td>
+<td width="166">8/20/23 12:08 PM</td>
+<td width="223">Wood St Garage</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Fondling</td>
+<td width="154">CSA</td>
+<td width="168">8/19/23 12:00 AM</td>
+<td width="166">8/21/23 3:00 PM</td>
+<td width="223">On-Campus Location</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -769,7 +828,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="168">8/19/23 1:10 AM</td>
 <td style="font-weight: 400;" width="166">8/19/23 1:34 AM</td>
 <td style="font-weight: 400;" width="223">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Minor Consumption</td>
