@@ -676,7 +676,74 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, August 24, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2023PU01056</td>
+<td width="168">8/14/23 2:07 PM</td>
+<td width="166">8/23/23 2:25 PM</td>
+<td width="223">Purdue Aviation</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01057</td>
+<td width="168">8/22/23 2:30 PM</td>
+<td width="166">8/23/23 2:48 PM</td>
+<td width="223">Hawkins Graduate House</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2023PU01058</td>
+<td width="168">8/23/23 2:23 PM</td>
+<td width="166">8/23/23 2:55 PM</td>
+<td width="223">Chi Omega</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01061</td>
+<td width="168">8/23/23 12:00 PM</td>
+<td width="166">8/23/23 5:19 PM</td>
+<td width="223">Wetherill Building</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01063</td>
+<td width="168">8/23/23 9:16 PM</td>
+<td width="166">8/23/23 10:51 PM</td>
+<td width="223">Aspire</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01064</td>
+<td width="168">8/23/23 11:51 PM</td>
+<td width="166">8/24/23 12:12 AM</td>
+<td width="223">1200 Blk 3rd St</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CSA</td>
+<td width="168">8/23/23 11:00 PM</td>
+<td width="166">8/24/23 12:50 AM</td>
+<td width="223">Earhart Hall</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -722,7 +789,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="154">2023PU01050</td>
 <td style="font-weight: 400;" width="168">8/22/23 10:30 AM</td>
 <td style="font-weight: 400;" width="166">8/22/23 1:30 PM</td>
-<td style="font-weight: 400;" width="223">Wetherill Laboratory</td>
+<td style="font-weight: 400;" width="223">Wetherill Building</td>
 <td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
@@ -747,7 +814,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="168">Unknown</td>
 <td style="font-weight: 400;" width="166">Unknown</td>
 <td style="font-weight: 400;" width="223">Unknown Off-Campus Location</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
+<td style="font-weight: 400;" width="181">This was determined to be outside Clery Reportable Geography. Nothing Further</td>
 </tr>
 </tbody>
 </table>
@@ -812,7 +879,7 @@ Will be posted soon.
 <td width="154">CSA</td>
 <td width="168">8/19/23 12:00 AM</td>
 <td width="166">8/21/23 3:00 PM</td>
-<td width="223">On-Campus Location</td>
+<td width="223">300 Blk of North St</td>
 <td width="181">Nothing Further</td>
 </tr>
 </tbody>
