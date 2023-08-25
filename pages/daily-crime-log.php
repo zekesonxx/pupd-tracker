@@ -669,7 +669,74 @@
   
     	<section class="content__group">
   					<h3>Friday, August 25, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated</td>
+<td width="154">2023PU00949</td>
+<td width="168">7/30/23 2:16 AM</td>
+<td width="166">7/30/23 2:58 AM</td>
+<td width="223">US 231 Hwy/ Mitch Daniels Blvd.</td>
+<td width="199">Closed</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01068</td>
+<td width="168">8/23/23 3:00 PM</td>
+<td width="166">8/24/23 6:28 PM</td>
+<td width="223">Meredith Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law VIolation</td>
+<td width="154">2023PU01069</td>
+<td width="168">8/24/23 8:07 PM</td>
+<td width="166">8/24/23 8:43 PM</td>
+<td width="223">Aspire Apts</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01070</td>
+<td width="168">8/24/23 9:09 PM</td>
+<td width="166">8/24/23 9:32 PM</td>
+<td width="223">Winifred Parker Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law VIolation</td>
+<td width="154">CAD# 2023-122358</td>
+<td width="168">8/23/23 11:18 PM</td>
+<td width="166">8/23/23 11:18 PM</td>
+<td width="223">Earhart Hall</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Reckless Driver</td>
+<td width="154">CAD# 2023-121856</td>
+<td width="168">8/23/23 8:29 AM</td>
+<td width="166">8/23/23 8:29 AM</td>
+<td width="223">US 231 Hwy/ S River Rd</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">CSA</td>
+<td width="168">8/22/23 11:00 PM</td>
+<td width="166">8/24/23 5:40 AM</td>
+<td width="223">Winifred Parker Hall</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -946,7 +1013,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="168">8/18/23 9:57 PM</td>
 <td style="font-weight: 400;" width="166">8/18/23 10:07 PM</td>
 <td style="font-weight: 400;" width="223">First St Towers</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Minor Consumption</td>
