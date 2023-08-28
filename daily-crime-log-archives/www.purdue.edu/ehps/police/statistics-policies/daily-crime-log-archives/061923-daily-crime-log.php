@@ -250,7 +250,7 @@
         
         
             
-                    <li role="none"><a href="http://purdueteamstore.com" role="menuitem">Shop</a></li>
+                    <li role="none"><a href="https://www.bkstr.com/boilermakersstore" role="menuitem">Shop</a></li>
             
                                  
         
@@ -860,7 +860,7 @@
 <td width="168">6/17/23 11:45 PM</td>
 <td width="166">6/17/23 11:57 PM</td>
 <td width="223">US HWY 231 S/S River Rd</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 </tbody>
 </table>
@@ -1109,7 +1109,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://www.purdue.edu/hotline/">Speak Up</a></li>
+                <li role="listitem"><a href="https://www.purdue.edu/hotline/">Purdue Hotline</a></li>
                                 
         
                             
