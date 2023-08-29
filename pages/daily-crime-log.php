@@ -690,7 +690,114 @@
   
     	<section class="content__group">
   					<h3>Tuesday, August 29, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Blackmail</td>
+<td style="font-weight: 400;" width="154">2023PU01072</td>
+<td style="font-weight: 400;" width="168">8/24/23 11:37 PM</td>
+<td style="font-weight: 400;" width="166">8/24/23 11:50 PM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU01098</td>
+<td style="font-weight: 400;" width="168">8/25/23 2:45 PM</td>
+<td style="font-weight: 400;" width="166">8/28/23 10:29 AM</td>
+<td style="font-weight: 400;" width="223">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Harassment</td>
+<td style="font-weight: 400;" width="154">2023PU01099</td>
+<td style="font-weight: 400;" width="168">8/28/23 10:58 AM</td>
+<td style="font-weight: 400;" width="166">8/28/23 11:42 AM</td>
+<td style="font-weight: 400;" width="223">Pi Beta Phi</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Blackmail</td>
+<td style="font-weight: 400;" width="154">2023PU01102</td>
+<td style="font-weight: 400;" width="168">8/28/23 6:00 AM</td>
+<td style="font-weight: 400;" width="166">8/28/23 1:46 PM</td>
+<td style="font-weight: 400;" width="223">Owen Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU01103</td>
+<td style="font-weight: 400;" width="168">8/28/23 10:30 AM</td>
+<td style="font-weight: 400;" width="166">8/28/23 3:32 PM</td>
+<td style="font-weight: 400;" width="223">Vawter Hall</td>
+<td style="font-weight: 400;" width="199">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU01106</td>
+<td style="font-weight: 400;" width="168">8/28/23 6:56 PM</td>
+<td style="font-weight: 400;" width="166">8/28/23 7:10 PM</td>
+<td style="font-weight: 400;" width="223">Shreve Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU01107</td>
+<td style="font-weight: 400;" width="168">8/28/23 7:45 PM</td>
+<td style="font-weight: 400;" width="166">8/28/23 8:04 PM</td>
+<td style="font-weight: 400;" width="223">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU01108</td>
+<td style="font-weight: 400;" width="168">8/26/23 9:00 PM</td>
+<td style="font-weight: 400;" width="166">8/28/23 8:08 PM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Battery/ Resisting Law Enforcement/ Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2023PU01112</td>
+<td style="font-weight: 400;" width="168">8/29/23 12:32 AM</td>
+<td style="font-weight: 400;" width="166">8/29/23 1:14 AM</td>
+<td style="font-weight: 400;" width="223">Mitch Daniels Blvd/ Marsteller St</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Reckless Driving</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-124186</td>
+<td style="font-weight: 400;" width="168">8/25/23 5:40 PM</td>
+<td style="font-weight: 400;" width="166">8/25/23 5:40 PM</td>
+<td style="font-weight: 400;" width="223">Mitch Daniels Blvd / Russell St</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Vandalism</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">Unknown Date &amp; Time</td>
+<td style="font-weight: 400;" width="166">8/28/23 7:00 PM</td>
+<td style="font-weight: 400;" width="223">Shreve Hall</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Stalking</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">8/28/23 9:00 PM</td>
+<td style="font-weight: 400;" width="166">8/28/23 9:20 PM</td>
+<td style="font-weight: 400;" width="223">WL Purdue Campus</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
