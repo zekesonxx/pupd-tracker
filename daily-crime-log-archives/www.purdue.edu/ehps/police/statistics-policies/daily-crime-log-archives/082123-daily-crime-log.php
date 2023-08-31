@@ -964,7 +964,7 @@
 <td style="font-weight: 400;" width="168">8/18/23 1:17 PM</td>
 <td style="font-weight: 400;" width="166">8/18/23 1:54 PM</td>
 <td style="font-weight: 400;" width="223">Aspire Apts</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Criminal Mischief</td>
@@ -988,7 +988,7 @@
 <td style="font-weight: 400;" width="168">8/18/23 9:57 PM</td>
 <td style="font-weight: 400;" width="166">8/18/23 10:07 PM</td>
 <td style="font-weight: 400;" width="223">First St Towers</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Minor Consumption</td>

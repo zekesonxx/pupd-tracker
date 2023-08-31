@@ -676,7 +676,122 @@
   
     	<section class="content__group">
   					<h3>Thursday, August 31, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01122</td>
+<td width="168">8/29/23 8:00 PM</td>
+<td width="166">8/30/23 8:24 AM</td>
+<td width="223">McCutcheon Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01123</td>
+<td width="168">8/30/23 9:10 AM</td>
+<td width="166">8/30/23 9:23 AM</td>
+<td width="223">McCutcheon Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01125</td>
+<td width="168">8/30/23 10:17 AM</td>
+<td width="166">8/30/23 10:33 AM</td>
+<td width="223">McCutcheon Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01126</td>
+<td width="168">8/26/23 6:00 PM</td>
+<td width="166">8/30/23 10:47 AM</td>
+<td width="223">Cary Quad East</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01127</td>
+<td width="168">8/30/23 10:44 AM</td>
+<td width="166">8/30/23 10:59 AM</td>
+<td width="223">Owen Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01131</td>
+<td width="168">8/30/23 2:38 PM</td>
+<td width="166">8/30/23 4:53 PM</td>
+<td width="223">Wiley Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Crash Hit &amp; Run</td>
+<td width="154">2023PU01132</td>
+<td width="168">8/30/23 5:17 PM</td>
+<td width="166">8/30/23 5:29 PM</td>
+<td width="223">Discovery Lot</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01133</td>
+<td width="168">8/30/23 6:25 PM</td>
+<td width="166">8/30/23 6:32 PM</td>
+<td width="223">Hilltop</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01134</td>
+<td width="168">8/25/23 2:00 PM</td>
+<td width="166">8/30/23 6:35 PM</td>
+<td width="223">Hilltop</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01135</td>
+<td width="168">8/28/23 4:30 PM</td>
+<td width="166">8/30/23 7:01 PM</td>
+<td width="223">Psychological Sciences Building</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01137</td>
+<td width="168">8/29/23 6:30 PM</td>
+<td width="166">8/30/23 8:22 PM</td>
+<td width="223">Harrison Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01138</td>
+<td width="168">8/26/23 12:00 AM</td>
+<td width="166">8/30/23 9:01 PM</td>
+<td width="223">Pierce Lot</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Fondling</td>
+<td width="154">CSA</td>
+<td width="168">8/29/23 12:00 AM</td>
+<td width="166">8/29/23 12:00 AM</td>
+<td width="223">On-Campus Location</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
