@@ -1260,7 +1260,7 @@
 <td style="font-weight: 400;" width="168">8/26/23 11:43 PM</td>
 <td style="font-weight: 400;" width="166">8/27/23 12:05 AM</td>
 <td style="font-weight: 400;" width="223">Wiley Hall</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Trespass</td>

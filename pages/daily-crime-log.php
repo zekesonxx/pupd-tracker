@@ -683,7 +683,114 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, September 6, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU01168</td>
+<td style="font-weight: 400;" width="168">9/5/23 7:55 AM</td>
+<td style="font-weight: 400;" width="166">9/5/23 8:30 AM</td>
+<td style="font-weight: 400;" width="223">Wiley Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU01170</td>
+<td style="font-weight: 400;" width="168">9/1/23 4:00 PM</td>
+<td style="font-weight: 400;" width="166">9/5/23 1:29 PM</td>
+<td style="font-weight: 400;" width="223">Stewart Center</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2023PU01173</td>
+<td style="font-weight: 400;" width="168">9/5/23 8:38 PM</td>
+<td style="font-weight: 400;" width="166">9/5/23 10:04 PM</td>
+<td style="font-weight: 400;" width="223">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-128069</td>
+<td style="font-weight: 400;" width="168">9/2/23 12:57 AM</td>
+<td style="font-weight: 400;" width="166">9/2/23 12:57 AM</td>
+<td style="font-weight: 400;" width="223">Wiley Hall</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-128118</td>
+<td style="font-weight: 400;" width="168">9/2/23 2:13 AM</td>
+<td style="font-weight: 400;" width="166">9/2/23 2:13 AM</td>
+<td style="font-weight: 400;" width="223">Continuum Apts</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Reckless Driving</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-128166</td>
+<td style="font-weight: 400;" width="168">9/2/23 6:16 AM</td>
+<td style="font-weight: 400;" width="166">9/2/23 6:16 AM</td>
+<td style="font-weight: 400;" width="223">W State St/ US 231 Hwy</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Battery</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-128700</td>
+<td style="font-weight: 400;" width="168">9/3/23 1:57 AM</td>
+<td style="font-weight: 400;" width="166">9/3/23 1:57 AM</td>
+<td style="font-weight: 400;" width="223">Northwestern Ave/ W Stadium Ave</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Road Rage</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-129055</td>
+<td style="font-weight: 400;" width="168">9/3/23 7:16 PM</td>
+<td style="font-weight: 400;" width="166">9/3/23 7:16 PM</td>
+<td style="font-weight: 400;" width="223">W State St/ US 231 Hwy</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-129237</td>
+<td style="font-weight: 400;" width="168">9/4/23 3:17 AM</td>
+<td style="font-weight: 400;" width="166">9/4/23 3:17 AM</td>
+<td style="font-weight: 400;" width="223">Grant St Garage</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Operating While Intoxicated/ Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2023WL02204</td>
+<td style="font-weight: 400;" width="168">9/2/23 7:35 AM</td>
+<td style="font-weight: 400;" width="166">9/2/23 7:35 AM</td>
+<td style="font-weight: 400;" width="223">Northwestern Ave/ W Stadium Ave</td>
+<td style="font-weight: 400;" width="199">Refer to WLPD 2023WL02204</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023WL02215</td>
+<td style="font-weight: 400;" width="168">9/3/23 3:06 AM</td>
+<td style="font-weight: 400;" width="166">9/3/23 3:06 AM</td>
+<td style="font-weight: 400;" width="223">US 231 Hwy/ Ahlers Dr</td>
+<td style="font-weight: 400;" width="199">Refer to WLPD 2023WL02215</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Stalking</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">9/4/23 3:00 AM</td>
+<td style="font-weight: 400;" width="166">9/5/23 5:08 PM</td>
+<td style="font-weight: 400;" width="223">Earhart Hall</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
