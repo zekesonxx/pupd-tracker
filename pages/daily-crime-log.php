@@ -676,7 +676,74 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, September 7, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Battery-Simple</td>
+<td width="154">2023PU01169</td>
+<td width="168">9/4/23 9:00 AM</td>
+<td width="166">9/5/23 11:13 AM</td>
+<td width="223">Harrison St</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01176</td>
+<td width="168">8/31/23 5:20 PM</td>
+<td width="166">9/6/23 7:21 AM</td>
+<td width="223">Boiler Makers Tennis Court</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01177</td>
+<td width="168">9/6/23 7:23 AM</td>
+<td width="166">9/6/23 7:27 AM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01185</td>
+<td width="168">9/6/23 4:22 PM</td>
+<td width="166">9/6/23 4:54 PM</td>
+<td width="223">Honors College</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01187</td>
+<td width="168">9/6/23 8:02 PM</td>
+<td width="166">9/6/23 8:07 PM</td>
+<td width="223">Knoy Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01189</td>
+<td width="168">9/7/23 12:20 AM</td>
+<td width="166">9/7/23 12:56 AM</td>
+<td width="223">1st St Towers</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Burglary</td>
+<td width="154">CSA</td>
+<td width="168">9/4/23 5:30 PM</td>
+<td width="166">9/4/23 6:00 PM</td>
+<td width="223">On-Campus Location</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

@@ -852,7 +852,7 @@
 <td style="font-weight: 400;" width="168">8/13/23 1:12 AM</td>
 <td style="font-weight: 400;" width="166">8/13/23 1:37 AM</td>
 <td style="font-weight: 400;" width="223">Acacia House</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft</td>
