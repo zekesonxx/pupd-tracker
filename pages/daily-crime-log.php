@@ -669,7 +669,90 @@
   
     	<section class="content__group">
   					<h3>Friday, September 8, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Fraud</td>
+<td style="font-weight: 400;" width="154">2023PU01190</td>
+<td style="font-weight: 400;" width="168">9/7/23 8:45 AM</td>
+<td style="font-weight: 400;" width="166">9/7/23 12:09 PM</td>
+<td style="font-weight: 400;" width="223">Schleman Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Blackmail</td>
+<td style="font-weight: 400;" width="154">2023PU1192</td>
+<td style="font-weight: 400;" width="168">9/7/23 12:51 AM</td>
+<td style="font-weight: 400;" width="166">9/7/23 1:31 PM</td>
+<td style="font-weight: 400;" width="223">Krach Center</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU01195</td>
+<td style="font-weight: 400;" width="168">9/5/23 6:00 PM</td>
+<td style="font-weight: 400;" width="166">9/7/23 4:16 PM</td>
+<td style="font-weight: 400;" width="223">CoRec</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">False Reporting</td>
+<td style="font-weight: 400;" width="154">2023PU01196</td>
+<td style="font-weight: 400;" width="168">9/7/23 4:09 PM</td>
+<td style="font-weight: 400;" width="166">9/7/23 4:19 PM</td>
+<td style="font-weight: 400;" width="223">Forney Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violations</td>
+<td style="font-weight: 400;" width="154">2023PU01197</td>
+<td style="font-weight: 400;" width="168">9/7/23 7:35 PM</td>
+<td style="font-weight: 400;" width="166">9/7/23 8:20 PM</td>
+<td style="font-weight: 400;" width="223">Wood Hall</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Blackmail</td>
+<td style="font-weight: 400;" width="154">2023PU01198</td>
+<td style="font-weight: 400;" width="168">9/7/23 9:56 PM</td>
+<td style="font-weight: 400;" width="166">9/7/23 10:06 PM</td>
+<td style="font-weight: 400;" width="223">Owen Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violations</td>
+<td style="font-weight: 400;" width="154">2023PU01199</td>
+<td style="font-weight: 400;" width="168">9/8/23 1:03 AM</td>
+<td style="font-weight: 400;" width="166">9/8/23 1:46 AM</td>
+<td style="font-weight: 400;" width="223">1 N Sharon Chapel Rd</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-130474</td>
+<td style="font-weight: 400;" width="168">9/6/23 11:15 AM</td>
+<td style="font-weight: 400;" width="166">9/6/23 11:15 AM</td>
+<td style="font-weight: 400;" width="223">2550 Northwestern Ave</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-130529</td>
+<td style="font-weight: 400;" width="168">9/6/23 1:01 PM</td>
+<td style="font-weight: 400;" width="166">9/6/23 1:01 PM</td>
+<td style="font-weight: 400;" width="223">Shreve Hall</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
