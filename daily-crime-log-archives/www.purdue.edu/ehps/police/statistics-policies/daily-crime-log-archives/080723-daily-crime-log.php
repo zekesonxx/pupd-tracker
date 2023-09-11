@@ -746,7 +746,7 @@
 <td width="168">8/7/23 5:50 PM</td>
 <td width="166">8/7/23 6:20 PM</td>
 <td width="223">Stewart Center</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 </tbody>
 </table>

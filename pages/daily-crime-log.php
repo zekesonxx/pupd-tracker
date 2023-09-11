@@ -697,7 +697,130 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, September 11, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Harassment</td>
+<td width="154">2023PU01203</td>
+<td width="168">9/8/23 4:04 PM</td>
+<td width="166">9/8/23 4:55 PM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2023PU01204</td>
+<td width="168">8/29/23 3:48 PM</td>
+<td width="166">9/8/23 5:57 PM</td>
+<td width="223">Graduate Student Center</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01205</td>
+<td width="168">9/8/23 5:00 PM</td>
+<td width="166">9/8/23 10:20 PM</td>
+<td width="223">Hawkins Graduate House</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01206</td>
+<td width="168">9/8/23 10:01 PM</td>
+<td width="166">9/8/23 10:37 PM</td>
+<td width="223">McCutcheon Hall</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01207</td>
+<td width="168">9/8/22 10:32 PM</td>
+<td width="166">9/8/23 10:47 PM</td>
+<td width="223">Beta Upsilon</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01208</td>
+<td width="168">9/9/23 12:44 AM</td>
+<td width="166">9/9/23 1:07 AM</td>
+<td width="223">Acacia Fraternity</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated/Minor Consumption</td>
+<td width="154">2023PU01209</td>
+<td width="168">9/9/23 1:55 AM</td>
+<td width="166">9/9/23 2:50 AM</td>
+<td width="223">200 Blk Airport Rd</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01212</td>
+<td width="168">9/9/23 11:03 PM</td>
+<td width="166">9/9/23 11:37 PM</td>
+<td width="223">Horticulture Park</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01213</td>
+<td width="168">9/10/23 12:32 AM</td>
+<td width="166">9/10/23 12:53 AM</td>
+<td width="223">Delta Delta Delta</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation/Minor Consumption</td>
+<td width="154">2023PU01216</td>
+<td width="168">9/10/23 1:22 AM</td>
+<td width="166">9/10/23 1:48 AM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01217</td>
+<td width="168">9/10/23 2:26 AM</td>
+<td width="166">9/10/23 2:42 AM</td>
+<td width="223">Earhart Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01219</td>
+<td width="168">9/10/23 3:02 AM</td>
+<td width="166">9/10/23 3:21 AM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Blackmail</td>
+<td width="154">2023PU01221</td>
+<td width="168">9/10/23 9:43 AM</td>
+<td width="166">9/10/23 11:53 AM</td>
+<td width="223">McCutcheon Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01222</td>
+<td width="168">9/9/23 12:22 AM</td>
+<td width="166">9/10/23 4:31 PM</td>
+<td width="223">1st St Towers</td>
+<td width="199">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
