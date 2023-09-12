@@ -396,11 +396,6 @@
         
                                                             
         
-        <li role="none"><a href="daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
-                                                    
-        
-                                                            
-        
         <li role="none"><a href="drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                     
         
@@ -690,7 +685,122 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, September 12, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU01224</td>
+<td style="font-weight: 400;" width="168">9/1/23 4:40 PM</td>
+<td style="font-weight: 400;" width="166">9/11/23 5:51 AM</td>
+<td style="font-weight: 400;" width="223">Hall for Discovery Learning Research</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU01225</td>
+<td style="font-weight: 400;" width="168">9/7/23 2:00 PM</td>
+<td style="font-weight: 400;" width="166">9/11/23 6:11 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU01226</td>
+<td style="font-weight: 400;" width="168">9/8/23 2:00 PM</td>
+<td style="font-weight: 400;" width="166">9/11/23 6:26 AM</td>
+<td style="font-weight: 400;" width="223">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU01227</td>
+<td style="font-weight: 400;" width="168">9/10/23 10:00 PM</td>
+<td style="font-weight: 400;" width="166">9/11/23 11:38 AM</td>
+<td style="font-weight: 400;" width="223">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU01228</td>
+<td style="font-weight: 400;" width="168">9/10/23 3:15 PM</td>
+<td style="font-weight: 400;" width="166">9/11/23 11:39 AM</td>
+<td style="font-weight: 400;" width="223">Honors College North</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU01229</td>
+<td style="font-weight: 400;" width="168">9/8/23 6:00 PM</td>
+<td style="font-weight: 400;" width="166">9/11/23 11:56 AM</td>
+<td style="font-weight: 400;" width="223">Shreve Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU01331</td>
+<td style="font-weight: 400;" width="168">9/9/23 12:00 PM</td>
+<td style="font-weight: 400;" width="166">9/11/23 5:04 PM</td>
+<td style="font-weight: 400;" width="223">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU01232</td>
+<td style="font-weight: 400;" width="168">9/12/23 12:09 AM</td>
+<td style="font-weight: 400;" width="166">9/12/23 12:16 AM</td>
+<td style="font-weight: 400;" width="223">CoRec</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU01233</td>
+<td style="font-weight: 400;" width="168">9/12/23 12:08 AM</td>
+<td style="font-weight: 400;" width="166">9/12/23 12:33 AM</td>
+<td style="font-weight: 400;" width="223">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespassing</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-133157</td>
+<td style="font-weight: 400;" width="168">9/11/23 1:06 AM</td>
+<td style="font-weight: 400;" width="166">9/11/23 1:06 AM</td>
+<td style="font-weight: 400;" width="223">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-132541</td>
+<td style="font-weight: 400;" width="168">9/9/23 6:53 PM</td>
+<td style="font-weight: 400;" width="166">9/9/23 6:53 PM</td>
+<td style="font-weight: 400;" width="223">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-132765</td>
+<td style="font-weight: 400;" width="168">9/10/23 2:26 AM</td>
+<td style="font-weight: 400;" width="166">9/10/23 2:26 AM</td>
+<td style="font-weight: 400;" width="223">McCormick Rd/ 3rd St</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-132678</td>
+<td style="font-weight: 400;" width="168">9/9/23 10:50 PM</td>
+<td style="font-weight: 400;" width="166">9/9/23 10:50 PM</td>
+<td style="font-weight: 400;" width="223">Harrison Hall</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -713,7 +823,7 @@ Will be posted soon.
 <td width="168">9/8/23 4:04 PM</td>
 <td width="166">9/8/23 4:55 PM</td>
 <td width="223">Tarkington Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="187">Fraud</td>
