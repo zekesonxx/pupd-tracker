@@ -396,11 +396,6 @@
         
                                                             
         
-        <li role="none"><a href="../daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
-                                                    
-        
-                                                            
-        
         <li role="none"><a href="../drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                     
         
@@ -676,7 +671,7 @@
 <td style="font-weight: 400;" width="168">9/5/23 6:00 PM</td>
 <td style="font-weight: 400;" width="166">9/7/23 4:16 PM</td>
 <td style="font-weight: 400;" width="223">CoRec</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">False Reporting</td>
