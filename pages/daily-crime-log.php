@@ -671,7 +671,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, September 14, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Blackmail</td>
+<td style="font-weight: 400;" width="154">2023PU01244</td>
+<td style="font-weight: 400;" width="168">9/12/23 2:00 PM</td>
+<td style="font-weight: 400;" width="166">9/13/23 5:03 PM</td>
+<td style="font-weight: 400;" width="223">Hampton Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Harassment</td>
+<td style="font-weight: 400;" width="154">2023PU01245</td>
+<td style="font-weight: 400;" width="168">9/13/23 7:15 PM</td>
+<td style="font-weight: 400;" width="166">9/13/23 7:47 PM</td>
+<td style="font-weight: 400;" width="223">Wiley Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Harassment</td>
+<td style="font-weight: 400;" width="154">2023PU01246</td>
+<td style="font-weight: 400;" width="168">9/13/23 8:01 PM</td>
+<td style="font-weight: 400;" width="166">9/13/23 8:46 PM</td>
+<td style="font-weight: 400;" width="223">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespass</td>
+<td style="font-weight: 400;" width="154">2023PU01249</td>
+<td style="font-weight: 400;" width="168">9/14/23 2:26 AM</td>
+<td style="font-weight: 400;" width="166">9/14/23 2:46 AM</td>
+<td style="font-weight: 400;" width="223">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -721,12 +764,12 @@ Will be posted soon.
 <td style="font-weight: 400;" width="199">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="187">Suspicious Incident</td>
 <td style="font-weight: 400;" width="154">2023PU01237</td>
 <td style="font-weight: 400;" width="168">9/12/23 2:06 PM</td>
 <td style="font-weight: 400;" width="166">9/12/23 2:06 PM</td>
 <td style="font-weight: 400;" width="223">Psychological Sciences</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
 </tr>
 </tbody>
 </table>
@@ -898,7 +941,7 @@ Will be posted soon.
 <td width="168">9/8/23 10:01 PM</td>
 <td width="166">9/8/23 10:37 PM</td>
 <td width="223">McCutcheon Hall</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
@@ -930,7 +973,7 @@ Will be posted soon.
 <td width="168">9/9/23 11:03 PM</td>
 <td width="166">9/9/23 11:37 PM</td>
 <td width="223">Horticulture Park</td>
-<td width="199">Arrest Made</td>
+<td width="199">Judicial Review</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
@@ -938,7 +981,7 @@ Will be posted soon.
 <td width="168">9/10/23 12:32 AM</td>
 <td width="166">9/10/23 12:53 AM</td>
 <td width="223">Delta Delta Delta</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Drug Law Violation/Minor Consumption</td>

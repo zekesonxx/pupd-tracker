@@ -785,7 +785,7 @@
 <td width="168">9/7/23 12:20 AM</td>
 <td width="166">9/7/23 12:56 AM</td>
 <td width="223">1st St Towers</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Burglary</td>
@@ -981,7 +981,7 @@
 <td style="font-weight: 400;" width="168">9/3/23 2:01 AM</td>
 <td style="font-weight: 400;" width="166">9/3/23 2:25 AM</td>
 <td style="font-weight: 400;" width="223">500 Blk Northwestern Ave</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Hit &amp; Run</td>
