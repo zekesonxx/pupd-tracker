@@ -664,7 +664,58 @@
   
     	<section class="content__group">
   					<h3>Friday, September 15, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01251</td>
+<td width="168">9/9/23 8:00 PM</td>
+<td width="166">9/14/23 4:18 PM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">False Informing</td>
+<td width="154">2023PU01252</td>
+<td width="168">9/14/23 11:32 PM</td>
+<td width="166">9/14/23 11:42 PM</td>
+<td width="223">Krannert</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01253</td>
+<td width="168">9/15/23 12:42 AM</td>
+<td width="166">9/15/23 1:26 AM</td>
+<td width="223">Owen Hall</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption/Resisting Law Enforcement</td>
+<td width="154">2023PU01254</td>
+<td width="168">9/15/23 3:08 AM</td>
+<td width="166">9/15/23 3:37 AM</td>
+<td width="223">W Stadium Ave/N Martin Jischke Dr</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">CAD# 2023-134586</td>
+<td width="168">9/13/23 5:26 PM</td>
+<td width="166">9/13/23 5:26 PM</td>
+<td width="223">Provenance Apts</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
