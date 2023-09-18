@@ -692,7 +692,146 @@
   
     	<section class="content__group">
   					<h3>Monday, September 18, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01260</td>
+<td width="168">9/15/23 4:47 PM</td>
+<td width="166">9/15/23 5:40 PM</td>
+<td width="223">Wilmeth Active Learning Center</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01265</td>
+<td width="168">9/15/23 10:41 PM</td>
+<td width="166">9/15/23 10:54 PM</td>
+<td width="223">Owen Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01266</td>
+<td width="168">9/15/23 10:41 PM</td>
+<td width="166">9/15/23 11:09 PM</td>
+<td width="223">1st St Towers</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01267</td>
+<td width="168">9/15/23 10:41 PM</td>
+<td width="166">9/15/23 11:10 PM</td>
+<td width="223">1st St Towers</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01268</td>
+<td width="168">9/15/23 11:13 PM</td>
+<td width="166">9/15/23 11:43 PM</td>
+<td width="223">Horticulture Park</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Trespassing</td>
+<td width="154">2023PU01269</td>
+<td width="168">9/15/23 11:52 PM</td>
+<td width="166">9/16/23 12:06 AM</td>
+<td width="223">Ross-Ade Stadium</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01270</td>
+<td width="168">9/16/23 12:32 AM</td>
+<td width="166">9/16/23 12:53 AM</td>
+<td width="223">Owen Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01271</td>
+<td width="168">9/16/23 12:57 AM</td>
+<td width="166">9/16/23 1:16 AM</td>
+<td width="223">Wiley Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01272</td>
+<td width="168">9/16/23 2:30 AM</td>
+<td width="166">9/16/23 2:53 AM</td>
+<td width="223">Owen Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Trespassing</td>
+<td width="154">2023PU01273</td>
+<td width="168">9/16/23 4:41 AM</td>
+<td width="166">9/16/23 4:57 AM</td>
+<td width="223">Ross-Ade Stadium</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01274</td>
+<td width="168">9/15/23 11:19 PM</td>
+<td width="166">9/16/23 5:43 AM</td>
+<td width="223">Honors College</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01276</td>
+<td width="168">9/16/23 8:07 PM</td>
+<td width="166">9/16/23 8:21 PM</td>
+<td width="223">Hilltop</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01282</td>
+<td width="168">9/17/23 12:51 AM</td>
+<td width="166">9/17/23 1:13 AM</td>
+<td width="223">Earthart Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01284</td>
+<td width="168">9/17/23 3:49 PM</td>
+<td width="166">9/17/23 4:09 PM</td>
+<td width="223">Owen Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01285</td>
+<td width="168">9/16/23 1:00 PM</td>
+<td width="166">9/17/23 5:42 PM</td>
+<td width="223">Hawkins Graduate House</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">CAD# 2023-135458</td>
+<td width="168">9/15/23 9:58 AM</td>
+<td width="166">9/15/23 9:58 AM</td>
+<td width="223">Krach Leadership Center</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
