@@ -983,7 +983,7 @@
 <td width="168">9/9/23 12:44 AM</td>
 <td width="166">9/9/23 1:07 AM</td>
 <td width="223">Acacia Fraternity</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Judicial Review Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="187">Operating While Intoxicated/Minor Consumption</td>

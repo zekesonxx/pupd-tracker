@@ -685,7 +685,82 @@
   
     	<section class="content__group">
   					<h3>Tuesday, September 19, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Fondling</td>
+<td width="154">2023PU01278</td>
+<td width="168">9/16/23 10:27 PM</td>
+<td width="166">9/16/23 10:30 PM</td>
+<td width="223">800 Blk Beering Dr</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01287</td>
+<td width="168">8/19/23 5:00 PM</td>
+<td width="166">9/18/23 8:36 AM</td>
+<td width="223">Material Sciences &amp; Electrical Engineering</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01291</td>
+<td width="168">9/18/23 9:25 AM</td>
+<td width="166">9/18/23 11:40 AM</td>
+<td width="223">Hampton Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01292</td>
+<td width="168">9/18/23 12:28 PM</td>
+<td width="166">9/18/23 12:30 PM</td>
+<td width="223">CoRec</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Thef-Bike</td>
+<td width="154">2023PU01293</td>
+<td width="168">9/14/23 2:00 AM</td>
+<td width="166">9/18/23 2:27 PM</td>
+<td width="223">Lambertus Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01297</td>
+<td width="168">9/19/23 12:14 AM</td>
+<td width="166">9/19/23 12:23 AM</td>
+<td width="223">Wilmeth Active Learning Center</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">CAD# 2023-135368</td>
+<td width="168">9/15/23 2:13 AM</td>
+<td width="166">9/15/23 2:13 AM</td>
+<td width="223">West State St/North Grant St</td>
+<td width="199">Arrest Made 2023WL02321</td>
+</tr>
+<tr>
+<td width="187">Rape</td>
+<td width="154">CSA</td>
+<td width="168">6/1/23 12:00 AM</td>
+<td width="166">9/18/23 12:00 AM</td>
+<td width="223">On-Campus Location</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -740,7 +815,7 @@
 <td width="168">9/15/23 11:13 PM</td>
 <td width="166">9/15/23 11:43 PM</td>
 <td width="223">Horticulture Park</td>
-<td width="199">Arrest Made</td>
+<td width="199">Judicial Review Arrest Made</td>
 </tr>
 <tr>
 <td width="187">Trespassing</td>
