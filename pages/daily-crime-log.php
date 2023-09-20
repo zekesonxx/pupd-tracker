@@ -678,7 +678,170 @@
   
     	<section class="content__group">
   					<h3>Wednesday, September 20, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01299</td>
+<td width="168">9/19/23 5:30 PM</td>
+<td width="166">9/19/23 5:59 PM</td>
+<td width="223">Grant St Parking Garage</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01300</td>
+<td width="168">9/20/23 12:40 AM</td>
+<td width="166">9/20/23 1:08 AM</td>
+<td width="223">Earhart Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Hit &amp; Run</td>
+<td width="154">CAD# 2023-137281</td>
+<td width="168">9/18/23 11:24 AM</td>
+<td width="166">9/18/23 11:24 AM</td>
+<td width="223">Benchmark II Apts</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>8/26/2023 0:15</td>
+<td>8/26/2023 1:01</td>
+<td>Wiley Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td>4 Disciplinary Referral</td>
+<td>8/26/2023 1:06</td>
+<td>8/28/2023 12:32</td>
+<td>250 McCutcheon Dr</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>6 Disciplinary Referral</td>
+<td>8/31/2023 22:30</td>
+<td>8/31/2023 23:17</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>11 Disciplinary Referral</td>
+<td>8/31/2023 23:15</td>
+<td>9/1/2023 1:12</td>
+<td>Benchmark UR Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>11 Disciplinary Referral</td>
+<td>9/2/2023 0:30</td>
+<td>9/2/2023 2:00</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>9/3/2023 0:30</td>
+<td>9/3/2023 1:02</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>9/3/2023 22:00</td>
+<td>9/3/2023 22:48</td>
+<td>Hillenbrand Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>4 Disciplinary Referral</td>
+<td>9/3/2023 23:15</td>
+<td>9/4/2023 0:33</td>
+<td>Aspire Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>9/5/2023 20:30</td>
+<td>9/5/2023 21:58</td>
+<td>McCutcheon Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>9/5/2311:31 PM</td>
+<td>9/6/2023 1:04</td>
+<td>Meredith South</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>9/8/2023 22:00</td>
+<td>9/8/2023 22:49</td>
+<td>McCutcheon Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>3 Disciplinary Referral</td>
+<td>9/8/2023 22:00</td>
+<td>9/8/2023 22:41</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>4 Disciplinary Referral</td>
+<td>9/8/2023 22:15</td>
+<td>9/9/2023 0:43</td>
+<td>Shreve Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>9/9/2023 2:45</td>
+<td>9/9/2023 3:54</td>
+<td>Tarkington Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>6 Disciplinary Referral</td>
+<td>9/9/2023 22:45</td>
+<td>9/10/2023 0:07</td>
+<td>Tarkington Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>20 Disciplinary Referral</td>
+<td>9/10/2023 0:15</td>
+<td>9/10/2023 1:59</td>
+<td>Tarkington Hall</td>
+<td>Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
