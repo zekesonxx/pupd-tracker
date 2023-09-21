@@ -396,11 +396,6 @@
         
                                                             
         
-        <li role="none"><a href="../daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
-                                                    
-        
-                                                            
-        
         <li role="none"><a href="../drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                     
         
@@ -782,7 +777,7 @@
 <td width="168">7/23/23 2:24 AM</td>
 <td width="166">7/23/23 2:42 AM</td>
 <td width="223">US HWY 231/ Ahlers Dr</td>
-<td width="181">Arrest Made</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="187">Operating While Intoxicated</td>
@@ -1039,7 +1034,7 @@
         
                             
                                 
-                <li role="listitem"><a href="https://www.purdue.edu/hotline/">Speak Up</a></li>
+                <li role="listitem"><a href="https://www.purdue.edu/hotline/">Purdue Hotline</a></li>
                                 
         
                             
