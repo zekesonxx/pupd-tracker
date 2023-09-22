@@ -664,7 +664,50 @@
   
     	<section class="content__group">
   					<h3>Friday, September 22, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01312</td>
+<td width="168">9/5/23 12:00 PM</td>
+<td width="166">9/21/23 3:09 PM</td>
+<td width="223">Honors College</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Trespassing</td>
+<td width="154">2023PU01315</td>
+<td width="168">9/21/23 10:53 PM</td>
+<td width="166">9/21/23 11:13 PM</td>
+<td width="223">Ross-Ade Stadium</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">CAD# 2023-138687</td>
+<td width="168">9/17/23 1:00 PM</td>
+<td width="166">9/20/23 8:55 PM</td>
+<td width="223">300 Blk N Salisbury</td>
+<td width="199">Documented in 2023WL02391</td>
+</tr>
+<tr>
+<td>Harassment</td>
+<td>CSA</td>
+<td>9/20/23 10:00 PM</td>
+<td>9/20/23 11:30 PM</td>
+<td>Earhart Hall</td>
+<td>Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -695,7 +738,7 @@
 <td style="font-weight: 400;" width="168">9/20/23 3:15 PM</td>
 <td style="font-weight: 400;" width="166">9/20/23 3:56 PM</td>
 <td style="font-weight: 400;" width="223">300 Blk N Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft-Bike</td>
