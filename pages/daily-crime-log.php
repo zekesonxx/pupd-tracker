@@ -692,7 +692,242 @@
   
     	<section class="content__group">
   					<h3>Monday, September 25, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU01316</td>
+<td style="font-weight: 400;" width="168">9/22/23 3:14 AM</td>
+<td style="font-weight: 400;" width="166">9/22/23 4:05 AM</td>
+<td style="font-weight: 400;" width="223">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU01317</td>
+<td style="font-weight: 400;" width="168">9/21/23 7:00 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 8:21 AM</td>
+<td style="font-weight: 400;" width="223">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU01318</td>
+<td style="font-weight: 400;" width="168">9/21/23 9:00 AM</td>
+<td style="font-weight: 400;" width="166">9/22/23 10:06 AM</td>
+<td style="font-weight: 400;" width="223">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Vehicle</td>
+<td style="font-weight: 400;" width="154">2023PU01319</td>
+<td style="font-weight: 400;" width="168">3/14/23 12:00 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 11:35 AM</td>
+<td style="font-weight: 400;" width="223">Purdue Airport</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespass</td>
+<td style="font-weight: 400;" width="154">2023PU01320</td>
+<td style="font-weight: 400;" width="168">9/22/23 11:58 AM</td>
+<td style="font-weight: 400;" width="166">9/22/23 12:18 PM</td>
+<td style="font-weight: 400;" width="223">Schleman Hall</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU01323</td>
+<td style="font-weight: 400;" width="168">9/21/23 5:00 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 5:03 PM</td>
+<td style="font-weight: 400;" width="223">Owen Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2023PU01326</td>
+<td style="font-weight: 400;" width="168">9/22/23 8:00 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 8:12 PM</td>
+<td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespass/ Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01327</td>
+<td style="font-weight: 400;" width="168">9/22/23 8:21 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 8:22 PM</td>
+<td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU01328</td>
+<td style="font-weight: 400;" width="168">9/22/23 8:27 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 8:38 PM</td>
+<td style="font-weight: 400;" width="223">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01329</td>
+<td style="font-weight: 400;" width="168">9/22/23 9:11 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 9:40 PM</td>
+<td style="font-weight: 400;" width="223">Hilltop Apartments</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01330</td>
+<td style="font-weight: 400;" width="168">9/22/23 7:53 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 10:31 PM</td>
+<td style="font-weight: 400;" width="223">Owen Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Disorderly Conduct</td>
+<td style="font-weight: 400;" width="154">2023PU01331</td>
+<td style="font-weight: 400;" width="168">9/22/23 10:27 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 10:35 PM</td>
+<td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01332</td>
+<td style="font-weight: 400;" width="168">9/22/23 8:19 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 11:13 PM</td>
+<td style="font-weight: 400;" width="223">1300 Blk W Stadium Ave</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU01333</td>
+<td style="font-weight: 400;" width="168">9/22/23 10:43 PM</td>
+<td style="font-weight: 400;" width="166">9/23/23 12:30 AM</td>
+<td style="font-weight: 400;" width="223">Owen Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01334</td>
+<td style="font-weight: 400;" width="168">9/23/23 12:45 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 1:10 AM</td>
+<td style="font-weight: 400;" width="223">Honors College North</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespass</td>
+<td style="font-weight: 400;" width="154">2023PU01335</td>
+<td style="font-weight: 400;" width="168">9/23/23 12:53 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 1:14 AM</td>
+<td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01336</td>
+<td style="font-weight: 400;" width="168">9/23/23 1:18 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 1:37 AM</td>
+<td style="font-weight: 400;" width="223">Honors College North</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2023PU01337</td>
+<td style="font-weight: 400;" width="168">9/23/23 2:12 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 2:36 AM</td>
+<td style="font-weight: 400;" width="223">S River Rd/ Ahlers Dr</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01339</td>
+<td style="font-weight: 400;" width="168">9/23/23 3:24 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 3:43 AM</td>
+<td style="font-weight: 400;" width="223">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01340</td>
+<td style="font-weight: 400;" width="168">9/23/23 6:29 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 7:03 AM</td>
+<td style="font-weight: 400;" width="223">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2023PU01341</td>
+<td style="font-weight: 400;" width="168">9/19/23 12:00 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 8:38 AM</td>
+<td style="font-weight: 400;" width="223">1200 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Traffic Violation/ Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2023PU01342</td>
+<td style="font-weight: 400;" width="168">9/23/23 10:02 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 10:35 AM</td>
+<td style="font-weight: 400;" width="223">Mitch Daniels Blvd/ Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU01343</td>
+<td style="font-weight: 400;" width="168">9/22/23 10:20 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 1:34 PM</td>
+<td style="font-weight: 400;" width="223">1400 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01346</td>
+<td style="font-weight: 400;" width="168">9/24/23 12:39 AM</td>
+<td style="font-weight: 400;" width="166">9/24/23 1:06 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01347</td>
+<td style="font-weight: 400;" width="168">9/24/23 1:59 AM</td>
+<td style="font-weight: 400;" width="166">9/24/23 2:40 AM</td>
+<td style="font-weight: 400;" width="223">Wiley Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01348</td>
+<td style="font-weight: 400;" width="168">9/24/23 3:07 AM</td>
+<td style="font-weight: 400;" width="166">9/24/23 3:47 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Vehicle (Golf Cart)/ Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU01350</td>
+<td style="font-weight: 400;" width="168">9/24/23 3:00 PM</td>
+<td style="font-weight: 400;" width="166">9/24/23 6:39 PM</td>
+<td style="font-weight: 400;" width="223">Northwestern Parking Garage</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-139414</td>
+<td style="font-weight: 400;" width="168">9/22/23 12:26 AM</td>
+<td style="font-weight: 400;" width="166">9/22/23 12:26 AM</td>
+<td style="font-weight: 400;" width="223">100 W Stadium Ave, West Lafayette</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
