@@ -685,7 +685,154 @@
   
     	<section class="content__group">
   					<h3>Tuesday, September 26, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01322</td>
+<td width="168">9/21/23 12:30 PM</td>
+<td width="166">9/22/23 3:07 PM</td>
+<td width="223">Dudley Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2023PU01324</td>
+<td width="168">9/22/23 6:16 PM</td>
+<td width="166">9/22/23 6:17 PM</td>
+<td width="223">N Martin Jischke Dr/Tower Dr</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01325</td>
+<td width="168">9/22/23 7:36 PM</td>
+<td width="166">9/22/23 7:37 PM</td>
+<td width="223">Ross-Ade Stadium</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01352</td>
+<td width="168">9/22/23 2:00 PM</td>
+<td width="166">9/25/23 6:12 AM</td>
+<td width="223">Hilltop Apartments</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Vehicle</td>
+<td width="154">2023PU01353</td>
+<td width="168">9/22/23 6:30 PM</td>
+<td width="166">9/25/23 8:26 AM</td>
+<td width="223">Cary Quadrangle</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Burglary</td>
+<td width="154">2023PU01354</td>
+<td width="168">9/22/23 4:00 PM</td>
+<td width="166">9/25/23 8:58 AM</td>
+<td width="223">Electrical Engineering&#160;</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Vehicle</td>
+<td width="154">2023PU01355</td>
+<td width="168">9/22/23 2:30 PM</td>
+<td width="166">9/25/23 9:16 AM</td>
+<td width="223">Northwestern Parking Garage</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01357</td>
+<td width="168">9/24/23 7:00 AM</td>
+<td width="166">9/25/23 9:43 AM</td>
+<td width="223">Cary Quadrangle</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01359</td>
+<td width="168">9/22/23 4:00 PM</td>
+<td width="166">9/25/23 10:50 AM</td>
+<td width="223">Hovde Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01360</td>
+<td width="168">9/23/23 8:00 PM</td>
+<td width="166">9/25/23 11:03 AM</td>
+<td width="223">McCutcheon Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2023PU01361</td>
+<td width="168">9/7/23 11:45 AM</td>
+<td width="166">9/25/23 11:56 AM</td>
+<td width="223">Meredith Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01364</td>
+<td width="168">9/13/23 4:04 PM</td>
+<td width="166">9/25/23 6:38 PM</td>
+<td width="223">CoRec</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01366</td>
+<td width="168">9/26/23 2:04 AM</td>
+<td width="166">9/26/23 2:30 AM</td>
+<td width="223">Heavilon Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated/ Drug Law Violation</td>
+<td width="154">2023PU01367</td>
+<td width="168">9/26/23 2:30 AM</td>
+<td width="166">9/26/23 3:09 AM</td>
+<td width="223">S River Rd/ US HWY 231 S</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01369</td>
+<td width="168">9/26/23 3:42 AM</td>
+<td width="166">9/26/23 4:02 AM</td>
+<td width="223">Wilmeth Active Learning Center</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD# 2023-139414</td>
+<td width="168">9/22/23 12:26 AM</td>
+<td width="166">9/22/23 12:26 AM</td>
+<td width="223">Cary Quadrangle</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD# 2023-139945</td>
+<td width="168">9/22/23 9:01 PM</td>
+<td width="166">9/22/23 9:01 PM</td>
+<td width="223">Windsor Hall</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -727,12 +874,12 @@
 <td style="font-weight: 400;" width="199">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="187">Theft-Vehicle</td>
+<td style="font-weight: 400;" width="187">Theft-Vehicle *Rental vehicle not returned</td>
 <td style="font-weight: 400;" width="154">2023PU01319</td>
 <td style="font-weight: 400;" width="168">3/14/23 12:00 PM</td>
 <td style="font-weight: 400;" width="166">9/22/23 11:35 AM</td>
 <td style="font-weight: 400;" width="223">Purdue Airport</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">This Was Determined as Not Clery Reportable</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Trespass</td>
