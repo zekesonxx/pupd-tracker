@@ -678,7 +678,74 @@
   
     	<section class="content__group">
   					<h3>Wednesday, September 27, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01370</td>
+<td width="168">9/26/23 7:35 AM</td>
+<td width="166">9/26/23 7:47 AM</td>
+<td width="223">Krach Leadership Center</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01371</td>
+<td width="168">9/22/23 12:00 AM</td>
+<td width="166">9/26/23 7:48 AM</td>
+<td width="223">Hilltop</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01373</td>
+<td width="168">9/25/23 9:30 AM</td>
+<td width="166">9/26/23 12:43 PM</td>
+<td width="223">Hilltop</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01374</td>
+<td width="168">9/19/23 9:00 AM</td>
+<td width="166">9/26/23 1:53 PM</td>
+<td width="223">Purdue Union Club Hotel</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01375</td>
+<td width="168">9/26/23 11:58 PM</td>
+<td width="166">9/27/23 12:04 AM</td>
+<td width="223">Alpha Chi Omega</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated</td>
+<td width="154">2023PU01376</td>
+<td width="168">9/27/23 2:01 AM</td>
+<td width="166">9/27/23 2:52 AM</td>
+<td width="223">US HWY 231 N/Cherry Ln</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Rape</td>
+<td width="154">CSA</td>
+<td width="168">September 2021</td>
+<td width="166">9/26/23 11:21 AM</td>
+<td width="223">On-Campus Location</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
