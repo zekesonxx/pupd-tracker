@@ -671,7 +671,58 @@
   
     	<section class="content__group">
   					<h3>Thursday, September 28, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01379</td>
+<td width="168">9/27/23 6:54 AM</td>
+<td width="166">9/27/23 7:21 AM</td>
+<td width="223">Crosswalk Commons</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01380</td>
+<td width="168">9/23/23 10:15 AM</td>
+<td width="166">9/27/23 7:41 AM</td>
+<td width="223">Crosswalk Commons</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01381</td>
+<td width="168">9/24/23 12:00 AM</td>
+<td width="166">9/27/23 9:12 AM</td>
+<td width="223">Cary Quad West</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01386</td>
+<td width="168">9/27/23 3:22 PM</td>
+<td width="166">9/27/23 3:55 PM</td>
+<td width="223">Mathematical Sciences Building</td>
+<td width="199">Unfounded</td>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2023PU01388</td>
+<td width="168">9/27/23 9:37 PM</td>
+<td width="166">9/27/23 9:58 PM</td>
+<td width="223">McCutcheon Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1098,7 +1149,7 @@
 <td style="font-weight: 400;" width="168">9/22/23 10:20 AM</td>
 <td style="font-weight: 400;" width="166">9/23/23 1:34 PM</td>
 <td style="font-weight: 400;" width="223">1400 Blk Mitch Daniels Blvd</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Minor Consumption</td>
