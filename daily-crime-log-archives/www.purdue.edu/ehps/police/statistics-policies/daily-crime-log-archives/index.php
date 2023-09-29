@@ -620,6 +620,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log</h2>
 <ul>
+<li><a href="092523-daily-crime-log.php" title="092523 Daily Crime Log">Week of September 25, 2023</a></li>
 <li><a href="091823-daily-crime-log.php" title="091823 Daily Crime Log">Week of September 18, 2023</a></li>
 <li><a href="091123-daily-crime-log.php" title="091123 Daily Crime Log">Week of September 11, 2023</a></li>
 <li><a href="090423-daily-crime-log.php" title="090423 Daily Crime Log">Week of September 4, 2023</a></li>
@@ -627,11 +628,7 @@
 <li><a href="082123-daily-crime-log.php" title="082123 Daily Crime Log">Week of August 21, 2023</a></li>
 <li><a href="081423-daily-crime-log.php" title="081423 Daily Crime Log">Week of August 14, 2023</a></li>
 <li><a href="080723-daily-crime-log.php">Week of August 7, 2023</a></li>
-<li><a href="073123-daily-crime-log.php" title="073123 Daily Crime Log">Week of July 31, 2023</a></li>
-<li><a href="072423-daily-crime-log.php" title="072423 Daily Crime Log">Week of July 24, 2023</a></li>
-<li><a href="071723-daily-crime-log.php" title="071723 Daily Crime Log">Week of July 17, 2023</a></li>
-<li><a href="071023-daily-crime-log.php" title="071023 Daily Crime Log">Week of July 10, 2023</a></li>
-<li><a href="070323-daily-crime-log.php" title="070323 Daily Crime Log">Week of July 3, 2023</a></li>
+<li><a href="073123-daily-crime-log.php" title="073123 Daily Crime Log">Week of July 31, 2023</a><a href="2023-archive/070323-daily-crime-log.php" title="070323 Daily Crime Log"></a></li>
 </ul>
 		</section>
 	

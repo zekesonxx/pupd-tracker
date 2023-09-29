@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			100223 Daily Crime Log - 
+			092523 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -328,7 +328,7 @@
       <article class="header__signature--siteName">
           
                          
-                <a aria-label="Police Department" href="../index.php" id="siteName">Police Department</a>
+                <a aria-label="Police Department" href="../../index.php" id="siteName">Police Department</a>
                                
       </article>
     </section>
@@ -343,34 +343,34 @@
     </button>
     <section class="header__mainNav--main">
       <ul aria-label="Main Navigation" role="menubar">
-        <li role="none"><a href="../index.php" role="menuitem">Home</a></li>
+        <li role="none"><a href="../../index.php" role="menuitem">Home</a></li>
                                                                                     
         
                                                                                  
                                                         
                                             <li class="dropdown" role="none">
-                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../about/index.php" role="menuitem">About Us<span><i class="fas fa-chevron-down"></i></span></a>
+                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../../about/index.php" role="menuitem">About Us<span><i class="fas fa-chevron-down"></i></span></a>
                     <ul class="header__mainNav--dropdownOuter" role="menu">
                                                                                                 
         
                                                             
         
-        <li role="none"><a href="../about/index.php" role="menuitem">About Us</a></li>
+        <li role="none"><a href="../../about/index.php" role="menuitem">About Us</a></li>
                                                     
         
                                                             
         
-        <li role="none"><a href="../about/directory.php" role="menuitem">Staff Directory</a></li>
+        <li role="none"><a href="../../about/directory.php" role="menuitem">Staff Directory</a></li>
                                                     
         
                                                             
         
-        <li role="none"><a href="../about/careers.php" role="menuitem">Career Opportunities</a></li>
+        <li role="none"><a href="../../about/careers.php" role="menuitem">Career Opportunities</a></li>
                                                     
         
                                                             
         
-        <li role="none"><a href="../about/internships.php" role="menuitem">Student Internships</a></li>
+        <li role="none"><a href="../../about/internships.php" role="menuitem">Student Internships</a></li>
                                             </ul>
                                             </li>
             
@@ -380,38 +380,38 @@
                                                                                  
                                                         
                                             <li class="dropdown" role="none">
-                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="index.php" role="menuitem">Statistics and Policies<span><i class="fas fa-chevron-down"></i></span></a>
+                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../index.php" role="menuitem">Statistics and Policies<span><i class="fas fa-chevron-down"></i></span></a>
                     <ul class="header__mainNav--dropdownOuter" role="menu">
                                                                                                 
         
                                                             
         
-        <li role="none"><a href="index.php" role="menuitem">Statistics and Policies</a></li>
+        <li role="none"><a href="../index.php" role="menuitem">Statistics and Policies</a></li>
                                                     
         
                                                             
         
-        <li role="none"><a href="security-reports.php" role="menuitem">Annual Security Reports</a></li>
+        <li role="none"><a href="../security-reports.php" role="menuitem">Annual Security Reports</a></li>
                                                     
         
                                                             
         
-        <li role="none"><a href="drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
+        <li role="none"><a href="../drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                     
         
                                                             
         
-        <li role="none"><a href="crime-security-procedures.php" role="menuitem">Operating Procedures for Gathering and Reporting Crime Statistics</a></li>
+        <li role="none"><a href="../crime-security-procedures.php" role="menuitem">Operating Procedures for Gathering and Reporting Crime Statistics</a></li>
                                                     
         
                                                             
         
-        <li role="none"><a href="persona-non-grata.php" role="menuitem">Persona Non Grata</a></li>
+        <li role="none"><a href="../persona-non-grata.php" role="menuitem">Persona Non Grata</a></li>
                                                     
         
                                                             
         
-        <li role="none"><a href="weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
+        <li role="none"><a href="../weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
                                             </ul>
                                             </li>
             
@@ -421,38 +421,38 @@
                                                                                  
                                                         
                                             <li class="dropdown" role="none">
-                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../campus-safety-tips/index.php" role="menuitem">Campus Safety Tips<span><i class="fas fa-chevron-down"></i></span></a>
+                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../../campus-safety-tips/index.php" role="menuitem">Campus Safety Tips<span><i class="fas fa-chevron-down"></i></span></a>
                     <ul class="header__mainNav--dropdownOuter" role="menu">
                                                                                                 
         
                                                             
         
-        <li role="none"><a href="../campus-safety-tips/index.php" role="menuitem">Campus Safety Tips</a></li>
+        <li role="none"><a href="../../campus-safety-tips/index.php" role="menuitem">Campus Safety Tips</a></li>
                                                     
         
                                                             
         
-        <li role="none"><a href="../campus-safety-tips/sex-offender.php" role="menuitem">Indiana Sex and Violent Offender Registry</a></li>
+        <li role="none"><a href="../../campus-safety-tips/sex-offender.php" role="menuitem">Indiana Sex and Violent Offender Registry</a></li>
                                                     
         
                                                             
         
-        <li role="none"><a href="../campus-safety-tips/victims-rights.php" role="menuitem">Notice of Victims' Rights</a></li>
+        <li role="none"><a href="../../campus-safety-tips/victims-rights.php" role="menuitem">Notice of Victims' Rights</a></li>
                                                     
         
                                                                                  
                                                         
-                            <li role="none"><a href="../campus-safety-tips/online-safety/index.php" role="menuitem">Online Safety</a></li>
+                            <li role="none"><a href="../../campus-safety-tips/online-safety/index.php" role="menuitem">Online Safety</a></li>
                                                                 
         
                                                                                  
                                                         
-                            <li role="none"><a href="../campus-safety-tips/property-crimes/index.php" role="menuitem">Property Crimes</a></li>
+                            <li role="none"><a href="../../campus-safety-tips/property-crimes/index.php" role="menuitem">Property Crimes</a></li>
                                                                 
         
                                                                                  
                                                         
-                            <li role="none"><a href="../campus-safety-tips/violent-crimes/index.php" role="menuitem">Violent Crimes</a></li>
+                            <li role="none"><a href="../../campus-safety-tips/violent-crimes/index.php" role="menuitem">Violent Crimes</a></li>
                                                         </ul>
                                             </li>
             
@@ -462,23 +462,23 @@
                                                                                  
                                                         
                                             <li class="dropdown" role="none">
-                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../community-services/index.php" role="menuitem">Community Services<span><i class="fas fa-chevron-down"></i></span></a>
+                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../../community-services/index.php" role="menuitem">Community Services<span><i class="fas fa-chevron-down"></i></span></a>
                     <ul class="header__mainNav--dropdownOuter" role="menu">
                                                                                                 
         
                                                             
         
-        <li role="none"><a href="../community-services/index.php" role="menuitem">Community Services</a></li>
+        <li role="none"><a href="../../community-services/index.php" role="menuitem">Community Services</a></li>
                                                     
         
                                                                                  
                                                         
-                            <li role="none"><a href="../community-services/outreach-programs/index.php" role="menuitem">Outreach Programs</a></li>
+                            <li role="none"><a href="../../community-services/outreach-programs/index.php" role="menuitem">Outreach Programs</a></li>
                                                                 
         
                                                                                  
                                                         
-                            <li role="none"><a href="../community-services/services/index.php" role="menuitem">Safety and Security Services</a></li>
+                            <li role="none"><a href="../../community-services/services/index.php" role="menuitem">Safety and Security Services</a></li>
                                                         </ul>
                                             </li>
             
@@ -487,54 +487,54 @@
         
                                                                                  
                                                         
-                            <li role="none"><a href="../timely-warnings/index.php" role="menuitem">Timely Warnings</a></li>
+                            <li role="none"><a href="../../timely-warnings/index.php" role="menuitem">Timely Warnings</a></li>
                                                                 
         
                                                                                  
                                                         
-                            <li role="none"><a href="../camps/index.php" role="menuitem">Camps</a></li>
+                            <li role="none"><a href="../../camps/index.php" role="menuitem">Camps</a></li>
                                                                 
         
                                                                                  
                                                         
                                             <li class="dropdown" role="none">
-                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../contact/index.php" role="menuitem">Contact Us<span><i class="fas fa-chevron-down"></i></span></a>
+                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../../contact/index.php" role="menuitem">Contact Us<span><i class="fas fa-chevron-down"></i></span></a>
                     <ul class="header__mainNav--dropdownOuter" role="menu">
                                                                                                 
         
                                                             
         
-        <li role="none"><a href="../contact/index.php" role="menuitem">Contact Us</a></li>
+        <li role="none"><a href="../../contact/index.php" role="menuitem">Contact Us</a></li>
                                                     
         
                                                             
         
-        <li role="none"><a href="../contact/confidential-reporting.php" role="menuitem">Confidential Reporting</a></li>
+        <li role="none"><a href="../../contact/confidential-reporting.php" role="menuitem">Confidential Reporting</a></li>
                                                     
         
                                                             
         
-        <li role="none"><a href="../contact/designated-offices.php" role="menuitem">Designated Campus Offices to Receive Crime Reports</a></li>
+        <li role="none"><a href="../../contact/designated-offices.php" role="menuitem">Designated Campus Offices to Receive Crime Reports</a></li>
                                                     
         
                                                             
         
-        <li role="none"><a href="../contact/extra-patrol.php" role="menuitem">Extra Patrol Request Form</a></li>
+        <li role="none"><a href="../../contact/extra-patrol.php" role="menuitem">Extra Patrol Request Form</a></li>
                                                     
         
                                                             
         
-        <li role="none"><a href="../contact/report-crime.php" role="menuitem">How to Report a Crime</a></li>
+        <li role="none"><a href="../../contact/report-crime.php" role="menuitem">How to Report a Crime</a></li>
                                                     
         
                                                             
         
-        <li role="none"><a href="../contact/report-theft.php" role="menuitem">Online Theft Reporting System</a></li>
+        <li role="none"><a href="../../contact/report-theft.php" role="menuitem">Online Theft Reporting System</a></li>
                                                     
         
                                                             
         
-        <li role="none"><a href="../contact/contact-form.php" role="menuitem">Contact and Feedback Form</a></li>
+        <li role="none"><a href="../../contact/contact-form.php" role="menuitem">Contact and Feedback Form</a></li>
                                             </ul>
                                             </li>
             
@@ -551,7 +551,7 @@
 
 			
 	        
-                                                                                                                                                    
+                                                                                                                                                                                                    
 
 
 
@@ -565,7 +565,12 @@
         
                 
              
-                            <li><a href="index.php">Statistics and Policies</a></li>
+                            <li><a href="../index.php">Statistics and Policies</a></li>
+                                
+        
+                
+             
+                            <li><a href="index.php">Daily Crime Log</a></li>
                                 
         
                 
@@ -594,38 +599,8 @@
         
                 
     <ul aria-label="Side Navigation" role="menu">
-                                     <li role="none"><a href="index.php" role="menuitem">Statistics and Policies</a></li>
-                                                                                                                
-        
-                
-    
-    <li role="none"><a href="security-reports.php" role="menuitem">Annual Security Reports</a></li>
-                                                                            
-        
-                
-    
-    <li role="none"><a href="daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
-                                                                            
-        
-                
-    
-    <li role="none"><a href="drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
-                                                                            
-        
-                
-    
-    <li role="none"><a href="crime-security-procedures.php" role="menuitem">Operating Procedures for Gathering and Reporting Crime Statistics</a></li>
-                                                                            
-        
-                
-    
-    <li role="none"><a href="persona-non-grata.php" role="menuitem">Persona Non Grata</a></li>
-                                                                            
-        
-                
-    
-    <li role="none"><a href="weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
-                            </ul>
+                                     <li role="none">Daily Crime Log</li>
+                                            </ul>
 </nav>
 
 
@@ -663,36 +638,571 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, October 6, 2023</h3>
-<p>Will be posted soon.</p>
+  					<h3>Friday, September 29, 2023</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Hit &amp; Run</td>
+<td width="154">2023PU01385</td>
+<td width="168">9/26/23 4:30 PM</td>
+<td width="166">9/27/23 3:50 PM</td>
+<td width="223">Harrison Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Blackmail</td>
+<td width="154">2023PU01389</td>
+<td width="168">9/28/23 1:07 PM</td>
+<td width="166">9/28/23 1:54 PM</td>
+<td width="223">Aspire</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01391</td>
+<td width="168">9/28/23 5:52 PM</td>
+<td width="166">9/28/23 6:18 PM</td>
+<td width="223">Wood St Parking Garage</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, October 5, 2023</h3>
-<p>Will be posted soon.</p>
+  					<h3>Thursday, September 28, 2023</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01379</td>
+<td width="168">9/27/23 6:54 AM</td>
+<td width="166">9/27/23 7:21 AM</td>
+<td width="223">Crosswalk Commons</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01380</td>
+<td width="168">9/23/23 10:15 AM</td>
+<td width="166">9/27/23 7:41 AM</td>
+<td width="223">Crosswalk Commons</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01381</td>
+<td width="168">9/24/23 12:00 AM</td>
+<td width="166">9/27/23 9:12 AM</td>
+<td width="223">Cary Quad West</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01386</td>
+<td width="168">9/27/23 3:22 PM</td>
+<td width="166">9/27/23 3:55 PM</td>
+<td width="223">Mathematical Sciences Building</td>
+<td width="199">Unfounded</td>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2023PU01388</td>
+<td width="168">9/27/23 9:37 PM</td>
+<td width="166">9/27/23 9:58 PM</td>
+<td width="223">McCutcheon Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, October 4, 2023</h3>
-<p>Will be posted soon.</p>
+  					<h3>Wednesday, September 27, 2023</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01370</td>
+<td width="168">9/26/23 7:35 AM</td>
+<td width="166">9/26/23 7:47 AM</td>
+<td width="223">Krach Leadership Center</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01371</td>
+<td width="168">9/22/23 12:00 AM</td>
+<td width="166">9/26/23 7:48 AM</td>
+<td width="223">Hilltop</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01373</td>
+<td width="168">9/25/23 9:30 AM</td>
+<td width="166">9/26/23 12:43 PM</td>
+<td width="223">Hilltop</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01374</td>
+<td width="168">9/19/23 9:00 AM</td>
+<td width="166">9/26/23 1:53 PM</td>
+<td width="223">Purdue Union Club Hotel</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01375</td>
+<td width="168">9/26/23 11:58 PM</td>
+<td width="166">9/27/23 12:04 AM</td>
+<td width="223">Alpha Chi Omega</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated</td>
+<td width="154">2023PU01376</td>
+<td width="168">9/27/23 2:01 AM</td>
+<td width="166">9/27/23 2:52 AM</td>
+<td width="223">US HWY 231 N/Cherry Ln</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Rape</td>
+<td width="154">CSA</td>
+<td width="168">September 2021</td>
+<td width="166">9/26/23 11:21 AM</td>
+<td width="223">On-Campus Location</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday, October 3, 2023</h3>
-<p>Will be posted soon.</p>
+  					<h3>Tuesday, September 26, 2023</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01322</td>
+<td width="168">9/21/23 12:30 PM</td>
+<td width="166">9/22/23 3:07 PM</td>
+<td width="223">Dudley Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2023PU01324</td>
+<td width="168">9/22/23 6:16 PM</td>
+<td width="166">9/22/23 6:17 PM</td>
+<td width="223">N Martin Jischke Dr/Tower Dr</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01325</td>
+<td width="168">9/22/23 7:36 PM</td>
+<td width="166">9/22/23 7:37 PM</td>
+<td width="223">Ross-Ade Stadium</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01352</td>
+<td width="168">9/22/23 2:00 PM</td>
+<td width="166">9/25/23 6:12 AM</td>
+<td width="223">Hilltop Apartments</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Vehicle</td>
+<td width="154">2023PU01353</td>
+<td width="168">9/22/23 6:30 PM</td>
+<td width="166">9/25/23 8:26 AM</td>
+<td width="223">Cary Quadrangle</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Burglary</td>
+<td width="154">2023PU01354</td>
+<td width="168">9/22/23 4:00 PM</td>
+<td width="166">9/25/23 8:58 AM</td>
+<td width="223">Electrical Engineering&#160;</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Vehicle</td>
+<td width="154">2023PU01355</td>
+<td width="168">9/22/23 2:30 PM</td>
+<td width="166">9/25/23 9:16 AM</td>
+<td width="223">Northwestern Parking Garage</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01357</td>
+<td width="168">9/24/23 7:00 AM</td>
+<td width="166">9/25/23 9:43 AM</td>
+<td width="223">Cary Quadrangle</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01359</td>
+<td width="168">9/22/23 4:00 PM</td>
+<td width="166">9/25/23 10:50 AM</td>
+<td width="223">Hovde Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01360</td>
+<td width="168">9/23/23 8:00 PM</td>
+<td width="166">9/25/23 11:03 AM</td>
+<td width="223">McCutcheon Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2023PU01361</td>
+<td width="168">9/7/23 11:45 AM</td>
+<td width="166">9/25/23 11:56 AM</td>
+<td width="223">Meredith Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01364</td>
+<td width="168">9/13/23 4:04 PM</td>
+<td width="166">9/25/23 6:38 PM</td>
+<td width="223">CoRec</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01366</td>
+<td width="168">9/26/23 2:04 AM</td>
+<td width="166">9/26/23 2:30 AM</td>
+<td width="223">Heavilon Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated/ Drug Law Violation</td>
+<td width="154">2023PU01367</td>
+<td width="168">9/26/23 2:30 AM</td>
+<td width="166">9/26/23 3:09 AM</td>
+<td width="223">S River Rd/ US HWY 231 S</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01369</td>
+<td width="168">9/26/23 3:42 AM</td>
+<td width="166">9/26/23 4:02 AM</td>
+<td width="223">Wilmeth Active Learning Center</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD# 2023-139414</td>
+<td width="168">9/22/23 12:26 AM</td>
+<td width="166">9/22/23 12:26 AM</td>
+<td width="223">Cary Quadrangle</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD# 2023-139945</td>
+<td width="168">9/22/23 9:01 PM</td>
+<td width="166">9/22/23 9:01 PM</td>
+<td width="223">Windsor Hall</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, October 2, 2023</h3>
-<p>Will be posted soon.</p>
+  					<h3>Monday, September 25, 2023</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU01316</td>
+<td style="font-weight: 400;" width="168">9/22/23 3:14 AM</td>
+<td style="font-weight: 400;" width="166">9/22/23 4:05 AM</td>
+<td style="font-weight: 400;" width="223">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU01317</td>
+<td style="font-weight: 400;" width="168">9/21/23 7:00 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 8:21 AM</td>
+<td style="font-weight: 400;" width="223">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU01318</td>
+<td style="font-weight: 400;" width="168">9/21/23 9:00 AM</td>
+<td style="font-weight: 400;" width="166">9/22/23 10:06 AM</td>
+<td style="font-weight: 400;" width="223">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Vehicle *Rental vehicle not returned</td>
+<td style="font-weight: 400;" width="154">2023PU01319</td>
+<td style="font-weight: 400;" width="168">3/14/23 12:00 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 11:35 AM</td>
+<td style="font-weight: 400;" width="223">Purdue Airport</td>
+<td style="font-weight: 400;" width="199">This Was Determined as Not Clery Reportable</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespass</td>
+<td style="font-weight: 400;" width="154">2023PU01320</td>
+<td style="font-weight: 400;" width="168">9/22/23 11:58 AM</td>
+<td style="font-weight: 400;" width="166">9/22/23 12:18 PM</td>
+<td style="font-weight: 400;" width="223">Schleman Hall</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU01323</td>
+<td style="font-weight: 400;" width="168">9/21/23 5:00 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 5:03 PM</td>
+<td style="font-weight: 400;" width="223">Owen Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2023PU01326</td>
+<td style="font-weight: 400;" width="168">9/22/23 8:00 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 8:12 PM</td>
+<td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespass/ Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01327</td>
+<td style="font-weight: 400;" width="168">9/22/23 8:21 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 8:22 PM</td>
+<td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU01328</td>
+<td style="font-weight: 400;" width="168">9/22/23 8:27 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 8:38 PM</td>
+<td style="font-weight: 400;" width="223">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01329</td>
+<td style="font-weight: 400;" width="168">9/22/23 9:11 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 9:40 PM</td>
+<td style="font-weight: 400;" width="223">Hilltop Apartments</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01330</td>
+<td style="font-weight: 400;" width="168">9/22/23 7:53 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 10:31 PM</td>
+<td style="font-weight: 400;" width="223">Owen Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Disorderly Conduct</td>
+<td style="font-weight: 400;" width="154">2023PU01331</td>
+<td style="font-weight: 400;" width="168">9/22/23 10:27 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 10:35 PM</td>
+<td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01332</td>
+<td style="font-weight: 400;" width="168">9/22/23 8:19 PM</td>
+<td style="font-weight: 400;" width="166">9/22/23 11:13 PM</td>
+<td style="font-weight: 400;" width="223">1300 Blk W Stadium Ave</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU01333</td>
+<td style="font-weight: 400;" width="168">9/22/23 10:43 PM</td>
+<td style="font-weight: 400;" width="166">9/23/23 12:30 AM</td>
+<td style="font-weight: 400;" width="223">Owen Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01334</td>
+<td style="font-weight: 400;" width="168">9/23/23 12:45 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 1:10 AM</td>
+<td style="font-weight: 400;" width="223">Honors College North</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespass</td>
+<td style="font-weight: 400;" width="154">2023PU01335</td>
+<td style="font-weight: 400;" width="168">9/23/23 12:53 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 1:14 AM</td>
+<td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01336</td>
+<td style="font-weight: 400;" width="168">9/23/23 1:18 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 1:37 AM</td>
+<td style="font-weight: 400;" width="223">Honors College North</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2023PU01337</td>
+<td style="font-weight: 400;" width="168">9/23/23 2:12 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 2:36 AM</td>
+<td style="font-weight: 400;" width="223">S River Rd/ Ahlers Dr</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01339</td>
+<td style="font-weight: 400;" width="168">9/23/23 3:24 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 3:43 AM</td>
+<td style="font-weight: 400;" width="223">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01340</td>
+<td style="font-weight: 400;" width="168">9/23/23 6:29 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 7:03 AM</td>
+<td style="font-weight: 400;" width="223">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2023PU01341</td>
+<td style="font-weight: 400;" width="168">9/19/23 12:00 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 8:38 AM</td>
+<td style="font-weight: 400;" width="223">1200 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Traffic Violation/ Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2023PU01342</td>
+<td style="font-weight: 400;" width="168">9/23/23 10:02 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 10:35 AM</td>
+<td style="font-weight: 400;" width="223">Mitch Daniels Blvd/ Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU01343</td>
+<td style="font-weight: 400;" width="168">9/22/23 10:20 AM</td>
+<td style="font-weight: 400;" width="166">9/23/23 1:34 PM</td>
+<td style="font-weight: 400;" width="223">1400 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="199">Suspended</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01346</td>
+<td style="font-weight: 400;" width="168">9/24/23 12:39 AM</td>
+<td style="font-weight: 400;" width="166">9/24/23 1:06 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01347</td>
+<td style="font-weight: 400;" width="168">9/24/23 1:59 AM</td>
+<td style="font-weight: 400;" width="166">9/24/23 2:40 AM</td>
+<td style="font-weight: 400;" width="223">Wiley Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01348</td>
+<td style="font-weight: 400;" width="168">9/24/23 3:07 AM</td>
+<td style="font-weight: 400;" width="166">9/24/23 3:47 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Vehicle (Golf Cart)/ Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU01350</td>
+<td style="font-weight: 400;" width="168">9/24/23 3:00 PM</td>
+<td style="font-weight: 400;" width="166">9/24/23 6:39 PM</td>
+<td style="font-weight: 400;" width="223">Northwestern Parking Garage</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-139414</td>
+<td style="font-weight: 400;" width="168">9/22/23 12:26 AM</td>
+<td style="font-weight: 400;" width="166">9/22/23 12:26 AM</td>
+<td style="font-weight: 400;" width="223">100 W Stadium Ave, West Lafayette</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -700,7 +1210,7 @@
     	<section class="content__group">
   					<p>&#160;</p>
 <p>*EMPV=Electronic Motorized Personal Vehicle (Elec. Scooter/Elec. Skateboard/Segway/Etc.)</p>
-<p><br/>An&#160;<a href="daily-crime-log-archives/index.php">archived daily crime log</a>&#160;is available.</p>
+<p><br/>An&#160;<a href="index.php">archived daily crime log</a>&#160;is available.</p>
 		</section>
 	
     
@@ -1185,7 +1695,7 @@
         
         
                 
-                     <p>Contact <a href="../contact/index.php" rel="noopener" target="_blank">Purdue University Police Department</a> for accessibility issues with this page | <a href="https://www.purdue.edu/disabilityresources/">Accessibility Resources</a> | <a href="../contact/index.php">Contact Us</a></p>
+                     <p>Contact <a href="../../contact/index.php" rel="noopener" target="_blank">Purdue University Police Department</a> for accessibility issues with this page | <a href="https://www.purdue.edu/disabilityresources/">Accessibility Resources</a> | <a href="../../contact/index.php">Contact Us</a></p>
     </article>
 </section>
 

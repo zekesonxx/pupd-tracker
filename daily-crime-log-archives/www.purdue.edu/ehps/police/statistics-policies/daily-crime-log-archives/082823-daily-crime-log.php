@@ -396,11 +396,6 @@
         
                                                             
         
-        <li role="none"><a href="../daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
-                                                    
-        
-                                                            
-        
         <li role="none"><a href="../drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                     
         
@@ -1244,7 +1239,7 @@
 <td style="font-weight: 400;" width="168">8/26/23 9:23 PM</td>
 <td style="font-weight: 400;" width="166">8/26/23 9:43 PM</td>
 <td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Minor Consumption</td>
