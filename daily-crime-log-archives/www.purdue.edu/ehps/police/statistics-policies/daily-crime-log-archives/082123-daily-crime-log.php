@@ -396,11 +396,6 @@
         
                                                             
         
-        <li role="none"><a href="../daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
-                                                    
-        
-                                                            
-        
         <li role="none"><a href="../drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                     
         
@@ -996,7 +991,7 @@
 <td style="font-weight: 400;" width="168">8/19/23 12:30 AM</td>
 <td style="font-weight: 400;" width="166">8/19/23 12:43 AM</td>
 <td style="font-weight: 400;" width="223">Aspire Apts</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Minor Possession</td>

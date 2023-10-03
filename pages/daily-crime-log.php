@@ -685,7 +685,66 @@
   
     	<section class="content__group">
   					<h3>Tuesday, October 3, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Hit &amp; Run</td>
+<td width="154">2023PU01418</td>
+<td width="168">9/30/23 10:30 PM</td>
+<td width="166">10/1/23 5:58 PM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01422</td>
+<td width="168">9/30/23 5:00 PM</td>
+<td width="166">10/2/23 9:26 AM</td>
+<td width="223">Meredith South Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01423</td>
+<td width="168">10/2/23 8:58 AM</td>
+<td width="166">10/2/23 9:37 AM</td>
+<td width="223">Northwestern Parking Garage</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01424</td>
+<td width="168">10/1/23 10:00 PM</td>
+<td width="166">10/2/23 2:10 PM</td>
+<td width="223">Aspire</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01425</td>
+<td width="168">10/2/23 1:26 PM</td>
+<td width="166">10/2/23 2:13 PM</td>
+<td width="223">Aspire</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01428</td>
+<td width="168">10/2/23 6:17 PM</td>
+<td width="166">10/2/23 6:20 PM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
