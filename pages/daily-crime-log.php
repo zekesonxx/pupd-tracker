@@ -678,7 +678,210 @@
   
     	<section class="content__group">
   					<h3>Wednesday, October 4, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01432</td>
+<td width="168">9/30/23 3:00 PM</td>
+<td width="166">10/3/23 6:24 AM</td>
+<td width="223">Hawkins Graduate House</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01433</td>
+<td width="168">10/1/23 11:30 PM</td>
+<td width="166">10/3/23 7:25 AM</td>
+<td width="223">Aspire</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Hit &amp; Run</td>
+<td width="154">2023PU01434</td>
+<td width="168">9/25/23 4:00 PM</td>
+<td width="166">10/3/23 10:51 AM</td>
+<td width="223">McCutcheon Parking Garage</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Hit &amp; Run</td>
+<td width="154">2023PU01435</td>
+<td width="168">10/3/23 5:27 PM</td>
+<td width="166">10/3/23 5:27 PM</td>
+<td width="223">Pao Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Trespassing</td>
+<td width="154">2023PU01436</td>
+<td width="168">10/3/23 6:14 PM</td>
+<td width="166">10/3/23 6:36 PM</td>
+<td width="223">1000 Blk 1st St</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01437</td>
+<td width="168">10/3/23 10:41 PM</td>
+<td width="166">10/3/23 11:04 PM</td>
+<td width="223">Rankin Track and Field</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>9/15/2023 0:30</td>
+<td>9/15/2023 2:01</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>3 Disciplinary Referral</td>
+<td>9/15/2023 22:15</td>
+<td>9/15/2023 22:57</td>
+<td>Tarkington Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>5 Disciplinary Referral</td>
+<td>9/16/2023 0:15</td>
+<td>9/16/2023 1:35</td>
+<td>Aspire Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>6 Disciplinary Referral</td>
+<td>9/16/2023 0:30</td>
+<td>9/16/2023 1:43</td>
+<td>333 South Grant Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>10 Disciplinary Referral</td>
+<td>9/16/2023 0:30</td>
+<td>9/16/2023 2:24</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>9/16/2023 2:30</td>
+<td>9/16/2023 4:43</td>
+<td>McCutcheon Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>10 Disciplinary Referral</td>
+<td>9/16/2023 23:00</td>
+<td>9/16/2023 23:49</td>
+<td>Aspire Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>10 Disciplinary Referral</td>
+<td>9/16/2023 0:45</td>
+<td>9/16/2023 2:15</td>
+<td>Tarkington Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>9/17/2023 0:45</td>
+<td>9/17/2023 12:24</td>
+<td>Earhart Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>4 Disciplinary Referral</td>
+<td>9/17/2023 0:15</td>
+<td>9/17/2023 15:57</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>17 Disciplinary Referral</td>
+<td>9/20/2023 23:00</td>
+<td>9/21/2023 0:25</td>
+<td>Frieda Parker Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>8 Disciplinary Referral</td>
+<td>9/21/2023 0:00</td>
+<td>9/21/2023 1:04</td>
+<td>Tarkington Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>6 Disciplinary Referral</td>
+<td>9/23/2023 1:15</td>
+<td>9/23/2023 2:21</td>
+<td>Tarkington Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>6 Disciplinary Referral</td>
+<td>9/23/2023 22:30</td>
+<td>9/23/2023 23:06</td>
+<td>Tarkington Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>5 Disciplinary Referral</td>
+<td>9/24/2023 0:15</td>
+<td>9/24/2023 1:44</td>
+<td>Meredith South</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td width="187">Burglary</td>
+<td width="154">CAD# 2023-144292</td>
+<td width="168">9/30/23 3:15 PM</td>
+<td width="166">9/30/23 3:51 PM</td>
+<td width="223">Schwartz Tennis Center</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Public Intoxication</td>
+<td width="154">CAD# 2023-144434</td>
+<td width="168">9/30/23 8:23 PM</td>
+<td width="166">9/30/23 8:23 PM</td>
+<td width="223">Mitch Daniels Blvd/S Grant St</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Reckless Driver</td>
+<td width="154">CAD# 2023-145213</td>
+<td width="168">10/2/23 12:25 PM</td>
+<td width="166">10/2/23 12:25 PM</td>
+<td width="223">US HWY 231 S/Mitch Daniels Blvd</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -895,7 +1098,7 @@
 <td style="font-weight: 400;" width="168">10/1/23 3:29 PM</td>
 <td style="font-weight: 400;" width="166">10/1/23 3:29 PM</td>
 <td style="font-weight: 400;" width="223">Northwestern Ave/ Evergreen St</td>
-<td style="font-weight: 400;" width="199">See 2023WL02512</td>
+<td style="font-weight: 400;" width="199">See 2023WL02512 - Based on the Investigation, This Report is Unfounded</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Fraud</td>

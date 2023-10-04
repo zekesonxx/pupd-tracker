@@ -1271,7 +1271,7 @@
 <td style="font-weight: 400;" width="168">8/27/23 1:40 AM</td>
 <td style="font-weight: 400;" width="166">8/27/23 1:55 AM</td>
 <td style="font-weight: 400;" width="223">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Operating While Intoxicated/Minor Consumption</td>

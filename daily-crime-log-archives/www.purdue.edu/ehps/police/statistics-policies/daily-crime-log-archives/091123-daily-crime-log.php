@@ -671,7 +671,7 @@
 <td width="168">9/15/23 12:42 AM</td>
 <td width="166">9/15/23 1:26 AM</td>
 <td width="223">Owen Hall</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption/Resisting Law Enforcement</td>

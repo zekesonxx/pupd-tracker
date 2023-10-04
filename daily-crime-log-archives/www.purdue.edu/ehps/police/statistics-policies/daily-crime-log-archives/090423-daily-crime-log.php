@@ -687,7 +687,7 @@
 <td style="font-weight: 400;" width="168">9/7/23 7:35 PM</td>
 <td style="font-weight: 400;" width="166">9/7/23 8:20 PM</td>
 <td style="font-weight: 400;" width="223">Wood Hall</td>
-<td style="font-weight: 400;" width="199">Arrest Made</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Blackmail</td>
@@ -1005,7 +1005,7 @@
 <td style="font-weight: 400;" width="168">9/4/23 12:05 AM</td>
 <td style="font-weight: 400;" width="166">9/4/23 12:39 AM</td>
 <td style="font-weight: 400;" width="223">US 231 Hwy/ E Wood St</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft-EMPV</td>

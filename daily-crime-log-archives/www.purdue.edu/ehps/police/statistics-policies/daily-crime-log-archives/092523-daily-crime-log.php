@@ -1031,7 +1031,7 @@
 <td style="font-weight: 400;" width="168">9/22/23 8:00 PM</td>
 <td style="font-weight: 400;" width="166">9/22/23 8:12 PM</td>
 <td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="199">Arrest Made</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Trespass/ Minor Consumption</td>
@@ -1055,7 +1055,7 @@
 <td style="font-weight: 400;" width="168">9/22/23 9:11 PM</td>
 <td style="font-weight: 400;" width="166">9/22/23 9:40 PM</td>
 <td style="font-weight: 400;" width="223">Hilltop Apartments</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Minor Consumption</td>
