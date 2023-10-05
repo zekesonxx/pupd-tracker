@@ -671,7 +671,58 @@
   
     	<section class="content__group">
   					<h3>Thursday, October 5, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01439</td>
+<td width="168">10/2/23 9:11 PM</td>
+<td width="166">10/4/23 9:31 PM</td>
+<td width="223">1st Street Towers</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01440</td>
+<td width="168">10/4/23 9:24 PM</td>
+<td width="166">10/4/23 9:45 PM</td>
+<td width="223">Garfield St/W Stadium Ave</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Blackmail</td>
+<td width="154">2023PU01441</td>
+<td width="168">10/4/23 9:00 PM</td>
+<td width="166">10/4/23 11:53 PM</td>
+<td width="223">McCuctheon Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01442</td>
+<td width="168">10/4/23 11:57 PM</td>
+<td width="166">10/5/23 12:38 AM</td>
+<td width="223">S University St/Mitch Daniels Blvd</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Public Intoxication</td>
+<td width="154">2023PU01444</td>
+<td width="168">10/5/23 2:49 AM</td>
+<td width="166">10/5/23 3:15 AM</td>
+<td width="223">400 Blk N Martin Jischke Dr</td>
+<td width="199">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
