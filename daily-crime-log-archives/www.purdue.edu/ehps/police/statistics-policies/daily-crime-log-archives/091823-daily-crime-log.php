@@ -1039,7 +1039,7 @@
 <td width="168">9/15/23 10:41 PM</td>
 <td width="166">9/15/23 10:54 PM</td>
 <td width="223">Owen Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Drug Law Violation</td>
@@ -1111,7 +1111,7 @@
 <td width="168">9/15/23 11:19 PM</td>
 <td width="166">9/16/23 5:43 AM</td>
 <td width="223">Honors College</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>

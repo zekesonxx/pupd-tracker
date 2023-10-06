@@ -973,7 +973,7 @@
 <td style="font-weight: 400;" width="168">9/2/23 11:55 AM</td>
 <td style="font-weight: 400;" width="166">9/2/23 12:17 PM</td>
 <td style="font-weight: 400;" width="223">Pickett Park</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Drug Law Violation/ Driving While Suspended</td>

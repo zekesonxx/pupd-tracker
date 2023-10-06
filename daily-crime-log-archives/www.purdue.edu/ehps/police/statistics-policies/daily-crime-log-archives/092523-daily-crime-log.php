@@ -1127,7 +1127,7 @@
 <td style="font-weight: 400;" width="168">9/23/23 3:24 AM</td>
 <td style="font-weight: 400;" width="166">9/23/23 3:43 AM</td>
 <td style="font-weight: 400;" width="223">Cary Quadrangle</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Minor Consumption</td>
@@ -1135,7 +1135,7 @@
 <td style="font-weight: 400;" width="168">9/23/23 6:29 AM</td>
 <td style="font-weight: 400;" width="166">9/23/23 7:03 AM</td>
 <td style="font-weight: 400;" width="223">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Hit &amp; Run</td>
