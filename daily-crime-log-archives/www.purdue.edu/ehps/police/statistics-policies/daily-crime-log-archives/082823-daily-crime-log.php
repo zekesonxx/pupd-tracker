@@ -1263,7 +1263,7 @@
 <td style="font-weight: 400;" width="168">8/27/23 1:03 AM</td>
 <td style="font-weight: 400;" width="166">8/27/23 1:13 AM</td>
 <td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Minor Consumption</td>

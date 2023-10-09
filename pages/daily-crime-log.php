@@ -692,7 +692,42 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, October 9, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01450</td>
+<td width="168">10/6/23 11:29 AM</td>
+<td width="166">10/6/23 11:39 AM</td>
+<td width="223">Windsor Dining Court</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01456</td>
+<td width="168">10/5/23 7:00 PM</td>
+<td width="166">10/7/23 6:39 PM</td>
+<td width="223">Hillenbrand Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD# 2023-147192</td>
+<td width="168">10/5/23 10:26 PM</td>
+<td width="166">10/5/23 10:26 PM</td>
+<td width="223">Earhart Hall</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

@@ -1055,7 +1055,7 @@
 <td style="font-weight: 400;" width="168">9/30/23 12:04 AM</td>
 <td style="font-weight: 400;" width="166">9/30/23 12:36 AM</td>
 <td style="font-weight: 400;" width="223">Shreve Hall</td>
-<td style="font-weight: 400;" width="199">Arrest Made</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Drug Law Violation</td>
@@ -1063,7 +1063,7 @@
 <td style="font-weight: 400;" width="168">9/30/23 3:28 AM</td>
 <td style="font-weight: 400;" width="166">9/30/23 4:11 AM</td>
 <td style="font-weight: 400;" width="223">500 Blk Northwestern Ave</td>
-<td style="font-weight: 400;" width="199">Arrest Made</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Public Intoxication</td>
