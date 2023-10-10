@@ -685,7 +685,42 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, October 10, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2023PU01460</td>
+<td width="168">10/9/23 1:09 PM</td>
+<td width="166">10/9/23 1:10 PM</td>
+<td width="223">Purdue Aviation</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Blackmail</td>
+<td width="154">2023PU01461</td>
+<td width="168">10/9/23 11:21 PM</td>
+<td width="166">10/9/23 11:48 PM</td>
+<td width="223">Cary Quad South</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td>Rape/Fondling</td>
+<td>CSA</td>
+<td>9/30/23 11:00 PM</td>
+<td>10/3/23 10:30 AM</td>
+<td>On-Campus Housing</td>
+<td>Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
