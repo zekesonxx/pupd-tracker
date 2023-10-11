@@ -1079,7 +1079,7 @@
 <td style="font-weight: 400;" width="168">9/22/23 8:19 PM</td>
 <td style="font-weight: 400;" width="166">9/22/23 11:13 PM</td>
 <td style="font-weight: 400;" width="223">1300 Blk W Stadium Ave</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Criminal Mischief</td>

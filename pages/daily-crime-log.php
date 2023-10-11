@@ -678,7 +678,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, October 11, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01462</td>
+<td width="168">10/5/23 8:00 AM</td>
+<td width="166">10/10/23 4:03 PM</td>
+<td width="223">Lilly Hall of Life Sciences</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation/Resisting Law Enforcement</td>
+<td width="154">2023PU01463</td>
+<td width="168">10/10/23 4:41 PM</td>
+<td width="166">10/10/23 5:30 PM</td>
+<td width="223">McCutcheon Parking Garage</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td>CAD# 2023-149042</td>
+<td>10/10/23 12:13 AM</td>
+<td>10/10/23 12:13 AM</td>
+<td>Wiley Hall</td>
+<td>Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD# 2023-148609</td>
+<td width="168">10/9/23 12:30 AM</td>
+<td width="166">10/9/23 12:49 AM</td>
+<td width="223">Northwestern Ave/Lindberg Rd</td>
+<td width="199">Documented in 2023WL02576</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
