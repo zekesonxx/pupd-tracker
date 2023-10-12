@@ -745,7 +745,7 @@
 <td width="168">9/4/23 9:00 AM</td>
 <td width="166">9/5/23 11:13 AM</td>
 <td width="223">Harrison St</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft-Bike</td>

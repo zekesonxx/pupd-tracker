@@ -1005,7 +1005,7 @@
 <td width="168">10/2/23 1:26 PM</td>
 <td width="166">10/2/23 2:13 PM</td>
 <td width="223">Aspire</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft</td>
