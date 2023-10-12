@@ -396,11 +396,6 @@
         
                                                             
         
-        <li role="none"><a href="../daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
-                                                    
-        
-                                                            
-        
         <li role="none"><a href="../drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                     
         
@@ -493,11 +488,6 @@
                                                                                  
                                                         
                             <li role="none"><a href="../../timely-warnings/index.php" role="menuitem">Timely Warnings</a></li>
-                                                                
-        
-                                                                                 
-                                                        
-                            <li role="none"><a href="../../camps/index.php" role="menuitem">Camps</a></li>
                                                                 
         
                                                                                  
