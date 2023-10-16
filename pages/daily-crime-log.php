@@ -687,7 +687,170 @@
   
     	<section class="content__group">
   					<h3>Monday, October 16, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01478</td>
+<td width="168">10/12/23 10:00 PM</td>
+<td width="166">10/13/23 6:06 AM</td>
+<td width="223">Duhme Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01479</td>
+<td width="168">10/12/23 12:37 PM</td>
+<td width="166">10/13/23 6:15 AM</td>
+<td width="223">Frieda Parker Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01481</td>
+<td width="168">10/11/23 5:00 PM</td>
+<td width="166">10/13/23 12:06 PM</td>
+<td width="223">Earhart Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01482</td>
+<td width="168">10/13/23 10:35 PM</td>
+<td width="166">10/13/23 11:10 PM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01483</td>
+<td width="168">10/13/23 10:35 PM</td>
+<td width="166">10/13/23 11:10 PM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01484</td>
+<td width="168">10/14/23 12:55 AM</td>
+<td width="166">10/14/23 1:24 AM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated</td>
+<td width="154">2023PU01485</td>
+<td width="168">10/14/23 4:01 AM</td>
+<td width="166">10/14/23 4:42 AM</td>
+<td width="223">1000 Blk S River Rd</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01488</td>
+<td width="168">10/14/23 1:07 PM</td>
+<td width="166">10/14/23 1:37 PM</td>
+<td width="223">Dodge St/Northwestern Ave</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01491</td>
+<td width="168">10/14/23 6:37 PM</td>
+<td width="166">10/14/23 7:03 PM</td>
+<td width="223">McCutcheon Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption/Public Intoxication</td>
+<td width="154">2023PU01493</td>
+<td width="168">10/14/23 11:02 PM</td>
+<td width="166">10/14/23 11:25 PM</td>
+<td width="223">David Ross Rd/W Stadium Ave</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated</td>
+<td width="154">2023PU01495</td>
+<td width="168">10/15/23 12:43 AM</td>
+<td width="166">10/15/23 1:06 AM</td>
+<td width="223">1000 Blk S River Rd</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01498</td>
+<td width="168">10/15/23 12:51 PM</td>
+<td width="166">10/15/23 1:19 PM</td>
+<td width="223">Water Tower</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01499</td>
+<td width="168">10/15/23 8:23 PM</td>
+<td width="166">15/15/23 21:02</td>
+<td width="223">Harrison Hall</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD#2023-150742</td>
+<td width="168">10/12/23 12:14 AM</td>
+<td width="166">10/12/23 12:14 AM</td>
+<td width="223">Honors College North</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td>Drunk Driver</td>
+<td>CAD#2023-150735</td>
+<td>10/12/23 11:49 PM</td>
+<td>10/12/23 11:49 PM</td>
+<td>Northwestern Ave/N Grant St</td>
+<td>Nothing Further</td>
+</tr>
+<tr>
+<td>Reckless Driver</td>
+<td>CAD#2023-151813</td>
+<td>10/14/23 8:43 PM</td>
+<td>10/14/23 8:43 PM</td>
+<td>1400 Blk Mitch Daniels Blvd</td>
+<td>Nothing Further</td>
+</tr>
+<tr>
+<td>Hit &amp; Run</td>
+<td>CAD#2023-151303</td>
+<td>10/13/23 9:59 PM</td>
+<td>10/13/23 9:59 PM</td>
+<td>US HWY 231 S/S River Rd</td>
+<td>Nothing Further</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td>CAD#2023-151777</td>
+<td>10/14/23 7:34 PM</td>
+<td>10/14/23 7:34 PM</td>
+<td>Munzer Apts</td>
+<td>Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Reckless Driver</td>
+<td width="154">CAD#2023-152034</td>
+<td width="168">10/15/23 7:34 AM</td>
+<td width="166">10/15/23 7:34 AM</td>
+<td width="223">US HWY 231 N/Cherry Ln</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

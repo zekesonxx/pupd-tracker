@@ -1098,7 +1098,7 @@
 <td style="font-weight: 400;" width="168">9/30/23 8:58 PM</td>
 <td style="font-weight: 400;" width="166">9/30/23 9:28 PM</td>
 <td style="font-weight: 400;" width="223">Stewart Center</td>
-<td style="font-weight: 400;" width="199">Arrest Made</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Drug Law Violation</td>

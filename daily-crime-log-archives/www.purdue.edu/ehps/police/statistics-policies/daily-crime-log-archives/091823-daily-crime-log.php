@@ -1050,7 +1050,7 @@
 <td width="168">9/15/23 10:41 PM</td>
 <td width="166">9/15/23 11:10 PM</td>
 <td width="223">1st St Towers</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Drug Law Violation</td>
