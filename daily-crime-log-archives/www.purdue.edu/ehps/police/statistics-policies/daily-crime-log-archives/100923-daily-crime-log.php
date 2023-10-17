@@ -692,7 +692,7 @@
 <td width="168">10/10/23 8:00 PM</td>
 <td width="166">10/11/23 1:00 PM</td>
 <td width="223">Turf Recreation Exercise Center</td>
-<td width="199">Under Investigation</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td>Theft</td>

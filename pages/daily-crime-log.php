@@ -680,7 +680,82 @@
   
     	<section class="content__group">
   					<h3>Tuesday, October 17, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2023PU01486</td>
+<td width="168">10/14/23 10:05 AM</td>
+<td width="166">10/14/23 10:11 AM</td>
+<td width="223">Ross-Ade Stadium</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01500</td>
+<td width="168">10/14/23 6:00 PM</td>
+<td width="166">10/16/23 7:32 AM</td>
+<td width="223">Hilltop</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD# 2023-151807</td>
+<td width="168">10/14/23 8:23 PM</td>
+<td width="166">10/14/23 8:23 PM</td>
+<td width="223">W State St/Pierce St</td>
+<td width="199">Documented in 2023WL02639</td>
+</tr>
+<tr>
+<td width="187">Reckless Driver</td>
+<td width="154">CAD# 2023-151813</td>
+<td width="168">10/14/23 8:43 PM</td>
+<td width="166">10/14/23 8:43 PM</td>
+<td width="223">1400 Blk Mitch Daniels Blvd</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>9/30/23 12:40 AM</td>
+<td>9/30/23 1:51 AM</td>
+<td>Tarkington Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>9/30/23 10:09 PM</td>
+<td>10/1/23 1:16 AM</td>
+<td>Aspire Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>19 Disciplinary Referra</td>
+<td>10/5/23 10:34 PM</td>
+<td>10/6/23 12:06 AM</td>
+<td>Hilltop Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>10/10/23 4:41 PM</td>
+<td>10/12/23 11:57 AM</td>
+<td>250 McCutcheon Dr</td>
+<td>Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
