@@ -666,7 +666,50 @@
   
     	<section class="content__group">
   					<h3>Thursday, October 19, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU01506</td>
+<td style="font-weight: 400;" width="168">10/17/23 10:00 PM</td>
+<td style="font-weight: 400;" width="166">10/18/23 9:53 AM</td>
+<td style="font-weight: 400;" width="223">Wood Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2023PU01508</td>
+<td style="font-weight: 400;" width="168">10/18/23 8:10 AM</td>
+<td style="font-weight: 400;" width="166">10/18/23 2:35 PM</td>
+<td style="font-weight: 400;" width="223">Grant St Parking Garage</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU01509</td>
+<td style="font-weight: 400;" width="168">10/18/23 4:27 PM</td>
+<td style="font-weight: 400;" width="166">10/18/23 4:51 PM</td>
+<td style="font-weight: 400;" width="223">Potter Engineering Center</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2023PU01510</td>
+<td style="font-weight: 400;" width="168">10/18/23 5:30 PM</td>
+<td style="font-weight: 400;" width="166">10/18/23 8:48 PM</td>
+<td style="font-weight: 400;" width="223">University St Parking Garage</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

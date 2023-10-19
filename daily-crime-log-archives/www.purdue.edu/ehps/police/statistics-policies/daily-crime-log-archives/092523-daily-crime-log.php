@@ -832,7 +832,7 @@
 <td width="168">9/22/23 6:16 PM</td>
 <td width="166">9/22/23 6:17 PM</td>
 <td width="223">N Martin Jischke Dr/Tower Dr</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
