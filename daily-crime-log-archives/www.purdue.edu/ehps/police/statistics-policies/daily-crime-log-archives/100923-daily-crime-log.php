@@ -650,7 +650,7 @@
 <td width="168">10/13/23 2:14 AM</td>
 <td width="166">10/13/23 2:30 AM</td>
 <td width="223">Wiley Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Reckless Driver</td>

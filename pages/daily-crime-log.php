@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			101623 Daily Crime Log - 
+			102323 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -687,7 +687,122 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, October 23, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01517</td>
+<td width="168">10/15/23 9:00 PM</td>
+<td width="166">10/20/23 4:57 PM</td>
+<td width="223">CoRec</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01518</td>
+<td width="168">10/19/23 6:00 PM</td>
+<td width="166">10/20/23 5:28 PM</td>
+<td width="223">Meredith South Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01520</td>
+<td width="168">10/20/23 11:11 PM</td>
+<td width="166">10/20/23 11:14 PM</td>
+<td width="223">Wood St Parking Garage</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01521</td>
+<td width="168">10/21/23 12:17 AM</td>
+<td width="166">10/21/23 12:41 AM</td>
+<td width="223">Aspire</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01522</td>
+<td width="168">10/21/23 1:03 AM</td>
+<td width="166">10/21/23 1:20 AM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2023PU01524</td>
+<td width="168">10/13/23 8:00 AM</td>
+<td width="166">10/21/23 12:05 PM</td>
+<td width="223">Cary Quad South</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption/Public Intoxication</td>
+<td width="154">2023PU01526</td>
+<td width="168">10/21/23 11:54 PM</td>
+<td width="166">10/22/23 12:17 AM</td>
+<td width="223">Delta Upsilon</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01527</td>
+<td width="168">10/22/23 1:27 AM</td>
+<td width="166">10/22/23 1:52 AM</td>
+<td width="223">Cary Quad</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01529</td>
+<td width="168">10/22/23 6:32 PM</td>
+<td width="166">10/22/23 6:39 PM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01530</td>
+<td width="168">10/22/23 11:08 PM</td>
+<td width="166">10/22/23 11:28 PM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">CAD#2023-154229</td>
+<td width="168">10/19/23 11:25 AM</td>
+<td width="166">10/19/23 11:25 AM</td>
+<td width="223">Muinzer Apts</td>
+<td width="199">Documented in 2023WL02685</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD#2023-154615</td>
+<td width="168">10/20/23 1:37 AM</td>
+<td width="166">10/20/23 1:37 AM</td>
+<td width="223">Northwestern Ave/W Stadium Ave</td>
+<td width="199">Documented in 2023WL02687</td>
+</tr>
+<tr>
+<td width="187">Vandalism</td>
+<td width="154">CSA</td>
+<td width="168">Unknown</td>
+<td width="166">10/19/23 9:00 PM</td>
+<td width="223">On-Campus Housing</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

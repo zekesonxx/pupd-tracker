@@ -890,7 +890,7 @@
 <td width="168">10/13/23 10:35 PM</td>
 <td width="166">10/13/23 11:10 PM</td>
 <td width="223">Shreve Hall</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
