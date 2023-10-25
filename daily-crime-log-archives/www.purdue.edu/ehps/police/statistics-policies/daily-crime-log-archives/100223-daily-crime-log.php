@@ -1066,7 +1066,7 @@
 <td style="font-weight: 400;" width="168">9/30/23 3:22 PM</td>
 <td style="font-weight: 400;" width="166">9/30/23 3:23 PM</td>
 <td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="199">Arrest Made</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Resisting Law Enforcement/ Minor Consumption</td>
@@ -1106,7 +1106,7 @@
 <td style="font-weight: 400;" width="168">9/30/23 11:53 PM</td>
 <td style="font-weight: 400;" width="166">10/1/23 12:22 AM</td>
 <td style="font-weight: 400;" width="223">Steely St/S Grant St</td>
-<td style="font-weight: 400;" width="199">Arrest Made</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Simple Battery/ Dating Violence</td>
