@@ -698,7 +698,7 @@
 <td style="font-weight: 400;" width="168">9/8/23 1:03 AM</td>
 <td style="font-weight: 400;" width="166">9/8/23 1:46 AM</td>
 <td style="font-weight: 400;" width="223">1 N Sharon Chapel Rd</td>
-<td style="font-weight: 400;" width="199">Arrest Made</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Hit &amp; Run</td>

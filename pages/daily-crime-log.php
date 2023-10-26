@@ -666,7 +666,146 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, October 26, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Fraud</td>
+<td style="font-weight: 400;" width="154">2023PU01446</td>
+<td style="font-weight: 400;" width="168">1/1/23 12:00 AM</td>
+<td style="font-weight: 400;" width="166">10/5/23 5:41 PM</td>
+<td style="font-weight: 400;" width="223">Know Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2023PU01542</td>
+<td style="font-weight: 400;" width="168">10/24/23 8:00 AM</td>
+<td style="font-weight: 400;" width="166">10/24/23 2:25 PM</td>
+<td style="font-weight: 400;" width="223">Electrical Engineering Building</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU01545</td>
+<td style="font-weight: 400;" width="168">10/25/23 10:42 AM</td>
+<td style="font-weight: 400;" width="166">10/25/23 11:01 AM</td>
+<td style="font-weight: 400;" width="223">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Public Indecency</td>
+<td style="font-weight: 400;" width="154">2023PU01546</td>
+<td style="font-weight: 400;" width="168">10/20/23 2:37 PM</td>
+<td style="font-weight: 400;" width="166">10/25/23 2:48 PM</td>
+<td style="font-weight: 400;" width="223">Tower Dr</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2023PU01549</td>
+<td style="font-weight: 400;" width="168">10/20/23 9:59 PM</td>
+<td style="font-weight: 400;" width="166">10/25/23 8:11 PM</td>
+<td style="font-weight: 400;" width="223">McCutcheon Hgarage</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Stalking</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">10/19/2023&#160; Unknown Time</td>
+<td style="font-weight: 400;" width="166">10/25/23 12:21 PM</td>
+<td style="font-weight: 400;" width="223">Ford Dining Court</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">2 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">10/13/23 11:45 AM</td>
+<td style="font-weight: 400;" width="166">10/13/23 11:58 AM</td>
+<td style="font-weight: 400;" width="223">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">9 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">10/13/23 10:30 PM</td>
+<td style="font-weight: 400;" width="166">10/14/23 12:46 AM</td>
+<td style="font-weight: 400;" width="223">Aspire Apts</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">10 Disciplinary Referra</td>
+<td style="font-weight: 400;" width="168">10/13/23 11:00 PM</td>
+<td style="font-weight: 400;" width="166">10/14/23 12:08 AM</td>
+<td style="font-weight: 400;" width="223">Aspire Apts</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">3 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">10/14/23 12:15 AM</td>
+<td style="font-weight: 400;" width="166">10/14/23 1:50 AM</td>
+<td style="font-weight: 400;" width="223">Owen Hall</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">4 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">10/14/23 12:30 AM</td>
+<td style="font-weight: 400;" width="166">10/14/23 2:05 AM</td>
+<td style="font-weight: 400;" width="223">Village West UR Apts</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">10/14/23 10:15 PM</td>
+<td style="font-weight: 400;" width="166">10/15/23 7:10 PM</td>
+<td style="font-weight: 400;" width="223">Owen Hall</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">3 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">10/14/23 11:00 PM</td>
+<td style="font-weight: 400;" width="166">10/15/23 12:58 AM</td>
+<td style="font-weight: 400;" width="223">Hilltop Apts</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">4 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">10/15/23 12:00 AM</td>
+<td style="font-weight: 400;" width="166">10/15/23 1:46 AM</td>
+<td style="font-weight: 400;" width="223">Aspire Apts</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">3 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">10/15/23 12:30 AM</td>
+<td style="font-weight: 400;" width="166">10/15/23 1:10 AM</td>
+<td style="font-weight: 400;" width="223">Owen Hall</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">3 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">10/15/23 1:00 AM</td>
+<td style="font-weight: 400;" width="166">10/15/23 3:11 AM</td>
+<td style="font-weight: 400;" width="223">Shreve Hall</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1351,37 +1490,51 @@ Will be posted soon.
                                  
         
                                                                                 
-                                                    <a href="https://www.facebook.com/PurdueUniversity/" rel="noopener" target="_blank"><span class="sr-only">Facebook</span><span aria-hidden="true" class="fa fa-facebook"></span></a>
+                                                    <a href="https://www.facebook.com/PurdueUniversity/" rel="noopener" target="_blank"><span class="sr-only">Facebook</span>
+                 <i class="fab fa-facebook" aria-hidden="true"></i>
+                </a>
                                 
                                  
         
                                                                                 
-                                                    <a href="https://twitter.com/lifeatpurdue" rel="noopener" target="_blank"><span class="sr-only">Twitter</span><span aria-hidden="true" class="fa fa-twitter"></span></a>
+                                                    <a href="https://twitter.com/lifeatpurdue" rel="noopener" target="_blank"><span class="sr-only">Twitter</span>
+                 <i aria-hidden="true" class="fa-brands fa-x-twitter"></i>
+                </a>
                                 
                                  
         
                                                                                 
-                                                    <a href="https://www.youtube.com/user/PurdueUniversity" rel="noopener" target="_blank"><span class="sr-only">YouTube</span><span aria-hidden="true" class="fa fa-youtube"></span></a>
+                                                    <a href="https://www.youtube.com/user/PurdueUniversity" rel="noopener" target="_blank"><span class="sr-only">YouTube</span>
+                 <i class="fab fa-youtube" aria-hidden="true"></i>
+                </a>
                                 
                                  
         
                                                                                 
-                                                    <a href="https://www.instagram.com/lifeatpurdue/" rel="noopener" target="_blank"><span class="sr-only">Instagram</span><span aria-hidden="true" class="fa fa-instagram"></span></a>
+                                                    <a href="https://www.instagram.com/lifeatpurdue/" rel="noopener" target="_blank"><span class="sr-only">Instagram</span>
+                 <i class="fab fa-instagram" aria-hidden="true"></i>
+                </a>
                                 
                                  
         
                                                                                 
-                                                    <a href="https://www.pinterest.com/lifeatpurdue/" rel="noopener" target="_blank"><span class="sr-only">Pinterest</span><span aria-hidden="true" class="fa fa-pinterest"></span></a>
+                                                    <a href="https://www.pinterest.com/lifeatpurdue/" rel="noopener" target="_blank"><span class="sr-only">Pinterest</span>
+                 <i class="fab fa-pinterest" aria-hidden="true"></i>
+                </a>
                                 
                                  
         
                                                                                 
-                                                    <a href="https://www.snapchat.com/add/lifeatpurdue" rel="noopener" target="_blank"><span class="sr-only">Snapchat</span><span aria-hidden="true" class="fa fa-snapchat-ghost"></span></a>
+                                                    <a href="https://www.snapchat.com/add/lifeatpurdue" rel="noopener" target="_blank"><span class="sr-only">Snapchat</span>
+                 <i class="fab fa-snapchat" aria-hidden="true"></i>
+                </a>
                                 
                                  
         
                                                                                 
-                                                    <a href="https://www.linkedin.com/edu/purdue-university-18357" rel="noopener" target="_blank"><span class="sr-only">LinkedIn</span><span aria-hidden="true" class="fa fa-linkedin"></span></a>
+                                                    <a href="https://www.linkedin.com/edu/purdue-university-18357" rel="noopener" target="_blank"><span class="sr-only">LinkedIn</span>
+                 <i class="fab fa-linkedin" aria-hidden="true"></i>
+                </a>
                             </div>
 </div>
 				</article>

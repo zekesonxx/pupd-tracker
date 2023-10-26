@@ -1114,7 +1114,7 @@
 <td width="168">9/16/23 8:07 PM</td>
 <td width="166">9/16/23 8:21 PM</td>
 <td width="223">Hilltop</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
@@ -1122,7 +1122,7 @@
 <td width="168">9/17/23 12:51 AM</td>
 <td width="166">9/17/23 1:13 AM</td>
 <td width="223">Earthart Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft-Bike</td>
