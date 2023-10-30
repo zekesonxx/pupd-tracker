@@ -733,7 +733,7 @@
 <td style="font-weight: 400;" width="168">10/24/23 8:00 AM</td>
 <td style="font-weight: 400;" width="166">10/24/23 2:25 PM</td>
 <td style="font-weight: 400;" width="223">Electrical Engineering Building</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">This was determined to not be a Clery reportable offense. Nothing Further</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft-Bike</td>
@@ -969,7 +969,7 @@
 <td width="168">10/24/23 1:15 AM</td>
 <td width="166">10/24/23 1:35 AM</td>
 <td width="223">Mitch Daniels Blvd/N Martin Jischke Dr</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Indecent Exposure</td>
