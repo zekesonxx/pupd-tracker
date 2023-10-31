@@ -676,7 +676,74 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, October 31, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01559</td>
+<td width="168">10/27/23 12:20 PM</td>
+<td width="166">10/27/23 12:27 PM</td>
+<td width="223">Physics Building</td>
+<td width="199">Unfounded</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01578</td>
+<td width="168">10/19/23 6:00 PM</td>
+<td width="166">10/30/23 6:43 AM</td>
+<td width="223">Brees Athletic Center</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01580</td>
+<td width="168">10/30/23 3:11 PM</td>
+<td width="166">10/30/23 3:26 PM</td>
+<td width="223">Frieda Parker Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01582</td>
+<td width="168">10/31/23 5:12 AM</td>
+<td width="166">10/31/23 5:14 AM</td>
+<td width="223">Hilltop</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Hit &amp; Run</td>
+<td width="154">CAD# 2023-158662</td>
+<td width="168">10/27/23 5:34 PM</td>
+<td width="166">10/27/23 5:34 PM</td>
+<td width="223">100 Blk Memorial Mall</td>
+<td width="199">Unfounded</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">CAD# 2023-158712</td>
+<td width="168">10/27/23 7:55 PM</td>
+<td width="166">10/27/23 7:55 PM</td>
+<td width="223">600 Blk Waldron St</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td>CAD# 2023-158879</td>
+<td>10/8/23 1:21 AM</td>
+<td>10/8/23 1:21 AM</td>
+<td>Wiley Hall</td>
+<td>Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -782,7 +849,7 @@ Will be posted soon.
 <td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
-<td width="187">Battery-Simple</td>
+<td width="187">Aggravated Assault</td>
 <td width="154">2023PU01571</td>
 <td width="168">10/28/23 11:59 PM</td>
 <td width="166">10/29/23 12:35 AM</td>
