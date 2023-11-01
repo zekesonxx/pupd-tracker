@@ -669,7 +669,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, November 1, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Criminal Mischief/Theft</td>
+<td width="154">2023PU01583</td>
+<td width="168">10/27/23 5:00 PM</td>
+<td width="166">10/31/23 5:35 PM</td>
+<td width="223">Wiley Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01584</td>
+<td width="168">10/31/23 3:34 PM</td>
+<td width="166">10/31/23 3:36 PM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01586</td>
+<td width="168">10/31/23 8:00 PM</td>
+<td width="166">10/31/23 8:11 PM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxciated/Minor Consumption</td>
+<td width="154">2023PU01587</td>
+<td width="168">11/1/23 1:51 AM</td>
+<td width="166">11/1/23 2:53 AM</td>
+<td width="223">N McCutcheon Dr/3rd St</td>
+<td width="199">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -838,7 +881,7 @@ Will be posted soon.
 <td width="168">10/28/23 2:45 PM</td>
 <td width="166">10/28/23 3:59 PM</td>
 <td width="223">McCutcheon Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>

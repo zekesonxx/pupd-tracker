@@ -743,7 +743,7 @@
 <td width="168">10/13/23 5:00 PM</td>
 <td width="166">10/17/23 8:53 AM</td>
 <td width="223">Rawls Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">Suspended</td>
 </tr>
 <tr>
 <td width="187">Theft-Bike</td>
@@ -939,7 +939,7 @@
 <td width="168">10/15/23 12:43 AM</td>
 <td width="166">10/15/23 1:06 AM</td>
 <td width="223">1000 Blk S River Rd</td>
-<td width="199">Arrest Made</td>
+<td width="199">Under Investigation</td>
 </tr>
 <tr>
 <td width="187">Theft</td>
