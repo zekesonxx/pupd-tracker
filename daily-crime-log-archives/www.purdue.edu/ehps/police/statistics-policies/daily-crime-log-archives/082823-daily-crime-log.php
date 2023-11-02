@@ -26,7 +26,9 @@
 <link href="https://www.purdue.edu/purdue/images/icon-ipad.png" rel="apple-touch-icon" sizes="76x76"/>
 <link href="https://www.purdue.edu/purdue/images/icon-iphone-retina.png" rel="apple-touch-icon" sizes="120x120"/>
 <link href="https://www.purdue.edu/purdue/images/icon-ipad-retina.png" rel="apple-touch-icon" sizes="152x152"/>
-		<!--United sans -->
+		<link href="https://use.fontawesome.com/releases/v6.4.2/css/all.css" rel="stylesheet"/>
+
+<!--United sans -->
 <link href="https://www.purdue.edu/purdue/fonts/united-sans/united-sans.css" rel="stylesheet"/>
 
 <link href="https://www.purdue.edu/purdue/css/pu/content/content-2.0-2020.css" rel="stylesheet" type="text/css"/>
@@ -46,13 +48,7 @@
 		<script async="true" src="//www.purdue.edu/purdue/globals/js/modernizr-1.5.min.js" type="text/javascript"></script>
 <script src="//www.purdue.edu/purdue/js/jquery-1.10.2.min.js" type="text/javascript"></script>
 <script src="https://www.purdue.edu/assets/globals/js/google_jquery_link_tracking.js" type="text/javascript"></script>
-<!-- Font Awesome -->
-<script crossorigin="anonymous" defer="defer" src="https://use.fontawesome.com/releases/v5.8.1/js/all.js"></script>
-<script crossorigin="anonymous" defer="defer" src="https://use.fontawesome.com/releases/v5.8.1/js/v4-shims.js"></script>
-    <no-script>
-      <link href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" rel="stylesheet"/>
-      <link href="https://use.fontawesome.com/releases/v5.8.1/css/v4-shims.css" rel="stylesheet"/>
-    </no-script>
+
 		
 
             
@@ -595,7 +591,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="102323-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -869,7 +870,7 @@
 <td style="font-weight: 400;" width="154">2023PU01114</td>
 <td style="font-weight: 400;" width="168">6/14/23 9:00 AM</td>
 <td style="font-weight: 400;" width="166">8/29/23 8:47 AM</td>
-<td style="font-weight: 400;" width="223">Harrison Hall</td>
+<td style="font-weight: 400;" width="223">Closed</td>
 <td style="font-weight: 400;" width="199">Under Investigation</td>
 </tr>
 <tr>
@@ -1162,7 +1163,7 @@
 <td style="font-weight: 400;" width="168">8/24/23 12:00 PM</td>
 <td style="font-weight: 400;" width="166">8/25/23 1:20 PM</td>
 <td style="font-weight: 400;" width="223">Mann Hall</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft-Bike</td>
@@ -1708,37 +1709,51 @@
                                  
         
                                                                                 
-                                                    <a href="https://www.facebook.com/PurdueUniversity/" rel="noopener" target="_blank"><span class="sr-only">Facebook</span><span aria-hidden="true" class="fa fa-facebook"></span></a>
+                                                    <a href="https://www.facebook.com/PurdueUniversity/" rel="noopener" target="_blank"><span class="sr-only">Facebook</span>
+                 <i class="fab fa-facebook" aria-hidden="true"></i>
+                </a>
                                 
                                  
         
                                                                                 
-                                                    <a href="https://twitter.com/lifeatpurdue" rel="noopener" target="_blank"><span class="sr-only">Twitter</span><span aria-hidden="true" class="fa fa-twitter"></span></a>
+                                                    <a href="https://twitter.com/lifeatpurdue" rel="noopener" target="_blank"><span class="sr-only">Twitter</span>
+                 <i aria-hidden="true" class="fa-brands fa-x-twitter"></i>
+                </a>
                                 
                                  
         
                                                                                 
-                                                    <a href="https://www.youtube.com/user/PurdueUniversity" rel="noopener" target="_blank"><span class="sr-only">YouTube</span><span aria-hidden="true" class="fa fa-youtube"></span></a>
+                                                    <a href="https://www.youtube.com/user/PurdueUniversity" rel="noopener" target="_blank"><span class="sr-only">YouTube</span>
+                 <i class="fab fa-youtube" aria-hidden="true"></i>
+                </a>
                                 
                                  
         
                                                                                 
-                                                    <a href="https://www.instagram.com/lifeatpurdue/" rel="noopener" target="_blank"><span class="sr-only">Instagram</span><span aria-hidden="true" class="fa fa-instagram"></span></a>
+                                                    <a href="https://www.instagram.com/lifeatpurdue/" rel="noopener" target="_blank"><span class="sr-only">Instagram</span>
+                 <i class="fab fa-instagram" aria-hidden="true"></i>
+                </a>
                                 
                                  
         
                                                                                 
-                                                    <a href="https://www.pinterest.com/lifeatpurdue/" rel="noopener" target="_blank"><span class="sr-only">Pinterest</span><span aria-hidden="true" class="fa fa-pinterest"></span></a>
+                                                    <a href="https://www.pinterest.com/lifeatpurdue/" rel="noopener" target="_blank"><span class="sr-only">Pinterest</span>
+                 <i class="fab fa-pinterest" aria-hidden="true"></i>
+                </a>
                                 
                                  
         
                                                                                 
-                                                    <a href="https://www.snapchat.com/add/lifeatpurdue" rel="noopener" target="_blank"><span class="sr-only">Snapchat</span><span aria-hidden="true" class="fa fa-snapchat-ghost"></span></a>
+                                                    <a href="https://www.snapchat.com/add/lifeatpurdue" rel="noopener" target="_blank"><span class="sr-only">Snapchat</span>
+                 <i class="fab fa-snapchat" aria-hidden="true"></i>
+                </a>
                                 
                                  
         
                                                                                 
-                                                    <a href="https://www.linkedin.com/edu/purdue-university-18357" rel="noopener" target="_blank"><span class="sr-only">LinkedIn</span><span aria-hidden="true" class="fa fa-linkedin"></span></a>
+                                                    <a href="https://www.linkedin.com/edu/purdue-university-18357" rel="noopener" target="_blank"><span class="sr-only">LinkedIn</span>
+                 <i class="fab fa-linkedin" aria-hidden="true"></i>
+                </a>
                             </div>
 </div>
 				</article>
