@@ -1219,7 +1219,7 @@
 <td style="font-weight: 400;" width="168">8/26/23 12:09 AM</td>
 <td style="font-weight: 400;" width="166">8/26/23 1:04 AM</td>
 <td style="font-weight: 400;" width="223">McCutcheon Parking Garage</td>
-<td style="font-weight: 400;" width="199">Arrest Made</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Blackmail</td>

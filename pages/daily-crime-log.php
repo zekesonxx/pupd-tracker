@@ -655,7 +655,98 @@
   
     	<section class="content__group">
   					<h3>Friday, November 3, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01590</td>
+<td width="168">10/31/23 8:55 AM</td>
+<td width="166">11/1/23 12:43 PM</td>
+<td width="223">Hampton Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01591</td>
+<td width="168">11/1/23 1:35 PM</td>
+<td width="166">11/1/23 1:38 PM</td>
+<td width="223">Knoy Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2023PU01596</td>
+<td width="168">11/1/23 4:00 PM</td>
+<td width="166">11/1/23 10:50 PM</td>
+<td width="223">Owen Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01599</td>
+<td width="168">11/1/23 10:30 AM</td>
+<td width="166">11/2/23 9:59 AM</td>
+<td width="223">Cary Quad South</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Harassment</td>
+<td width="154">2023PU01600</td>
+<td width="168">11/2/23 4:09 PM</td>
+<td width="166">11/2/23 4:40 PM</td>
+<td width="223">First St Towers</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01601</td>
+<td width="168">11/2/23 4:22 PM</td>
+<td width="166">11/2/23 4:42 PM</td>
+<td width="223">Earhart Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2023PU01602</td>
+<td width="168">10/19/23 1:00 PM</td>
+<td width="166">11/2/23 6:12 PM</td>
+<td width="223">Hawkins Graduate House</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Fraud/Theft</td>
+<td width="154">2023PU01603</td>
+<td width="168">11/2/23 11:08 PM</td>
+<td width="166">11/2/23 11:23 PM</td>
+<td width="223">Herrick Labs</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01604</td>
+<td width="168">11/3/23 12:15 AM</td>
+<td width="166">11/3/23 12:43 AM</td>
+<td width="223">Delta Delta Delta</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01605</td>
+<td width="168">11/3/23 12:41 AM</td>
+<td width="166">11/3/23 1:03 AM</td>
+<td width="223">Earhart Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -908,7 +999,7 @@ Will be posted soon.
 <td width="168">10/28/23 12:32 AM</td>
 <td width="166">10/28/23 4:54 AM</td>
 <td width="223">W Stadium Ave/Waldron St</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Criminal Mischief</td>
