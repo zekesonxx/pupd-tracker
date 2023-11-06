@@ -683,7 +683,98 @@
   
     	<section class="content__group">
   					<h3>Monday, November 6, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Harassment</td>
+<td width="154">2023PU01607</td>
+<td width="168">11/3/23 8:50 AM</td>
+<td width="166">11/3/23 9:14 AM</td>
+<td width="223">Smalley Center</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Blackmail</td>
+<td width="154">2023PU01609</td>
+<td width="168">11/2/23 12:00 PM</td>
+<td width="166">11/3/23 11:11 AM</td>
+<td width="223">Frieda Parker Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01610</td>
+<td width="168">10/29/23 10:00 PM</td>
+<td width="166">11/3/23 10:38 PM</td>
+<td width="223">McCutcheon Parking Garage</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01611</td>
+<td width="168">11/4/23 3:57 AM</td>
+<td width="166">11/4/23 4:03 AM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Hit &amp; Run</td>
+<td width="154">2023PU01613</td>
+<td width="168">11/3/23 9:00 AM</td>
+<td width="166">11/4/23 12:03 PM</td>
+<td width="223">Horticulture Building</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01614</td>
+<td width="168">11/3/23 3:26 PM</td>
+<td width="166">11/4/23 10:02 PM</td>
+<td width="223">Psychological Sciences Building</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01615</td>
+<td width="168">11/5/23 1:03 AM</td>
+<td width="166">11/5/23 1:22 AM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01616</td>
+<td width="168">11/5/23 5:59 PM</td>
+<td width="166">11/5/23 6:02 PM</td>
+<td width="223">Harrison Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01617</td>
+<td width="168">10/20/23 8:00 PM</td>
+<td width="166">11/5/23 9:00 PM</td>
+<td width="223">CoRec</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Hit &amp; Run</td>
+<td width="154">CAD# 2023-162023</td>
+<td width="168">11/2/23 8:15 PM</td>
+<td width="166">11/2/23 8:15 PM</td>
+<td width="223">1500 Blk Mitch Daniels Blvd</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
