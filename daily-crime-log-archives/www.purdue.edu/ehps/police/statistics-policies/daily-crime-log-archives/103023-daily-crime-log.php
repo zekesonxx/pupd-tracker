@@ -683,7 +683,7 @@
 <td width="168">11/2/23 4:09 PM</td>
 <td width="166">11/2/23 4:40 PM</td>
 <td width="223">First St Towers</td>
-<td width="199">Under Investigation</td>
+<td width="199">Suspended</td>
 </tr>
 <tr>
 <td width="187">Theft-Bike</td>

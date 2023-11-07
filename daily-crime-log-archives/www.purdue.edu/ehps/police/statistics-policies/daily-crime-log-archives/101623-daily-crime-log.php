@@ -931,7 +931,7 @@
 <td width="168">10/14/23 11:02 PM</td>
 <td width="166">10/14/23 11:25 PM</td>
 <td width="223">David Ross Rd/W Stadium Ave</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Operating While Intoxicated</td>
