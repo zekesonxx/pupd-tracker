@@ -1454,49 +1454,49 @@
         
                                                                                 
                                                     <a href="https://www.facebook.com/PurdueUniversity/" rel="noopener" target="_blank"><span class="sr-only">Facebook</span>
-                 <i class="fab fa-facebook" aria-hidden="true"></i>
+                 <i class="fa-brands fa-square-facebook" aria-hidden="true"></i>
                 </a>
                                 
                                  
         
                                                                                 
                                                     <a href="https://twitter.com/lifeatpurdue" rel="noopener" target="_blank"><span class="sr-only">Twitter</span>
-                 <i aria-hidden="true" class="fa-brands fa-x-twitter"></i>
+                 <i aria-hidden="true" class="fa-brands fa-square-x-twitter"></i>
                 </a>
                                 
                                  
         
                                                                                 
                                                     <a href="https://www.youtube.com/user/PurdueUniversity" rel="noopener" target="_blank"><span class="sr-only">YouTube</span>
-                 <i class="fab fa-youtube" aria-hidden="true"></i>
+                 <i class="fa-brands fa-square-youtube" aria-hidden="true"></i>
                 </a>
                                 
                                  
         
                                                                                 
                                                     <a href="https://www.instagram.com/lifeatpurdue/" rel="noopener" target="_blank"><span class="sr-only">Instagram</span>
-                 <i class="fab fa-instagram" aria-hidden="true"></i>
+                 <i class="fa-brands fa-square-instagram" aria-hidden="true"></i>
                 </a>
                                 
                                  
         
                                                                                 
                                                     <a href="https://www.pinterest.com/lifeatpurdue/" rel="noopener" target="_blank"><span class="sr-only">Pinterest</span>
-                 <i class="fab fa-pinterest" aria-hidden="true"></i>
+                 <i class="fa-brands fa-square-pinterest" aria-hidden="true"></i>
                 </a>
                                 
                                  
         
                                                                                 
                                                     <a href="https://www.snapchat.com/add/lifeatpurdue" rel="noopener" target="_blank"><span class="sr-only">Snapchat</span>
-                 <i class="fab fa-snapchat" aria-hidden="true"></i>
+                 <i class="fa-brands fa-square-snapchat" aria-hidden="true"></i>
                 </a>
                                 
                                  
         
                                                                                 
                                                     <a href="https://www.linkedin.com/edu/purdue-university-18357" rel="noopener" target="_blank"><span class="sr-only">LinkedIn</span>
-                 <i class="fab fa-linkedin" aria-hidden="true"></i>
+                 <i aria-hidden="true" class="fa-brands fa-linkedin"></i>
                 </a>
                             </div>
 </div>
