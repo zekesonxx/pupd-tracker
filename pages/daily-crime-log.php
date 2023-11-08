@@ -669,7 +669,50 @@
   
     	<section class="content__group">
   					<h3>Wednesday, November 8, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01619</td>
+<td width="168">11/6/23 9:22 AM</td>
+<td width="166">11/6/23 9:40 AM</td>
+<td width="223">Hagle Hall</td>
+<td width="199">Unfounded</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01629</td>
+<td width="168">11/6/23 7:00 PM</td>
+<td width="166">11/7/23 3:54 PM</td>
+<td width="223">Beering Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01630</td>
+<td width="168">11/6/23 12:00 PM</td>
+<td width="166">11/7/23 4:43 PM</td>
+<td width="223">Electrical Engineering Building</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01631</td>
+<td width="168">11/6/23 10:15 PM</td>
+<td width="166">11/8/23 12:25 AM</td>
+<td width="223">CoRec</td>
+<td width="199">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -724,7 +767,7 @@
 <td width="168">11/6/23 7:39 PM</td>
 <td width="166">11/6/23 8:21 PM</td>
 <td width="223">West State St/US HWY 231 S</td>
-<td width="199">Arrest Made</td>
+<td width="199"><span>This was Determined to be Outside Clery Reportable Geography. Nothing Further</span></td>
 </tr>
 <tr>
 <td width="187">Theft-EMPV</td>
@@ -1273,49 +1316,49 @@
         
                                                                                 
                                                     <a href="https://www.facebook.com/PurdueUniversity/" rel="noopener" target="_blank"><span class="sr-only">Facebook</span>
-                 <i class="fab fa-facebook" aria-hidden="true"></i>
+                 <i class="fa-brands fa-square-facebook" aria-hidden="true"></i>
                 </a>
                                 
                                  
         
                                                                                 
                                                     <a href="https://twitter.com/lifeatpurdue" rel="noopener" target="_blank"><span class="sr-only">Twitter</span>
-                 <i aria-hidden="true" class="fa-brands fa-x-twitter"></i>
+                 <i aria-hidden="true" class="fa-brands fa-square-x-twitter"></i>
                 </a>
                                 
                                  
         
                                                                                 
                                                     <a href="https://www.youtube.com/user/PurdueUniversity" rel="noopener" target="_blank"><span class="sr-only">YouTube</span>
-                 <i class="fab fa-youtube" aria-hidden="true"></i>
+                 <i class="fa-brands fa-square-youtube" aria-hidden="true"></i>
                 </a>
                                 
                                  
         
                                                                                 
                                                     <a href="https://www.instagram.com/lifeatpurdue/" rel="noopener" target="_blank"><span class="sr-only">Instagram</span>
-                 <i class="fab fa-instagram" aria-hidden="true"></i>
+                 <i class="fa-brands fa-square-instagram" aria-hidden="true"></i>
                 </a>
                                 
                                  
         
                                                                                 
                                                     <a href="https://www.pinterest.com/lifeatpurdue/" rel="noopener" target="_blank"><span class="sr-only">Pinterest</span>
-                 <i class="fab fa-pinterest" aria-hidden="true"></i>
+                 <i class="fa-brands fa-square-pinterest" aria-hidden="true"></i>
                 </a>
                                 
                                  
         
                                                                                 
                                                     <a href="https://www.snapchat.com/add/lifeatpurdue" rel="noopener" target="_blank"><span class="sr-only">Snapchat</span>
-                 <i class="fab fa-snapchat" aria-hidden="true"></i>
+                 <i class="fa-brands fa-square-snapchat" aria-hidden="true"></i>
                 </a>
                                 
                                  
         
                                                                                 
                                                     <a href="https://www.linkedin.com/edu/purdue-university-18357" rel="noopener" target="_blank"><span class="sr-only">LinkedIn</span>
-                 <i class="fab fa-linkedin" aria-hidden="true"></i>
+                 <i aria-hidden="true" class="fa-brands fa-linkedin"></i>
                 </a>
                             </div>
 </div>
