@@ -1027,7 +1027,7 @@
 <td width="168">9/10/23 3:02 AM</td>
 <td width="166">9/10/23 3:21 AM</td>
 <td width="223">Shreve Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Blackmail</td>

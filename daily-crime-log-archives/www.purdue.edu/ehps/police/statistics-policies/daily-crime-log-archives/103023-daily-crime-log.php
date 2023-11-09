@@ -707,7 +707,7 @@
 <td width="168">11/2/23 11:08 PM</td>
 <td width="166">11/2/23 11:23 PM</td>
 <td width="223">Herrick Labs</td>
-<td width="199">Under Investigation</td>
+<td width="199">Suspended</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>

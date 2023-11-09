@@ -1051,7 +1051,7 @@
 <td width="168">10/21/23 12:17 AM</td>
 <td width="166">10/21/23 12:41 AM</td>
 <td width="223">Aspire</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
