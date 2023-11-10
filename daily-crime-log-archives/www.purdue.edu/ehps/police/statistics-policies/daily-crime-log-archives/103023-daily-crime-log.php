@@ -815,7 +815,7 @@
 <td width="168">11/1/23 1:51 AM</td>
 <td width="166">11/1/23 2:53 AM</td>
 <td width="223">N McCutcheon Dr/3rd St</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 </tbody>
 </table>
