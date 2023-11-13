@@ -807,7 +807,7 @@
 <td width="168">11/6/23 12:00 PM</td>
 <td width="166">11/7/23 4:43 PM</td>
 <td width="223">Electrical Engineering Building</td>
-<td width="199">Under Investigation</td>
+<td width="199">Unfounded</td>
 </tr>
 <tr>
 <td width="187">Theft-EMPV</td>

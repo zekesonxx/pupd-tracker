@@ -683,7 +683,234 @@
   
     	<section class="content__group">
   					<h3>Monday, November 13, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01649</td>
+<td width="168">11/9/23 10:00 PM</td>
+<td width="166">11/10/23 6:50 AM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01650</td>
+<td width="168">11/10/23 10:52 AM</td>
+<td width="166">11/10/23 12:29 PM</td>
+<td width="223">International Center</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01654</td>
+<td width="168">11/10/23 10:39 PM</td>
+<td width="166">11/10/23 11:00 PM</td>
+<td width="223">Muinzer Apts</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01655</td>
+<td width="168">11/10/23 11:01 PM</td>
+<td width="166">11/10/23 11:21 PM</td>
+<td width="223">Kappa Delta</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01657</td>
+<td width="168">11/11/23 12:39 AM</td>
+<td width="166">11/11/23 12:59 AM</td>
+<td width="223">Kappa Delta</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01658</td>
+<td width="168">11/11/23 1:19 AM</td>
+<td width="166">11/11/23 1:34 AM</td>
+<td width="223">Cary Quad West</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Battery-Simple/Drug Law Violation/Public Intoxication</td>
+<td width="154">2023PU01661</td>
+<td width="168">11/11/23 6:54 PM</td>
+<td width="166">11/11/23 7:02 PM</td>
+<td width="223">1300 Blk John R Wooden Dr</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01662</td>
+<td width="168">11/11/23 7:09 PM</td>
+<td width="166">11/11/23 7:52 PM</td>
+<td width="223">First St Towers East</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Battery-Simple</td>
+<td width="154">2023PU01663</td>
+<td width="168">11/11/23 4:41 PM</td>
+<td width="166">11/11/23 8:00 PM</td>
+<td width="223">Ross-Ade Stadium</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01664</td>
+<td width="168">11/11/23 6:45 PM</td>
+<td width="166">11/11/23 8:10 PM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01666</td>
+<td width="168">11/11/23 11:52 PM</td>
+<td width="166">11/12/23 12:22 AM</td>
+<td width="223">Alpha XI Delta</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft-Vehicle</td>
+<td width="154">2023PU01667</td>
+<td width="168">11/12/23 2:20 AM</td>
+<td width="166">11/12/23 10:13 AM</td>
+<td width="223">Purdue Union Club Hotel</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01669</td>
+<td width="168">11/9/23 10:00 AM</td>
+<td width="166">11/13/23 1:40 AM</td>
+<td width="223">Lambertus Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Stalking</td>
+<td width="154">CSA</td>
+<td width="168">Unknown</td>
+<td width="166">11/10/23 3:15 PM</td>
+<td width="223">On-Campus Housing</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Drunk Driver</td>
+<td width="154">CAD# 2023-165713</td>
+<td width="168">11/9/23 5:24 PM</td>
+<td width="166">11/9/23 5:24 PM</td>
+<td width="223">US HWY 231 S/S Martin Jischke Dr</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>4 Disciplinary Referral</td>
+<td>10/21/23 12:20 AM</td>
+<td>10/21/23 2:38 AM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>3 Disciplinary Referral</td>
+<td>10/21/23 12:30 AM</td>
+<td>10/21/23 3:27 AM</td>
+<td>Earharth Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>5 Disciplinary Referral</td>
+<td>10/21/23 12:30 AM</td>
+<td>10/21/23 3:11 AM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>3 Disciplinary Referral</td>
+<td>10/22/23 1:29 AM</td>
+<td>10/22/23 2:36 AM</td>
+<td>Hawkins Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>10/26/23 7:45 PM</td>
+<td>10/26/23 9:08 PM</td>
+<td>First Street Towers</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>3 Disciplinary Referral</td>
+<td>10/27/23 1:50 AM</td>
+<td>10/27/23 2:27 AM</td>
+<td>McCutcheon Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>10/28/23 12:15 AM</td>
+<td>10/28/23 1:05 AM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>7 Disciplinary Referral</td>
+<td>10/29/23 1:15 AM</td>
+<td>10/29/23 2:13 AM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>10/29/23 1:30 AM</td>
+<td>10/29/23 2:23 AM</td>
+<td>Meredith South</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>4 Disciplinary Referral</td>
+<td>11/3/23 12:45 AM</td>
+<td>11/3/23 1:24 AM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>6 Disciplinary Referral</td>
+<td>11/4/23 12:45 AM</td>
+<td>11/4/23 2:00 AM</td>
+<td>Apire Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>6 Disciplinary Referral</td>
+<td>11/5/23 12:30 AM</td>
+<td>11/5/23 1:54 AM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
