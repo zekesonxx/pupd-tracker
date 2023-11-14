@@ -733,7 +733,7 @@
 <td width="168">11/8/23 11:30 AM</td>
 <td width="166">11/8/23 1:11 PM</td>
 <td width="223">Chaney Hale Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">Unfounded</td>
 </tr>
 <tr>
 <td width="187">Theft</td>
@@ -873,7 +873,7 @@
 <td width="168">11/6/23 7:39 PM</td>
 <td width="166">11/6/23 8:21 PM</td>
 <td width="223">West State St/US HWY 231 S</td>
-<td width="199"><span>This was Determined to be Outside Clery Reportable Geography. Nothing Further</span></td>
+<td width="199"><span>This was Determined to be Outside Clery Reportable Geography. Closed</span></td>
 </tr>
 <tr>
 <td width="187">Theft-EMPV</td>

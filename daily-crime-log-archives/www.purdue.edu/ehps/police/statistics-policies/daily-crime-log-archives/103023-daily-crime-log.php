@@ -715,7 +715,7 @@
 <td width="168">11/3/23 12:15 AM</td>
 <td width="166">11/3/23 12:43 AM</td>
 <td width="223">Delta Delta Delta</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
@@ -995,7 +995,7 @@
 <td width="168">10/28/23 9:02 PM</td>
 <td width="166">10/28/23 9:25 PM</td>
 <td width="223">Tarkington Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Aggravated Assault</td>
@@ -1043,7 +1043,7 @@
 <td width="168">10/29/23 3:40 AM</td>
 <td width="166">10/29/23 3:55 AM</td>
 <td width="223">Earhart Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 </tbody>
 </table>

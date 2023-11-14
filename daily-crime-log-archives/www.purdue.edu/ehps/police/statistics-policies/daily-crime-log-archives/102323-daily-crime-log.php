@@ -1083,7 +1083,7 @@
 <td width="168">10/22/23 1:27 AM</td>
 <td width="166">10/22/23 1:52 AM</td>
 <td width="223">Cary Quad</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft-EMPV</td>
