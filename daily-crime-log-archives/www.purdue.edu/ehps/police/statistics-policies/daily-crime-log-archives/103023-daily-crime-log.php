@@ -757,7 +757,7 @@
 <td style="font-weight: 400;" width="168">11/2/23 1:06 AM</td>
 <td style="font-weight: 400;" width="166">11/2/23 1:30 AM</td>
 <td style="font-weight: 400;" width="223">Mitch Daniels Blvd/ N MacArthur Dr</td>
-<td style="font-weight: 400;" width="199">Arrest Made</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Reckless Driver</td>

@@ -1179,7 +1179,7 @@
 <td style="font-weight: 400;" width="168">9/24/23 3:07 AM</td>
 <td style="font-weight: 400;" width="166">9/24/23 3:47 AM</td>
 <td style="font-weight: 400;" width="223">Tarkington Hall</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft-Vehicle (Golf Cart)/ Criminal Mischief</td>

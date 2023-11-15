@@ -669,7 +669,58 @@
   
     	<section class="content__group">
   					<h3>Wednesday, November 15, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01677</td>
+<td width="168">11/6/23 2:00 PM</td>
+<td width="166">11/14/23 7:28 AM</td>
+<td width="223">Rawls Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01678</td>
+<td width="168">11/12/23 1:58 AM</td>
+<td width="166">11/14/23 7:44 AM</td>
+<td width="223">Stanley Coulter Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Invasion of Privacy</td>
+<td width="154">2023PU01680</td>
+<td width="168">11/11/23 2:50 PM</td>
+<td width="166">11/14/23 2:52 PM</td>
+<td width="223">1200 Blk 1st St</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Hit &amp; Run</td>
+<td width="154">2023PU01681</td>
+<td width="168">11/14/23 11:59 AM</td>
+<td width="166">11/14/23 5:29 PM</td>
+<td width="223">Young Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01682</td>
+<td width="168">11/9/23 5:00 PM</td>
+<td width="166">11/14/23 7:16 PM</td>
+<td width="223">Wiley Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -774,7 +825,7 @@
 <td width="168">11/10/23 10:39 PM</td>
 <td width="166">11/10/23 11:00 PM</td>
 <td width="223">Muinzer Apts</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
@@ -782,7 +833,7 @@
 <td width="168">11/10/23 11:01 PM</td>
 <td width="166">11/10/23 11:21 PM</td>
 <td width="223">Kappa Delta</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
@@ -838,7 +889,7 @@
 <td width="168">11/11/23 11:52 PM</td>
 <td width="166">11/12/23 12:22 AM</td>
 <td width="223">Alpha XI Delta</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft-Vehicle</td>

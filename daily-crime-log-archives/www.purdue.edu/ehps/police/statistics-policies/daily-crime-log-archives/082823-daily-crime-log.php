@@ -1057,7 +1057,7 @@
 <td style="font-weight: 400;" width="168">8/28/23 6:00 AM</td>
 <td style="font-weight: 400;" width="166">8/28/23 1:46 PM</td>
 <td style="font-weight: 400;" width="223">Owen Hall</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft</td>
