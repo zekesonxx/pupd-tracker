@@ -662,7 +662,42 @@
   
     	<section class="content__group">
   					<h3>Thursday, November 16, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Battery-Simple</td>
+<td width="154">2023PU01683</td>
+<td width="168">11/15/23 11:26 AM</td>
+<td width="166">11/15/23 11:49 AM</td>
+<td width="223">Freida Parker Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01684</td>
+<td width="168">11/15/23 12:02 PM</td>
+<td width="166">11/15/23 1:04 PM</td>
+<td width="223">Hilltop</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Operating While Never Receiving</td>
+<td width="154">2023PU01686</td>
+<td width="168">11/15/23 9:50 PM</td>
+<td width="166">11/15/23 11:53 PM</td>
+<td width="223">US HWY 231 N/St Rd 26 W</td>
+<td width="199">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
