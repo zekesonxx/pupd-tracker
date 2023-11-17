@@ -655,7 +655,98 @@
   
     	<section class="content__group">
   					<h3>Friday, November 17, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespass</td>
+<td style="font-weight: 400;" width="154">2023PU01688</td>
+<td style="font-weight: 400;" width="168">11/16/23 12:33 PM</td>
+<td style="font-weight: 400;" width="166">11/16/23 1:06 PM</td>
+<td style="font-weight: 400;" width="223">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU01690</td>
+<td style="font-weight: 400;" width="168">11/15/23 8:00 PM</td>
+<td style="font-weight: 400;" width="166">11/16/23 2:18 PM</td>
+<td style="font-weight: 400;" width="223">Hilltop Apartments</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2023PU01692</td>
+<td style="font-weight: 400;" width="168">11/16/23 4:52 PM</td>
+<td style="font-weight: 400;" width="166">11/16/23 5:06 PM</td>
+<td style="font-weight: 400;" width="223">1100 Blk W Stadium Ave</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Public Intoxication/ Battery (Simple)</td>
+<td style="font-weight: 400;" width="154">2023PU01693</td>
+<td style="font-weight: 400;" width="168">11/16/23 5:17 PM</td>
+<td style="font-weight: 400;" width="166">11/16/23 5:48 PM</td>
+<td style="font-weight: 400;" width="223">Krannert Center</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01695</td>
+<td style="font-weight: 400;" width="168">11/17/23 12:20 AM</td>
+<td style="font-weight: 400;" width="166">11/17/23 12:45 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01696</td>
+<td style="font-weight: 400;" width="168">11/17/23 12:53 AM</td>
+<td style="font-weight: 400;" width="166">11/17/23 1:20 AM</td>
+<td style="font-weight: 400;" width="223">Meredith South</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2023PU01697</td>
+<td style="font-weight: 400;" width="168">11/17/23 1:20 AM</td>
+<td style="font-weight: 400;" width="166">11/17/23 1:31 AM</td>
+<td style="font-weight: 400;" width="223">N Russell St/ 2nd St</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2023WL02949</td>
+<td style="font-weight: 400;" width="168">11/16/23 1:42 AM</td>
+<td style="font-weight: 400;" width="166">11/16/23 4:03 AM</td>
+<td style="font-weight: 400;" width="223">Kappa Sigma</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2023WL02950</td>
+<td style="font-weight: 400;" width="168">11/16/23 1:42 AM</td>
+<td style="font-weight: 400;" width="166">11/16/23 4:03 AM</td>
+<td style="font-weight: 400;" width="223">Kappa Sigma</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-169434</td>
+<td style="font-weight: 400;" width="168">11/15/23 12:36 AM</td>
+<td style="font-weight: 400;" width="166">11/15/23 12:36 AM</td>
+<td style="font-weight: 400;" width="223">Slayter Hill</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
