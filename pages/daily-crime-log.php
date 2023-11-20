@@ -683,7 +683,114 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, November 20, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01698</td>
+<td width="168">11/17/23 7:23 AM</td>
+<td width="166">11/17/23 7:35 AM</td>
+<td width="223">Northwestern Parking Garage</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01699</td>
+<td width="168">11/17/23 7:00 AM</td>
+<td width="166">11/17/23 8:03 AM</td>
+<td width="223">Hilltop</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01702</td>
+<td width="168">11/17/23 11:28 AM</td>
+<td width="166">11/17/23 12:28 PM</td>
+<td width="223">Owen Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01705</td>
+<td width="168">11/17/23 7:18 PM</td>
+<td width="166">11/17/23 9:40 PM</td>
+<td width="223">Dudley Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01706</td>
+<td width="168">11/17/23 6:30 PM</td>
+<td width="166">11/17/23 10:40 PM</td>
+<td width="223">Hampton Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01707</td>
+<td width="168">11/17/23 6:30 PM</td>
+<td width="166">11/17/23 10:53 PM</td>
+<td width="223">Wetherill Chem Building</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation/Minor Consumption</td>
+<td width="154">2023PU01708</td>
+<td width="168">11/18/23 12:24 AM</td>
+<td width="166">11/18/23 12:42 AM</td>
+<td width="223">Harrison Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01709</td>
+<td width="168">11/18/23 2:50 AM</td>
+<td width="166">11/18/23 3:14 AM</td>
+<td width="223">Shealy Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01710</td>
+<td width="168">11/18/23 4:55 AM</td>
+<td width="166">11/18/23 5:18 AM</td>
+<td width="223">Earhart Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Trespassing</td>
+<td width="154">2023PU01711</td>
+<td width="168">11/18/23 11:27 PM</td>
+<td width="166">11/18/23 11:55 PM</td>
+<td width="223">Ross-Ade Stadium</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01713</td>
+<td width="168">11/19/23 1:00 AM</td>
+<td width="166">11/19/23 4:20 PM</td>
+<td width="223">300 Blk Waldron St</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01714</td>
+<td width="168">11/19/23 2:00 PM</td>
+<td width="166">11/19/23 11:11 PM</td>
+<td width="223">Bindley Bioscience Building</td>
+<td width="199">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

@@ -791,7 +791,7 @@
 <td width="168">9/27/23 2:01 AM</td>
 <td width="166">9/27/23 2:52 AM</td>
 <td width="223">US HWY 231 N/Cherry Ln</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Rape</td>

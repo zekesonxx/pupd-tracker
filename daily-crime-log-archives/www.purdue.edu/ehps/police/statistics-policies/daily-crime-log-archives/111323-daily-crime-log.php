@@ -815,7 +815,7 @@
 <td width="168">11/14/23 11:59 AM</td>
 <td width="166">11/14/23 5:29 PM</td>
 <td width="223">Young Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">Unfounded</td>
 </tr>
 <tr>
 <td width="187">Theft</td>
