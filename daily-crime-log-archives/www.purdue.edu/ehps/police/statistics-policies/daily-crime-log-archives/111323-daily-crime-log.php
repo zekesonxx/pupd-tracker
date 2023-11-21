@@ -683,7 +683,7 @@
 <td style="font-weight: 400;" width="168">11/17/23 12:20 AM</td>
 <td style="font-weight: 400;" width="166">11/17/23 12:45 AM</td>
 <td style="font-weight: 400;" width="223">Tarkington Hall</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Minor Consumption</td>

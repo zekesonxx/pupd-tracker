@@ -683,7 +683,7 @@
 <td style="font-weight: 400;" width="168">10/26/23 11:11 PM</td>
 <td style="font-weight: 400;" width="166">10/26/23 11:31 PM</td>
 <td style="font-weight: 400;" width="223">Shreve Hall</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Criminal Mischief</td>

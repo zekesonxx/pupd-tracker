@@ -676,7 +676,66 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, November 21, 2023</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Hit &amp; Run</td>
+<td width="154">2023PU01715</td>
+<td width="168">11/20/23 4:23 PM</td>
+<td width="166">11/20/23 4:45 PM</td>
+<td width="223">CoRec</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Burglary</td>
+<td width="154">2023PU01716</td>
+<td width="168">11/20/23 9:05 PM</td>
+<td width="166">11/20/23 9:50 PM</td>
+<td width="223">Acacia Fraternity</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01718</td>
+<td width="168">11/20/23 9:51 PM</td>
+<td width="166">11/20/23 9:52 PM</td>
+<td width="223">Beta Sigma PSI</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01719</td>
+<td width="168">11/20/23 9:51 PM</td>
+<td width="166">11/20/23 10:10 PM</td>
+<td width="223">Owen Hall</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD#2023-170470</td>
+<td width="168">11/17/23 10:23 PM</td>
+<td width="166">11/17/23 10:23 PM</td>
+<td width="223">University St Parking Garage</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD#2023-170471</td>
+<td width="168">11/17/23 10:26 PM</td>
+<td width="166">11/17/23 10:26 PM</td>
+<td width="223">McCutcheon Parking Garage</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

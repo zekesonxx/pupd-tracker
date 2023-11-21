@@ -955,7 +955,7 @@
 <td width="168">10/27/23 11:56 PM</td>
 <td width="166">10/28/23 12:23 AM</td>
 <td width="223">Shreve Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Drug Law Violation</td>
