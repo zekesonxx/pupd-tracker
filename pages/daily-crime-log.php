@@ -655,21 +655,21 @@
   
     	<section class="content__group">
   					<h3>Friday, November 24, 2023</h3>
-Will be posted soon.
+Thanksgiving Break.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
   					<h3>Thursday, November 23, 2023</h3>
-Will be posted soon.
+Thanksgiving Break.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
   					<h3>Wednesday, November 22, 2023</h3>
-Will be posted soon.
+Nothing to report.
 		</section>
 	
           <div class="clearfix"></div>
@@ -806,7 +806,7 @@ Will be posted soon.
 <td width="168">11/18/23 12:24 AM</td>
 <td width="166">11/18/23 12:42 AM</td>
 <td width="223">Harrison Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
@@ -814,7 +814,7 @@ Will be posted soon.
 <td width="168">11/18/23 2:50 AM</td>
 <td width="166">11/18/23 3:14 AM</td>
 <td width="223">Shealy Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
@@ -833,7 +833,7 @@ Will be posted soon.
 <td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
-<td width="187">Theft</td>
+<td width="187">Theft/Drug Law Violation</td>
 <td width="154">2023PU01713</td>
 <td width="168">11/19/23 1:00 AM</td>
 <td width="166">11/19/23 4:20 PM</td>
