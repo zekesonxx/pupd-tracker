@@ -683,7 +683,98 @@
   
     	<section class="content__group">
   					<h3>Monday, November 27, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Harassment</td>
+<td width="154">2023PU01723</td>
+<td width="168">11/22/23 9:05 AM</td>
+<td width="166">11/22/23 9:07 AM</td>
+<td width="223">Hovde Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Trespassing</td>
+<td width="154">2023PU01724</td>
+<td width="168">11/22/23 4:58 PM</td>
+<td width="166">11/22/23 5:34 PM</td>
+<td width="223">Wilmeth Active Learning Center</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01725</td>
+<td width="168">11/18/23 8:20 PM</td>
+<td width="166">11/24/23 2:16 PM</td>
+<td width="223">Turf Recreation Exercise Center</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01726</td>
+<td width="168">11/24/23 3:06 PM</td>
+<td width="166">11/24/23 3:06 PM</td>
+<td width="223">Duhme Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Driving While Suspended</td>
+<td width="154">2023PU01727</td>
+<td width="168">11/24/23 10:00 PM</td>
+<td width="166">11/24/23 10:33 PM</td>
+<td width="223">1200 Blk 1st St</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Public Intoxication</td>
+<td width="154">2023PU01729</td>
+<td width="168">11/25/23 3:16 PM</td>
+<td width="166">11/25/23 3:16 PM</td>
+<td width="223">Ross-Ade Stadium</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01730</td>
+<td width="168">11/25/23 4:05 PM</td>
+<td width="166">11/25/23 4:20 PM</td>
+<td width="223">Hilltop</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Public Intoxication</td>
+<td width="154">2023PU01731</td>
+<td width="168">11/25/23 5:01 PM</td>
+<td width="166">11/25/23 5:37 PM</td>
+<td width="223">Daniel Turfgrass Research &amp; Diagnostic Center</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01737</td>
+<td width="168">11/26/23 9:50 PM</td>
+<td width="166">11/26/23 11:26 PM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Operating While Never Receiving</td>
+<td width="154">2023PU01738</td>
+<td width="168">11/25/23 10:50 PM</td>
+<td width="166">11/25/23 11:39 PM</td>
+<td width="223">N Macarthur Dr/Mitch Daniels Blvd</td>
+<td width="199">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

@@ -723,7 +723,7 @@
 <td width="168">11/3/23 12:41 AM</td>
 <td width="166">11/3/23 1:03 AM</td>
 <td width="223">Earhart Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 </tbody>
 </table>
