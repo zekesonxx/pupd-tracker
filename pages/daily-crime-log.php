@@ -676,7 +676,146 @@
   
     	<section class="content__group">
   					<h3>Tuesday, November 28, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01739</td>
+<td width="168">11/25/23 9:00 PM</td>
+<td width="166">11/27/23 10:55 AM</td>
+<td width="223">Owen Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Public Intoxication</td>
+<td width="154">CAD# 2023-173860</td>
+<td width="168">11/25/23 2:33 PM</td>
+<td width="166">11/25/23 2:33 PM</td>
+<td width="223">Evans Scholars Cooperative House</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Drunk Driver</td>
+<td width="154">CAD# 2023-173981</td>
+<td width="168">11/25/23 5:59 PM</td>
+<td width="166">11/25/23 5:59 PM</td>
+<td width="223">200 Blk S Martin Jischke Dr</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>9 Disciplinary Referral</td>
+<td>11/10/23 10:15 PM</td>
+<td>11/10/23 11:03 PM</td>
+<td>Hilltop Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>7 Disciplinary Referral</td>
+<td>11/11/23 10:00 PM</td>
+<td>11/11/23 11:44 PM</td>
+<td>Aspire Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>11/11/23 10:15 PM</td>
+<td>11/11/23 10:41 PM</td>
+<td>McCutcheon Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>3 Disciplinary Referral</td>
+<td>11/11/23 10:57 PM</td>
+<td>11/11/23 11:37 PM</td>
+<td>Hilltop Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>6 Disciplinary Referral</td>
+<td>11/11/23 11:00 PM</td>
+<td>11/11/23 11:24 PM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>6 Disciplinary Referral</td>
+<td>11/12/23 12:27 AM</td>
+<td>11/12/23 1:03 AM</td>
+<td>Hilltop Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>11/17/23 11:00 AM</td>
+<td>11/17/23 3:47 PM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>8 Disciplinary Referra</td>
+<td>11/17/23 10:00 PM</td>
+<td>11/27/23 8:52 AM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>4 Disciplinary Referral</td>
+<td>11/18/23 12:15 AM</td>
+<td>11/18/23 1:25 AM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>11/18/23 2:25 AM</td>
+<td>11/18/23 3:07 AM</td>
+<td>McCutcheon Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>11/18/23 12:25 AM</td>
+<td>11/18/23 3:07 AM</td>
+<td>Harrison Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>11/18/23 12:25 AM</td>
+<td>11/18/23 3:07 AM</td>
+<td>Harrison Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>11/20/23 9:45 PM</td>
+<td>11/20/23 10:28 PM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -699,7 +838,7 @@
 <td width="168">11/22/23 9:05 AM</td>
 <td width="166">11/22/23 9:07 AM</td>
 <td width="223">Hovde Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="187">Trespassing</td>
