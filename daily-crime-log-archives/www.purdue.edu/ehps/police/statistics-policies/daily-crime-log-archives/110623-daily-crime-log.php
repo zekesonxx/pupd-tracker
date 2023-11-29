@@ -691,7 +691,7 @@
 <td width="168">11/10/23 2:19 AM</td>
 <td width="166">11/10/23 3:17 AM</td>
 <td width="223">University Church</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Reckless Driver</td>

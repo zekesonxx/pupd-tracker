@@ -1059,7 +1059,7 @@
 <td width="168">10/21/23 1:03 AM</td>
 <td width="166">10/21/23 1:20 AM</td>
 <td width="223">Tarkington Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Fraud</td>
@@ -1099,7 +1099,7 @@
 <td width="168">10/22/23 11:08 PM</td>
 <td width="166">10/22/23 11:28 PM</td>
 <td width="223">Shreve Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft-Bike</td>

@@ -669,7 +669,58 @@
   
     	<section class="content__group">
   					<h3>Wednesday, November 29, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2023PU01741</td>
+<td width="168">11/28/23 11:19 AM</td>
+<td width="166">11/28/23 11:55 AM</td>
+<td width="223">Krannert</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01742</td>
+<td width="168">11/28/23 1:37 PM</td>
+<td width="166">11/28/23 2:43 PM</td>
+<td width="223">Stone Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01743</td>
+<td width="168">11/19/23 6:30 PM</td>
+<td width="166">11/28/23 3:03 PM</td>
+<td width="223">Frieda Parker Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td>Fraud</td>
+<td>2023PU01744</td>
+<td>11/28/23 10:30 AM</td>
+<td>11/28/23 4:01 PM</td>
+<td>Warren Hall</td>
+<td>Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Stalking</td>
+<td width="154">CSA</td>
+<td width="168">11/27/23 12:00 PM</td>
+<td width="166">11/27/23 1:00 PM</td>
+<td width="223">On-Campus Location</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

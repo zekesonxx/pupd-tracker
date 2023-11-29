@@ -749,7 +749,7 @@
 <td width="168">11/15/23 11:26 AM</td>
 <td width="166">11/15/23 11:49 AM</td>
 <td width="223">Freida Parker Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft-Bike</td>
