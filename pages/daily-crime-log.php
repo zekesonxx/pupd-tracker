@@ -662,7 +662,42 @@
   
     	<section class="content__group">
   					<h3>Thursday, November 30, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU01748</td>
+<td style="font-weight: 400;" width="168">11/17/23 9:22 AM</td>
+<td style="font-weight: 400;" width="166">11/29/23 10:12 AM</td>
+<td style="font-weight: 400;" width="223">Knoy Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU01749</td>
+<td style="font-weight: 400;" width="168">11/28/23 5:30 PM</td>
+<td style="font-weight: 400;" width="166">11/29/23 10:21 AM</td>
+<td style="font-weight: 400;" width="223">Earhart Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Dating Violence</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">Unknown</td>
+<td style="font-weight: 400;" width="166">11/29/23 1:59 PM</td>
+<td style="font-weight: 400;" width="223">Unknown Campus Location</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -889,7 +924,7 @@
 <td width="168">11/22/23 9:05 AM</td>
 <td width="166">11/22/23 9:07 AM</td>
 <td width="223">Hovde Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Under Investigation</td>
 </tr>
 <tr>
 <td width="187">Trespassing</td>

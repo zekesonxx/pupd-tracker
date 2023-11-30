@@ -955,7 +955,7 @@
 <td width="168">11/11/23 1:19 AM</td>
 <td width="166">11/11/23 1:34 AM</td>
 <td width="223">Cary Quad West</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Battery-Simple/Drug Law Violation/Public Intoxication</td>
@@ -963,7 +963,7 @@
 <td width="168">11/11/23 6:54 PM</td>
 <td width="166">11/11/23 7:02 PM</td>
 <td width="223">1300 Blk John R Wooden Dr</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Drug Law Violation</td>
@@ -979,7 +979,7 @@
 <td width="168">11/11/23 4:41 PM</td>
 <td width="166">11/11/23 8:00 PM</td>
 <td width="223">Ross-Ade Stadium</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Criminal Mischief</td>
@@ -1003,7 +1003,7 @@
 <td width="168">11/12/23 2:20 AM</td>
 <td width="166">11/12/23 10:13 AM</td>
 <td width="223">Purdue Union Club Hotel</td>
-<td width="199">Under Investigation</td>
+<td width="199">Suspended</td>
 </tr>
 <tr>
 <td width="187">Theft</td>

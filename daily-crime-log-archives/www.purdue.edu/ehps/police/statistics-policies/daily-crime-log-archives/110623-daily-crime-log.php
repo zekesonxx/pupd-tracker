@@ -987,7 +987,7 @@
 <td width="168">11/5/23 1:03 AM</td>
 <td width="166">11/5/23 1:22 AM</td>
 <td width="223">Tarkington Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft-EMPV</td>
