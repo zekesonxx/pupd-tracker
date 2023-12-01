@@ -754,7 +754,7 @@ Nothing to report.
 <td width="168">11/17/23 11:28 AM</td>
 <td width="166">11/17/23 12:28 PM</td>
 <td width="223">Owen Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft-Bike</td>
@@ -802,7 +802,7 @@ Nothing to report.
 <td width="168">11/18/23 4:55 AM</td>
 <td width="166">11/18/23 5:18 AM</td>
 <td width="223">Earhart Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Trespassing</td>

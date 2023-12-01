@@ -699,7 +699,7 @@
 <td style="font-weight: 400;" width="168">11/17/23 1:20 AM</td>
 <td style="font-weight: 400;" width="166">11/17/23 1:31 AM</td>
 <td style="font-weight: 400;" width="223">N Russell St/ 2nd St</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Drug Law Violation</td>
