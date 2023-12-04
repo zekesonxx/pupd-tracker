@@ -786,7 +786,7 @@
 <td width="199">Under Investigation</td>
 </tr>
 <tr>
-<td width="187">Theft</td>
+<td width="187">Burglary</td>
 <td width="154">2023PU01743</td>
 <td width="168">11/19/23 6:30 PM</td>
 <td width="166">11/28/23 3:03 PM</td>

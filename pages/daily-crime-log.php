@@ -683,7 +683,178 @@
   
     	<section class="content__group">
   					<h3>Monday, December 4, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Child Porn</td>
+<td width="154">2023PU01758</td>
+<td width="168">11/30/23 7:20 PM</td>
+<td width="166">11/30/23 7:25 PM</td>
+<td width="223">205 S Martin Jischke Dr</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Burglary</td>
+<td width="154">2023PU01762</td>
+<td width="168">11/25/23 12:00 AM</td>
+<td width="166">12/1/23 12:56 PM</td>
+<td width="223">Freida Parker Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Battery-Simple</td>
+<td width="154">2023PU01764</td>
+<td width="168">12/1/23 10:30 PM</td>
+<td width="166">12/1/23 11:10 PM</td>
+<td width="223">Chaney Hale Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01765</td>
+<td width="168">12/1/23 10:41 PM</td>
+<td width="166">12/1/23 11:11 PM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01766</td>
+<td width="168">12/2/23 12:23 AM</td>
+<td width="166">12/2/23 12:57 AM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01767</td>
+<td width="168">12/2/23 1:01 AM</td>
+<td width="166">12/2/23 1:19 AM</td>
+<td width="223">West Stadium Ave/N Russell St</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01768</td>
+<td width="168">12/2/23 1:49 AM</td>
+<td width="166">12/2/23 2:14 AM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01769</td>
+<td width="168">12/2/23 2:16 AM</td>
+<td width="166">12/2/23 2:29 AM</td>
+<td width="223">Agricultural &amp; Biological Engineering Building</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01770</td>
+<td width="168">12/1/23 10:40 PM</td>
+<td width="166">12/2/23 2:48 AM</td>
+<td width="223">Earhart Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Battery-Simple/Disorderly Conduct/Minor Consumption</td>
+<td width="154">2023PU01771</td>
+<td width="168">12/2/23 3:44 AM</td>
+<td width="166">12/2/23 4:30 AM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01772</td>
+<td width="168">12/2/23 6:44 AM</td>
+<td width="166">12/2/23 7:49 AM</td>
+<td width="223">Wilmeth Active Learning Center</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01773</td>
+<td width="168">12/2/23 7:13 PM</td>
+<td width="166">12/2/23 9:40 PM</td>
+<td width="223">Aspire</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01774</td>
+<td width="168">12/3/23 12:29 AM</td>
+<td width="166">12/3/23 12:51 AM</td>
+<td width="223">1100 Blk Northwestern Ave</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated</td>
+<td width="154">2023PU01775</td>
+<td width="168">12/3/23 12:41 AM</td>
+<td width="166">12/3/23 1:29 AM</td>
+<td width="223">Northwestern Ave/Grant St</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01776</td>
+<td width="168">12/3/23 1:33 AM</td>
+<td width="166">12/3/23 1:50 AM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01777</td>
+<td width="168">12/3/23 2:09 AM</td>
+<td width="166">12/3/23 2:23 AM</td>
+<td width="223">Meredith Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01778</td>
+<td width="168">12/3/23 5:33 AM</td>
+<td width="166">12/3/23 5:52 AM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2023PU01779</td>
+<td width="168">12/3/23 12:09 AM</td>
+<td width="166">12/3/23 9:55 AM</td>
+<td width="223">Wetherill Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Trespassing/Theft</td>
+<td width="154">2023PU01781</td>
+<td width="168">12/4/23 5:07 AM</td>
+<td width="166">12/4/23 5:47 AM</td>
+<td width="223">Ross-Ade Stadium</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Fondling</td>
+<td width="154">CSA</td>
+<td width="168">10/14/23 12:00 AM</td>
+<td width="166">12/1/23 11:00 AM</td>
+<td width="223">On-Campus Housing</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
