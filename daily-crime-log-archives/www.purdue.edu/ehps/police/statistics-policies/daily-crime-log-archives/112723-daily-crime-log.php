@@ -791,7 +791,7 @@
 <td width="168">11/19/23 6:30 PM</td>
 <td width="166">11/28/23 3:03 PM</td>
 <td width="223">Frieda Parker Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td>Fraud</td>

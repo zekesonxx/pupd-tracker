@@ -676,7 +676,90 @@
   
     	<section class="content__group">
   					<h3>Tuesday, December 5, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2023PU01783</td>
+<td style="font-weight: 400;" width="168">12/3/23 1:50 AM</td>
+<td style="font-weight: 400;" width="166">12/4/23 11:56 AM</td>
+<td style="font-weight: 400;" width="223">Acacia Fraternity</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2023PU01784</td>
+<td style="font-weight: 400;" width="168">12/4/23 1:02 PM</td>
+<td style="font-weight: 400;" width="166">12/4/23 1:40 PM</td>
+<td style="font-weight: 400;" width="223">Harrison Hall</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2023PU01786</td>
+<td style="font-weight: 400;" width="168">12/4/23 3:43 PM</td>
+<td style="font-weight: 400;" width="166">12/4/23 3:56 PM</td>
+<td style="font-weight: 400;" width="223">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU01787</td>
+<td style="font-weight: 400;" width="168">12/3/23 9:00 PM</td>
+<td style="font-weight: 400;" width="166">12/4/23 4:16 PM</td>
+<td style="font-weight: 400;" width="223">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU01788</td>
+<td style="font-weight: 400;" width="168">12/4/23 6:57 PM</td>
+<td style="font-weight: 400;" width="166">12/4/23 7:03 PM</td>
+<td style="font-weight: 400;" width="223">CoRec</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU01789</td>
+<td style="font-weight: 400;" width="168">12/2/23 8:20 PM</td>
+<td style="font-weight: 400;" width="166">12/4/23 9:05 PM</td>
+<td style="font-weight: 400;" width="223">Meredith South Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespassing</td>
+<td style="font-weight: 400;" width="154">2023PU01791</td>
+<td style="font-weight: 400;" width="168">12/5/23 2:30 AM</td>
+<td style="font-weight: 400;" width="166">12/5/23 2:46 AM</td>
+<td style="font-weight: 400;" width="223">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-178027</td>
+<td style="font-weight: 400;" width="168">12/2/23 10:38 PM</td>
+<td style="font-weight: 400;" width="166">12/2/23 10:38 PM</td>
+<td style="font-weight: 400;" width="223">Meredith Hall</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-178297</td>
+<td style="font-weight: 400;" width="168">12/3/23 12:31 PM</td>
+<td style="font-weight: 400;" width="166">12/3/23 12:31 PM</td>
+<td style="font-weight: 400;" width="223">Provenance</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
