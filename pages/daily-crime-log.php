@@ -669,7 +669,42 @@
   
     	<section class="content__group">
   					<h3>Wednesday, December 6, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01792</td>
+<td width="168">12/5/23 9:03 AM</td>
+<td width="166">12/5/23 12:16 PM</td>
+<td width="223">Earhart Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01793</td>
+<td width="168">12/5/23 3:41 PM</td>
+<td width="166">12/5/23 4:07 PM</td>
+<td width="223">Owen Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01795</td>
+<td width="168">12/5/23 8:39 PM</td>
+<td width="166">12/5/23 8:49 PM</td>
+<td width="223">CoRec</td>
+<td width="199">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -854,7 +889,7 @@
 <td width="168">12/2/23 3:44 AM</td>
 <td width="166">12/2/23 4:30 AM</td>
 <td width="223">Shreve Hall</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
@@ -862,7 +897,7 @@
 <td width="168">12/2/23 6:44 AM</td>
 <td width="166">12/2/23 7:49 AM</td>
 <td width="223">Wilmeth Active Learning Center</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft</td>
@@ -878,7 +913,7 @@
 <td width="168">12/3/23 12:29 AM</td>
 <td width="166">12/3/23 12:51 AM</td>
 <td width="223">1100 Blk Northwestern Ave</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Operating While Intoxicated</td>

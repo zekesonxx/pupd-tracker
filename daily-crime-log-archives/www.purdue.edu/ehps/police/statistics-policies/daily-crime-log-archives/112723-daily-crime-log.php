@@ -667,7 +667,7 @@
 <td width="168">11/30/23 1:28 PM</td>
 <td width="166">11/30/23 2:08 PM</td>
 <td width="223">Stewart Center</td>
-<td width="199">Under Investigation</td>
+<td width="199">Suspended</td>
 </tr>
 <tr>
 <td width="187">Burglary</td>
