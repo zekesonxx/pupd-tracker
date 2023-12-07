@@ -979,7 +979,7 @@
 <td width="168">11/22/23 9:05 AM</td>
 <td width="166">11/22/23 9:07 AM</td>
 <td width="223">Hovde Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="187">Trespassing</td>

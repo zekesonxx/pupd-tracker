@@ -662,7 +662,42 @@
   
     	<section class="content__group">
   					<h3>Thursday, December 7, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2023PU01799</td>
+<td width="168">12/2/23 6:00 PM</td>
+<td width="166">12/6/23 8:09 AM</td>
+<td width="223">Hawkins Graduate House</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01801</td>
+<td width="168">12/1/23 11:51 AM</td>
+<td width="166">12/6/23 11:14 AM</td>
+<td width="223">Continuum</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01803</td>
+<td width="168">12/6/23 4:42 PM</td>
+<td width="166">12/6/23 4:50 PM</td>
+<td width="223">Heavilon Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
