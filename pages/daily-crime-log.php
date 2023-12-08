@@ -655,7 +655,50 @@
   
     	<section class="content__group">
   					<h3>Friday, December 8, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU01805</td>
+<td style="font-weight: 400;" width="168">12/6/23 9:05 AM</td>
+<td style="font-weight: 400;" width="166">12/7/23 7:16 AM</td>
+<td style="font-weight: 400;" width="223">Lambertus Hall</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2023PU01806</td>
+<td style="font-weight: 400;" width="168">12/7/23 6:20 AM</td>
+<td style="font-weight: 400;" width="166">12/7/23 9:55 AM</td>
+<td style="font-weight: 400;" width="223">CoRec</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2023PU01809</td>
+<td style="font-weight: 400;" width="168">12/7/23 1:28 PM</td>
+<td style="font-weight: 400;" width="166">12/7/23 4:45 PM</td>
+<td style="font-weight: 400;" width="223">Lambertus Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-180144</td>
+<td style="font-weight: 400;" width="168">12/6/23 11:03 PM</td>
+<td style="font-weight: 400;" width="166">12/6/23 11:03 PM</td>
+<td style="font-weight: 400;" width="223">Owen Hall</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -847,12 +890,12 @@
 <th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
 </tr>
 <tr>
-<td width="187">Child Porn</td>
+<td width="187">Assisting Another Agency</td>
 <td width="154">2023PU01758</td>
 <td width="168">11/30/23 7:20 PM</td>
 <td width="166">11/30/23 7:25 PM</td>
-<td width="223">205 S Martin Jischke Dr</td>
-<td width="199">Under Investigation</td>
+<td width="223">700 Blk Northwestern Ave</td>
+<td width="199">This was determined to be outside Clery reportable geography</td>
 </tr>
 <tr>
 <td width="187">Burglary</td>
@@ -988,7 +1031,7 @@
 <td width="168">12/3/23 12:09 AM</td>
 <td width="166">12/3/23 9:55 AM</td>
 <td width="223">Wetherill Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="187">Trespassing/Theft</td>
