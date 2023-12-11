@@ -683,7 +683,106 @@
   
     	<section class="content__group">
   					<h3>Monday, December 11, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Stalking</td>
+<td width="154">2023PU01811</td>
+<td width="168">12/8/23 9:30 AM</td>
+<td width="166">12/8/23 12:32 PM</td>
+<td width="223">CoRec</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2023PU01813</td>
+<td width="168">12/8/23 10:00 PM</td>
+<td width="166">12/8/23 10:24 PM</td>
+<td width="223">Cary Quad East</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated</td>
+<td width="154">2023PU01815</td>
+<td width="168">12/9/23 12:42 AM</td>
+<td width="166">12/9/23 2:19 AM</td>
+<td width="223">S River Rd/US HWY 231 S</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01816</td>
+<td width="168">12/5/23 12:00 PM</td>
+<td width="166">12/9/23 5:45 PM</td>
+<td width="223">Northwestern Parking Garage</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2023PU01817</td>
+<td width="168">12/10/23 12:00 AM</td>
+<td width="166">12/10/23 12:54 AM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated</td>
+<td width="154">2023PU01819</td>
+<td width="168">12/10/23 3:00 AM</td>
+<td width="166">12/10/23 3:19 AM</td>
+<td width="223">1000 Blk S River Rd</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated</td>
+<td width="154">2023PU01820</td>
+<td width="168">12/10/23 4:20 AM</td>
+<td width="166">12/10/23 4:44 AM</td>
+<td width="223">S River Rd/US HWY 231 S</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01822</td>
+<td width="168">12/9/23 2:30 PM</td>
+<td width="166">12/10/23 3:07 PM</td>
+<td width="223">Aspire</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2023PU01823</td>
+<td width="168">12/10/23 10:24 AM</td>
+<td width="166">12/10/23 3:31 PM</td>
+<td width="223">Harrison Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD# 2023-180597</td>
+<td width="168">12/7/23 7:15 PM</td>
+<td width="166">12/7/23 7:15 PM</td>
+<td width="223">McCutcheon Hall</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD# 2023-180728</td>
+<td width="168">12/7/23 11:21 PM</td>
+<td width="166">12/7/23 11:21 PM</td>
+<td width="223">Aspire</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
