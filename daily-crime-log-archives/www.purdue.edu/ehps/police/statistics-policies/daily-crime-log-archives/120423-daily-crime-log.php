@@ -907,7 +907,7 @@
 <td width="168">12/2/23 12:23 AM</td>
 <td width="166">12/2/23 12:57 AM</td>
 <td width="223">Tarkington Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
@@ -987,7 +987,7 @@
 <td width="168">12/3/23 1:33 AM</td>
 <td width="166">12/3/23 1:50 AM</td>
 <td width="223">Shreve Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
@@ -1003,7 +1003,7 @@
 <td width="168">12/3/23 5:33 AM</td>
 <td width="166">12/3/23 5:52 AM</td>
 <td width="223">Shreve Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft-EMPV</td>

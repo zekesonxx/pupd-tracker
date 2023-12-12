@@ -1019,7 +1019,7 @@
 <td width="168">11/25/23 3:16 PM</td>
 <td width="166">11/25/23 3:16 PM</td>
 <td width="223">Ross-Ade Stadium</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Criminal Mischief</td>

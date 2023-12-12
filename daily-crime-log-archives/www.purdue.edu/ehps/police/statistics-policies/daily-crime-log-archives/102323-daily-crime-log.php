@@ -961,7 +961,7 @@
 <td width="168">10/24/23 12:07 AM</td>
 <td width="166">10/24/23 12:29 AM</td>
 <td width="223">Cary Quad West</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Drug Law Violation</td>

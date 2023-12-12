@@ -947,7 +947,7 @@
 <td width="168">11/11/23 12:39 AM</td>
 <td width="166">11/11/23 12:59 AM</td>
 <td width="223">Kappa Delta</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>

@@ -915,7 +915,7 @@
 <td width="168">10/14/23 1:07 PM</td>
 <td width="166">10/14/23 1:37 PM</td>
 <td width="223">Dodge St/Northwestern Ave</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft</td>
