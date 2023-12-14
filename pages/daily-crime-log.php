@@ -662,7 +662,114 @@
   
     	<section class="content__group">
   					<h3>Thursday, December 14, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<td width="187">Nature</td>
+<td width="154">Case Number</td>
+<td width="168">Date/Time Occurred</td>
+<td width="166">Date/Time Reported</td>
+<td width="223">General Location</td>
+<td width="199">Disposition&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2023-183189</td>
+<td style="font-weight: 400;" width="168">12/12/23 9:41 PM</td>
+<td style="font-weight: 400;" width="166">12/12/23 9:41 PM</td>
+<td style="font-weight: 400;" width="223">Honors College North</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">2 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">11/25/23 10:30 PM</td>
+<td style="font-weight: 400;" width="166">11/25/23 11:11 PM</td>
+<td style="font-weight: 400;" width="223">Earhart Hall</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">11/25/23 10:30 PM</td>
+<td style="font-weight: 400;" width="166">11/25/23 11:23 PM</td>
+<td style="font-weight: 400;" width="223">Owen Hall</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">11/26/23 12:30PM</td>
+<td style="font-weight: 400;" width="166">11/26/23 1:03 PM</td>
+<td style="font-weight: 400;" width="223">Harrison Hall</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">12/1/23 10:35 PM</td>
+<td style="font-weight: 400;" width="166">12/2/23 12:24 AM</td>
+<td style="font-weight: 400;" width="223">Shreve Hall</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">4 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">12/2/23 2:15 AM</td>
+<td style="font-weight: 400;" width="166">12/2/23 2:47 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">2 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">12/2/23 3:00 AM</td>
+<td style="font-weight: 400;" width="166">12/2/23 7:05 AM</td>
+<td style="font-weight: 400;" width="223">Shreve Hall</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">9 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">12/7/23 10:00 PM</td>
+<td style="font-weight: 400;" width="166">12/7/23 10:56 PM</td>
+<td style="font-weight: 400;" width="223">Owen Hall</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">4 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">12/8/23 10:00 PM</td>
+<td style="font-weight: 400;" width="166">12/9/23 2:56 AM</td>
+<td style="font-weight: 400;" width="223">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">6 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">12/8/23 11:15 PM</td>
+<td style="font-weight: 400;" width="166">12/9/23 12:32 AM</td>
+<td style="font-weight: 400;" width="223">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">7 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">12/8/23 11:30 PM</td>
+<td style="font-weight: 400;" width="166">12/9/23 1:36 AM</td>
+<td style="font-weight: 400;" width="223">Aspire Apts</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="154">4 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="168">12/9/23 12:45 AM</td>
+<td style="font-weight: 400;" width="166">12/9/23 1:52 AM</td>
+<td style="font-weight: 400;" width="223">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="199">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
