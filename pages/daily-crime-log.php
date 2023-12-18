@@ -683,7 +683,66 @@
   
     	<section class="content__group">
   					<h3>Monday, December 18, 2023</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Operating Without Ever Receiving a License</td>
+<td width="154">2023PU01838</td>
+<td width="168">12/15/23 12:10 PM</td>
+<td width="166">12/15/23 12:43 PM</td>
+<td width="223">S Martin Jischke Dr/US HWY 231 S</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01839</td>
+<td width="168">12/14/23 6:00 PM</td>
+<td width="166">12/15/23 5:25 PM</td>
+<td width="223">Harrison Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Trespassing</td>
+<td width="154">2023PU01840</td>
+<td width="168">12/16/23 1:25 AM</td>
+<td width="166">12/16/23 1:45 AM</td>
+<td width="223">Ross-Ade Stadium</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2023PU01841</td>
+<td width="168">12/17/23 1:04 AM</td>
+<td width="166">12/17/23 1:42 AM</td>
+<td width="223">Wiley Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Trespassing</td>
+<td width="154">2023PU01843</td>
+<td width="168">12/18/23 2:58 AM</td>
+<td width="166">12/18/23 3:23 AM</td>
+<td width="223">Rawls Hall</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Rape</td>
+<td width="154">CSA</td>
+<td width="168">12/8/23 12:00 AM</td>
+<td width="166">12/15/23 11:22 AM</td>
+<td width="223">600 Blk Waldron St</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
