@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			121823 Daily Crime Log - 
+			010124 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -654,21 +654,28 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, December 22, 2023</h3>
-<p>Winter Recess.</p>
+  					<h3>Friday, January 5, 2024</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, December 21, 2023</h3>
-<p>Nothing to Report.</p>
+  					<h3>Thursday, January 4, 2024</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, December 20, 2023</h3>
+  					<h3>Wednesday, January 3, 2024</h3>
+Will be posted soon.
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Tuesday, January 2, 2024</h3>
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
@@ -678,64 +685,62 @@
 <th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
 <th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
 <th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2023PU01847</td>
-<td style="font-weight: 400;" width="168">12/16/23 1:35 PM</td>
-<td style="font-weight: 400;" width="166">12/19/23 3:41 PM</td>
-<td style="font-weight: 400;" width="223">MMDC</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft</td>
-<td style="font-weight: 400;" width="154">2023PU01852</td>
-<td style="font-weight: 400;" width="168">8/1/23 12:00 AM</td>
-<td style="font-weight: 400;" width="166">12/19/23 3:40 PM</td>
-<td style="font-weight: 400;" width="223">Owen Hall</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
-</tr>
-</tbody>
-</table>
-		</section>
-	
-          <div class="clearfix"></div>
-  
-    	<section class="content__group">
-  					<h3>Tuesday, December 19, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="187">Theft-Vehicle</td>
-<td width="154">2023PU01844</td>
-<td width="168">9/2/23 3:35 PM</td>
-<td width="166">12/18/23 1:08 PM</td>
-<td width="223">Ross-Ade Stadium</td>
-<td width="199">Under Investigation</td>
 </tr>
 <tr>
 <td width="187">Criminal Mischief</td>
-<td width="154">2023PU01845</td>
-<td width="168">12/18/23 2:09 PM</td>
-<td width="166">12/18/23 2:23 PM</td>
-<td width="223">Alpha Phi</td>
+<td width="154">2023PU01860</td>
+<td width="168">12/21/23 6:37 PM</td>
+<td width="166">12/21/23 6:52 PM</td>
+<td width="223">Lynn Hall&#160;</td>
 <td width="199">Under Investigation</td>
 </tr>
 <tr>
-<td width="187">Drug Law Violation</td>
-<td width="154">CAD# 2023-185618</td>
-<td width="168">12/17/23 9:45 AM</td>
-<td width="166">12/17/23 9:45 AM</td>
+<td width="187">Driving While Suspended</td>
+<td width="154">2023PU01863</td>
+<td width="168">12/23/23 3:23 PM</td>
+<td width="166">12/23/23 3:41 PM</td>
+<td width="223">Northwestern Ave/Cherry Ln</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated/Drug Law Violation</td>
+<td width="154">2023PU1864</td>
+<td width="168">12/24/23 3:55 AM</td>
+<td width="166">12/24/23 4:32 AM</td>
+<td width="223">S River Rd/Ahlers Dr</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Operating While Intoxicated</td>
+<td width="154">2023PU01865</td>
+<td width="168">12/26/23 10:47 PM</td>
+<td width="166">12/26/23 11:07 PM</td>
+<td width="223">US HWY 231 S/W State St</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Disorderly Conduct</td>
+<td width="154">2023PU01868</td>
+<td width="168">12/29/23 1:29 AM</td>
+<td width="166">12/29/23 3:20 AM</td>
+<td width="223">Purdue Union Club Hotel</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Blackmail</td>
+<td width="154">2023PU01869</td>
+<td width="168">12/29/23 12:00 AM</td>
+<td width="166">12/29/23 12:12 PM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2023PU01870</td>
+<td width="168">12/17/23 9:11 PM</td>
+<td width="166">12/30/23 9:29 PM</td>
 <td width="223">Aspire</td>
-<td width="199">Nothing Further</td>
+<td width="199">Under Investigation</td>
 </tr>
 </tbody>
 </table>
@@ -744,67 +749,8 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, December 18, 2023</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="187">Operating Without Ever Receiving a License</td>
-<td width="154">2023PU01838</td>
-<td width="168">12/15/23 12:10 PM</td>
-<td width="166">12/15/23 12:43 PM</td>
-<td width="223">S Martin Jischke Dr/US HWY 231 S</td>
-<td width="199">Arrest Made</td>
-</tr>
-<tr>
-<td width="187">Theft-Bike</td>
-<td width="154">2023PU01839</td>
-<td width="168">12/14/23 6:00 PM</td>
-<td width="166">12/15/23 5:25 PM</td>
-<td width="223">Harrison Hall</td>
-<td width="199">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Trespassing</td>
-<td width="154">2023PU01840</td>
-<td width="168">12/16/23 1:25 AM</td>
-<td width="166">12/16/23 1:45 AM</td>
-<td width="223">Ross-Ade Stadium</td>
-<td width="199">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td width="187">Minor Consumption</td>
-<td width="154">2023PU01841</td>
-<td width="168">12/17/23 1:04 AM</td>
-<td width="166">12/17/23 1:42 AM</td>
-<td width="223">Wiley Hall</td>
-<td width="199">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td width="187">Trespassing</td>
-<td width="154">2023PU01843</td>
-<td width="168">12/18/23 2:58 AM</td>
-<td width="166">12/18/23 3:23 AM</td>
-<td width="223">Rawls Hall</td>
-<td width="199">Arrest Made</td>
-</tr>
-<tr>
-<td width="187">Rape</td>
-<td width="154">CSA</td>
-<td width="168">12/8/23 12:00 AM</td>
-<td width="166">12/15/23 11:22 AM</td>
-<td width="223">600 Blk Waldron St</td>
-<td width="199">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Monday, January 1, 2024</h3>
+New Years Day
 		</section>
 	
           <div class="clearfix"></div>
@@ -1301,7 +1247,7 @@
 <section class="footer__contact">
     <article class="footer__contact--list">
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
-		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2023 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
+		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2024 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
                                  
         
