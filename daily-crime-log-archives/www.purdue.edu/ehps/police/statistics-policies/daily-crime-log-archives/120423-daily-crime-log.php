@@ -746,7 +746,7 @@
 <td width="168">12/5/23 3:41 PM</td>
 <td width="166">12/5/23 4:07 PM</td>
 <td width="223">Owen Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="187">Theft</td>

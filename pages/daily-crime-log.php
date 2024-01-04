@@ -662,7 +662,130 @@
   
     	<section class="content__group">
   					<h3>Thursday, January 4, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2024PU00006</td>
+<td width="168">1/3/24 8:30 AM</td>
+<td width="166">1/3/24 8:44 AM</td>
+<td width="223">Schleman Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2024PU00008</td>
+<td width="168">1/3/24 5:15 PM</td>
+<td width="166">1/3/24 5:23 PM</td>
+<td width="223">0 BLK Waldron St</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>12/15/23 1:00 AM</td>
+<td>12/15/23 5:05 AM</td>
+<td>Shreve Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>4 Disciplinary Referral</td>
+<td>12/17/23 9:33 AM</td>
+<td>12/17/23 12:32 PM</td>
+<td>Aspire Apartments</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>12/17/23 9:42 AM</td>
+<td>12/17/23 11:20 AM</td>
+<td>Aspire Apartments</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>12/17/23 10:15 AM</td>
+<td>12/17/23 1:22 PM</td>
+<td>McCutcheon Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>3 Disciplinary Referral</td>
+<td>12/17/23 10:30 AM</td>
+<td>12/17/23 11:07 AM</td>
+<td>Wiley Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>3 Disciplinary Referral</td>
+<td>12/17/23 10:45 AM</td>
+<td>12/17/23 11:26 AM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>12/17/23 11:00 AM</td>
+<td>12/17/23 11:39 AM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>12/17/23 11:00 AM</td>
+<td>12/17/23 11:51 AM</td>
+<td>Honors Residence Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>3 Disciplinary Referral</td>
+<td>12/17/23 11:00 AM</td>
+<td>12/17/23 12:01 PM</td>
+<td>Cary Quadrangle</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>12/17/23 11::30 AM</td>
+<td>12/17/23 12:22 PM</td>
+<td>Meredith South</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>12/17/23 12:00 PM</td>
+<td>12/17/23 12:07 PM</td>
+<td>Hiltop Apartments</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>12/17/23 12:00 PM</td>
+<td>12/17/23 12:55 PM</td>
+<td>Shreve Hall</td>
+<td>Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
