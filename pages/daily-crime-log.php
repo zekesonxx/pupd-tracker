@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			010124 Daily Crime Log - 
+			010824 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -654,213 +654,35 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, January 5, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="187">Criminal Mischief</td>
-<td width="154">2024PU00010</td>
-<td width="168">1/4/24 7:00 AM</td>
-<td width="166">1/4/24 10:59 AM</td>
-<td width="223">Purdue Memorial Union</td>
-<td width="199">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Criminal Mischief</td>
-<td width="154">2024PU00011</td>
-<td width="168">12/22/23 4:00 PM</td>
-<td width="166">1/4/24 1:38 PM</td>
-<td width="223">Physics Building</td>
-<td width="199">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Theft</td>
-<td width="154">CAD# 2024-001589</td>
-<td width="168">1/3/24 4:51 PM</td>
-<td width="166">1/3/24 4:51 PM</td>
-<td width="223">Chi Omega</td>
-<td width="199">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Friday, January 12, 2024</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, January 4, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="187">Criminal Mischief</td>
-<td width="154">2024PU00006</td>
-<td width="168">1/3/24 8:30 AM</td>
-<td width="166">1/3/24 8:44 AM</td>
-<td width="223">Schleman Hall</td>
-<td width="199">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Theft-Bike</td>
-<td width="154">2024PU00008</td>
-<td width="168">1/3/24 5:15 PM</td>
-<td width="166">1/3/24 5:23 PM</td>
-<td width="223">0 BLK Waldron St</td>
-<td width="199">Under Investigation</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>1 Disciplinary Referral</td>
-<td>12/15/23 1:00 AM</td>
-<td>12/15/23 5:05 AM</td>
-<td>Shreve Hall</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>4 Disciplinary Referral</td>
-<td>12/17/23 9:33 AM</td>
-<td>12/17/23 12:32 PM</td>
-<td>Aspire Apartments</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>1 Disciplinary Referral</td>
-<td>12/17/23 9:42 AM</td>
-<td>12/17/23 11:20 AM</td>
-<td>Aspire Apartments</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>2 Disciplinary Referral</td>
-<td>12/17/23 10:15 AM</td>
-<td>12/17/23 1:22 PM</td>
-<td>McCutcheon Hall</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>3 Disciplinary Referral</td>
-<td>12/17/23 10:30 AM</td>
-<td>12/17/23 11:07 AM</td>
-<td>Wiley Hall</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>3 Disciplinary Referral</td>
-<td>12/17/23 10:45 AM</td>
-<td>12/17/23 11:26 AM</td>
-<td>Owen Hall</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>2 Disciplinary Referral</td>
-<td>12/17/23 11:00 AM</td>
-<td>12/17/23 11:39 AM</td>
-<td>Owen Hall</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>2 Disciplinary Referral</td>
-<td>12/17/23 11:00 AM</td>
-<td>12/17/23 11:51 AM</td>
-<td>Honors Residence Hall</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>3 Disciplinary Referral</td>
-<td>12/17/23 11:00 AM</td>
-<td>12/17/23 12:01 PM</td>
-<td>Cary Quadrangle</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>2 Disciplinary Referral</td>
-<td>12/17/23 11::30 AM</td>
-<td>12/17/23 12:22 PM</td>
-<td>Meredith South</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>2 Disciplinary Referral</td>
-<td>12/17/23 12:00 PM</td>
-<td>12/17/23 12:07 PM</td>
-<td>Hiltop Apartments</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>2 Disciplinary Referral</td>
-<td>12/17/23 12:00 PM</td>
-<td>12/17/23 12:55 PM</td>
-<td>Shreve Hall</td>
-<td>Judicial Review</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, January 11, 2024</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, January 3, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="187">Drug Law Violation</td>
-<td width="154">2024PU00002</td>
-<td width="168">1/2/24 8:11 AM</td>
-<td width="166">1/2/24 8:36 AM</td>
-<td width="223">Cary Quad West Hall</td>
-<td width="199">Nothing Further</td>
-</tr>
-<tr>
-<td width="187">Drug Law Violation</td>
-<td width="154">CAD# 2024-000417</td>
-<td width="168">1/1/24 6:35 PM</td>
-<td width="166">1/1/24 6:35 PM</td>
-<td width="223">Frieda Parker Hall</td>
-<td width="199">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, January 10, 2024</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday, January 2, 2024</h3>
+  					<h3>Tuesday, January 9, 2024</h3>
+<p>Will be posted soon.</p>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Monday, January 8, 2024</h3>
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
@@ -872,70 +694,39 @@
 <th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
 </tr>
 <tr>
-<td width="187">Criminal Mischief</td>
-<td width="154">2023PU01860</td>
-<td width="168">12/21/23 6:37 PM</td>
-<td width="166">12/21/23 6:52 PM</td>
-<td width="223">Lynn Hall&#160;</td>
-<td width="199">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Driving While Suspended</td>
-<td width="154">2023PU01863</td>
-<td width="168">12/23/23 3:23 PM</td>
-<td width="166">12/23/23 3:41 PM</td>
-<td width="223">Northwestern Ave/Cherry Ln</td>
+<td width="187">Trespassing</td>
+<td width="154">2024PU00013</td>
+<td width="168">1/5/24 8:54 PM</td>
+<td width="166">1/5/24 9:19 PM</td>
+<td width="223">Purdue Union Club Hotel</td>
 <td width="199">Arrest Made</td>
 </tr>
 <tr>
-<td width="187">Operating While Intoxicated/Drug Law Violation</td>
-<td width="154">2023PU1864</td>
-<td width="168">12/24/23 3:55 AM</td>
-<td width="166">12/24/23 4:32 AM</td>
-<td width="223">S River Rd/Ahlers Dr</td>
+<td width="187">Public Intoxication</td>
+<td width="154">2024PU00016</td>
+<td width="168">1/6/24 1:04 AM</td>
+<td width="166">1/6/24 3:09 AM</td>
+<td width="223">Waldron St/Stadium Ave</td>
 <td width="199">Arrest Made</td>
 </tr>
 <tr>
 <td width="187">Operating While Intoxicated</td>
-<td width="154">2023PU01865</td>
-<td width="168">12/26/23 10:47 PM</td>
-<td width="166">12/26/23 11:07 PM</td>
-<td width="223">US HWY 231 S/W State St</td>
+<td width="154">2024PU00017</td>
+<td width="168">1/6/24 2:52 AM</td>
+<td width="166">1/6/24 3:21 AM</td>
+<td width="223">US HWY 231 S/S River Rd</td>
 <td width="199">Arrest Made</td>
 </tr>
 <tr>
-<td width="187">Disorderly Conduct</td>
-<td width="154">2023PU01868</td>
-<td width="168">12/29/23 1:29 AM</td>
-<td width="166">12/29/23 3:20 AM</td>
-<td width="223">Purdue Union Club Hotel</td>
-<td width="199">Closed</td>
-</tr>
-<tr>
-<td width="187">Blackmail</td>
-<td width="154">2023PU01869</td>
-<td width="168">12/29/23 12:00 AM</td>
-<td width="166">12/29/23 12:12 PM</td>
-<td width="223">Shreve Hall</td>
-<td width="199">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Theft-Bike</td>
-<td width="154">2023PU01870</td>
-<td width="168">12/17/23 9:11 PM</td>
-<td width="166">12/30/23 9:29 PM</td>
-<td width="223">Aspire</td>
-<td width="199">Under Investigation</td>
+<td width="187">Minor Consumption</td>
+<td width="154">2024PU00021</td>
+<td width="168">1/7/24 1:23 AM</td>
+<td width="166">1/7/24 1:48 AM</td>
+<td width="223">Harrison Hall</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 </tbody>
 </table>
-		</section>
-	
-          <div class="clearfix"></div>
-  
-    	<section class="content__group">
-  					<h3>Monday, January 1, 2024</h3>
-New Years Day
 		</section>
 	
           <div class="clearfix"></div>
