@@ -669,7 +669,50 @@
   
     	<section class="content__group">
   					<h3>Wednesday, January 10, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00032</td>
+<td style="font-weight: 400;" width="168">1/9/24 1:20 PM</td>
+<td style="font-weight: 400;" width="166">1/9/24 2:28 PM</td>
+<td style="font-weight: 400;" width="223">Schleman Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00033</td>
+<td style="font-weight: 400;" width="168">1/9/24 8:19 PM</td>
+<td style="font-weight: 400;" width="166">1/9/24 8:25 PM</td>
+<td style="font-weight: 400;" width="223">CoRec</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU00034</td>
+<td style="font-weight: 400;" width="168">1/9/24 8:30 PM</td>
+<td style="font-weight: 400;" width="166">1/9/24 9:08 PM</td>
+<td style="font-weight: 400;" width="223">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Bomb Threat</td>
+<td style="font-weight: 400;" width="154">2024WL00060</td>
+<td style="font-weight: 400;" width="168">1/8/24 1:28 PM</td>
+<td style="font-weight: 400;" width="166">1/8/24 1:46 PM</td>
+<td style="font-weight: 400;" width="223">444 Littleton St</td>
+<td style="font-weight: 400;" width="199">See WLPD 2024WL00060 for further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -700,7 +743,7 @@
 <td width="168">1/8/24 5:04 PM</td>
 <td width="166">1/8/24 5:36 PM</td>
 <td width="223">Telecommunications Building</td>
-<td width="199">Under Investigation</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="187">Drug Law Violation</td>
