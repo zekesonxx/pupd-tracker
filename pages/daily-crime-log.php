@@ -662,7 +662,58 @@
   
     	<section class="content__group">
   					<h3>Thursday, January 11, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2024PU00036</td>
+<td width="168">1/10/24 11:26 AM</td>
+<td width="166">1/10/24 11:46 AM</td>
+<td width="223">Psychological Sciences</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Fraud/Theft</td>
+<td width="154">2024PU00039</td>
+<td width="168">1/10/24 8:00 AM</td>
+<td width="166">1/10/24 3:07 PM</td>
+<td width="223">Psychological Sciences</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD# 2024-005014</td>
+<td width="168">1/9/24 10:41 PM</td>
+<td width="166">1/9/24 10:41 PM</td>
+<td width="223">Owen Hall</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Vandalism</td>
+<td width="154">CSA</td>
+<td width="168">1/5/24 2:00 PM</td>
+<td width="166">1/10/24 2:40 PM</td>
+<td width="223">On-Campus Location</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Dating Violence</td>
+<td width="154">CSA</td>
+<td width="168">10/1/23 12:00 AM</td>
+<td width="166">1/10/24 12:00 AM</td>
+<td width="223">On-Campus Housing</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -693,7 +744,7 @@
 <td style="font-weight: 400;" width="168">1/9/24 8:19 PM</td>
 <td style="font-weight: 400;" width="166">1/9/24 8:25 PM</td>
 <td style="font-weight: 400;" width="223">CoRec</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Drug Law Violation</td>
