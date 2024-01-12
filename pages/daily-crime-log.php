@@ -655,7 +655,66 @@
   
     	<section class="content__group">
   					<h3>Friday, January 12, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Fraud/Theft</td>
+<td width="154">2024PU00042</td>
+<td width="168">1/9/24 4:00 PM</td>
+<td width="166">1/10/24 9:22 PM</td>
+<td width="223">Beering Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Hit &amp; Run</td>
+<td width="154">2024PU00044</td>
+<td width="168">1/11/24 4:00 PM</td>
+<td width="166">1/11/24 4:06 PM</td>
+<td width="223">Harrison St Parking Garage</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Hit &amp; Run</td>
+<td width="154">2024PU00045</td>
+<td width="168">1/10/24 8:00 AM</td>
+<td width="166">1/11/24 5:36 PM</td>
+<td width="223">CoRec</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2024PU00046</td>
+<td width="168">1/11/24 3:30 PM</td>
+<td width="166">1/11/24 9:21 PM</td>
+<td width="223">Stanley Coulter Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2024PU00047</td>
+<td width="168">1/11/24 9:11 PM</td>
+<td width="166">1/11/24 10:32 PM</td>
+<td width="223">CoRec</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Public Intoxication</td>
+<td width="154">2024PU00049</td>
+<td width="168">1/12/24 2:05 AM</td>
+<td width="166">1/12/24 2:25 AM</td>
+<td width="223">Wilmeth Active Learning Center</td>
+<td width="199">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
