@@ -676,7 +676,130 @@
   
     	<section class="content__group">
   					<h3>Tuesday, January 16, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Fraud/Theft</td>
+<td width="154">2024PU00050</td>
+<td width="168">1/10/24 1:00 PM</td>
+<td width="166">1/12/24 9:17 AM</td>
+<td width="223">Knoy Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Driving While Suspended</td>
+<td width="154">2024PU00051</td>
+<td width="168">1/12/24 9:06 AM</td>
+<td width="166">1/12/24 9:32 AM</td>
+<td width="223">Lynn Hall</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2024PU00052</td>
+<td width="168">1/12/24 8:30 AM</td>
+<td width="166">1/12/24 3:52 PM</td>
+<td width="223">Pao Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2024PU00054</td>
+<td width="168">1/12/24 10:36 PM</td>
+<td width="166">1/12/24 10:50 PM</td>
+<td width="223">University Church</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2024PU00055</td>
+<td width="168">1/12/24 11:18 PM</td>
+<td width="166">1/24/23 11:32 PM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2024PU00059</td>
+<td width="168">1/13/24 10:58 PM</td>
+<td width="166">1/13/24 11:14 PM</td>
+<td width="223">Wiley Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2024PU00060</td>
+<td width="168">1/13/24 11:26 PM</td>
+<td width="166">1/13/24 11:45 PM</td>
+<td width="223">Phi Sigma Rho</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2024PU00061</td>
+<td width="168">1/13/24 11:24 PM</td>
+<td width="166">1/13/24 11:47 PM</td>
+<td width="223">PI Beta Phi</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2024PU00062</td>
+<td width="168">1/14/24 2:10 AM</td>
+<td width="166">1/14/24 2:31 AM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2024PU00063</td>
+<td width="168">1/14/24 4:35 AM</td>
+<td width="166">1/14/24 4:53 AM</td>
+<td width="223">Harrison Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2024PU00065</td>
+<td width="168">1/14/24 9:15 PM</td>
+<td width="166">1/14/24 9:29 PM</td>
+<td width="223">Honors College</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2024PU00066</td>
+<td width="168">1/15/24 3:42 AM</td>
+<td width="166">1/15/24 3:59 AM</td>
+<td width="223">Bechtel Innovation Design Center</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Drunk Driver</td>
+<td width="154">CAD# 2024-006152</td>
+<td width="168">1/11/24 8:34 PM</td>
+<td width="166">1/11/24 8:34 PM</td>
+<td width="223">Hawkins Graduate House</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">CAD# 2024-006280</td>
+<td width="168">1/12/24 1:05 AM</td>
+<td width="166">1/12/24 1:05 AM</td>
+<td width="223">Beta Theta PI</td>
+<td width="199">Documented in 2024WL00095</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
