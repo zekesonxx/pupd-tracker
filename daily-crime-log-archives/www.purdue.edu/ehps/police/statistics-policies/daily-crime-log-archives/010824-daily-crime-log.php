@@ -770,7 +770,7 @@
 <td style="font-weight: 400;" width="168">1/9/24 1:20 PM</td>
 <td style="font-weight: 400;" width="166">1/9/24 2:28 PM</td>
 <td style="font-weight: 400;" width="223">Schleman Hall</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft</td>
