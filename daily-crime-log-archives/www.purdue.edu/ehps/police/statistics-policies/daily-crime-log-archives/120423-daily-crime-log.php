@@ -788,7 +788,7 @@
 <td style="font-weight: 400;" width="168">12/4/23 1:02 PM</td>
 <td style="font-weight: 400;" width="166">12/4/23 1:40 PM</td>
 <td style="font-weight: 400;" width="223">Harrison Hall</td>
-<td style="font-weight: 400;" width="199">Arrest Made</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft-Bike</td>

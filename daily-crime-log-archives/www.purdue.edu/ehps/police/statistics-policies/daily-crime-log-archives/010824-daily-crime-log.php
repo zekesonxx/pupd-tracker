@@ -686,7 +686,7 @@
 <td width="168">1/12/24 2:05 AM</td>
 <td width="166">1/12/24 2:25 AM</td>
 <td width="223">Wilmeth Active Learning Center</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 </tbody>
 </table>

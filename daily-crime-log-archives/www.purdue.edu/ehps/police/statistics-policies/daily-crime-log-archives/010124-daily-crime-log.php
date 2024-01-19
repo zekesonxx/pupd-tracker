@@ -859,7 +859,7 @@
 <td width="154">2023PU01863</td>
 <td width="168">12/23/23 3:23 PM</td>
 <td width="166">12/23/23 3:41 PM</td>
-<td width="223">Northwestern Ave/Cherry Ln</td>
+<td width="223">Northwestern Ave/ Cherry Ln</td>
 <td width="199">Arrest Made</td>
 </tr>
 <tr>
@@ -867,7 +867,7 @@
 <td width="154">2023PU1864</td>
 <td width="168">12/24/23 3:55 AM</td>
 <td width="166">12/24/23 4:32 AM</td>
-<td width="223">S River Rd/Ahlers Dr</td>
+<td width="223">S River Rd/ Ahlers Dr</td>
 <td width="199">Arrest Made</td>
 </tr>
 <tr>
@@ -876,7 +876,7 @@
 <td width="168">12/26/23 10:47 PM</td>
 <td width="166">12/26/23 11:07 PM</td>
 <td width="223">US HWY 231 S/W State St</td>
-<td width="199">Arrest Made</td>
+<td width="199">Under Investigation</td>
 </tr>
 <tr>
 <td width="187">Disorderly Conduct</td>
