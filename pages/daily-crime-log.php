@@ -676,7 +676,58 @@
   
     	<section class="content__group">
   					<h3>Tuesday, January 23, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00101</td>
+<td style="font-weight: 400;" width="168">1/19/24 10:00 AM</td>
+<td style="font-weight: 400;" width="166">1/22/24 11:37 AM</td>
+<td style="font-weight: 400;" width="223">Meredith South Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00102</td>
+<td style="font-weight: 400;" width="168">1/18/24 3:07 PM</td>
+<td style="font-weight: 400;" width="166">1/22/24 12:59 PM</td>
+<td style="font-weight: 400;" width="223">Hillel</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00103</td>
+<td style="font-weight: 400;" width="168">1/19/24 10:15 PM</td>
+<td style="font-weight: 400;" width="166">1/22/24 4:14 PM</td>
+<td style="font-weight: 400;" width="223">Alpha Chi Rho</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-010660</td>
+<td style="font-weight: 400;" width="168">1/19/24 1:29 PM</td>
+<td style="font-weight: 400;" width="166">1/19/24 1:29 PM</td>
+<td style="font-weight: 400;" width="223">400 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-010612</td>
+<td style="font-weight: 400;" width="168">1/19/24 11:12 AM</td>
+<td style="font-weight: 400;" width="166">1/19/24 11:12 AM</td>
+<td style="font-weight: 400;" width="223">Math Building</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

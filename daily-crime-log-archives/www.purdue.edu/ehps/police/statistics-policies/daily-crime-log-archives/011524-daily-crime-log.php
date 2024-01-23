@@ -654,7 +654,7 @@
 <td style="font-weight: 400;" width="168">1/5/24 2:30 PM</td>
 <td style="font-weight: 400;" width="166">1/18/24 3:37 PM</td>
 <td style="font-weight: 400;" width="223">Tarkington Hall</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
 </tr>
 </tbody>
 </table>

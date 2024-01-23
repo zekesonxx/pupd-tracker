@@ -934,7 +934,7 @@
 <td width="168">12/1/23 10:40 PM</td>
 <td width="166">12/2/23 2:48 AM</td>
 <td width="223">Earhart Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Battery-Simple/Disorderly Conduct/Minor Consumption</td>
