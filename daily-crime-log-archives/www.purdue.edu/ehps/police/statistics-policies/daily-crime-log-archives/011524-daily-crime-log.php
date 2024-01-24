@@ -836,7 +836,7 @@
 <td width="168">1/15/24 3:42 AM</td>
 <td width="166">1/15/24 3:59 AM</td>
 <td width="223">Bechtel Innovation Design Center</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Drunk Driver</td>
