@@ -760,7 +760,7 @@
 <td width="168">12/17/23 1:04 AM</td>
 <td width="166">12/17/23 1:42 AM</td>
 <td width="223">Wiley Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Trespassing</td>
