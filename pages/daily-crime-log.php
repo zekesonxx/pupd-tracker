@@ -676,7 +676,66 @@
   
     	<section class="content__group">
   					<h3>Tuesday, January 30, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2024PU00144</td>
+<td width="168">1/29/24 9:55 AM</td>
+<td width="166">1/29/24 10:12 AM</td>
+<td width="223">Freida Parker Hall</td>
+<td width="199">Under Investgation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2024PU00145</td>
+<td width="168">1/29/24 10:37 AM</td>
+<td width="166">1/29/24 11:00 AM</td>
+<td width="223">200 Blk N Russell St</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2024PU00146</td>
+<td width="168">1/27/24 9:22 AM</td>
+<td width="166">1/29/24 1:45 PM</td>
+<td width="223">Meredith South Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2024PU00147</td>
+<td width="168">1/28/24 6:48 PM</td>
+<td width="166">1/29/24 1:58 PM</td>
+<td width="223">Hillenbrand Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD# 2024-016361</td>
+<td width="168">1/29/24 5:23 PM</td>
+<td width="166">1/29/24 5:23 PM</td>
+<td width="223">Earhart Hall</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD# 2024-016386</td>
+<td width="168">1/29/24 6:43 PM</td>
+<td width="166">1/29/24 6:43 PM</td>
+<td width="223">Earhart Hall</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
