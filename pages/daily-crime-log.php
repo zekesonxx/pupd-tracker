@@ -662,7 +662,154 @@
   
     	<section class="content__group">
   					<h3>Thursday, February 1, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Attempted Fraud</td>
+<td width="154">2024PU00155</td>
+<td width="168">1/25/24 1:59 PM</td>
+<td width="166">1/31/24 3:02 PM</td>
+<td width="223">Whistler Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Reckless Driver</td>
+<td width="154">CAD# 2024-016957</td>
+<td width="168">1/30/24 4:25 PM</td>
+<td width="166">1/30/24 4:25 PM</td>
+<td width="223">Airport Terminal Building</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Reckless Driver</td>
+<td width="154">CSA</td>
+<td width="168">1/30/24 5:14 PM</td>
+<td width="166">1/30/24 5:14 PM</td>
+<td width="223">1500 Blk Airport Rd</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Reckless Driver</td>
+<td width="154">CAD# 2024-017437</td>
+<td width="168">1/31/24 11:28 AM</td>
+<td width="166">1/31/24 11:28 AM</td>
+<td width="223">Northwestern Ave/Dodge St</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>1/8/24 1:30 AM</td>
+<td>1/10/24 1:58 PM</td>
+<td>Harrison Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>3 Disciplinary Referral</td>
+<td>1/12/24 7:00 PM</td>
+<td>1/12/24 8:21 PM</td>
+<td>Aspire Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>7 Disciplinary Referral</td>
+<td>1/13/24 12:45 AM</td>
+<td>1/13/24 2:50 AM</td>
+<td>Harrison Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>8 Disciplinary Referral</td>
+<td>1/13/24 10:15 PM</td>
+<td>1/13/24 11:07 PM</td>
+<td>Frieda Parker Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>1/13/24 11:02 PM</td>
+<td>1/18/24 2:52 PM</td>
+<td>Wiley Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>7 Disciplinary Referral</td>
+<td>1/14/24 12:45 AM</td>
+<td>1/14/24 1:10 AM</td>
+<td>Winifred Parker Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>1/14/24 1:15 AM</td>
+<td>1/14/24 11:07 AM</td>
+<td>414 N. Russell UR Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>1/16/24 6:30 PM</td>
+<td>1/16/24 7:56 PM</td>
+<td>Hillenbrand Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>8 Disciplinary Referral</td>
+<td>1/19/24 11:15 PM</td>
+<td>1/20/24 1:32 AM</td>
+<td>McCutcheon Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>1/19/24 11:30 PM</td>
+<td>1/20/24 12:42 AM</td>
+<td>Windsor Halls</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>1/20/24 1:00 AM</td>
+<td>1/20/24 2:25 AM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>9 Disciplinary Referral</td>
+<td>1/20/24 1:50 AM</td>
+<td>1/20/24 3:12 AM</td>
+<td>Meredith South</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>1/23/24 9:40 PM</td>
+<td>1/24/24 12:47 AM</td>
+<td>Cary Quadrangle</td>
+<td>Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -837,7 +984,7 @@
 </tr>
 <tr>
 <td width="187">Theft-EMPV</td>
-<td width="154">2024PU00140</td>
+<td width="154">2024PU00141</td>
 <td width="168">12/14/23 12:00 AM</td>
 <td width="166">1/27/24 3:52 PM</td>
 <td width="223">Owen Hall</td>
