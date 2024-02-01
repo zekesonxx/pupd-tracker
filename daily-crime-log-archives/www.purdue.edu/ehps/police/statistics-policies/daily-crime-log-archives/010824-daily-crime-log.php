@@ -910,7 +910,7 @@
 <td width="168">1/6/24 2:52 AM</td>
 <td width="166">1/6/24 3:21 AM</td>
 <td width="223">US HWY 231 S/S River Rd</td>
-<td width="199">Arrest Made</td>
+<td width="199">Under Investigation</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
