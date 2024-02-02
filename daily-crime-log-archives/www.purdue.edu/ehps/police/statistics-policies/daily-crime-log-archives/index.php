@@ -611,6 +611,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log</h2>
 <ul>
+<li><a href="#" title="012924 Daily Crime Log">Week of January 29, 2024</a></li>
 <li><a href="012224-daily-crime-log.php" title="012224 Daily Crime Log">Week of January 22, 2024</a></li>
 <li><a href="011524-daily-crime-log.php">Week of January 15, 2024</a></li>
 <li><a href="010824-daily-crime-log.php" title="010824 Daily Crime Log">Week of January 8, 2024</a></li>
@@ -619,11 +620,7 @@
 <li><a href="121823-daily-crime-log.php" title="121823 Daily Crime Log">Week of December 18, 2023</a></li>
 <li><a href="121123-daily-crime-log.php" title="121123 Daily Crime Log">Week of December 11, 2023</a></li>
 <li><a href="120423-daily-crime-log.php" title="120423 Daily Crime Log">Week of December 4, 2023</a></li>
-<li><a href="112723-daily-crime-log.php" title="112723 Daily Crime Log">Week of November 27, 2023</a></li>
-<li><a href="112023-daily-crime-log.php" title="112023 Daily Crime Log">Week of November 20, 2023</a></li>
-<li><a href="111323-daily-crime-log.php" title="111323 Daily Crime Log">Week of November 13, 2023</a></li>
-<li><a href="110623-daily-crime-log.php" title="110623 Daily Crime Log">Week of November 6, 2023</a></li>
-<li><a href="103023-daily-crime-log.php" title="103023 Daily Crime Log">Week of October 30, 2023</a><a href="2023-archive/100223-daily-crime-log.php" title="100223 Daily Crime Log"></a><a href="2023-archive/082823-daily-crime-log.php" title="082823 Daily Crime Log"></a><a href="2023-archive/073123-daily-crime-log.php" title="073123 Daily Crime Log"></a><a href="2023-archive/070323-daily-crime-log.php" title="070323 Daily Crime Log"></a></li>
+<li><a href="112723-daily-crime-log.php" title="112723 Daily Crime Log">Week of November 27, 2023</a><a href="103023-daily-crime-log.php" title="103023 Daily Crime Log"></a><a href="2023-archive/100223-daily-crime-log.php" title="100223 Daily Crime Log"></a><a href="2023-archive/082823-daily-crime-log.php" title="082823 Daily Crime Log"></a><a href="2023-archive/073123-daily-crime-log.php" title="073123 Daily Crime Log"></a><a href="2023-archive/070323-daily-crime-log.php" title="070323 Daily Crime Log"></a></li>
 </ul>
 		</section>
 	

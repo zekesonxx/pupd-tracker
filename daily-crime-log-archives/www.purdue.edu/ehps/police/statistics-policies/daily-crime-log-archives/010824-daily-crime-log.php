@@ -836,7 +836,7 @@
 <td width="168">1/8/24 8:37 PM</td>
 <td width="166">1/8/24 9:34 PM</td>
 <td width="223">Meredith South Hall</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Trespassing</td>
