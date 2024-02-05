@@ -654,7 +654,7 @@
 <td style="font-weight: 400;" width="168">2/1/24 11:34 AM</td>
 <td style="font-weight: 400;" width="166">2/1/24 1:58 PM</td>
 <td style="font-weight: 400;" width="223">Harrison Street Garage</td>
-<td style="font-weight: 400;" width="199">Unfounded</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Fraud</td>

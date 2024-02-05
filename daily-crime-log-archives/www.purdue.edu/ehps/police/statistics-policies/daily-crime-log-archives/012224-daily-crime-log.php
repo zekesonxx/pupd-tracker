@@ -646,7 +646,7 @@
 <td width="168">1/25/24 6:58 PM</td>
 <td width="166">1/25/24 6:23 PM</td>
 <td width="223">CoRec</td>
-<td width="199">Under Investigation</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="187">Harassment</td>

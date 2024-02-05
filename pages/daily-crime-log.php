@@ -683,7 +683,138 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, February 5, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Trespass</td>
+<td style="font-weight: 400;" width="154">2024PU00121</td>
+<td style="font-weight: 400;" width="168">1/25/24 12:59 PM</td>
+<td style="font-weight: 400;" width="166">1/25/24 1:59 PM</td>
+<td style="font-weight: 400;" width="223">128 Memorial Mall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Fraud&#160;</td>
+<td style="font-weight: 400;" width="154">2024PU00165</td>
+<td style="font-weight: 400;" width="168">2/2/24 9:30 AM</td>
+<td style="font-weight: 400;" width="166">2/2/24 9:52 AM</td>
+<td style="font-weight: 400;" width="223">Honors College</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00166</td>
+<td style="font-weight: 400;" width="168">2/2/24 9:58 PM</td>
+<td style="font-weight: 400;" width="166">2/2/24 10:19 PM</td>
+<td style="font-weight: 400;" width="223">Hawkins Graduate House</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU00167</td>
+<td style="font-weight: 400;" width="168">2/2/24 10:21 PM</td>
+<td style="font-weight: 400;" width="166">2/2/24 10:33 PM</td>
+<td style="font-weight: 400;" width="223">Burton D Morgan Center</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2024PU00168</td>
+<td style="font-weight: 400;" width="168">2/3/24 12:08 AM</td>
+<td style="font-weight: 400;" width="166">2/3/24 12:22 AM</td>
+<td style="font-weight: 400;" width="223">Cary Quad West</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Public Intoxication/Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00169</td>
+<td style="font-weight: 400;" width="168">2/3/24 1:01 AM</td>
+<td style="font-weight: 400;" width="166">2/3/24 1:16 AM</td>
+<td style="font-weight: 400;" width="223">S Grant St/W Williams St</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU00170</td>
+<td style="font-weight: 400;" width="168">2/3/24 12:42 AM</td>
+<td style="font-weight: 400;" width="166">2/3/24 1:19 AM</td>
+<td style="font-weight: 400;" width="223">Horticulture Park</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">2024PU00174</td>
+<td style="font-weight: 400;" width="168">2/3/24 5:16 PM</td>
+<td style="font-weight: 400;" width="166">2/3/24 9:27 PM</td>
+<td style="font-weight: 400;" width="223">Elliott Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU00175</td>
+<td style="font-weight: 400;" width="168">2/4/24 12:55 AM</td>
+<td style="font-weight: 400;" width="166">2/4/24 1:15 AM</td>
+<td style="font-weight: 400;" width="223">Freida Parker Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU00176</td>
+<td style="font-weight: 400;" width="168">2/4/24 1:27 AM</td>
+<td style="font-weight: 400;" width="166">2/4/27 1:49 AM</td>
+<td style="font-weight: 400;" width="223">Aspire Apartments</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2024PU00177</td>
+<td style="font-weight: 400;" width="168">2/4/24 1:51 AM</td>
+<td style="font-weight: 400;" width="166">2/4/24 2:37 AM</td>
+<td style="font-weight: 400;" width="223">S River Rd/Ahlers Dr</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00179</td>
+<td style="font-weight: 400;" width="168">2/4/24 1:20 AM</td>
+<td style="font-weight: 400;" width="166">2/4/24 5:23 PM</td>
+<td style="font-weight: 400;" width="223">Kappa Kappa Gamma</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2024PU00181</td>
+<td style="font-weight: 400;" width="168">2/5/24 2:28 AM</td>
+<td style="font-weight: 400;" width="166">2/5/24 3:34 AM</td>
+<td style="font-weight: 400;" width="223">1000 Blk S River Rd</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-018867</td>
+<td style="font-weight: 400;" width="168">2/2/24 7:42 PM</td>
+<td style="font-weight: 400;" width="166">2/2/24 7:42 PM</td>
+<td style="font-weight: 400;" width="223">1st St Towers</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-019443</td>
+<td style="font-weight: 400;" width="168">2/3/24 10:04 PM</td>
+<td style="font-weight: 400;" width="166">2/3/24 10:04 PM</td>
+<td style="font-weight: 400;" width="223">1st St Towers</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
