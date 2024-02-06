@@ -676,7 +676,74 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, February 6, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Hit &amp; Run</td>
+<td width="154">2024PU00182</td>
+<td width="168">2/2/24 3:23 PM</td>
+<td width="166">2/5/24 1:41 PM</td>
+<td width="223">Utility Plant Office Facility</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Harassment</td>
+<td width="154">2024PU00184</td>
+<td width="168">2/5/24 1:54 PM</td>
+<td width="166">2/5/24 3:40 PM</td>
+<td width="223">Pao Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">2024PU00185</td>
+<td width="168">2/5/24 4:36 PM</td>
+<td width="166">2/5/24 6:52 PM</td>
+<td width="223">Aspire</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">CAD# 2024-020497</td>
+<td width="168">2/5/24 8:07 PM</td>
+<td width="166">2/5/24 8:07 PM</td>
+<td width="223">CoRec</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD# 2024-020597</td>
+<td width="168">2/6/24 12:43 AM</td>
+<td width="166">2/6/24 12:43 AM</td>
+<td width="223">Purdue West</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation</td>
+<td width="154">CAD# 2024-018872</td>
+<td width="168">2/2/24 7:58 PM</td>
+<td width="166">2/2/24 8:19 PM</td>
+<td width="223">Mitch Daniels Blvd</td>
+<td width="199">Documented 2024WL00275</td>
+</tr>
+<tr>
+<td width="187">Drug Law Violation/ Operating While Intoxicated</td>
+<td width="154">CAD# 2024-018942</td>
+<td width="168">2/2/24 10:45 PM</td>
+<td width="166">2/2/24 10:45 PM</td>
+<td width="223">Lindberg Rd/Northwestern Ave</td>
+<td width="199">Documented 2024WL00281 and 2024WL00276</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
