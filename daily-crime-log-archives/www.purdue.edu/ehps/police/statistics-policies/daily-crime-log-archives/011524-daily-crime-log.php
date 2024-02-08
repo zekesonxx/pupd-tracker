@@ -788,7 +788,7 @@
 <td width="168">1/13/24 10:58 PM</td>
 <td width="166">1/13/24 11:14 PM</td>
 <td width="223">Wiley Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
@@ -804,7 +804,7 @@
 <td width="168">1/13/24 11:24 PM</td>
 <td width="166">1/13/24 11:47 PM</td>
 <td width="223">PI Beta Phi</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>

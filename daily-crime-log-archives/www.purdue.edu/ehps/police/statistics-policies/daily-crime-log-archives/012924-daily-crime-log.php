@@ -942,7 +942,7 @@
 <td width="168">1/25/24 9:00 PM</td>
 <td width="166">1/26/24 7:39 AM</td>
 <td width="223">Schwartz Tennis Center</td>
-<td width="199">Under Investigation</td>
+<td width="199">Suspended</td>
 </tr>
 <tr>
 <td width="187">Hit &amp; Run</td>

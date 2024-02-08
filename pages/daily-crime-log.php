@@ -662,7 +662,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, February 8, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2024PU00192</td>
+<td width="168">1/22/24 5:17 PM</td>
+<td width="166">2/7/24 11:43 AM</td>
+<td width="223">Owen Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2024PU00194</td>
+<td width="168">2/7/24 10:07 PM</td>
+<td width="166">2/7/24 10:23 PM</td>
+<td width="223">Brees Athletic Center</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2024PU00195</td>
+<td width="168">2/8/24 1:09 AM</td>
+<td width="166">2/8/24 1:14 AM</td>
+<td width="223">3rd St/N Martin Jischke Dr</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2024PU00196</td>
+<td width="168">2/8/24 3:25 AM</td>
+<td width="166">2/8/24 3:29 AM</td>
+<td width="223">3rd St/N Martin Jischke Dr</td>
+<td width="199">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
