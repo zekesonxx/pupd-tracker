@@ -683,7 +683,98 @@
   
     	<section class="content__group">
   					<h3>Monday, February 12, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2024PU00206</td>
+<td width="168">2/8/24 1:00 PM</td>
+<td width="166">2/9/24 8:29 AM</td>
+<td width="223">Lilly Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Fraud</td>
+<td width="154">2024PU00207</td>
+<td width="168">2/7/24 1:30 PM</td>
+<td width="166">2/9/24 2:01 PM</td>
+<td width="223">Hillenbrand Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2024PU00208</td>
+<td width="168">2/1/24 8:00 PM</td>
+<td width="166">2/9/24 2:25 PM</td>
+<td width="223">McCutcheon Parking Garage</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2024PU00209</td>
+<td width="168">1/10/24 12:00 AM</td>
+<td width="166">2/9/24 3:04 PM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2024PU00211</td>
+<td width="168">2/9/24 5:51 PM</td>
+<td width="166">2/9/24 6:36 PM</td>
+<td width="223">CoRec</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Minor Consumption</td>
+<td width="154">2024PU00212</td>
+<td width="168">2/10/24 1:08 AM</td>
+<td width="166">2/10/24 1:26 AM</td>
+<td width="223">Acacia Fraternity</td>
+<td width="199">Pending Proseuctor Review</td>
+</tr>
+<tr>
+<td width="187">Public Intoxication</td>
+<td width="154">2024PU00213</td>
+<td width="168">2/10/24 8:54 PM</td>
+<td width="166">2/10/24 8:58 PM</td>
+<td width="223">Mackey Arena</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2024PU00214</td>
+<td width="168">2/7/24 12:00 AM</td>
+<td width="166">2/11/24 2:36 PM</td>
+<td width="223">Hawkins Graduate House</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft-EMPV</td>
+<td width="154">2024PU00215</td>
+<td width="168">2/11/24 1:00 PM</td>
+<td width="166">2/11/24 4:56 PM</td>
+<td width="223">CoRec</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Reckless Driver</td>
+<td width="154">CAD# 2024-023372</td>
+<td width="168">2/10/24 8:18 PM</td>
+<td width="166">2/10/24 8:18 PM</td>
+<td width="223">Mitch Daniels Blvd/N Macarthur Dr</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
