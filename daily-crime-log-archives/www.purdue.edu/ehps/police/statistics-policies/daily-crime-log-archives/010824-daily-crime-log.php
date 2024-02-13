@@ -246,7 +246,7 @@
         
         
             
-                    <li role="none"><a href="https://www.bkstr.com/boilermakersstore" role="menuitem">Shop</a></li>
+                    <li role="none"><a href="https://purdueteamstore.com/home" role="menuitem">Shop</a></li>
             
                                  
         
@@ -646,7 +646,7 @@
 <td width="168">1/9/24 4:00 PM</td>
 <td width="166">1/10/24 9:22 PM</td>
 <td width="223">Beering Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">Suspended</td>
 </tr>
 <tr>
 <td width="187">Hit &amp; Run</td>

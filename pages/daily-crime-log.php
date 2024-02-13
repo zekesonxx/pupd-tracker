@@ -246,7 +246,7 @@
         
         
             
-                    <li role="none"><a href="https://www.bkstr.com/boilermakersstore" role="menuitem">Shop</a></li>
+                    <li role="none"><a href="https://purdueteamstore.com/home" role="menuitem">Shop</a></li>
             
                                  
         
@@ -676,7 +676,42 @@
   
     	<section class="content__group">
   					<h3>Tuesday, February 13, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Fraud</td>
+<td style="font-weight: 400;" width="154">2024PU00217</td>
+<td style="font-weight: 400;" width="168">2/12/24 12:58 PM</td>
+<td style="font-weight: 400;" width="166">2/12/24 1:18 PM</td>
+<td style="font-weight: 400;" width="223">Meredith Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00218</td>
+<td style="font-weight: 400;" width="168">2/10/24 12:00 AM</td>
+<td style="font-weight: 400;" width="166">2/12/24 4:54 PM</td>
+<td style="font-weight: 400;" width="223">Hampton Civil Engineering</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU00219</td>
+<td style="font-weight: 400;" width="168">2/13/24 1:56 AM</td>
+<td style="font-weight: 400;" width="166">2/13/24 2:22 AM</td>
+<td style="font-weight: 400;" width="223">US 231 Hwy/ Cherry Ln</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
