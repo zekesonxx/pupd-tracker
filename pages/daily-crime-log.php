@@ -669,7 +669,58 @@
   
     	<section class="content__group">
   					<h3>Wednesday, February 14, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Burglary</td>
+<td style="font-weight: 400;" width="154">2024PU00224</td>
+<td style="font-weight: 400;" width="168">2/11/24 1:00 AM</td>
+<td style="font-weight: 400;" width="166">2/13/24 5:24 PM</td>
+<td style="font-weight: 400;" width="223">Harrison Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Harassment</td>
+<td style="font-weight: 400;" width="154">2024PU00225</td>
+<td style="font-weight: 400;" width="168">2/13/24 3:00 PM</td>
+<td style="font-weight: 400;" width="166">2/13/24 5:59 PM</td>
+<td style="font-weight: 400;" width="223">Meredith Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft/Fraud</td>
+<td style="font-weight: 400;" width="154">2024PU00226</td>
+<td style="font-weight: 400;" width="168">2/13/24 10:00 AM</td>
+<td style="font-weight: 400;" width="166">2/13/24 6:52 PM</td>
+<td style="font-weight: 400;" width="223">Nelson Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00228</td>
+<td style="font-weight: 400;" width="168">2/7/24 7:00 PM</td>
+<td style="font-weight: 400;" width="166">2/13/24 9:40 PM</td>
+<td style="font-weight: 400;" width="223">Wetherill Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00229</td>
+<td style="font-weight: 400;" width="168">2/13/24 11:33 PM</td>
+<td style="font-weight: 400;" width="166">2/14/24 12:00 AM</td>
+<td style="font-weight: 400;" width="223">CoRec</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
