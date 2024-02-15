@@ -246,7 +246,7 @@
         
         
             
-                    <li role="none"><a href="https://www.bkstr.com/boilermakersstore" role="menuitem">Shop</a></li>
+                    <li role="none"><a href="https://purdueteamstore.com/home" role="menuitem">Shop</a></li>
             
                                  
         
@@ -776,7 +776,7 @@
 <td width="168">1/25/24 2:49 AM</td>
 <td width="166">1/25/24 3:12 AM</td>
 <td width="223">Shreve Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Drug Law Violation</td>
