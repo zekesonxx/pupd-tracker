@@ -655,7 +655,58 @@
   
     	<section class="content__group">
   					<h3>Friday, February 16, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00237</td>
+<td style="font-weight: 400;" width="168">2/13/24 10:00 PM</td>
+<td style="font-weight: 400;" width="166">2/15/24 2:10 PM</td>
+<td style="font-weight: 400;" width="223">Owen Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00238</td>
+<td style="font-weight: 400;" width="168">1/26/24 1:00 AM</td>
+<td style="font-weight: 400;" width="166">2/15/24 3:21 PM</td>
+<td style="font-weight: 400;" width="223">Cary Quad Northeast</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU00243</td>
+<td style="font-weight: 400;" width="168">2/16/24 1:19 AM</td>
+<td style="font-weight: 400;" width="166">2/16/24 1:48 AM</td>
+<td style="font-weight: 400;" width="223">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Sexual Assault</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">Unknown</td>
+<td style="font-weight: 400;" width="166">Unknown</td>
+<td style="font-weight: 400;" width="223">Unknown</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Fondling</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">12/1/23 12:00 AM</td>
+<td style="font-weight: 400;" width="166">2/14/24 3:00 PM</td>
+<td style="font-weight: 400;" width="223">On-Campus Location</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

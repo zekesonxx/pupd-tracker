@@ -246,7 +246,7 @@
         
         
             
-                    <li role="none"><a href="https://www.bkstr.com/boilermakersstore" role="menuitem">Shop</a></li>
+                    <li role="none"><a href="https://purdueteamstore.com/home" role="menuitem">Shop</a></li>
             
                                  
         
@@ -974,7 +974,7 @@
 <td width="168">1/26/24 11:12 PM</td>
 <td width="166">1/26/24 11:29 PM</td>
 <td width="223">Aspire</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>

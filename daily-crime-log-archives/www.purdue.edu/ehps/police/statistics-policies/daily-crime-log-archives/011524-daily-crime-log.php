@@ -646,7 +646,7 @@
 <td style="font-weight: 400;" width="168">1/18/24 8:00 AM</td>
 <td style="font-weight: 400;" width="166">1/18/24 10:34 AM</td>
 <td style="font-weight: 400;" width="223">CoRec</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Harassment</td>
