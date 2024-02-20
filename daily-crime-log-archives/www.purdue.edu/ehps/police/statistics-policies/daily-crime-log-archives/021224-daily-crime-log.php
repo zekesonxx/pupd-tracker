@@ -852,7 +852,7 @@
 <td style="font-weight: 400;" width="168">2/10/24 12:00 AM</td>
 <td style="font-weight: 400;" width="166">2/12/24 4:54 PM</td>
 <td style="font-weight: 400;" width="223">Hampton Civil Engineering</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Drug Law Violation</td>
