@@ -802,7 +802,7 @@
 <td style="font-weight: 400;" width="168">2/13/24 10:00 AM</td>
 <td style="font-weight: 400;" width="166">2/13/24 6:52 PM</td>
 <td style="font-weight: 400;" width="223">Nelson Hall</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft-Bike</td>
@@ -934,7 +934,7 @@
 <td width="168">2/10/24 8:54 PM</td>
 <td width="166">2/10/24 8:58 PM</td>
 <td width="223">Mackey Arena</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft-Bike</td>

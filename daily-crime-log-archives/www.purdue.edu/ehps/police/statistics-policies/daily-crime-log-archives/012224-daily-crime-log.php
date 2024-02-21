@@ -942,7 +942,7 @@
 <td style="font-weight: 400;" width="168">1/20/24 12:56 AM</td>
 <td style="font-weight: 400;" width="166">1/20/24 1:23 AM</td>
 <td style="font-weight: 400;" width="223">Owen Hall</td>
-<td style="font-weight: 400;" width="199">Arrest Made</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Drug Law Violation</td>

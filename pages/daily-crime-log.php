@@ -669,7 +669,34 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, February 21, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00272</td>
+<td style="font-weight: 400;" width="168">2/13/24 12:30 PM</td>
+<td style="font-weight: 400;" width="166">2/20/24 7:12 PM</td>
+<td style="font-weight: 400;" width="223">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00273</td>
+<td style="font-weight: 400;" width="168">2/20/24 7:45 PM</td>
+<td style="font-weight: 400;" width="166">2/20/24 9:14 PM</td>
+<td style="font-weight: 400;" width="223">Windsor Dining Court</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
