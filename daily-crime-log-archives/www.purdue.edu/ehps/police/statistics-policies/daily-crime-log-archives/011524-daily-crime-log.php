@@ -654,7 +654,7 @@
 <td style="font-weight: 400;" width="168">1/5/24 2:30 PM</td>
 <td style="font-weight: 400;" width="166">1/18/24 3:37 PM</td>
 <td style="font-weight: 400;" width="223">Tarkington Hall</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 </tbody>
 </table>
@@ -778,9 +778,9 @@
 <td width="187">Minor Consumption</td>
 <td width="154">2024PU00055</td>
 <td width="168">1/12/24 11:18 PM</td>
-<td width="166">1/24/23 11:32 PM</td>
+<td width="166">1/12/24 11:32 PM</td>
 <td width="223">Shreve Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>

@@ -662,7 +662,138 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, February 22, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft-Bike</td>
+<td width="154">2024PU00268</td>
+<td width="168">2/19/24 2:20 PM</td>
+<td width="166">2/20/24 10:12 AM</td>
+<td width="223">Hilltop</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2024PU00277</td>
+<td width="168">1/31/24 2:00 PM</td>
+<td width="166">2/21/24 9:13 PM</td>
+<td width="223">Aspire</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>8 Disciplinary Referral</td>
+<td>1/26/24 9:45 PM</td>
+<td>1/26/24 10:23 PM</td>
+<td>Hilltop Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>9 Disciplinary Referral</td>
+<td>1/26/24 10:30 PM</td>
+<td>1/27/24 12:18 AM</td>
+<td>Aspire UR Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>7 Disciplinary Referral</td>
+<td>1/26/24 11:58 PM</td>
+<td>1/27/24 12:46 AM</td>
+<td>Winifred Parker Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>5 Disciplinary Referral</td>
+<td>1/27/24 12:30 AM</td>
+<td>1/27/24 2:11 AM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>1/27/24 12:45 AM</td>
+<td>1/27/24 1:42 AM</td>
+<td>Tarkington Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>8 Disciplinary Referral</td>
+<td>1/27/24 1:00 AM</td>
+<td>1/27/24 1:22 AM</td>
+<td>Winifred Parker Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>1/27/24 1:45 AM</td>
+<td>1/27/24 2:43 AM</td>
+<td>Tarkington Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>1/27/24 11:00 PM</td>
+<td>1/27/24 11:19 PM</td>
+<td>Winifred Parker Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>1/28/24 2:15 AM</td>
+<td>1/28/24 3:34 AM</td>
+<td>Tarkington Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>1/28/24 2:45 AM</td>
+<td>1/28/24 3:46 AM</td>
+<td>Frieda Parker Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>2/5/24 4:30 PM</td>
+<td>2/5/24 6:37 PM</td>
+<td>Aspire UR Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>7 Disciplinary Referral</td>
+<td>2/9/24 10:15 PM</td>
+<td>2/9/24 10:59 PM</td>
+<td>Aspire UR Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>10 Disciplinary Referral</td>
+<td>2/11/24 12:15 AM</td>
+<td>2/10/24 12:58 AM</td>
+<td>Aspire UR Apts</td>
+<td>Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
