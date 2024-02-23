@@ -958,7 +958,7 @@
 <td width="168">1/26/24 10:15 PM</td>
 <td width="166">1/26/24 10:23 PM</td>
 <td width="223">Horticulture Park</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Drug Law Violation/Minor Consumption</td>
@@ -982,7 +982,7 @@
 <td width="168">1/26/24 11:21 PM</td>
 <td width="166">1/26/24 11:46 PM</td>
 <td width="223">Owen Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>

@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			021924 Daily Crime Log - 
+			022624 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -654,320 +654,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, February 23, 2024</h3>
+  					<h3>Friday, March 1, 2024</h3>
 Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, February 22, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="187">Theft-Bike</td>
-<td width="154">2024PU00268</td>
-<td width="168">2/19/24 2:20 PM</td>
-<td width="166">2/20/24 10:12 AM</td>
-<td width="223">Hilltop</td>
-<td width="199">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Theft</td>
-<td width="154">2024PU00277</td>
-<td width="168">1/31/24 2:00 PM</td>
-<td width="166">2/21/24 9:13 PM</td>
-<td width="223">Aspire</td>
-<td width="199">Under Investigation</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>8 Disciplinary Referral</td>
-<td>1/26/24 9:45 PM</td>
-<td>1/26/24 10:23 PM</td>
-<td>Hilltop Apts</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>9 Disciplinary Referral</td>
-<td>1/26/24 10:30 PM</td>
-<td>1/27/24 12:18 AM</td>
-<td>Aspire UR Apts</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>7 Disciplinary Referral</td>
-<td>1/26/24 11:58 PM</td>
-<td>1/27/24 12:46 AM</td>
-<td>Winifred Parker Hall</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>5 Disciplinary Referral</td>
-<td>1/27/24 12:30 AM</td>
-<td>1/27/24 2:11 AM</td>
-<td>Owen Hall</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>2 Disciplinary Referral</td>
-<td>1/27/24 12:45 AM</td>
-<td>1/27/24 1:42 AM</td>
-<td>Tarkington Hall</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>8 Disciplinary Referral</td>
-<td>1/27/24 1:00 AM</td>
-<td>1/27/24 1:22 AM</td>
-<td>Winifred Parker Hall</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>2 Disciplinary Referral</td>
-<td>1/27/24 1:45 AM</td>
-<td>1/27/24 2:43 AM</td>
-<td>Tarkington Hall</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>1 Disciplinary Referral</td>
-<td>1/27/24 11:00 PM</td>
-<td>1/27/24 11:19 PM</td>
-<td>Winifred Parker Hall</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Drug Law Violation</td>
-<td>2 Disciplinary Referral</td>
-<td>1/28/24 2:15 AM</td>
-<td>1/28/24 3:34 AM</td>
-<td>Tarkington Hall</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>1 Disciplinary Referral</td>
-<td>1/28/24 2:45 AM</td>
-<td>1/28/24 3:46 AM</td>
-<td>Frieda Parker Hall</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Drug Law Violation</td>
-<td>2 Disciplinary Referral</td>
-<td>2/5/24 4:30 PM</td>
-<td>2/5/24 6:37 PM</td>
-<td>Aspire UR Apts</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>7 Disciplinary Referral</td>
-<td>2/9/24 10:15 PM</td>
-<td>2/9/24 10:59 PM</td>
-<td>Aspire UR Apts</td>
-<td>Judicial Review</td>
-</tr>
-<tr>
-<td>Liquor Law Violation</td>
-<td>10 Disciplinary Referral</td>
-<td>2/11/24 12:15 AM</td>
-<td>2/10/24 12:58 AM</td>
-<td>Aspire UR Apts</td>
-<td>Judicial Review</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, February 29, 2024</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, February 21, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft</td>
-<td style="font-weight: 400;" width="154">2024PU00272</td>
-<td style="font-weight: 400;" width="168">2/13/24 12:30 PM</td>
-<td style="font-weight: 400;" width="166">2/20/24 7:12 PM</td>
-<td style="font-weight: 400;" width="223">Frieda Parker Hall</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="187">Theft</td>
-<td style="font-weight: 400;" width="154">2024PU00273</td>
-<td style="font-weight: 400;" width="168">2/20/24 7:45 PM</td>
-<td style="font-weight: 400;" width="166">2/20/24 9:14 PM</td>
-<td style="font-weight: 400;" width="223">Windsor Dining Court</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, February 28, 2024</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday, February 20, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="187">Harassment</td>
-<td width="154">2024PU00236</td>
-<td width="168">2/12/24 6:00 PM</td>
-<td width="166">2/15/24 11:12 AM</td>
-<td width="223">Krannert</td>
-<td width="199">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Theft-Bike</td>
-<td width="154">2024PU00239</td>
-<td width="168">2/15/24 3:18 PM</td>
-<td width="166">2/15/24 3:28 PM</td>
-<td width="223">Hillenbrand Hall</td>
-<td width="199">Unfounded</td>
-</tr>
-<tr>
-<td width="187">Harassment</td>
-<td width="154">2024PU00261</td>
-<td width="168">2/19/24 11:18 AM</td>
-<td width="166">2/19/24 11:42 AM</td>
-<td width="223">1st St Towers</td>
-<td width="199">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Theft-EMPV</td>
-<td width="154">2024PU00262</td>
-<td width="168">2/15/24 8:30 PM</td>
-<td width="166">2/19/24 1:29 PM</td>
-<td width="223">Purdue Memorial Union</td>
-<td width="199">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Theft-EMPV</td>
-<td width="154">2024PU00264</td>
-<td width="168">2/19/24 6:08 PM</td>
-<td width="166">2/19/24 6:12 PM</td>
-<td width="223">Grissom Hall</td>
-<td width="199">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Dating Violence</td>
-<td width="154">CSA</td>
-<td width="168">8/1/23 12:00 AM</td>
-<td width="166">2/19/24 3:00 PM</td>
-<td width="223">On-Campus Housing</td>
-<td width="199">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday, February 27, 2024</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, February 19, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="187">Theft-Vehicle</td>
-<td width="154">2024PU00245</td>
-<td width="168">2/16/24 9:36 AM</td>
-<td width="166">2/16/24 9:49 AM</td>
-<td width="223">Ford Dining Court</td>
-<td width="199">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Fraud</td>
-<td width="154">2024PU00249</td>
-<td width="168">2/16/24 2:09 PM</td>
-<td width="166">2/16/24 2:32 PM</td>
-<td width="223">Tarkington Hall</td>
-<td width="199">Under Investigation</td>
-</tr>
-<tr>
-<td width="187">Minor Consumption</td>
-<td width="154">2024PU00253</td>
-<td width="168">2/17/24 12:46 AM</td>
-<td width="166">2/17/24 2:22 AM</td>
-<td width="223">McCutcheon Hall</td>
-<td width="199">Arrest Made</td>
-</tr>
-<tr>
-<td width="187">Public Intoxication</td>
-<td width="154">2024PU00254</td>
-<td width="168">2/17/24 3:24 AM</td>
-<td width="166">2/17/24 3:38 AM</td>
-<td width="223">Chaney Hale Hall</td>
-<td width="199">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td width="187">Drug Law Violation</td>
-<td width="154">2024PU00255</td>
-<td width="168">2/17/24 10:54 PM</td>
-<td width="166">2/17/24 11:21 PM</td>
-<td width="223">Meredith Hall</td>
-<td width="199">Arrest Made</td>
-</tr>
-<tr>
-<td width="187">Minor Consumption</td>
-<td width="154">2024PU00256</td>
-<td width="168">2/18/24 1:15 AM</td>
-<td width="166">2/18/24 1:27 AM</td>
-<td width="223">McCutcheon Hall</td>
-<td width="199">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td width="187">Residential Entry</td>
-<td width="154">2024PU00259</td>
-<td width="168">2/18/24 1:30 AM</td>
-<td width="166">2/18/24 3:03 PM</td>
-<td width="223">Wiley Hall</td>
-<td width="199">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Monday, February 26, 2024</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
