@@ -657,7 +657,7 @@
 <td style="font-weight: 400;" width="199">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="187">False Informing/Bomb Theats</td>
+<td style="font-weight: 400;" width="187">False Informing/Bomb Threats</td>
 <td style="font-weight: 400;" width="154">2024PU00282</td>
 <td style="font-weight: 400;" width="168">2/22/24 2:00 PM</td>
 <td style="font-weight: 400;" width="166">2/22/24 2:00 PM</td>
