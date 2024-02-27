@@ -676,7 +676,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, February 27, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="187">Theft</td>
+<td width="154">2024PU00307</td>
+<td width="168">2/26/24 10:55 AM</td>
+<td width="166">2/26/24 11:10 AM</td>
+<td width="223">Physics Building</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2024PU00311</td>
+<td width="168">2/26/24 4:09 PM</td>
+<td width="166">2/26/24 4:25 PM</td>
+<td width="223">Hilltop</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="187">Criminal Mischief</td>
+<td width="154">2024PU00312</td>
+<td width="168">2/26/24 6:17 PM</td>
+<td width="166">2/26/24 6:37 PM</td>
+<td width="223">Krach Leadership Center</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td>Criminal Mischief</td>
+<td>2024PU00313</td>
+<td>2/26/24 5:14 PM</td>
+<td>2/26/24 8:09 PM</td>
+<td>Mechanical Engineering</td>
+<td>Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -747,7 +790,7 @@ Will be posted soon.
 <td width="168">2/24/24 12:45 PM</td>
 <td width="166">2/24/24 5:55 PM</td>
 <td width="223">Purdue Memorial Union</td>
-<td width="199">Under Investigation</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
@@ -763,7 +806,7 @@ Will be posted soon.
 <td width="168">2/25/24 12:23 AM</td>
 <td width="166">2/25/24 12:43 AM</td>
 <td width="223">Winifred Parker Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>

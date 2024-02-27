@@ -246,7 +246,7 @@
         
         
             
-                    <li role="none"><a href="https://www.bkstr.com/boilermakersstore" role="menuitem">Shop</a></li>
+                    <li role="none"><a href="https://purdueteamstore.com/home" role="menuitem">Shop</a></li>
             
                                  
         
@@ -958,7 +958,7 @@
 <td style="font-weight: 400;" width="168">2/4/24 12:55 AM</td>
 <td style="font-weight: 400;" width="166">2/4/24 1:15 AM</td>
 <td style="font-weight: 400;" width="223">Freida Parker Hall</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Minor Consumption</td>

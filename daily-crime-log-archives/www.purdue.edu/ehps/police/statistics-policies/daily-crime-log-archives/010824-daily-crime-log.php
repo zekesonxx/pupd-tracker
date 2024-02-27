@@ -894,7 +894,7 @@
 <td width="168">1/5/24 8:54 PM</td>
 <td width="166">1/5/24 9:19 PM</td>
 <td width="223">Purdue Union Club Hotel</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Public Intoxication</td>

@@ -796,7 +796,7 @@
 <td width="168">1/13/24 11:26 PM</td>
 <td width="166">1/13/24 11:45 PM</td>
 <td width="223">Phi Sigma Rho</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
@@ -812,7 +812,7 @@
 <td width="168">1/14/24 2:10 AM</td>
 <td width="166">1/14/24 2:31 AM</td>
 <td width="223">Tarkington Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>
