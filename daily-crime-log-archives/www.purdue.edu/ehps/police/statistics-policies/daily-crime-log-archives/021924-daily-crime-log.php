@@ -707,12 +707,12 @@
 <th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
 </tr>
 <tr>
-<td width="187">Theft-Bike</td>
+<td width="187">Theft-EMPV</td>
 <td width="154">2024PU00268</td>
 <td width="168">2/19/24 2:20 PM</td>
 <td width="166">2/20/24 10:12 AM</td>
 <td width="223">Hilltop</td>
-<td width="199">Under Investigation</td>
+<td width="199">The property was determined to be an E-Bike. Under Investigation</td>
 </tr>
 <tr>
 <td width="187">Theft</td>

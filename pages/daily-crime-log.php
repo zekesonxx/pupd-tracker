@@ -669,7 +669,130 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, February 28, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Resisting Law Enforcement</td>
+<td style="font-weight: 400;" width="154">2024PU000314</td>
+<td style="font-weight: 400;" width="168">2/27/24 3:18 AM</td>
+<td style="font-weight: 400;" width="166">2/27/24 4:34 AM</td>
+<td style="font-weight: 400;" width="223">State Rd 26/ US 231 Hwy</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00315</td>
+<td style="font-weight: 400;" width="168">1/20/24 9:20 AM</td>
+<td style="font-weight: 400;" width="166">2/27/24 8:45 AM</td>
+<td style="font-weight: 400;" width="223">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Burglary</td>
+<td style="font-weight: 400;" width="154">2024PU00316</td>
+<td style="font-weight: 400;" width="168">2/27/24 9:50 AM</td>
+<td style="font-weight: 400;" width="166">2/27/24 10:18 AM</td>
+<td style="font-weight: 400;" width="223">Physics Building</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Criminal Mischief/ Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00317</td>
+<td style="font-weight: 400;" width="168">2/22/24 5:00 PM</td>
+<td style="font-weight: 400;" width="166">2/27/24 11:51 AM</td>
+<td style="font-weight: 400;" width="223">Hovde Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00320</td>
+<td style="font-weight: 400;" width="168">1/15/24 12:00 AM</td>
+<td style="font-weight: 400;" width="166">2/27/24 1:20 PM</td>
+<td style="font-weight: 400;" width="223">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Criminal Mischief</td>
+<td style="font-weight: 400;">2024PU00321</td>
+<td style="font-weight: 400;">2/26/24 7:00 PM</td>
+<td style="font-weight: 400;">2/27/24 3:10 PM</td>
+<td style="font-weight: 400;">Schleman Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU00322</td>
+<td style="font-weight: 400;" width="168">2/27/24 2:25 PM</td>
+<td style="font-weight: 400;" width="166">2/27/24 6:24 PM</td>
+<td style="font-weight: 400;" width="223">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU00325</td>
+<td style="font-weight: 400;" width="168">2/27/24 8:59 PM</td>
+<td style="font-weight: 400;" width="166">2/27/24 9:14 PM</td>
+<td style="font-weight: 400;" width="223">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00326</td>
+<td style="font-weight: 400;" width="168">2/27/24 4:56 PM</td>
+<td style="font-weight: 400;" width="166">2/27/24 9:14 PM</td>
+<td style="font-weight: 400;" width="223">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00327</td>
+<td style="font-weight: 400;" width="168">2/27/24 6:00 PM</td>
+<td style="font-weight: 400;" width="166">2/27/24 9:36 PM</td>
+<td style="font-weight: 400;" width="223">Physics Building</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00328</td>
+<td style="font-weight: 400;" width="168">2/27/24 4:00 PM</td>
+<td style="font-weight: 400;" width="166">2/27/24 11:48 PM</td>
+<td style="font-weight: 400;" width="223">Hiene Pharmacy Building</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00329</td>
+<td style="font-weight: 400;" width="168">2/27/24 9:27 AM</td>
+<td style="font-weight: 400;" width="166">2/27/24 9:12 PM</td>
+<td style="font-weight: 400;" width="223">Physics Building</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Harassment</td>
+<td style="font-weight: 400;" width="154">2024PU00331</td>
+<td style="font-weight: 400;" width="168">2/19/24 5:20 PM</td>
+<td style="font-weight: 400;" width="166">2/23/24 6:15 AM</td>
+<td style="font-weight: 400;" width="223">Pao Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-032914</td>
+<td style="font-weight: 400;" width="168">2/27/24 1:15 AM</td>
+<td style="font-weight: 400;" width="166">2/27/27 1:15 AM</td>
+<td style="font-weight: 400;" width="223">Harrison Hall</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
