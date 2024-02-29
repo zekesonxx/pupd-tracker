@@ -926,7 +926,7 @@
 <td width="168">2/10/24 1:08 AM</td>
 <td width="166">2/10/24 1:26 AM</td>
 <td width="223">Acacia Fraternity</td>
-<td width="199">Pending Proseuctor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Public Intoxication</td>

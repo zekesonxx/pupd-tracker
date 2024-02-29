@@ -662,7 +662,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, February 29, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="187">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00334</td>
+<td style="font-weight: 400;" width="168">2/28/24 4:27 PM</td>
+<td style="font-weight: 400;" width="166">2/28/24 4:58 PM</td>
+<td style="font-weight: 400;" width="223">Mackey Arena</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00337</td>
+<td style="font-weight: 400;" width="168">2/28/24 8:42 PM</td>
+<td style="font-weight: 400;" width="166">2/28/24 8:58 PM</td>
+<td style="font-weight: 400;" width="223">Lambertus Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00338</td>
+<td style="font-weight: 400;" width="168">2/28/24 4:00 PM</td>
+<td style="font-weight: 400;" width="166">2/28/24 10:33 PM</td>
+<td style="font-weight: 400;" width="223">Forney Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Intimidation</td>
+<td style="font-weight: 400;">2024PU00339</td>
+<td style="font-weight: 400;">2/29/24 1:18 AM</td>
+<td style="font-weight: 400;">2/29/24 2:07 AM</td>
+<td style="font-weight: 400;">Harrison Hall</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="187">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-034205</td>
+<td style="font-weight: 400;" width="168">2/29/24 12:08 AM</td>
+<td style="font-weight: 400;" width="166">2/29/24 12:08 AM</td>
+<td style="font-weight: 400;" width="223">3rd St/N Macarthur Dr</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
