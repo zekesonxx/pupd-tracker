@@ -655,7 +655,66 @@
   
     	<section class="content__group">
   					<h3>Friday, March 1, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="240">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="240">Theft-EMPV</td>
+<td width="154">2024PU00341</td>
+<td width="168">2/27/24 4:00 PM</td>
+<td width="166">2/29/24 9:40 AM</td>
+<td width="223">Rawls Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Theft</td>
+<td width="154">2024PU00342</td>
+<td width="168">2/28/24 5:30 PM</td>
+<td width="166">2/29/24 12:28 PM</td>
+<td width="223">Dudley Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Hit &amp; Run</td>
+<td width="154">2024PU00343</td>
+<td width="168">2/29/24 1:15 PM</td>
+<td width="166">2/29/24 1:44 PM</td>
+<td width="223">Young Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td>Theft-Bike</td>
+<td>2024PU00344</td>
+<td>2/29/24 10:29 AM</td>
+<td>2/29/24 2:39 PM</td>
+<td>Knoy Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Burglary</td>
+<td width="154">2024PU00346</td>
+<td width="168">2/29/24 6:58 PM</td>
+<td width="166">2/29/24 7:42 PM</td>
+<td width="223">Wood St Parking Garage</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Criminal Mischief</td>
+<td width="154">2024PU00347</td>
+<td width="168">2/29/24 6:00 PM</td>
+<td width="166">2/29/24 11:04 PM</td>
+<td width="223">Lynn Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -674,7 +733,7 @@ Will be posted soon.
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft</td>
-<td style="font-weight: 400;" width="154">2024PU00334</td>
+<td style="font-weight: 400;" width="154">2024PU00335</td>
 <td style="font-weight: 400;" width="168">2/28/24 4:27 PM</td>
 <td style="font-weight: 400;" width="166">2/28/24 4:58 PM</td>
 <td style="font-weight: 400;" width="223">Mackey Arena</td>
@@ -956,7 +1015,7 @@ Will be posted soon.
 <td width="168">2/23/24 9:39 PM</td>
 <td width="166">2/23/24 9:54 PM</td>
 <td width="223">Wetherill</td>
-<td width="199">Under Investigation</td>
+<td width="199">Arrest Made</td>
 </tr>
 <tr>
 <td width="187">Theft-Bike</td>
