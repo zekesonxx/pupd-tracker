@@ -683,7 +683,130 @@
   
     	<section class="content__group">
   					<h3>Monday, March 4, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="240">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="240">Theft</td>
+<td width="154">2024PU00348</td>
+<td width="168">2/29/24 2:13 PM</td>
+<td width="166">3/1/24 2:17 PM</td>
+<td width="223">Stewart Center</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Operating While Intoxicated</td>
+<td width="154">2024PU00352</td>
+<td width="168">3/2/24 3:46 AM</td>
+<td width="166">3/2/24 4:21 AM</td>
+<td width="223">US HWY 231 S/ West State St</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="240">Criminal Mischief</td>
+<td width="154">2024PU00353</td>
+<td width="168">3/2/24 2:55 AM</td>
+<td width="166">3/2/24 10:51 AM</td>
+<td width="223">Owen Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td>Theft-Bike</td>
+<td>2024PU00354</td>
+<td>12/15/23 12:00 AM</td>
+<td>3/2/24 5:02 PM</td>
+<td>Hilltop</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Criminal Mischief</td>
+<td width="154">2024PU00355</td>
+<td width="168">3/3/24 1:32 AM</td>
+<td width="166">3/3/24 1:40 AM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Criminal Mischief</td>
+<td width="154">2024PU00356</td>
+<td width="168">3/3/24 2:49 AM</td>
+<td width="166">3/3/24 2:59 AM</td>
+<td width="223">Armory</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Operating While Intoxicated</td>
+<td width="154">2024PU00358</td>
+<td width="168">3/3/24 2:55 AM</td>
+<td width="166">3/3/24 3:50 AM</td>
+<td width="223">1000 Blk S River Rd</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="240">Theft</td>
+<td width="154">2024PU00360</td>
+<td width="168">3/3/24 2:02 PM</td>
+<td width="166">3/3/24 2:18 PM</td>
+<td width="223">Dudley Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Criminal Mischief</td>
+<td width="154">2024PU00361</td>
+<td width="168">3/3/24 2:48 PM</td>
+<td width="166">3/3/24 3:03 PM</td>
+<td width="223">Alpha Sigma Phi</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Theft</td>
+<td width="154">2024PU00363</td>
+<td width="168">3/3/24 7:33 PM</td>
+<td width="166">3/3/24 7:55 PM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Theft</td>
+<td width="154">2024PU00364</td>
+<td width="168">3/3/24 3:00 AM</td>
+<td width="166">3/3/24 8:18 PM</td>
+<td width="223">Triangle Fraternity</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Drug Law Violation</td>
+<td width="154">CAD# 2024-036015</td>
+<td width="168">3/3/24 12:16 AM</td>
+<td width="166">3/3/24 12:16 AM</td>
+<td width="223">McCutcheon Parking Garage&#160;</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="240">Reckless Driver</td>
+<td width="154">CAD# 2024-036384</td>
+<td width="168">3/3/24 6:25 PM</td>
+<td width="166">3/3/24 6:25 PM</td>
+<td width="223">S River Rd/ US HWY 231 S</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="240">Drug Law Violation</td>
+<td width="154">CAD# 2024-036475</td>
+<td width="168">3/3/24 10:29 PM</td>
+<td width="166">3/3/24 10:29 PM</td>
+<td width="223">Warren Hall</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

@@ -665,12 +665,12 @@
 <td width="199">Under Investigation</td>
 </tr>
 <tr>
-<td>Theft-Bike</td>
+<td>Theft-EMPV</td>
 <td>2024PU00344</td>
 <td>2/29/24 10:29 AM</td>
 <td>2/29/24 2:39 PM</td>
 <td>Knoy Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">The property was determined to be an E-Bike. Under Investigation</td>
 </tr>
 <tr>
 <td width="240">Burglary</td>
