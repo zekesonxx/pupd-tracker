@@ -649,12 +649,12 @@
 <td width="199">Under Investigation</td>
 </tr>
 <tr>
-<td width="240">Theft</td>
+<td width="240">Burglary</td>
 <td width="154">2024PU00342</td>
 <td width="168">2/28/24 5:30 PM</td>
 <td width="166">2/29/24 12:28 PM</td>
 <td width="223">Dudley Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199"><span>Under Investigation. The investigation determined this case to be a burglary</span></td>
 </tr>
 <tr>
 <td width="240">Hit &amp; Run</td>
@@ -707,12 +707,12 @@
 <th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="187">Burglary</td>
 <td style="font-weight: 400;" width="154">2024PU00335</td>
 <td style="font-weight: 400;" width="168">2/28/24 4:27 PM</td>
 <td style="font-weight: 400;" width="166">2/28/24 4:58 PM</td>
 <td style="font-weight: 400;" width="223">Mackey Arena</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199"><span>Under Investigation. The investigation determined this case to be a burglary</span></td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft</td>
@@ -723,12 +723,12 @@
 <td style="font-weight: 400;" width="199">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="187">Burglary</td>
 <td style="font-weight: 400;" width="154">2024PU00338</td>
 <td style="font-weight: 400;" width="168">2/28/24 4:00 PM</td>
 <td style="font-weight: 400;" width="166">2/28/24 10:33 PM</td>
 <td style="font-weight: 400;" width="223">Forney Hall</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199"><span>Under Investigation. The investigation determined this case to be a burglary</span></td>
 </tr>
 <tr>
 <td style="font-weight: 400;">Intimidation</td>
@@ -789,12 +789,12 @@
 <td style="font-weight: 400;" width="199">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="187">Criminal Mischief/ Theft</td>
+<td style="font-weight: 400;" width="187">Criminal Mischief/Burglary</td>
 <td style="font-weight: 400;" width="154">2024PU00317</td>
 <td style="font-weight: 400;" width="168">2/22/24 5:00 PM</td>
 <td style="font-weight: 400;" width="166">2/27/24 11:51 AM</td>
 <td style="font-weight: 400;" width="223">Hovde Hall</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199"><span>Under Investigation. The investigation determined this case to be a burglary</span></td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft-Bike</td>
@@ -837,12 +837,12 @@
 <td style="font-weight: 400;" width="199">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="187">Theft</td>
+<td style="font-weight: 400;" width="187">Burglary</td>
 <td style="font-weight: 400;" width="154">2024PU00327</td>
 <td style="font-weight: 400;" width="168">2/27/24 6:00 PM</td>
 <td style="font-weight: 400;" width="166">2/27/24 9:36 PM</td>
 <td style="font-weight: 400;" width="223">Physics Building</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199"><span>Under Investigation. The investigation determined this case to be a burglary</span></td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft</td>
@@ -895,12 +895,12 @@
 <th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
 </tr>
 <tr>
-<td width="187">Theft</td>
+<td width="187">Burglary</td>
 <td width="154">2024PU00307</td>
 <td width="168">2/26/24 10:55 AM</td>
 <td width="166">2/26/24 11:10 AM</td>
 <td width="223">Physics Building</td>
-<td width="199">Under Investigation</td>
+<td width="199"><span>Under Investigation. The investigation determined this case to be a burglary</span></td>
 </tr>
 <tr>
 <td width="187">Criminal Mischief</td>
@@ -1049,12 +1049,12 @@
 <td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
-<td width="187">Fraud/Theft</td>
+<td width="187">Fraud/Burglary</td>
 <td width="154">2024PU00301</td>
 <td width="168">2/24/24 9:18 PM</td>
 <td width="166">2/25/24 4:04 AM</td>
 <td width="223">Brown Lab</td>
-<td width="199">Under Investigation</td>
+<td width="199"><span>Under Investigation. The investigation determined this case to be a burglary</span></td>
 </tr>
 <tr>
 <td width="187">Theft-Bike</td>

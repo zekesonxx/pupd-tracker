@@ -676,7 +676,106 @@
   
     	<section class="content__group">
   					<h3>Tuesday, March 5, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="240">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="240">Harassment</td>
+<td width="154">2024PU00332</td>
+<td width="168">2/21/24 12:21 PM</td>
+<td width="166">2/28/24 7:02 AM</td>
+<td width="223">1st St Towers</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Harassment</td>
+<td width="154">2024PU00333</td>
+<td width="168">2/25/24 12:29 PM</td>
+<td width="166">2/28/24 7:06 AM</td>
+<td width="223">1st St Towers</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Possession of Stolen Property</td>
+<td width="154">2024PU00346</td>
+<td width="168">2/29/24 6:58 PM</td>
+<td width="166">2/29/24 6:58 PM</td>
+<td width="223">Wood St Garage</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Theft-Bike</td>
+<td width="154">2024PU00367</td>
+<td width="168">3/1/24 2:00 PM</td>
+<td width="166">3/4/24 11:19 AM</td>
+<td width="223">Bechtel Innovation Design Center</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Theft-Bike</td>
+<td width="154">2024PU00368</td>
+<td width="168">3/4/24 2:26 PM</td>
+<td width="166">3/4/24 2:53 PM</td>
+<td width="223">Meredith South Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Criminal Mischief</td>
+<td width="154">2024PU00369</td>
+<td width="168">3/4/24 1:00 PM</td>
+<td width="166">3/4/24 4:26 PM</td>
+<td width="223">McCutcheon Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td>Theft</td>
+<td>2024PU00370</td>
+<td>2/12/24 6:25 PM</td>
+<td>3/4/24 6:28 PM</td>
+<td>Honors College</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Theft-EMPV</td>
+<td width="154">2024PU00371</td>
+<td width="168">3/4/24 2:07 PM</td>
+<td width="166">3/4/24 6:32 PM</td>
+<td width="223">Mechanical Engineering</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Theft-EMPV</td>
+<td width="154">2024PU00374</td>
+<td width="168">3/4/24 8:05 PM</td>
+<td width="166">3/4/24 9:45 PM</td>
+<td width="223">Elliott Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Theft-Bike</td>
+<td width="154">2024PU00375</td>
+<td width="168">3/4/24 10:18 PM</td>
+<td width="166">3/4/24 10:21 PM</td>
+<td width="223">Meredith South Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Theft-EMPV</td>
+<td width="154">CAD# 2024-037015</td>
+<td width="168">3/4/24 8:46 PM</td>
+<td width="166">3/4/24 8:46 PM</td>
+<td width="223">Kozuch Football Performance Complex</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

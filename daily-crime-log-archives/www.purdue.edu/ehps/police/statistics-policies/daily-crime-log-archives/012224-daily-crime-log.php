@@ -818,7 +818,7 @@
 <td width="168">1/19/24 4:38 PM</td>
 <td width="166">1/23/24 5:01 PM</td>
 <td width="223">Tarkington Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">Suspended</td>
 </tr>
 <tr>
 <td width="187">Fraud</td>
