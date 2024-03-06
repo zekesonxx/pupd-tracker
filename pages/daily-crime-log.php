@@ -669,7 +669,58 @@
   
     	<section class="content__group">
   					<h3>Wednesday, March 6, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="240">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="240">Burglary</td>
+<td style="font-weight: 400;" width="154">2024PU00340</td>
+<td style="font-weight: 400;" width="168">2/28/24 4:30 AM</td>
+<td style="font-weight: 400;" width="166">2/29/24 9:47 AM</td>
+<td style="font-weight: 400;" width="223">Forney Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="240">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00376</td>
+<td style="font-weight: 400;" width="168">3/1/24 4:04 PM</td>
+<td style="font-weight: 400;" width="166">3/5/24 8:22 AM</td>
+<td style="font-weight: 400;" width="223">Armory</td>
+<td style="font-weight: 400;" width="199">This was previously reported in 2024PU00356</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="240">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU00378</td>
+<td style="font-weight: 400;" width="168">3/4/24 12:20 PM</td>
+<td style="font-weight: 400;" width="166">3/5/24 12:47 PM</td>
+<td style="font-weight: 400;" width="223">Chi Omega</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="240">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00379</td>
+<td style="font-weight: 400;" width="168">3/3/24 4:10 AM</td>
+<td style="font-weight: 400;" width="166">3/5/24 1:34 PM</td>
+<td style="font-weight: 400;" width="223">Phi Gamma Delta</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="240">Stalking</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">3/5/24 2:19 PM</td>
+<td style="font-weight: 400;" width="166">3/5/24 4:23 PM</td>
+<td style="font-weight: 400;" width="223">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -721,8 +772,8 @@
 <tr>
 <td width="240">Theft-Bike</td>
 <td width="154">2024PU00368</td>
-<td width="168">3/4/24 2:26 PM</td>
-<td width="166">3/4/24 2:53 PM</td>
+<td width="168">2/29/24 7:00 PM</td>
+<td width="166">3/4/24 8:30 AM</td>
 <td width="223">Meredith South Hall</td>
 <td width="199">Under Investigation</td>
 </tr>
@@ -764,7 +815,7 @@
 <td width="168">3/4/24 10:18 PM</td>
 <td width="166">3/4/24 10:21 PM</td>
 <td width="223">Meredith South Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">This was previously reported in 2024PU00368. Nothing Further.</td>
 </tr>
 <tr>
 <td width="240">Theft-EMPV</td>

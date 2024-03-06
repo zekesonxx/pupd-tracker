@@ -736,7 +736,7 @@
 <td width="168">2/8/24 1:09 AM</td>
 <td width="166">2/8/24 1:14 AM</td>
 <td width="223">3rd St/N Martin Jischke Dr</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft</td>
