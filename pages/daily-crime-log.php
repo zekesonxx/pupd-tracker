@@ -662,7 +662,122 @@
   
     	<section class="content__group">
   					<h3>Thursday, March 7, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="194">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU00386</td>
+<td style="font-weight: 400;" width="168">3/6/24 9:20 PM</td>
+<td style="font-weight: 400;" width="166">3/6/24 9:38 PM</td>
+<td style="font-weight: 400;" width="223">Waldron/ 2nd St</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Operating While Never Receiving Drivers License</td>
+<td style="font-weight: 400;" width="154">2024PU00387</td>
+<td style="font-weight: 400;" width="168">3/6/24 11:42 PM</td>
+<td style="font-weight: 400;" width="166">3/7/24 1:00 AM</td>
+<td style="font-weight: 400;" width="223">McCormick/ W Stadium Ave</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00388</td>
+<td style="font-weight: 400;" width="168">3/7/24 1:47 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 2:08 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00389</td>
+<td style="font-weight: 400;" width="168">3/7/24 1:47 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 2:08 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00390</td>
+<td style="font-weight: 400;" width="168">3/7/24 1:47 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 2:08 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00391</td>
+<td style="font-weight: 400;" width="168">3/7/24 1:47 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 2:08 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00392</td>
+<td style="font-weight: 400;" width="168">3/7/24 1:47 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 2:08 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00393</td>
+<td style="font-weight: 400;" width="168">3/7/24 1:47 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 2:08 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Minor Consumption/ Fraud</td>
+<td style="font-weight: 400;" width="154">2024PU00394</td>
+<td style="font-weight: 400;" width="168">3/7/24 2:24 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 2:46 AM</td>
+<td style="font-weight: 400;" width="223">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00395</td>
+<td style="font-weight: 400;" width="168">3/7/24 1:47 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 2:08 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-038374</td>
+<td style="font-weight: 400;" width="168">3/7/24 12:59 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 12:59 AM</td>
+<td style="font-weight: 400;" width="223">S University St/Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Aggravated Assault/Hate Crime (Nationality)</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-037112</td>
+<td style="font-weight: 400;" width="168">3/5/24 12:54 AM</td>
+<td style="font-weight: 400;" width="166">3/5/24 12:54 AM</td>
+<td style="font-weight: 400;" width="223">Kappa Sigma</td>
+<td style="font-weight: 400;" width="199">Documented 2024WL00557</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Rape</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">3/1/24 12:00 AM</td>
+<td style="font-weight: 400;" width="166">3/6/24 5:00 PM</td>
+<td style="font-weight: 400;" width="223">On-Campus Housing</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -759,7 +874,7 @@
 <td width="168">2/29/24 6:58 PM</td>
 <td width="166">2/29/24 6:58 PM</td>
 <td width="223">Wood St Garage</td>
-<td width="199">Under Investigation</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="240">Theft-Bike</td>
