@@ -10,7 +10,7 @@
 
 
 
-<meta content="Review the daily crime log archive maintained by the Purdue University Police Department." name="description"/>
+<meta content="Review the daily crime log maintained by the Purdue University Police Department." name="description"/>
 <meta content="Purdue University Police Department; Daily Crime Log; Clery Act" name="keywords"/>
 <meta content="Purdue University Administrative Operations Communications" name="author"/>
 
@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			Daily Crime Log Archive - 
+			030424 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -41,7 +41,7 @@
                                          
 		
 		    <style type="text/css">
-	    /* Any CSS placed in this text area will be placed inside of a style tag located in the head section of the page. */
+	    tr:nth-child(even){background-color:#f2f2f2}
 	</style>
 
 		
@@ -565,7 +565,7 @@
                                 
         
                 
-                     <li>Daily Crime Log Archive</li>
+                     <li>Daily Crime Log</li>
         
     </ul>
 </nav> 
@@ -583,6 +583,16 @@
 					<aside class="content__aside">
 						
 						
+<nav class="content__side-nav">
+        
+           
+                
+        
+                
+    <ul aria-label="Side Navigation" role="menu">
+                                     <li role="none">Daily Crime Log</li>
+                                            </ul>
+</nav>
 
 
 
@@ -606,22 +616,496 @@
 
 						
 						
-      <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h2>Archived Daily Crime Log</h2>
-<ul>
-<li><a href="030424-daily-crime-log.php" title="030424 Daily Crime Log">Week of March 4, 2024</a></li>
-<li><a href="022624-daily-crime-log.php" title="022624 Daily Crime Log">Week of February 26, 2024</a></li>
-<li><a href="021924-daily-crime-log.php" title="021924 Daily Crime Log">Week of February 19, 2024</a></li>
-<li><a href="021224-daily-crime-log.php" title="021224 Daily Crine Log">Week of February 12, 2024</a></li>
-<li><a href="020524-daily-crime-log.php" title="020524 Daily Crime Log">Week of February 5, 2024</a></li>
-<li><a href="012924-daily-crime-log.php" title="012924 Daily Crime Log">Week of January 29, 2024</a></li>
-<li><a href="012224-daily-crime-log.php" title="012224 Daily Crime Log">Week of January 22, 2024</a></li>
-<li><a href="011524-daily-crime-log.php">Week of January 15, 2024</a></li>
-<li><a href="010824-daily-crime-log.php" title="010824 Daily Crime Log">Week of January 8, 2024</a></li>
-<li><a href="010124-daily-crime-log.php" title="010124 Daily Crime Log">Week of January 1, 2024</a><a href="2023-archive/112723-daily-crime-log.php" title="112723 Daily Crime Log"></a><a href="2023-archive/103023-daily-crime-log.php" title="103023 Daily Crime Log"></a><a href="2023-archive/100223-daily-crime-log.php" title="100223 Daily Crime Log"></a><a href="2023-archive/082823-daily-crime-log.php" title="082823 Daily Crime Log"></a><a href="2023-archive/073123-daily-crime-log.php" title="073123 Daily Crime Log"></a><a href="2023-archive/070323-daily-crime-log.php" title="070323 Daily Crime Log"></a></li>
-</ul>
+  					<p>In accordance with the 1998 Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act (Clery Act), the Purdue University Police Department (PUPD) maintains a daily crime log.</p>
+<p>The daily crime log documents all crimes reported to the department, the dates the crimes were reported and whether the crimes occurred on campus, another Clery Act reportable geographic area or within the patrol jurisdiction.</p>
+<p>PUPD will make the crime log available for public inspection during normal business hours. Daily crime logs older than 60 days will be available within two business days of a request for public inspection. The most recent log entries are posted below.</p>
+<p>Understanding how the information in the log is collected and compiled is important to developing an accurate picture of campus crime.</p>
+<p>Not all of these crimes have been reported to the Purdue University Police Department for the purpose of police services. Rather, many of these crimes have been reported to University employees, who have identified by the Vice President for Ethics and Compliance (VPEC) as Campus Security Authorities (CSAs). CSAs are obligated by the Clery Act to report certain crimes to the university police department so the campus community may be notified of potential ongoing public safety issues and accurate statistics maintained. Many of these crime victims do not want immediate police intervention and may elect not to pursue a criminal investigation.</p>
+<h2>Daily Crime Log</h2>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Friday, March 8, 2024</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="194">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="194">Theft</td>
+<td width="154">2024PU00396</td>
+<td width="168">1/26/24 12:00 AM</td>
+<td width="166">3/7/24 11:42 AM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="194">Theft</td>
+<td width="154">2024PU00397</td>
+<td width="168">3/2/24 1:00 AM</td>
+<td width="166">3/7/24 1:31 PM</td>
+<td width="223">Meredith South Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="194">Minor Consumption</td>
+<td width="154">2024PU00402</td>
+<td width="168">3/8/24 12:35 AM</td>
+<td width="166">3/8/24 12:52 AM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="194">Trespassing</td>
+<td width="154">2024PU00403</td>
+<td width="168">3/8/24 12:36 AM</td>
+<td width="166">3/8/24 1:07 AM</td>
+<td width="223">Wilmeth Active Learning Center</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="194">Trespassing</td>
+<td width="154">CAD# 2024-038763</td>
+<td width="168">3/7/24 5:10 PM</td>
+<td width="166">3/7/24 5:10 PM</td>
+<td width="223">Ross-Ade&#160;</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Thursday, March 7, 2024</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="194">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU00386</td>
+<td style="font-weight: 400;" width="168">3/6/24 9:20 PM</td>
+<td style="font-weight: 400;" width="166">3/6/24 9:38 PM</td>
+<td style="font-weight: 400;" width="223">Waldron/ 2nd St</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Operating While Never Receiving Drivers License</td>
+<td style="font-weight: 400;" width="154">2024PU00387</td>
+<td style="font-weight: 400;" width="168">3/6/24 11:42 PM</td>
+<td style="font-weight: 400;" width="166">3/7/24 1:00 AM</td>
+<td style="font-weight: 400;" width="223">McCormick/ W Stadium Ave</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00388</td>
+<td style="font-weight: 400;" width="168">3/7/24 1:47 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 2:08 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00389</td>
+<td style="font-weight: 400;" width="168">3/7/24 1:47 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 2:08 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00390</td>
+<td style="font-weight: 400;" width="168">3/7/24 1:47 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 2:08 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00391</td>
+<td style="font-weight: 400;" width="168">3/7/24 1:47 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 2:08 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00392</td>
+<td style="font-weight: 400;" width="168">3/7/24 1:47 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 2:08 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00393</td>
+<td style="font-weight: 400;" width="168">3/7/24 1:47 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 2:08 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Minor Consumption/ Fraud</td>
+<td style="font-weight: 400;" width="154">2024PU00394</td>
+<td style="font-weight: 400;" width="168">3/7/24 2:24 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 2:46 AM</td>
+<td style="font-weight: 400;" width="223">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00395</td>
+<td style="font-weight: 400;" width="168">3/7/24 1:47 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 2:08 AM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-038374</td>
+<td style="font-weight: 400;" width="168">3/7/24 12:59 AM</td>
+<td style="font-weight: 400;" width="166">3/7/24 12:59 AM</td>
+<td style="font-weight: 400;" width="223">S University St/Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Aggravated Assault/Hate Crime (Nationality)</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-037112</td>
+<td style="font-weight: 400;" width="168">3/5/24 12:54 AM</td>
+<td style="font-weight: 400;" width="166">3/5/24 12:54 AM</td>
+<td style="font-weight: 400;" width="223">Kappa Sigma</td>
+<td style="font-weight: 400;" width="199">Documented 2024WL00557</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Rape</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">3/1/24 12:00 AM</td>
+<td style="font-weight: 400;" width="166">3/6/24 5:00 PM</td>
+<td style="font-weight: 400;" width="223">On-Campus Housing</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Wednesday, March 6, 2024</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="240">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="240">Burglary</td>
+<td style="font-weight: 400;" width="154">2024PU00340</td>
+<td style="font-weight: 400;" width="168">2/28/24 4:30 AM</td>
+<td style="font-weight: 400;" width="166">2/29/24 9:47 AM</td>
+<td style="font-weight: 400;" width="223">Forney Hall</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="240">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00376</td>
+<td style="font-weight: 400;" width="168">3/1/24 4:04 PM</td>
+<td style="font-weight: 400;" width="166">3/5/24 8:22 AM</td>
+<td style="font-weight: 400;" width="223">Armory</td>
+<td style="font-weight: 400;" width="199">This was previously reported in 2024PU00356</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="240">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU00378</td>
+<td style="font-weight: 400;" width="168">3/4/24 12:20 PM</td>
+<td style="font-weight: 400;" width="166">3/5/24 12:47 PM</td>
+<td style="font-weight: 400;" width="223">Chi Omega</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="240">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00379</td>
+<td style="font-weight: 400;" width="168">3/3/24 4:10 AM</td>
+<td style="font-weight: 400;" width="166">3/5/24 1:34 PM</td>
+<td style="font-weight: 400;" width="223">Phi Gamma Delta</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="240">Stalking</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">3/5/24 2:19 PM</td>
+<td style="font-weight: 400;" width="166">3/5/24 4:23 PM</td>
+<td style="font-weight: 400;" width="223">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Tuesday, March 5, 2024</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="240">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="240">Harassment</td>
+<td width="154">2024PU00332</td>
+<td width="168">2/21/24 12:21 PM</td>
+<td width="166">2/28/24 7:02 AM</td>
+<td width="223">1st St Towers</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Harassment</td>
+<td width="154">2024PU00333</td>
+<td width="168">2/25/24 12:29 PM</td>
+<td width="166">2/28/24 7:06 AM</td>
+<td width="223">1st St Towers</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Possession of Stolen Property</td>
+<td width="154">2024PU00346</td>
+<td width="168">2/29/24 6:58 PM</td>
+<td width="166">2/29/24 6:58 PM</td>
+<td width="223">Wood St Garage</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="240">Theft-Bike</td>
+<td width="154">2024PU00367</td>
+<td width="168">3/1/24 2:00 PM</td>
+<td width="166">3/4/24 11:19 AM</td>
+<td width="223">Bechtel Innovation Design Center</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Theft-Bike</td>
+<td width="154">2024PU00368</td>
+<td width="168">2/29/24 7:00 PM</td>
+<td width="166">3/4/24 8:30 AM</td>
+<td width="223">Meredith South Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Criminal Mischief</td>
+<td width="154">2024PU00369</td>
+<td width="168">3/4/24 1:00 PM</td>
+<td width="166">3/4/24 4:26 PM</td>
+<td width="223">McCutcheon Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td>Theft</td>
+<td>2024PU00370</td>
+<td>2/12/24 6:25 PM</td>
+<td>3/4/24 6:28 PM</td>
+<td>Honors College</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Theft-EMPV</td>
+<td width="154">2024PU00371</td>
+<td width="168">3/4/24 2:07 PM</td>
+<td width="166">3/4/24 6:32 PM</td>
+<td width="223">Mechanical Engineering</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Theft-EMPV</td>
+<td width="154">2024PU00374</td>
+<td width="168">3/4/24 8:05 PM</td>
+<td width="166">3/4/24 9:45 PM</td>
+<td width="223">Elliott Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Theft-Bike</td>
+<td width="154">2024PU00375</td>
+<td width="168">3/4/24 10:18 PM</td>
+<td width="166">3/4/24 10:21 PM</td>
+<td width="223">Meredith South Hall</td>
+<td width="199">This was previously reported in 2024PU00368. Nothing Further.</td>
+</tr>
+<tr>
+<td width="240">Theft-EMPV</td>
+<td width="154">CAD# 2024-037015</td>
+<td width="168">3/4/24 8:46 PM</td>
+<td width="166">3/4/24 8:46 PM</td>
+<td width="223">Kozuch Football Performance Complex</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Monday, March 4, 2024</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="240">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="240">Theft</td>
+<td width="154">2024PU00348</td>
+<td width="168">2/29/24 2:13 PM</td>
+<td width="166">3/1/24 2:17 PM</td>
+<td width="223">Stewart Center</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Operating While Intoxicated</td>
+<td width="154">2024PU00352</td>
+<td width="168">3/2/24 3:46 AM</td>
+<td width="166">3/2/24 4:21 AM</td>
+<td width="223">US HWY 231 S/ West State St</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="240">Criminal Mischief</td>
+<td width="154">2024PU00353</td>
+<td width="168">3/2/24 2:55 AM</td>
+<td width="166">3/2/24 10:51 AM</td>
+<td width="223">Owen Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td>Theft-Bike</td>
+<td>2024PU00354</td>
+<td>12/15/23 12:00 AM</td>
+<td>3/2/24 5:02 PM</td>
+<td>Hilltop</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Criminal Mischief</td>
+<td width="154">2024PU00355</td>
+<td width="168">3/3/24 1:32 AM</td>
+<td width="166">3/3/24 1:40 AM</td>
+<td width="223">Tarkington Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Criminal Mischief</td>
+<td width="154">2024PU00356</td>
+<td width="168">3/3/24 2:49 AM</td>
+<td width="166">3/3/24 2:59 AM</td>
+<td width="223">Armory</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Operating While Intoxicated</td>
+<td width="154">2024PU00358</td>
+<td width="168">3/3/24 2:55 AM</td>
+<td width="166">3/3/24 3:50 AM</td>
+<td width="223">1000 Blk S River Rd</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="240">Theft</td>
+<td width="154">2024PU00360</td>
+<td width="168">3/3/24 2:02 PM</td>
+<td width="166">3/3/24 2:18 PM</td>
+<td width="223">Dudley Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Criminal Mischief</td>
+<td width="154">2024PU00361</td>
+<td width="168">3/3/24 2:48 PM</td>
+<td width="166">3/3/24 3:03 PM</td>
+<td width="223">Alpha Sigma Phi</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Theft</td>
+<td width="154">2024PU00363</td>
+<td width="168">3/3/24 7:33 PM</td>
+<td width="166">3/3/24 7:55 PM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Theft</td>
+<td width="154">2024PU00364</td>
+<td width="168">3/3/24 3:00 AM</td>
+<td width="166">3/3/24 8:18 PM</td>
+<td width="223">Triangle Fraternity</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="240">Drug Law Violation</td>
+<td width="154">CAD# 2024-036015</td>
+<td width="168">3/3/24 12:16 AM</td>
+<td width="166">3/3/24 12:16 AM</td>
+<td width="223">McCutcheon Parking Garage&#160;</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="240">Reckless Driver</td>
+<td width="154">CAD# 2024-036384</td>
+<td width="168">3/3/24 6:25 PM</td>
+<td width="166">3/3/24 6:25 PM</td>
+<td width="223">S River Rd/ US HWY 231 S</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="240">Drug Law Violation</td>
+<td width="154">CAD# 2024-036475</td>
+<td width="168">3/3/24 10:29 PM</td>
+<td width="166">3/3/24 10:29 PM</td>
+<td width="223">Warren Hall</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<p>&#160;</p>
+<p>*EMPV=Electronic Motorized Personal Vehicle (Elec. Scooter/Elec. Skateboard/Segway/Etc.)</p>
+<p><br/>An&#160;<a href="index.php">archived daily crime log</a>&#160;is available.</p>
 		</section>
 	
     
