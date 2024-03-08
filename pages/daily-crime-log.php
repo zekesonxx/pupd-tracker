@@ -655,7 +655,58 @@
   
     	<section class="content__group">
   					<h3>Friday, March 8, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="194">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="194">Theft</td>
+<td width="154">2024PU00396</td>
+<td width="168">1/26/24 12:00 AM</td>
+<td width="166">3/7/24 11:42 AM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="194">Theft</td>
+<td width="154">2024PU00397</td>
+<td width="168">3/2/24 1:00 AM</td>
+<td width="166">3/7/24 1:31 PM</td>
+<td width="223">Meredith South Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="194">Minor Consumption</td>
+<td width="154">2024PU00402</td>
+<td width="168">3/8/24 12:35 AM</td>
+<td width="166">3/8/24 12:52 AM</td>
+<td width="223">Shreve Hall</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="194">Trespassing</td>
+<td width="154">2024PU00403</td>
+<td width="168">3/8/24 12:36 AM</td>
+<td width="166">3/8/24 1:07 AM</td>
+<td width="223">Wilmeth Active Learning Center</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="194">Trespassing</td>
+<td width="154">CAD# 2024-038763</td>
+<td width="168">3/7/24 5:10 PM</td>
+<td width="166">3/7/24 5:10 PM</td>
+<td width="223">Ross-Ade&#160;</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -800,7 +851,7 @@
 <td style="font-weight: 400;" width="168">2/28/24 4:30 AM</td>
 <td style="font-weight: 400;" width="166">2/29/24 9:47 AM</td>
 <td style="font-weight: 400;" width="223">Forney Hall</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="240">Criminal Mischief</td>
