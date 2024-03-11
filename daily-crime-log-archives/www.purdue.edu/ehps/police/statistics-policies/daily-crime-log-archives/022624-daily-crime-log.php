@@ -1020,9 +1020,9 @@
 <td width="187">Minor Consumption</td>
 <td width="154">2024PU00297</td>
 <td width="168">2/25/24 12:28 AM</td>
-<td width="166">2/25/24 10:47 PM</td>
+<td width="166">2/25/24 12:47 AM</td>
 <td width="223">Kappa Kappa Gamma</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>

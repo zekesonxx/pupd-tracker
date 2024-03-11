@@ -850,7 +850,7 @@
 <td style="font-weight: 400;" width="168">3/3/24 4:10 AM</td>
 <td style="font-weight: 400;" width="166">3/5/24 1:34 PM</td>
 <td style="font-weight: 400;" width="223">Phi Gamma Delta</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="240">Stalking</td>
@@ -1046,7 +1046,7 @@
 <td width="168">3/3/24 2:02 PM</td>
 <td width="166">3/3/24 2:18 PM</td>
 <td width="223">Dudley Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">Unfounded</td>
 </tr>
 <tr>
 <td width="240">Criminal Mischief</td>

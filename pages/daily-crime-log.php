@@ -683,7 +683,146 @@
   
     	<section class="content__group">
   					<h3>Monday, March 11, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="194">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="194">Hit &amp; Run</td>
+<td width="154">2024PU00404</td>
+<td width="168">3/7/24 6:00 AM</td>
+<td width="166">3/8/24 8:53 AM</td>
+<td width="223">500 Blk Gates Rd</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="194">Theft</td>
+<td width="154">2024PU00407</td>
+<td width="168">3/8/24 7:14 PM</td>
+<td width="166">3/8/24 7:27 PM</td>
+<td width="223">McCutcheon Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="194">Driving While Suspended</td>
+<td width="154">2024PU00408</td>
+<td width="168">3/8/24 10:26 PM</td>
+<td width="166">3/8/24 10:41 PM</td>
+<td width="223">Tower Dr/Hilltop Dr</td>
+<td width="199">Arrest Made</td>
+</tr>
+<tr>
+<td width="194">Hit &amp; Run</td>
+<td width="154">2024PU00409</td>
+<td width="168">3/9/24 11:22 AM</td>
+<td width="166">3/9/24 8:37 PM</td>
+<td width="223">Alexander Field</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td>Theft</td>
+<td>2024PU00411</td>
+<td>3/9/24 11:35 PM</td>
+<td>3/10/24 12:19 AM</td>
+<td>Purdue Union Club Hotel</td>
+<td>Under Investigation</td>
+</tr>
+<tr>
+<td width="194">Trespassing</td>
+<td width="154">2024PU00412</td>
+<td width="168">3/10/24 12:44 AM</td>
+<td width="166">3/10/24 1:26 AM</td>
+<td width="223">Ross-Ade Stadium</td>
+<td width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="194">Criminal Mischief</td>
+<td width="154">2024PU00413</td>
+<td width="168">3/9/24 8:00 PM</td>
+<td width="166">3/10/24 9:52 AM</td>
+<td width="223">Rawls Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="194">Theft-EMPV</td>
+<td width="154">2024PU00414</td>
+<td width="168">3/3/24 9:30 PM</td>
+<td width="166">3/10/24 9:45 PM</td>
+<td width="223">Cary Quad South</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>2/17/24 4:45 PM</td>
+<td>2/17/24 10:38 PM</td>
+<td>Meredith South</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>2/23/24 8:45 PM</td>
+<td>2/23/24 9:23 PM</td>
+<td>McCutcheon Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>4 Disciplinary Referral</td>
+<td>2/24/24 12:20 AM</td>
+<td>2/24/24 2:32 AM</td>
+<td>McCutcheon Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>11 Disciplinary Referral</td>
+<td>2/25/24 12:10 AM</td>
+<td>2/25/24 1:47 AM</td>
+<td>Winifred Parker Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>5 Disciplinary Referral</td>
+<td>2/25/24 12:15 AM</td>
+<td>2/25/24 1:39 AM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>3 Disciplinary Referral</td>
+<td>2/29/24 5:30 PM</td>
+<td>2/29/24 5:55 PM</td>
+<td>Tarkington Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>4 Disciplinary Referral</td>
+<td>3/2/24 10:45 PM</td>
+<td>3/2/24 11:18 PM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referral</td>
+<td>3/3/24 12:30 AM</td>
+<td>3/3/24 1:24 AM</td>
+<td>McCutcheon Hall</td>
+<td>Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
