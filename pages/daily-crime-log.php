@@ -676,7 +676,42 @@
   
     	<section class="content__group">
   					<h3>Tuesday, March 12, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="194">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="194">Theft-EMPV</td>
+<td width="154">2024PU00415</td>
+<td width="168">3/11/24 2:35 PM</td>
+<td width="166">3/11/24 2:48 PM</td>
+<td width="223">Aspire</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="194">Theft/Computer Trespass/Criminal Mischief</td>
+<td width="154">2024PU00416</td>
+<td width="168">3/11/24 6:00 PM</td>
+<td width="166">3/11/24 10:30 PM</td>
+<td width="223">Earhart Hall</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="194">Drug Law Violation</td>
+<td width="154">CAD# 2024-039595</td>
+<td width="168">3/9/24 1:55 AM</td>
+<td width="166">3/9/24 1:55 AM</td>
+<td width="223">McCutcheon</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

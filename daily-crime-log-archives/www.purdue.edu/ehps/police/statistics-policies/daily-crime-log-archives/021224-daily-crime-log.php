@@ -860,7 +860,7 @@
 <td style="font-weight: 400;" width="168">2/13/24 1:56 AM</td>
 <td style="font-weight: 400;" width="166">2/13/24 2:22 AM</td>
 <td style="font-weight: 400;" width="223">US 231 Hwy/ Cherry Ln</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 </tbody>
 </table>
