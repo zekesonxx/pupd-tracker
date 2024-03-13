@@ -669,7 +669,66 @@
   
     	<section class="content__group">
   					<h3>Wednesday, March 13, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="194">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Criminal Recklessness</td>
+<td style="font-weight: 400;" width="154">2024PU00418</td>
+<td style="font-weight: 400;" width="168">3/12/24 10:03 AM</td>
+<td style="font-weight: 400;" width="166">3/12/24 10:04 AM</td>
+<td style="font-weight: 400;" width="223">100 Blk N Russell St</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU00419</td>
+<td style="font-weight: 400;" width="168">3/12/24 9:35 AM</td>
+<td style="font-weight: 400;" width="166">3/12/24 10:10 AM</td>
+<td style="font-weight: 400;" width="223">CoRec</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00420</td>
+<td style="font-weight: 400;" width="168">3/12/24 1:30 PM</td>
+<td style="font-weight: 400;" width="166">3/12/24 2:16 PM</td>
+<td style="font-weight: 400;" width="223">Lynn Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00421</td>
+<td style="font-weight: 400;" width="168">2/16/24 8:00 PM</td>
+<td style="font-weight: 400;" width="166">3/12/24 2:20 PM</td>
+<td style="font-weight: 400;" width="223">Physics Building</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00423</td>
+<td style="font-weight: 400;" width="168">3/9/24 12:00 AM</td>
+<td style="font-weight: 400;" width="166">3/12/24 4:42 PM</td>
+<td style="font-weight: 400;" width="223">Tarkington Hall</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="194">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU00424</td>
+<td style="font-weight: 400;" width="168">3/13/24 12:15 AM</td>
+<td style="font-weight: 400;" width="166">3/13/24 1:11 AM</td>
+<td style="font-weight: 400;" width="223">1400 Blk Cherry Ln</td>
+<td style="font-weight: 400;" width="199">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

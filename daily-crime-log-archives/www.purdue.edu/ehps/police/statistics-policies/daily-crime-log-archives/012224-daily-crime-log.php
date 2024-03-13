@@ -759,8 +759,8 @@
 <td width="154">2024PU00117</td>
 <td width="168">1/25/24 12:35 AM</td>
 <td width="166">1/25/24 1:46 AM</td>
-<td width="223">N Grant St/North St</td>
-<td width="199">Arrest Made</td>
+<td width="223">N Grant St/ North St</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Simple Assault</td>
