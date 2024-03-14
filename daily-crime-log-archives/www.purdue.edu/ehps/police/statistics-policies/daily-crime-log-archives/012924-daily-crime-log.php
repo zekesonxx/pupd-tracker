@@ -966,7 +966,7 @@
 <td width="168">1/26/24 10:39 PM</td>
 <td width="166">1/26/24 11:04 PM</td>
 <td width="223">Meredith Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>

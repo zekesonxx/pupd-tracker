@@ -662,7 +662,50 @@
   
     	<section class="content__group">
   					<h3>Thursday, March 14, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="194">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="223">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="199">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="194">Harassment</td>
+<td width="154">2024PU00425</td>
+<td width="168">3/12/24 10:44 PM</td>
+<td width="166">3/13/24 1:10 PM</td>
+<td width="223">Honors College</td>
+<td width="199">Under Investigation</td>
+</tr>
+<tr>
+<td width="194">Reckless Driver</td>
+<td width="154">CAD# 2024-041565</td>
+<td width="168">3/12/24 8:15 PM</td>
+<td width="166">3/12/24 8:15 PM</td>
+<td width="223">300 Blk N Martin Jischke</td>
+<td width="199">Nothing Further</td>
+</tr>
+<tr>
+<td width="194">Drunk Driver</td>
+<td width="154">CAD# 2024-041886</td>
+<td width="168">3/13/24 11:43 AM</td>
+<td width="166">3/13/24 11:43 AM</td>
+<td width="223">US HWY 231 S/Airport Rd</td>
+<td width="199">Documented 2024WL00619</td>
+</tr>
+<tr>
+<td width="194">Drug Law Violation</td>
+<td width="154">CAD# 2024-042113</td>
+<td width="168">3/13/24 7:26 PM</td>
+<td width="166">3/13/24 7:26 PM</td>
+<td width="223">McCutcheon Hall</td>
+<td width="199">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
