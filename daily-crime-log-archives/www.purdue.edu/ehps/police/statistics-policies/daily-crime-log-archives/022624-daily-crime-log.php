@@ -1030,7 +1030,7 @@
 <td width="168">2/25/24 12:57 AM</td>
 <td width="166">2/25/24 1:15 AM</td>
 <td width="223">Earhart Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Operating While Intoxicated</td>

@@ -990,7 +990,7 @@
 <td width="168">1/27/24 12:29 AM</td>
 <td width="166">1/27/24 12:42 AM</td>
 <td width="223">Hillenbrand Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Theft-EMPV</td>
