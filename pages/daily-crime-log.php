@@ -683,7 +683,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, March 18, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="174">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="195">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="174">Drug Law Violation</td>
+<td width="154">2024PU00431</td>
+<td width="168">3/15/24 7:51 PM</td>
+<td width="166">3/15/24 8:14 PM</td>
+<td width="195">S Russell St/S River Rd</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="174">Operating While Never Receiving a License/Drug Law Violation</td>
+<td width="154">2024PU00433</td>
+<td width="168">3/16/24 10:26 PM</td>
+<td width="166">3/16/24 11:15 PM</td>
+<td width="195">1000 Blk S River Rd</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="174">Operating While Intoxicated</td>
+<td width="154">2024PU00434</td>
+<td width="168">3/17/24 3:30 AM</td>
+<td width="166">3/17/24 4:34 AM</td>
+<td width="195">US HWY 231 S/S Martin Jischke Dr</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="174">Hit &amp; Run</td>
+<td width="154">2024PU00435</td>
+<td width="168">3/17/24 10:59 PM</td>
+<td width="166">3/17/24 11:01 PM</td>
+<td width="195">Mitch Daniels Blvd/S University St</td>
+<td width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
