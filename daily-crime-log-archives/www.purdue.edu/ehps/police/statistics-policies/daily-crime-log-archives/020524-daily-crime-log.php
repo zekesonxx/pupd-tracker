@@ -966,7 +966,7 @@
 <td style="font-weight: 400;" width="168">2/4/24 1:27 AM</td>
 <td style="font-weight: 400;" width="166">2/4/27 1:49 AM</td>
 <td style="font-weight: 400;" width="223">Aspire Apartments</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Operating While Intoxicated</td>

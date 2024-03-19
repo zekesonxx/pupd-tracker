@@ -736,7 +736,7 @@
 <td width="168">2/15/24 2:57 AM</td>
 <td width="166">2/15/24 3:20 AM</td>
 <td width="223">Wiley Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>

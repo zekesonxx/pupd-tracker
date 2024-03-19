@@ -974,7 +974,7 @@
 <td width="168">2/17/24 3:24 AM</td>
 <td width="166">2/17/24 3:38 AM</td>
 <td width="223">Chaney Hale Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Drug Law Violation</td>

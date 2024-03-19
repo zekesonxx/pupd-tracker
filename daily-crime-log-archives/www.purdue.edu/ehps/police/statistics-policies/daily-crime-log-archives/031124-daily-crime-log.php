@@ -862,7 +862,7 @@
 <td>3/9/24 11:35 PM</td>
 <td>3/10/24 12:19 AM</td>
 <td>Purdue Union Club Hotel</td>
-<td>Under Investigation</td>
+<td>Arrest Made</td>
 </tr>
 <tr>
 <td width="194">Trespassing</td>

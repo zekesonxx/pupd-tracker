@@ -676,7 +676,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, March 19, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="174">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="195">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="174">Theft-Bike</td>
+<td width="154">2024PU00437</td>
+<td width="168">3/15/24 6:00 PM</td>
+<td width="166">3/18/24 11:24 AM</td>
+<td width="195">Purdue Aviation</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="174">Theft</td>
+<td width="154">2024PU00438</td>
+<td width="168">3/18/24 3:03 PM</td>
+<td width="166">3/18/24 3:18 PM</td>
+<td width="195">Heine Pharmacy&#160;</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="174">Reckless Driver</td>
+<td width="154">CAD# 2024-043628</td>
+<td width="168">3/16/24 2:50 PM</td>
+<td width="166">3/16/24 2:50 PM</td>
+<td width="195">W Stadium Ave/Northwestern Ave</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="174">Drug Law Violation</td>
+<td width="154">CAD# 2024-044325</td>
+<td width="168">3/17/24 9:54 PM</td>
+<td width="166">3/17/24 9:54 PM</td>
+<td width="195">Earhart Hall</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
