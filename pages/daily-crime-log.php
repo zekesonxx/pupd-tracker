@@ -669,7 +669,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, March 20, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="174">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="195">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00442</td>
+<td style="font-weight: 400;" width="168">3/18/24 7:15 PM</td>
+<td style="font-weight: 400;" width="166">3/19/24 12:24 PM</td>
+<td style="font-weight: 400;" width="195">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU00443</td>
+<td style="font-weight: 400;" width="168">3/18/24 3:27 PM</td>
+<td style="font-weight: 400;" width="166">3/19/24 1:59 PM</td>
+<td style="font-weight: 400;" width="195">Mackey Arena</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU00444</td>
+<td style="font-weight: 400;" width="168">3/19/24 10:30 AM</td>
+<td style="font-weight: 400;" width="166">3/19/24 6:10 PM</td>
+<td style="font-weight: 400;" width="195">1300 Blk Beering Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-044866</td>
+<td style="font-weight: 400;" width="168">3/18/24 9:30 PM</td>
+<td style="font-weight: 400;" width="166">3/18/24 9:30 PM</td>
+<td style="font-weight: 400;" width="195">W State St/Pierce St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

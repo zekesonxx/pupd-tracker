@@ -662,7 +662,7 @@
 <td width="168">2/29/24 1:15 PM</td>
 <td width="166">2/29/24 1:44 PM</td>
 <td width="223">Young Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td>Theft-EMPV</td>

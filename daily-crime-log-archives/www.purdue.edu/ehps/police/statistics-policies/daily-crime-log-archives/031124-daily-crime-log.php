@@ -646,7 +646,7 @@
 <td style="font-weight: 400;" width="168">3/14/24 2:00 AM</td>
 <td style="font-weight: 400;" width="166">3/14/24 7:33 AM</td>
 <td style="font-weight: 400;" width="223">Hawkins Hall</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
 </tr>
 </tbody>
 </table>
@@ -854,7 +854,7 @@
 <td width="168">3/9/24 11:22 AM</td>
 <td width="166">3/9/24 8:37 PM</td>
 <td width="223">Alexander Field</td>
-<td width="199">Under Investigation</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td>Theft</td>
