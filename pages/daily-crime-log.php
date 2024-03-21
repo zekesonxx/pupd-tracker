@@ -662,7 +662,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, March 21, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="174">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="195">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="174">Theft-EMPV</td>
+<td width="154">2024PU00445</td>
+<td width="168">3/20/24 7:45 AM</td>
+<td width="166">3/20/24 8:50 AM</td>
+<td width="195">Electrical Engineering</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="174">Theft</td>
+<td width="154">2024PU00446</td>
+<td width="168">3/18/24 12:08 PM</td>
+<td width="166">3/20/24 3:54 PM</td>
+<td width="195">Cary Quad East</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="174">Minor Consumption</td>
+<td width="154">2024PU00450</td>
+<td width="168">3/21/24 12:12 AM</td>
+<td width="166">3/21/24 1:00 AM</td>
+<td width="195">Meredith South Hall</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="174">Trespass</td>
+<td width="154">2024PU00452</td>
+<td width="168">3/21/24 2:53 AM</td>
+<td width="166">3/31/24 4:16 AM</td>
+<td width="195">300 Blk McCormick Rd</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="174">Fraud</td>
+<td width="154">CAD# 2024-045306</td>
+<td width="168">3/19/24 6:28 PM</td>
+<td width="166">3/19/24 6:28 PM</td>
+<td width="195">Harrison Hall</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -793,7 +844,7 @@ Will be posted soon.
 <td width="168">3/16/24 10:26 PM</td>
 <td width="166">3/16/24 11:15 PM</td>
 <td width="195">1000 Blk S River Rd</td>
-<td width="181">Arrest Made</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="174">Operating While Intoxicated</td>

@@ -940,7 +940,7 @@
 <td width="168">3/4/24 2:07 PM</td>
 <td width="166">3/4/24 6:32 PM</td>
 <td width="223">Mechanical Engineering</td>
-<td width="199">Under Investigation</td>
+<td width="199">Suspended</td>
 </tr>
 <tr>
 <td width="240">Theft-EMPV</td>
