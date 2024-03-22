@@ -611,6 +611,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log</h2>
 <ul>
+<li><a href="031824-daily-crime-log.php" title="031824 Daily Crime Log">Week of March 18, 2024</a></li>
 <li><a href="031124-daily-crime-log.php" title="031124 Daily Crime Log">Week of March 11, 2024</a></li>
 <li><a href="030424-daily-crime-log.php" title="030424 Daily Crime Log">Week of March 4, 2024</a></li>
 <li><a href="022624-daily-crime-log.php" title="022624 Daily Crime Log">Week of February 26, 2024</a></li>

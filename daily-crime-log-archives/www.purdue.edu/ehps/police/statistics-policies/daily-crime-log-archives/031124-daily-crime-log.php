@@ -591,7 +591,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="031824-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -738,7 +743,7 @@
 <td style="font-weight: 400;" width="168">3/12/24 1:30 PM</td>
 <td style="font-weight: 400;" width="166">3/12/24 2:16 PM</td>
 <td style="font-weight: 400;" width="223">Lynn Hall</td>
-<td style="font-weight: 400;" width="199">Under Investigation</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="194">Theft</td>
@@ -791,12 +796,12 @@
 <td width="199">Under Investigation</td>
 </tr>
 <tr>
-<td width="194">Theft/Computer Trespass/Criminal Mischief</td>
+<td width="194">Theft/ Theft/&#160; Computer Trespass/ Criminal Mischief</td>
 <td width="154">2024PU00416</td>
 <td width="168">3/11/24 6:00 PM</td>
 <td width="166">3/11/24 10:30 PM</td>
 <td width="223">Earhart Hall</td>
-<td width="199">Under Investigation</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="194">Drug Law Violation</td>

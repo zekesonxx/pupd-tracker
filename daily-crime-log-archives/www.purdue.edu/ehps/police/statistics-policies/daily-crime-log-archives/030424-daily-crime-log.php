@@ -591,7 +591,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="031824-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -990,7 +995,7 @@
 <td width="168">2/29/24 2:13 PM</td>
 <td width="166">3/1/24 2:17 PM</td>
 <td width="223">Stewart Center</td>
-<td width="199">Under Investigation</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="240">Operating While Intoxicated</td>
