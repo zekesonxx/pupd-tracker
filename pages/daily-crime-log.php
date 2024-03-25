@@ -683,7 +683,90 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, March 25, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="174">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="195">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="174">Minor Consumption</td>
+<td width="154">2024PU00459</td>
+<td width="168">3/23/24 3:27 AM</td>
+<td width="166">3/23/24 3:55 AM</td>
+<td width="195">McCutcheon Hall</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="174">Criminal Mischief</td>
+<td width="154">2024PU00460</td>
+<td width="168">3/22/24 11:00 PM</td>
+<td width="166">3/23/24 3:01 PM</td>
+<td width="195">Phi Kappa PSI</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="174">Theft</td>
+<td width="154">2024PU00461</td>
+<td width="168">3/23/24 4:28 PM</td>
+<td width="166">3/23/24 4:49 PM</td>
+<td width="195">Hillenbrand Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="174">Criminal Mischief</td>
+<td width="154">2024PU00463</td>
+<td width="168">3/23/24 5:34 PM</td>
+<td width="166">3/23/24 5:39 PM</td>
+<td width="195">Phi Kappa PSI</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="174">Trespass</td>
+<td width="154">2024PU00464</td>
+<td width="168">3/23/24 9:31 PM</td>
+<td width="166">3/23/24 9:50 PM</td>
+<td width="195">300 Blk McCormick Rd</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="174">Minor Consumption</td>
+<td width="154">2024PU00465</td>
+<td width="168">3/23/24 10:43 PM</td>
+<td width="166">3/23/24 11:01 PM</td>
+<td width="195">Cary Quad South</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="174">Stalking</td>
+<td width="154">2024PU00468</td>
+<td width="168">3/24/24 8:55 PM</td>
+<td width="166">3/24/24 9:33 PM</td>
+<td width="195">Pao Hall</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="174">Theft</td>
+<td width="154">CAD# 2024-046244</td>
+<td width="168">3/21/24 10:46 AM</td>
+<td width="166">3/21/24 10:46 AM</td>
+<td width="195">Hawkins Graduate House</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="174">Reckless Driver</td>
+<td width="154">CAD# 2024-046706</td>
+<td width="168">3/22/24 1:08 AM</td>
+<td width="166">3/22/24 1:08 AM</td>
+<td width="195">W Stadium Ave/N Grant St</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
