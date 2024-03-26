@@ -591,7 +591,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="031824-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -1046,7 +1051,7 @@
 <td width="168">2/25/24 3:21 AM</td>
 <td width="166">2/25/24 3:37 AM</td>
 <td width="223">Wiley Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Fraud/Burglary</td>

@@ -591,7 +591,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="031824-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -662,7 +667,7 @@
 <td style="font-weight: 400;" width="168">2/16/24 1:19 AM</td>
 <td style="font-weight: 400;" width="166">2/16/24 1:48 AM</td>
 <td style="font-weight: 400;" width="223">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Sexual Assault</td>

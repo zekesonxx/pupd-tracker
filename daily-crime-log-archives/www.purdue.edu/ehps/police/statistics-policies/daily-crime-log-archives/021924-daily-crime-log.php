@@ -591,7 +591,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="031824-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -982,7 +987,7 @@
 <td width="168">2/17/24 10:54 PM</td>
 <td width="166">2/17/24 11:21 PM</td>
 <td width="223">Meredith Hall</td>
-<td width="199">Arrest Made</td>
+<td width="199">Closed</td>
 </tr>
 <tr>
 <td width="187">Minor Consumption</td>

@@ -676,7 +676,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, March 26, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="174">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="195">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00470</td>
+<td style="font-weight: 400;" width="168">3/22/24 3:30 PM</td>
+<td style="font-weight: 400;" width="166">3/25/24 9:09 AM</td>
+<td style="font-weight: 400;" width="195">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2024PU00471</td>
+<td style="font-weight: 400;" width="168">3/25/24 10:45 AM</td>
+<td style="font-weight: 400;" width="166">3/25/24 11:18 AM</td>
+<td style="font-weight: 400;" width="195">700 Blk 3rd St</td>
+<td style="font-weight: 400;" width="181">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Alcohol Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-047213</td>
+<td style="font-weight: 400;" width="168">3/22/24 11:02 PM</td>
+<td style="font-weight: 400;" width="166">3/22/24 11:02 PM</td>
+<td style="font-weight: 400;" width="195">Aspire</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-047236</td>
+<td style="font-weight: 400;" width="168">3/22/24 11:53 PM</td>
+<td style="font-weight: 400;" width="166">3/22/24 11:53 PM</td>
+<td style="font-weight: 400;" width="195">Owen Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-048202</td>
+<td style="font-weight: 400;" width="168">3/24/24 11:08 PM</td>
+<td style="font-weight: 400;" width="166">3/24/24 11:08 PM</td>
+<td style="font-weight: 400;" width="195">Continuum</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -742,12 +793,20 @@ Will be posted soon.
 <td width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
-<td width="174">Stalking</td>
+<td width="174">Stalking/Fondling</td>
 <td width="154">2024PU00468</td>
 <td width="168">3/24/24 8:55 PM</td>
 <td width="166">3/24/24 9:33 PM</td>
-<td width="195">Pao Hall</td>
+<td width="195">500 Blk W Wood St</td>
 <td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="174">Sexual Assault</td>
+<td width="154">2024PU00468</td>
+<td width="168">Unknown Date 2023 Unknown Time</td>
+<td width="166">3/24/24 9:33 PM</td>
+<td width="195">Unknown Campus Location</td>
+<td width="181">The disposition for the case is on the other 2024PU00468 entry</td>
 </tr>
 <tr>
 <td width="174">Theft</td>

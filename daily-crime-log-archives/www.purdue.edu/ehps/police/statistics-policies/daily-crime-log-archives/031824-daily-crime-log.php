@@ -709,7 +709,7 @@
 <td width="168">3/21/24 12:12 AM</td>
 <td width="166">3/21/24 1:00 AM</td>
 <td width="195">Meredith South Hall</td>
-<td width="181">Arrest Made</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="174">Trespass</td>

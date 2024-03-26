@@ -773,7 +773,7 @@
 <td style="font-weight: 400;" width="168">3/7/24 2:24 AM</td>
 <td style="font-weight: 400;" width="166">3/7/24 2:46 AM</td>
 <td style="font-weight: 400;" width="223">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="194">Criminal Mischief</td>
