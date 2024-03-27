@@ -669,7 +669,82 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, March 27, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="174">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="195">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU00478</td>
+<td style="font-weight: 400;" width="168">3/26/24 10:00 AM</td>
+<td style="font-weight: 400;" width="166">3/26/24 10:55 AM</td>
+<td style="font-weight: 400;" width="195">Wiley Dining Court</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00481</td>
+<td style="font-weight: 400;" width="168">3/26/24 10:30 AM</td>
+<td style="font-weight: 400;" width="166">3/26/24 12:13 PM</td>
+<td style="font-weight: 400;" width="195">Waldron 125</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Fraud</td>
+<td style="font-weight: 400;" width="154">2024PU00482</td>
+<td style="font-weight: 400;" width="168">3/26/24 11:26 AM</td>
+<td style="font-weight: 400;" width="166">3/26/24 11:52 AM</td>
+<td style="font-weight: 400;" width="195">Harrison Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00483</td>
+<td style="font-weight: 400;" width="168">3/25/24 10:00 PM</td>
+<td style="font-weight: 400;" width="166">3/26/24 5:35 PM</td>
+<td style="font-weight: 400;" width="195">219 Waldron St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Fraud</td>
+<td style="font-weight: 400;" width="154">2024PU00484</td>
+<td style="font-weight: 400;" width="168">3/26/24 6:44 PM</td>
+<td style="font-weight: 400;" width="166">3/26/24 6:59 PM</td>
+<td style="font-weight: 400;" width="195">Hawkins Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU00485</td>
+<td style="font-weight: 400;" width="168">3/26/24 7:49 PM</td>
+<td style="font-weight: 400;" width="166">3/26/24 8:02 PM</td>
+<td style="font-weight: 400;" width="195">100 Blk Foundry Dr</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00486</td>
+<td style="font-weight: 400;" width="168">3/26/24 8:37 PM</td>
+<td style="font-weight: 400;" width="166">3/26/24 8:59 PM</td>
+<td style="font-weight: 400;" width="195">Wiley Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="174">Drug Law Violation/ Operating Never Receiving a License</td>
+<td style="font-weight: 400;" width="154">2024PU00488</td>
+<td style="font-weight: 400;" width="168">3/26/24 10:53 PM</td>
+<td style="font-weight: 400;" width="166">3/26/24 11:15 PM</td>
+<td style="font-weight: 400;" width="195">1200 Blk W Stadium Ave</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
