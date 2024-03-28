@@ -662,7 +662,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, March 28, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="174">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="195">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="174">Theft-EMPV</td>
+<td width="154">2024PU00489</td>
+<td width="168">3/27/24 9:20 AM</td>
+<td width="166">3/27/24 12:41 PM</td>
+<td width="195">Knoy Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="174">Theft-Bike</td>
+<td width="154">2024PU00490</td>
+<td width="168">3/27/24 10:00 AM</td>
+<td width="166">3/27/24 2:14 PM</td>
+<td width="195">Grissom Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="174">Theft-EMPV</td>
+<td width="154">2024PU00493</td>
+<td width="168">3/27/24 9:12 PM</td>
+<td width="166">3/27/24 9:21 PM</td>
+<td width="195">Cary Quad</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="174">Theft</td>
+<td width="154">2024PU00495</td>
+<td width="168">3/27/24 11:15 PM</td>
+<td width="166">3/27/24 11:53 PM</td>
+<td width="195">Wilmeth Active Learning Center</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="174">Stalking</td>
+<td width="154">CSA</td>
+<td width="168">Unknown Date/Time</td>
+<td width="166">3/27/24 3:45 PM</td>
+<td width="195">On-Campus Housing</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -775,7 +826,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="168">3/25/24 10:45 AM</td>
 <td style="font-weight: 400;" width="166">3/25/24 11:18 AM</td>
 <td style="font-weight: 400;" width="195">700 Blk 3rd St</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="174">Alcohol Violation</td>
