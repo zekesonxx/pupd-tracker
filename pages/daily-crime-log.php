@@ -655,7 +655,58 @@
   
     	<section class="content__group">
   					<h3>Friday, March 29, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="174">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="195">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="174">Invasion of Privacy</td>
+<td width="154">2024PU00472</td>
+<td width="168">3/9/24 8:12 PM</td>
+<td width="166">3/25/24 3:00 PM</td>
+<td width="195">Alpha Gamma Delta</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="174">Harassment</td>
+<td width="154">2024PU00496</td>
+<td width="168">3/28/24 3:53 PM</td>
+<td width="166">3/28/24 4:16 PM</td>
+<td width="195">Hilltop</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="174">Theft-Bike</td>
+<td width="154">2024PU00497</td>
+<td width="168">3/28/24 7:00 PM</td>
+<td width="166">3/28/24 10:47 PM</td>
+<td width="195">Turf Recreation Exercise Center</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="174">Drug Law Violation</td>
+<td width="154">CAD# 2024-049792</td>
+<td width="168">3/27/24 9:59 PM</td>
+<td width="166">3/27/24 9:59 PM</td>
+<td width="195">Wiley Hall</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="174">Rape</td>
+<td width="154">CSA</td>
+<td width="168">12/1/23 12:00 AM</td>
+<td width="166">3/28/24 12:30 PM</td>
+<td width="195">On-Campus Housing</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
