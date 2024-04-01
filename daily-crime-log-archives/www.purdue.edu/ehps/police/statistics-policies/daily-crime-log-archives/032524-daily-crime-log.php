@@ -725,7 +725,7 @@
 <td width="168">3/27/24 9:12 PM</td>
 <td width="166">3/27/24 9:21 PM</td>
 <td width="195">Cary Quad</td>
-<td width="181">Under Investigation</td>
+<td width="181">Suspended</td>
 </tr>
 <tr>
 <td width="174">Theft</td>
