@@ -735,7 +735,7 @@
 <td style="font-weight: 400;" width="168">3/12/24 9:35 AM</td>
 <td style="font-weight: 400;" width="166">3/12/24 10:10 AM</td>
 <td style="font-weight: 400;" width="223">CoRec</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="194">Theft</td>
@@ -796,7 +796,7 @@
 <td width="199">Under Investigation</td>
 </tr>
 <tr>
-<td width="194">Theft/ Theft/&#160; Computer Trespass/ Criminal Mischief</td>
+<td width="194">Theft/Computer Trespass/Criminal Mischief</td>
 <td width="154">2024PU00416</td>
 <td width="168">3/11/24 6:00 PM</td>
 <td width="166">3/11/24 10:30 PM</td>
