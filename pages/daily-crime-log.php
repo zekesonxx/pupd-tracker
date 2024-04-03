@@ -669,7 +669,42 @@
   
     	<section class="content__group">
   					<h3>Wednesday, April 3, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="174">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="195">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="174">Criminal Mischief</td>
+<td width="154">2024PU00513</td>
+<td width="168">4/1/24 8:30 AM</td>
+<td width="166">4/2/24 10:39 AM</td>
+<td width="195">Hicks Undergraduate Library</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="174">Theft</td>
+<td width="154">2024PU00516</td>
+<td width="168">4/2/24 6:00 PM</td>
+<td width="166">4/2/24 9:43 PM</td>
+<td width="195">Hillenbrand Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="174">Stalking</td>
+<td width="154">CSA</td>
+<td width="168">1/1/24 12:00 AM</td>
+<td width="166">4/2/24 10:00 AM</td>
+<td width="195">On-Campus Location</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
