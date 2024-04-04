@@ -591,7 +591,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="031824-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -942,7 +947,7 @@
 <td style="font-weight: 400;" width="168">2/3/24 12:42 AM</td>
 <td style="font-weight: 400;" width="166">2/3/24 1:19 AM</td>
 <td style="font-weight: 400;" width="223">Horticulture Park</td>
-<td style="font-weight: 400;" width="199">Arrest Made</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Public Intoxication</td>
