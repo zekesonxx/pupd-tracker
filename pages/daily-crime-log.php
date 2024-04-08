@@ -683,7 +683,162 @@
   
     	<section class="content__group">
   					<h3>Monday, April 8, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="297">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="195">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="297">Minor Consumption</td>
+<td width="154">2024PU00531</td>
+<td width="168">4/5/24 11:33 PM</td>
+<td width="166">4/5/24 11:51 PM</td>
+<td width="195">Sigma Nu</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="297">Minor Consumption</td>
+<td width="154">2024PU00532</td>
+<td width="168">4/6/24 1:20 AM</td>
+<td width="166">4/6/24 1:36 AM</td>
+<td width="195">Tarkington Hall</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td>Theft-EMPV</td>
+<td>2024PU00533</td>
+<td>4/5/24 11:00 PM</td>
+<td>4/6/24 3:29 AM</td>
+<td>Cary Quad South</td>
+<td>Under Investigation</td>
+</tr>
+<tr>
+<td>Hit &amp; Run</td>
+<td>2024PU00534</td>
+<td>4/6/24 11:53 AM</td>
+<td>4/6/24 12:06 PM</td>
+<td>1100 Blk W Stadium Ave</td>
+<td>Under Investigation</td>
+</tr>
+<tr>
+<td>Minor Consumption</td>
+<td>2024PU00536</td>
+<td>4/6/24 3:15 PM</td>
+<td>4/6/24 3:37 PM</td>
+<td>Stewart Center</td>
+<td>Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td>Resisting Law Enforcement/Minor Consumption</td>
+<td>2024PU00537</td>
+<td>4/6/24 7:03 PM</td>
+<td>4/6/24 7:11 PM</td>
+<td>Tower Dr/Cary Dr</td>
+<td>Arrest Made</td>
+</tr>
+<tr>
+<td>Criminal Mischief</td>
+<td>2024PU00539</td>
+<td>4/6/24 10:32 PM</td>
+<td>4/6/24 10:43 PM</td>
+<td>Wiley Hall</td>
+<td>Under Investigation</td>
+</tr>
+<tr>
+<td>Minor Consumption</td>
+<td>2024PU00540</td>
+<td>4/6/24 11:32 PM</td>
+<td>4/6/24 11:46 PM</td>
+<td>Young Hall</td>
+<td>Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td>Hit &amp; Run</td>
+<td>2024PU00541</td>
+<td>4/2/24 12:00 PM</td>
+<td>4/7/24 4:21 PM</td>
+<td>N Russell St/6th St</td>
+<td>Under Investigation</td>
+</tr>
+<tr>
+<td>Minor Consumption</td>
+<td>2024PU00542</td>
+<td>4/8/24 2:45 AM</td>
+<td>4/8/24 2:59 AM</td>
+<td>Wiley Hall</td>
+<td>Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="297">Theft</td>
+<td width="154">CAD# 2024-053320</td>
+<td width="168">4/4/24 8:03 AM</td>
+<td width="166">4/4/24 8:03 AM</td>
+<td width="195">Hillenbrand Hall</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td>Hit &amp; Run</td>
+<td>CAD# 2024-053536</td>
+<td>4/4/24 2:07 PM</td>
+<td>4/4/24 2:07 PM</td>
+<td>Northwestern Parking Garage</td>
+<td>Nothing Further</td>
+</tr>
+<tr>
+<td width="297">Harassment</td>
+<td width="154">CAD# 2024-054065</td>
+<td width="168">4/5/24 11:33 AM</td>
+<td width="166">4/5/24 11:33 AM</td>
+<td width="195">Lilly Hall</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="297">Arson</td>
+<td width="154">CAD# 2024-054931</td>
+<td width="168">4/6/24 8:29 PM</td>
+<td width="166">4/6/24 8:29 PM</td>
+<td width="195">Beta Sigma PSI</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="297">Arson</td>
+<td width="154">CAD# 2024-054937</td>
+<td width="168">4/6/24 8:35 PM</td>
+<td width="166">4/6/24 8:35 PM</td>
+<td width="195">Waldron St/ W Stadium Ave</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="297">Arson</td>
+<td width="154">CAD# 2024-054967</td>
+<td width="168">4/6/24 9:49 PM</td>
+<td width="166">4/6/24 9:49 PM</td>
+<td width="195">Phi Kappa PSI</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td>Rape</td>
+<td>CSA</td>
+<td>3/28/24 12:00 AM</td>
+<td>4/5/24 2:45 AM</td>
+<td>On-Campus Location</td>
+<td>Nothing Further</td>
+</tr>
+<tr>
+<td width="297">Rape</td>
+<td width="154">CSA</td>
+<td width="168">3/1/24 12:00 AM</td>
+<td width="166">4/5/24 4:00 PM</td>
+<td width="195">On-Campus Housing</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
