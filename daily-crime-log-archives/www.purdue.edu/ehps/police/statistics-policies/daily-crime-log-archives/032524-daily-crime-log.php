@@ -651,7 +651,7 @@
 <td width="168">3/9/24 8:12 PM</td>
 <td width="166">3/25/24 3:00 PM</td>
 <td width="195">Alpha Gamma Delta</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="174">Harassment</td>
