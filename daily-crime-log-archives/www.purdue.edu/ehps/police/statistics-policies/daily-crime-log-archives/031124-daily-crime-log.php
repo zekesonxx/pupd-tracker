@@ -743,7 +743,7 @@
 <td style="font-weight: 400;" width="168">3/12/24 1:30 PM</td>
 <td style="font-weight: 400;" width="166">3/12/24 2:16 PM</td>
 <td style="font-weight: 400;" width="223">Lynn Hall</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="194">Theft</td>

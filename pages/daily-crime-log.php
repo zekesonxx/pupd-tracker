@@ -669,7 +669,114 @@
   
     	<section class="content__group">
   					<h3>Wednesday, April 10, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="195">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00559</td>
+<td style="font-weight: 400;" width="168">4/4/24 8:03 AM</td>
+<td style="font-weight: 400;" width="166">4/9/24 8:56 AM</td>
+<td style="font-weight: 400;" width="195">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="181">Previously reported in CAD# 2024-053536</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00561</td>
+<td style="font-weight: 400;" width="168">4/6/24 1:00 PM</td>
+<td style="font-weight: 400;" width="166">4/9/24 12:50 PM</td>
+<td style="font-weight: 400;" width="195">Hawkins Graduate House</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00562</td>
+<td style="font-weight: 400;" width="168">4/5/24 5:00 PM</td>
+<td style="font-weight: 400;" width="166">4/9/24 1:14 PM</td>
+<td style="font-weight: 400;" width="195">Hampton Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Fraud</td>
+<td style="font-weight: 400;">2024PU00563</td>
+<td style="font-weight: 400;">4/9/24 1:15 PM</td>
+<td style="font-weight: 400;">4/9/24 1:50 PM</td>
+<td style="font-weight: 400;">Tarkington Hall</td>
+<td style="font-weight: 400;">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Theft-EMPV</td>
+<td style="font-weight: 400;">2024PU00565</td>
+<td style="font-weight: 400;">4/8/24 2:30 PM</td>
+<td style="font-weight: 400;">4/9/24 4:53 PM</td>
+<td style="font-weight: 400;">Harrison Hall</td>
+<td style="font-weight: 400;">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Resisting/Drug Law Violations</td>
+<td style="font-weight: 400;" width="154">2024PU00569</td>
+<td style="font-weight: 400;" width="168">4/10/24 1:03 AM</td>
+<td style="font-weight: 400;" width="166">4/10/24 1:46 AM</td>
+<td style="font-weight: 400;" width="195">McCutcheon Parking Garage</td>
+<td style="font-weight: 400;">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00571</td>
+<td style="font-weight: 400;" width="168">4/10/24 2:40 AM</td>
+<td style="font-weight: 400;" width="166">4/10/24 3:19 AM</td>
+<td style="font-weight: 400;" width="195">Chaney-Hale Hall</td>
+<td style="font-weight: 400;">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-055564</td>
+<td style="font-weight: 400;" width="168">4/8/24 6:53 AM</td>
+<td style="font-weight: 400;" width="166">4/8/24 6:53 AM</td>
+<td style="font-weight: 400;" width="195">Rawls Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-056048</td>
+<td style="font-weight: 400;" width="168">4/8/24 8:24 PM</td>
+<td style="font-weight: 400;" width="166">4/8/24 8:24 PM</td>
+<td style="font-weight: 400;" width="195">100 Blk S Grant St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-056049</td>
+<td style="font-weight: 400;" width="168">4/8/24 8:27 PM</td>
+<td style="font-weight: 400;" width="166">4/8/24 8:27 PM</td>
+<td style="font-weight: 400;" width="195">100 Blk S Grant St</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-056060</td>
+<td style="font-weight: 400;" width="168">4/8/24 8:52 PM</td>
+<td style="font-weight: 400;" width="166">4/8/24 8:52 PM</td>
+<td style="font-weight: 400;" width="195">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-056195</td>
+<td style="font-weight: 400;" width="168">4/9/24 12:55 AM</td>
+<td style="font-weight: 400;" width="166">4/9/24 12:55 AM</td>
+<td style="font-weight: 400;" width="195">400 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -753,8 +860,8 @@
 <tr>
 <td style="font-weight: 400;" width="171">Theft-EMPV</td>
 <td style="font-weight: 400;" width="154">2024PU00556</td>
-<td style="font-weight: 400;" width="168">4/9/24 1:40 AM</td>
-<td style="font-weight: 400;" width="166">4/9/24 1:55 AM</td>
+<td style="font-weight: 400;" width="168">4/8/24 10:00 AM</td>
+<td style="font-weight: 400;" width="166">4/8/24 9:00 PM</td>
 <td style="font-weight: 400;" width="195">Earhart Hall</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
@@ -902,7 +1009,7 @@
 <td>4/4/24 2:07 PM</td>
 <td>4/4/24 2:07 PM</td>
 <td>Northwestern Parking Garage</td>
-<td>Nothing Further</td>
+<td>Documented in 2024PU00559</td>
 </tr>
 <tr>
 <td width="297">Harassment</td>
