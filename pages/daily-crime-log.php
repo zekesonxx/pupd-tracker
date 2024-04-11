@@ -662,7 +662,74 @@
   
     	<section class="content__group">
   					<h3>Thursday, April 11, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Harassment</td>
+<td width="154">2024PU00567</td>
+<td width="168">4/9/24 5:30 PM</td>
+<td width="166">4/9/24 8:25 PM</td>
+<td width="215">Grand Prix Track</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU00572</td>
+<td width="168">4/10/24 10:11 AM</td>
+<td width="166">4/10/24 10:17 AM</td>
+<td width="215">Wood St Parking Garage</td>
+<td width="181">Unfounded</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU00576</td>
+<td width="168">4/10/24 2:17 PM</td>
+<td width="166">4/10/24 2:32 PM</td>
+<td width="215">Ford Dining Court</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td>Theft-EMPV</td>
+<td>2024PU00577</td>
+<td>4/10/24 2:43 PM</td>
+<td>4/10/24 3:27 PM</td>
+<td>Mackey Arena</td>
+<td>Unfounded</td>
+</tr>
+<tr>
+<td>Theft-Bike</td>
+<td>2024PU00578</td>
+<td>4/10/24 11:30 AM</td>
+<td>4/10/24 6:25 PM</td>
+<td>Bechtel Innovation Design Center</td>
+<td>Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Reckless Driving</td>
+<td width="154">CAD# 2024-056629</td>
+<td width="168">4/9/24 5:06 PM</td>
+<td width="166">4/9/24 5:06 PM</td>
+<td width="215">US 231 Hwy/ S River Rd</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Reckless Driving</td>
+<td width="154">CAD# 2024-056925</td>
+<td width="168">4/10/24 7:07 AM</td>
+<td width="166">4/10/24 7:07 AM</td>
+<td width="215">S River Rd/ E State St</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -953,7 +1020,7 @@
 <td>4/6/24 3:15 PM</td>
 <td>4/6/24 3:37 PM</td>
 <td>Stewart Center</td>
-<td>Pending Prosecutor Review</td>
+<td>Closed</td>
 </tr>
 <tr>
 <td>Resisting Law Enforcement/Minor Consumption</td>
