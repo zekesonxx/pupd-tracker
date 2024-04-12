@@ -651,7 +651,7 @@
 <td style="font-weight: 400;" width="168">3/14/24 2:00 AM</td>
 <td style="font-weight: 400;" width="166">3/14/24 7:33 AM</td>
 <td style="font-weight: 400;" width="223">Hawkins Hall</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="199">Closed</td>
 </tr>
 </tbody>
 </table>
