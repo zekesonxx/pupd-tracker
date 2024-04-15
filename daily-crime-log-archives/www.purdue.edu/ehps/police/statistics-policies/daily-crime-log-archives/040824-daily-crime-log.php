@@ -659,7 +659,7 @@
 <td width="168">2/23/24 12:00 PM</td>
 <td width="166">4/11/24 3:16 PM</td>
 <td width="215">Hawkins Graduate House</td>
-<td width="181">Under Investigation</td>
+<td width="181">Suspended</td>
 </tr>
 <tr>
 <td width="171">Theft-Bike</td>
