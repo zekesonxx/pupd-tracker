@@ -676,7 +676,66 @@
   
     	<section class="content__group">
   					<h3>Tuesday, April 16, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU00601</td>
+<td width="168">4/14/24 2:15 AM</td>
+<td width="166">4/14/24 2:36 AM</td>
+<td width="215">1st St Towers</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Hit &amp; Run</td>
+<td width="154">2024PU00606</td>
+<td width="168">4/15/24 11:27 AM</td>
+<td width="166">4/15/24 11:44 AM</td>
+<td width="215">800 Blk David Ross Rd</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Domestic Disturbance</td>
+<td width="154">2024PU00607</td>
+<td width="168">4/15/24 1:26 PM</td>
+<td width="166">4/15/24 1:54 PM</td>
+<td width="215">Tarkington Hall</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="154">CAD# 2024-058353</td>
+<td width="168">4/12/24 1:20 PM</td>
+<td width="166">4/12/24 1:20 PM</td>
+<td width="215">W State St</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="154">CAD# 2024-059229</td>
+<td width="168">4/13/24 10:52 PM</td>
+<td width="166">4/13/24 10:52 PM</td>
+<td width="215">Northwestern Ave/ W Stadium Ave</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="154">CAD# 2024-059709</td>
+<td width="168">4/14/24 6:57 PM</td>
+<td width="166">4/14/24 6:57 PM</td>
+<td width="215">US HWY 231 N/ Cherry Ln</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
