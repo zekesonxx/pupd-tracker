@@ -669,7 +669,58 @@
   
     	<section class="content__group">
   					<h3>Wednesday, April 17, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00575</td>
+<td style="font-weight: 400;" width="168">4/10/24 7:00 AM</td>
+<td style="font-weight: 400;" width="166">4/10/24 11:55 AM</td>
+<td style="font-weight: 400;" width="215">200 Blk S Russell St</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00611</td>
+<td style="font-weight: 400;" width="168">4/15/24 6:30 AM</td>
+<td style="font-weight: 400;" width="166">4/16/24 11:48 AM</td>
+<td style="font-weight: 400;" width="215">Meredith South Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud/ Intimidation</td>
+<td style="font-weight: 400;" width="154">2024PU00612</td>
+<td style="font-weight: 400;" width="168">4/16/24 8:42 PM</td>
+<td style="font-weight: 400;" width="166">4/16/24 9:31 PM</td>
+<td style="font-weight: 400;" width="215">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00613</td>
+<td style="font-weight: 400;" width="168">4/16/24 11:21 PM</td>
+<td style="font-weight: 400;" width="166">4/16/24 11:38 PM</td>
+<td style="font-weight: 400;" width="215">Lilly Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00614</td>
+<td style="font-weight: 400;" width="168">4/17/24 5:04 AM</td>
+<td style="font-weight: 400;" width="166">4/17/24 5:11 AM</td>
+<td style="font-weight: 400;" width="215">Dauch Alumni Center</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -782,7 +833,7 @@
 <td style="font-weight: 400;" width="168">4/12/24 11:46 PM</td>
 <td style="font-weight: 400;" width="166">4/12/24 11:59 PM</td>
 <td style="font-weight: 400;" width="215">3rd St/ N University St</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
@@ -822,7 +873,7 @@
 <td style="font-weight: 400;" width="168">4/13/24 10:33 PM</td>
 <td style="font-weight: 400;" width="166">4/13/24 10:47 PM</td>
 <td style="font-weight: 400;" width="215">Horticulture Park</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Operating While Intoxicated</td>

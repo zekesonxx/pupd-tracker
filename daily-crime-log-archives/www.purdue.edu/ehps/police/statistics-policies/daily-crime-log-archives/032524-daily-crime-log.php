@@ -907,7 +907,7 @@
 <td width="168">3/23/24 3:27 AM</td>
 <td width="166">3/23/24 3:55 AM</td>
 <td width="195">McCutcheon Hall</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="174">Criminal Mischief</td>

@@ -913,7 +913,7 @@
 <td style="font-weight: 400;">4/9/24 1:09 AM</td>
 <td style="font-weight: 400;">4/9/24 1:35 AM</td>
 <td style="font-weight: 400;">Earhart Hall</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -953,7 +953,7 @@
 <td style="font-weight: 400;" width="168">4/9/24 2:39 AM</td>
 <td style="font-weight: 400;" width="166">4/9/24 2:59 AM</td>
 <td style="font-weight: 400;" width="195">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Harassment</td>
@@ -1059,7 +1059,7 @@
 <td>4/6/24 11:32 PM</td>
 <td>4/6/24 11:46 PM</td>
 <td>Young Hall</td>
-<td>Pending Prosecutor Review</td>
+<td>Closed</td>
 </tr>
 <tr>
 <td>Hit &amp; Run</td>
@@ -1075,7 +1075,7 @@
 <td>4/8/24 2:45 AM</td>
 <td>4/8/24 2:59 AM</td>
 <td>Wiley Hall</td>
-<td>Pending Prosecutor Review</td>
+<td>Closed</td>
 </tr>
 <tr>
 <td width="297">Theft</td>
