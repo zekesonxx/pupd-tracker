@@ -833,7 +833,7 @@
 <td width="168">2/5/24 1:54 PM</td>
 <td width="166">2/5/24 3:40 PM</td>
 <td width="223">Pao Hall</td>
-<td width="199">Pending Prosecutor Review</td>
+<td width="199">Under Investigation</td>
 </tr>
 <tr>
 <td width="187">Drug Law Violation</td>

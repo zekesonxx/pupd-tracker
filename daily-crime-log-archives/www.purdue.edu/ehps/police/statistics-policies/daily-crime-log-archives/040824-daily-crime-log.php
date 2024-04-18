@@ -1003,7 +1003,7 @@
 <td width="168">4/5/24 11:33 PM</td>
 <td width="166">4/5/24 11:51 PM</td>
 <td width="195">Sigma Nu</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="297">Minor Consumption</td>

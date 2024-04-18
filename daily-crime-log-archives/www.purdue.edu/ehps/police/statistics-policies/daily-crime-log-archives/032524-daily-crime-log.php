@@ -955,7 +955,7 @@
 <td width="168">3/24/24 8:55 PM</td>
 <td width="166">3/24/24 9:33 PM</td>
 <td width="195">500 Blk W Wood St</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Under Investigation</td>
 </tr>
 <tr>
 <td width="174">Sexual Assault</td>
