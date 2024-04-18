@@ -662,7 +662,50 @@
   
     	<section class="content__group">
   					<h3>Thursday, April 18, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU00615</td>
+<td style="font-weight: 400;" width="168">4/17/24 1:00 PM</td>
+<td style="font-weight: 400;" width="166">4/17/24 6:06 PM</td>
+<td style="font-weight: 400;" width="215">1200 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00616</td>
+<td style="font-weight: 400;" width="168">4/17/24 8:52 PM</td>
+<td style="font-weight: 400;" width="166">4/17/24 9:17 PM</td>
+<td style="font-weight: 400;" width="215">Lawson Hall</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU00617</td>
+<td style="font-weight: 400;" width="168">4/18/24 2:28 AM</td>
+<td style="font-weight: 400;" width="166">4/18/24 2:54 AM</td>
+<td style="font-weight: 400;" width="215">Meredith South Hall</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-060856</td>
+<td style="font-weight: 400;" width="168">4/16/24 5:33 PM</td>
+<td style="font-weight: 400;" width="166">4/16/24 5:33 PM</td>
+<td style="font-weight: 400;" width="215">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
