@@ -655,7 +655,90 @@
   
     	<section class="content__group">
   					<h3>Friday, April 19, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU00618</td>
+<td width="168">4/18/24 3:32 AM</td>
+<td width="166">4/18/24 8:50 AM</td>
+<td width="215">Ross-Ade Stadium</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="154">2024PU00619</td>
+<td width="168">4/18/24 12:29 PM</td>
+<td width="166">4/18/24 1:03 PM</td>
+<td width="215">Lawson Hall</td>
+<td width="181">Unfounded</td>
+</tr>
+<tr>
+<td width="171">Arson/ Criminal Mischief</td>
+<td width="154">2024PU00621</td>
+<td width="168">4/18/24 6:27 PM</td>
+<td width="166">4/18/24 6:49 PM</td>
+<td width="215">Earhart Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Arson/ Criminal Recklessness</td>
+<td width="154">2024PU00622</td>
+<td width="168">4/18/24 8:54 PM</td>
+<td width="166">4/18/24 10:12 PM</td>
+<td width="215">Owen Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="154">2024PU00623</td>
+<td width="168">4/17/24 10:30 AM</td>
+<td width="166">4/18/24 11:36 PM</td>
+<td width="215">Wiley Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU00624</td>
+<td width="168">4/19/24 1:33 AM</td>
+<td width="166">4/19/24 1:52 AM</td>
+<td width="215">Meredith Hall</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Arson/ Criminal Mischief</td>
+<td width="154">2024PU00626</td>
+<td width="168">4/16/2024&#160; Unknown Time</td>
+<td width="166">4/16/24 9:48 PM</td>
+<td width="215">Earhart Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Arson/ Criminal Mischief</td>
+<td width="154">2024PU00627</td>
+<td width="168">4/18/24 6:27 PM</td>
+<td width="166">4/18/24 6:49 PM</td>
+<td width="215">Earhart Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Burglary</td>
+<td width="154">CAD# 2024-061557</td>
+<td width="168">4/17/24 9:33 PM</td>
+<td width="166">4/17/24 9:33 PM</td>
+<td width="215">Beta Theta Pi</td>
+<td width="181">Documented 2024WL00925</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -686,7 +769,7 @@
 <td style="font-weight: 400;" width="168">4/17/24 8:52 PM</td>
 <td style="font-weight: 400;" width="166">4/17/24 9:17 PM</td>
 <td style="font-weight: 400;" width="215">Lawson Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Duplicate Documented in 2024PU00619</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
