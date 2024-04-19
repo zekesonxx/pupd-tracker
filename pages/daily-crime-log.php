@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			041524 Daily Crime Log - 
+			042224 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -654,411 +654,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, April 19, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="171">Theft</td>
-<td width="154">2024PU00618</td>
-<td width="168">4/18/24 3:32 AM</td>
-<td width="166">4/18/24 8:50 AM</td>
-<td width="215">Ross-Ade Stadium</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Theft-Bike</td>
-<td width="154">2024PU00619</td>
-<td width="168">4/18/24 12:29 PM</td>
-<td width="166">4/18/24 1:03 PM</td>
-<td width="215">Lawson Hall</td>
-<td width="181">Unfounded</td>
-</tr>
-<tr>
-<td width="171">Arson/ Criminal Mischief</td>
-<td width="154">2024PU00621</td>
-<td width="168">4/18/24 6:27 PM</td>
-<td width="166">4/18/24 6:49 PM</td>
-<td width="215">Earhart Hall</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Arson/ Criminal Recklessness</td>
-<td width="154">2024PU00622</td>
-<td width="168">4/18/24 8:54 PM</td>
-<td width="166">4/18/24 10:12 PM</td>
-<td width="215">Owen Hall</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Theft-Bike</td>
-<td width="154">2024PU00623</td>
-<td width="168">4/17/24 10:30 AM</td>
-<td width="166">4/18/24 11:36 PM</td>
-<td width="215">Wiley Hall</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Minor Consumption</td>
-<td width="154">2024PU00624</td>
-<td width="168">4/19/24 1:33 AM</td>
-<td width="166">4/19/24 1:52 AM</td>
-<td width="215">Meredith Hall</td>
-<td width="181">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td width="171">Arson/ Criminal Mischief</td>
-<td width="154">2024PU00626</td>
-<td width="168">4/16/2024&#160; Unknown Time</td>
-<td width="166">4/16/24 9:48 PM</td>
-<td width="215">Earhart Hall</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Arson/ Criminal Mischief</td>
-<td width="154">2024PU00627</td>
-<td width="168">4/18/24 6:27 PM</td>
-<td width="166">4/18/24 6:49 PM</td>
-<td width="215">Earhart Hall</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Burglary</td>
-<td width="154">CAD# 2024-061557</td>
-<td width="168">4/17/24 9:33 PM</td>
-<td width="166">4/17/24 9:33 PM</td>
-<td width="215">Beta Theta Pi</td>
-<td width="181">Documented 2024WL00925</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Friday, April 26, 2024</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, April 18, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="154">2024PU00615</td>
-<td style="font-weight: 400;" width="168">4/17/24 1:00 PM</td>
-<td style="font-weight: 400;" width="166">4/17/24 6:06 PM</td>
-<td style="font-weight: 400;" width="215">1200 Blk Mitch Daniels Blvd</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2024PU00616</td>
-<td style="font-weight: 400;" width="168">4/17/24 8:52 PM</td>
-<td style="font-weight: 400;" width="166">4/17/24 9:17 PM</td>
-<td style="font-weight: 400;" width="215">Lawson Hall</td>
-<td style="font-weight: 400;" width="181">Duplicate Documented in 2024PU00619</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Minor Consumption</td>
-<td style="font-weight: 400;" width="154">2024PU00617</td>
-<td style="font-weight: 400;" width="168">4/18/24 2:28 AM</td>
-<td style="font-weight: 400;" width="166">4/18/24 2:54 AM</td>
-<td style="font-weight: 400;" width="215">Meredith South Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="154">CAD# 2024-060856</td>
-<td style="font-weight: 400;" width="168">4/16/24 5:33 PM</td>
-<td style="font-weight: 400;" width="166">4/16/24 5:33 PM</td>
-<td style="font-weight: 400;" width="215">Frieda Parker Hall</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, April 25, 2024</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, April 17, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2024PU00575</td>
-<td style="font-weight: 400;" width="168">4/10/24 7:00 AM</td>
-<td style="font-weight: 400;" width="166">4/10/24 11:55 AM</td>
-<td style="font-weight: 400;" width="215">200 Blk S Russell St</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="154">2024PU00611</td>
-<td style="font-weight: 400;" width="168">4/15/24 6:30 AM</td>
-<td style="font-weight: 400;" width="166">4/16/24 11:48 AM</td>
-<td style="font-weight: 400;" width="215">Meredith South Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Fraud/ Intimidation</td>
-<td style="font-weight: 400;" width="154">2024PU00612</td>
-<td style="font-weight: 400;" width="168">4/16/24 8:42 PM</td>
-<td style="font-weight: 400;" width="166">4/16/24 9:31 PM</td>
-<td style="font-weight: 400;" width="215">Winifred Parker Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2024PU00613</td>
-<td style="font-weight: 400;" width="168">4/16/24 11:21 PM</td>
-<td style="font-weight: 400;" width="166">4/16/24 11:38 PM</td>
-<td style="font-weight: 400;" width="215">Lilly Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2024PU00614</td>
-<td style="font-weight: 400;" width="168">4/17/24 5:04 AM</td>
-<td style="font-weight: 400;" width="166">4/17/24 5:11 AM</td>
-<td style="font-weight: 400;" width="215">Dauch Alumni Center</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, April 24, 2024</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday, April 16, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="171">Minor Consumption</td>
-<td width="154">2024PU00601</td>
-<td width="168">4/14/24 2:15 AM</td>
-<td width="166">4/14/24 2:36 AM</td>
-<td width="215">1st St Towers</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Hit &amp; Run</td>
-<td width="154">2024PU00606</td>
-<td width="168">4/15/24 11:27 AM</td>
-<td width="166">4/15/24 11:44 AM</td>
-<td width="215">800 Blk David Ross Rd</td>
-<td width="181">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Domestic Disturbance</td>
-<td width="154">2024PU00607</td>
-<td width="168">4/15/24 1:26 PM</td>
-<td width="166">4/15/24 1:54 PM</td>
-<td width="215">Tarkington Hall</td>
-<td width="181">Nothing Further</td>
-</tr>
-<tr>
-<td width="171">Reckless Driver</td>
-<td width="154">CAD# 2024-058353</td>
-<td width="168">4/12/24 1:20 PM</td>
-<td width="166">4/12/24 1:20 PM</td>
-<td width="215">W State St</td>
-<td width="181">Nothing Further</td>
-</tr>
-<tr>
-<td width="171">Reckless Driver</td>
-<td width="154">CAD# 2024-059229</td>
-<td width="168">4/13/24 10:52 PM</td>
-<td width="166">4/13/24 10:52 PM</td>
-<td width="215">Northwestern Ave/ W Stadium Ave</td>
-<td width="181">Nothing Further</td>
-</tr>
-<tr>
-<td width="171">Reckless Driver</td>
-<td width="154">CAD# 2024-059709</td>
-<td width="168">4/14/24 6:57 PM</td>
-<td width="166">4/14/24 6:57 PM</td>
-<td width="215">US HWY 231 N/ Cherry Ln</td>
-<td width="181">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday, April 23, 2024</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, April 15, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft-EMPV</td>
-<td style="font-weight: 400;" width="154">2024PU00589</td>
-<td style="font-weight: 400;" width="168">4/9/24 5:30 PM</td>
-<td style="font-weight: 400;" width="166">4/12/24 4:17 PM</td>
-<td style="font-weight: 400;" width="215">Frieda Parker Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2024PU00590</td>
-<td style="font-weight: 400;" width="168">4/10/24 11:30 AM</td>
-<td style="font-weight: 400;" width="166">4/12/24 5:51 PM</td>
-<td style="font-weight: 400;" width="215">Bechtel Center</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation</td>
-<td style="font-weight: 400;" width="154">2024PU00593</td>
-<td style="font-weight: 400;" width="168">4/12/24 10:01 PM</td>
-<td style="font-weight: 400;" width="166">4/12/24 10:45 PM</td>
-<td style="font-weight: 400;" width="215">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="154">2024PU00594</td>
-<td style="font-weight: 400;" width="168">4/12/24 11:46 PM</td>
-<td style="font-weight: 400;" width="166">4/12/24 11:59 PM</td>
-<td style="font-weight: 400;" width="215">3rd St/ N University St</td>
-<td style="font-weight: 400;" width="181">Suspended</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="154">2024PU00595</td>
-<td style="font-weight: 400;" width="168">4/13/24 1:14 AM</td>
-<td style="font-weight: 400;" width="166">4/13/24 2:22 AM</td>
-<td style="font-weight: 400;" width="215">Mitch Daniels Blvd/ McCormick Rd</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">False Informing/ Minor Consumption</td>
-<td style="font-weight: 400;" width="154">2024PU00596</td>
-<td style="font-weight: 400;" width="168">4/13/24 2:45 AM</td>
-<td style="font-weight: 400;" width="166">4/13/24 3:02 AM</td>
-<td style="font-weight: 400;" width="215">Meredith South Hall</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="154">2024PU00598</td>
-<td style="font-weight: 400;" width="168">4/13/24 3:36 AM</td>
-<td style="font-weight: 400;" width="166">4/13/24 4:03 AM</td>
-<td style="font-weight: 400;" width="215">800 Blk S River Rd</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="154">2024PU00599</td>
-<td style="font-weight: 400;" width="168">4/13/24 3:56 PM</td>
-<td style="font-weight: 400;" width="166">4/13/24 4:30 PM</td>
-<td style="font-weight: 400;" width="215">S University St/ Clinic Dr</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation/ Minor Consumption</td>
-<td style="font-weight: 400;" width="154">2024PU00600</td>
-<td style="font-weight: 400;" width="168">4/13/24 10:33 PM</td>
-<td style="font-weight: 400;" width="166">4/13/24 10:47 PM</td>
-<td style="font-weight: 400;" width="215">Horticulture Park</td>
-<td style="font-weight: 400;" width="181">Closed</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="154">2024PU00602</td>
-<td style="font-weight: 400;" width="168">4/14/24 3:32 AM</td>
-<td style="font-weight: 400;" width="166">4/14/24 4:09 AM</td>
-<td style="font-weight: 400;" width="215">Mitch Daniels Blvd/ Marsteller St</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Driving While Suspended</td>
-<td style="font-weight: 400;" width="154">2024PU00603</td>
-<td style="font-weight: 400;" width="168">4/14/24 9:25 AM</td>
-<td style="font-weight: 400;" width="166">4/14/24 10:13 AM</td>
-<td style="font-weight: 400;" width="215">W Stadium Ave/ N Russell St</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="154">2024PU00604</td>
-<td style="font-weight: 400;" width="168">3/31/24 12:00 AM</td>
-<td style="font-weight: 400;" width="166">4/14/24 12:02 PM</td>
-<td style="font-weight: 400;" width="215">McCutcheon Parking Garage</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2024PU00605</td>
-<td style="font-weight: 400;" width="168">4/14/24 1:30 AM</td>
-<td style="font-weight: 400;" width="166">4/14/24 6:37 PM</td>
-<td style="font-weight: 400;" width="215">Tarkingtom Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Driving While Suspended</td>
-<td style="font-weight: 400;" width="154">CAD# 2024-057666</td>
-<td style="font-weight: 400;" width="168">4/11/24 9:14 AM</td>
-<td style="font-weight: 400;" width="166">4/11/24 9:14 AM</td>
-<td style="font-weight: 400;" width="215">S River Rd/ Ahlers Dr</td>
-<td style="font-weight: 400;" width="181">Documented 2024WL00870</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Reckless Driver</td>
-<td style="font-weight: 400;" width="154">CAD# 2024-057594</td>
-<td style="font-weight: 400;" width="168">4/11/24 7:22 PM</td>
-<td style="font-weight: 400;" width="166">4/11/24 7:22 PM</td>
-<td style="font-weight: 400;" width="215">US HWY 231 N/ Cherry Ln</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Reckless Driver</td>
-<td style="font-weight: 400;" width="154">CAD# 2024-058050</td>
-<td style="font-weight: 400;" width="168">4/11/24 10:31 PM</td>
-<td style="font-weight: 400;" width="166">4/11/24 10:31 PM</td>
-<td style="font-weight: 400;" width="215">7000 US HWY 231 S</td>
-<td style="font-weight: 400;" width="181">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Monday, April 22, 2024</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
