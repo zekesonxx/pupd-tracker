@@ -683,7 +683,170 @@
   
     	<section class="content__group">
   					<h3>Monday, April 22, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Hit &amp; Run</td>
+<td width="154">2024PU00625</td>
+<td width="168">4/18/24 12:30 PM</td>
+<td width="166">4/19/24 9:47 AM</td>
+<td width="215">University St Parking Garage</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Harassment</td>
+<td width="154">2024PU00628</td>
+<td width="168">4/19/24 11:30 AM</td>
+<td width="166">4/19/24 11:36 AM</td>
+<td width="215">Duhme Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Harassment</td>
+<td width="154">2024PU00629</td>
+<td width="168">4/19/24 8:00 AM</td>
+<td width="166">4/19/24 12:32 PM</td>
+<td width="215">Young Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Criminal Mischief</td>
+<td width="154">2024PU00631</td>
+<td width="168">4/16/24 10:17 PM</td>
+<td width="166">4/19/24 3:16 PM</td>
+<td width="215">Loeb Fountain</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Driving While Suspended</td>
+<td width="154">2024PU00633</td>
+<td width="168">4/19/24 3:11 PM</td>
+<td width="166">4/19/24 3:42 PM</td>
+<td width="215">Northwestern Ave/W Stadium Ave</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU00634</td>
+<td width="168">4/19/24 11:58 PM</td>
+<td width="166">4/20/24 12:23 AM</td>
+<td width="215">Shreve Hall</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU00636</td>
+<td width="168">4/20/24 2:39 AM</td>
+<td width="166">4/20/24 2:59 AM</td>
+<td width="215">W Stadium Ave/Waldron St</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Trespass/Public Intoxication</td>
+<td width="154">2024PU00637</td>
+<td width="168">4/20/24 2:54 PM</td>
+<td width="166">4/20/24 2:54 PM</td>
+<td width="215">Grand Prix Track</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="154">2024PU00638</td>
+<td width="168">4/20/24 8:32 PM</td>
+<td width="166">4/20/24 9:01 PM</td>
+<td width="215">Harrison Hall</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU00639</td>
+<td width="168">4/20/24 11:22 PM</td>
+<td width="166">4/20/24 11:38 PM</td>
+<td width="215">Alpha Chi Rho - Crows</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU00640</td>
+<td width="168">4/20/24 11:27 PM</td>
+<td width="166">4/20/24 11:47 PM</td>
+<td width="215">Wiley Hall</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Operating While Intoxicated</td>
+<td width="154">2024PU00641</td>
+<td width="168">4/20/24 11:47 PM</td>
+<td width="166">4/21/24 12:07 AM</td>
+<td width="215">McCormick Rd/Cherry Ln</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU00642</td>
+<td width="168">4/21/24 12:15 AM</td>
+<td width="166">4/21/24 12:31 AM</td>
+<td width="215">Harrison Hall</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU00643</td>
+<td width="168">4/21/24 2:15 AM</td>
+<td width="166">4/21/24 2:39 AM</td>
+<td width="215">Winifred Parker Hall</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">False Informing</td>
+<td width="154">2024PU00644</td>
+<td width="168">4/21/24 6:24 AM</td>
+<td width="166">4/21/24 6:37 AM</td>
+<td width="215">Earhart Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Criminal Mischief</td>
+<td width="154">2024PU00646</td>
+<td width="168">4/21/24 7:59 PM</td>
+<td width="166">4/21/24 8:17 PM</td>
+<td width="215">Cary Quad South</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-EMPV</td>
+<td width="154">2024PU00647</td>
+<td width="168">4/21/24 3:00 PM</td>
+<td width="166">4/22/24 1:16 AM</td>
+<td width="215">Shreve Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="154">CAD# 2024-062240</td>
+<td width="168">4/18/24 11:23 PM</td>
+<td width="166">4/18/24 11:23 PM</td>
+<td width="215">1200 Blk 3rd St</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Public Intoxication</td>
+<td width="154">CAD# 2024-062281</td>
+<td width="168">4/19/24 2:09 AM</td>
+<td width="166">4/19/24 2:09 AM</td>
+<td width="215">Pierce St/W State St</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
