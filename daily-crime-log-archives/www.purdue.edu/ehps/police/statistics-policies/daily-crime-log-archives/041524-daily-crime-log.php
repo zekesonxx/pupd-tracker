@@ -757,7 +757,7 @@
 <td style="font-weight: 400;" width="168">4/18/24 2:28 AM</td>
 <td style="font-weight: 400;" width="166">4/18/24 2:54 AM</td>
 <td style="font-weight: 400;" width="215">Meredith South Hall</td>
-<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>
@@ -799,7 +799,7 @@
 <td style="font-weight: 400;" width="168">4/15/24 6:30 AM</td>
 <td style="font-weight: 400;" width="166">4/16/24 11:48 AM</td>
 <td style="font-weight: 400;" width="215">Meredith South Hall</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Fraud/ Intimidation</td>

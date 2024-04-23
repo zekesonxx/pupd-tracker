@@ -676,7 +676,98 @@
   
     	<section class="content__group">
   					<h3>Tuesday, April 23, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Criminal Mischief</td>
+<td width="154">2024PU00648</td>
+<td width="168">3/26/24 10:59 AM</td>
+<td width="166">4/22/24 11:18 AM</td>
+<td width="215">Whistler Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Invasion of Privacy</td>
+<td width="154">2024PU00651</td>
+<td width="168">4/22/24 5:49 PM</td>
+<td width="166">4/22/24 5:57 PM</td>
+<td width="215">100 Blk N Macarthur Dr</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Blackmail</td>
+<td width="154">2024PU00652</td>
+<td width="168">4/22/24 6:52 PM</td>
+<td width="166">4/22/24 7:12 PM</td>
+<td width="215">Sigma Phi Epsilon</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU00654</td>
+<td width="168">4/22/24 9:24 PM</td>
+<td width="166">4/22/24 9:34 PM</td>
+<td width="215">Wiley Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Intimidation</td>
+<td width="154">2024PU00655</td>
+<td width="168">4/20/24 4:42 PM</td>
+<td width="166">4/22/24 10:46 PM</td>
+<td width="215">Grand Prix Track</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="154">CAD# 2024-062836</td>
+<td width="168">4/19/24 10:56 PM</td>
+<td width="166">4/19/24 10:56 PM</td>
+<td width="215">Vawter Hall</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="154">CAD# 2024-063423</td>
+<td width="168">4/20/24 11:16 PM</td>
+<td width="166">4/20/24 11:16 PM</td>
+<td width="215">McCutcheon Parking Garage</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Operating While Intoxicated</td>
+<td width="154">CAD# 2024-063502</td>
+<td width="168">4/21/24 2:18 AM</td>
+<td width="166">4/21/24 2:18 AM</td>
+<td width="215">E State St/N River Rd</td>
+<td width="181">Documented 2024WL00953</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="154">CAD# 2024-064146</td>
+<td width="168">4/22/24 12:25 PM</td>
+<td width="166">4/22/24 12:25 PM</td>
+<td width="215">300 Blk N Martin Jischke Dr</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Arson</td>
+<td width="154">CAD# 2024-064547</td>
+<td width="168">4/23/24 2:39 AM</td>
+<td width="166">4/23/24 2:39 AM</td>
+<td width="215">Pao Hall</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
