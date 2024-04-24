@@ -651,7 +651,7 @@
 <td width="168">4/18/24 3:32 AM</td>
 <td width="166">4/18/24 8:50 AM</td>
 <td width="215">Ross-Ade Stadium</td>
-<td width="181">Under Investigation</td>
+<td width="181">Suspended</td>
 </tr>
 <tr>
 <td width="171">Theft-Bike</td>

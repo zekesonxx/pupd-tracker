@@ -669,7 +669,34 @@
   
     	<section class="content__group">
   					<h3>Wednesday, April 24, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00656</td>
+<td style="font-weight: 400;" width="168">4/22/24 7:30 AM</td>
+<td style="font-weight: 400;" width="166">4/23/24 8:19 AM</td>
+<td style="font-weight: 400;" width="215">Lambert Field House</td>
+<td style="font-weight: 400;" width="181">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU00665</td>
+<td style="font-weight: 400;" width="168">2/24/24 3:08 AM</td>
+<td style="font-weight: 400;" width="166">2/24/24 3:25 AM</td>
+<td style="font-weight: 400;" width="215">300 Blk Northwestern Ave</td>
+<td style="font-weight: 400;" width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
