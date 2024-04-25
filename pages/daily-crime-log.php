@@ -662,7 +662,58 @@
   
     	<section class="content__group">
   					<h3>Thursday, April 25, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU00667</td>
+<td width="168">4/23/24 6:00 PM</td>
+<td width="166">4/24/24 3:32 PM</td>
+<td width="215">Honors College</td>
+<td width="181">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Sexual Assault</td>
+<td width="154">2024PU00668</td>
+<td width="168">4/21/24 12:00 AM</td>
+<td width="166">4/24/24 7:37 PM</td>
+<td width="215">200 Blk N Grant St</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Arson/ Criminal Recklessness</td>
+<td width="154">2024PU00670</td>
+<td width="168">4/24/24 11:54 PM</td>
+<td width="166">4/25/24 12:40 AM</td>
+<td width="215">Wiley Hall</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU00671</td>
+<td width="168">4/25/24 3:21 AM</td>
+<td width="166">4/25/24 3:44 AM</td>
+<td width="215">Tarkington Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="154">CAD# 2024-065495</td>
+<td width="168">4/24/24 7:19 PM</td>
+<td width="166">4/24/24 7:19 PM</td>
+<td width="215">Wilmeth Active Learning Center</td>
+<td width="181">Unfounded</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -873,7 +924,7 @@
 <td width="168">4/20/24 2:54 PM</td>
 <td width="166">4/20/24 2:54 PM</td>
 <td width="215">Grand Prix Track</td>
-<td width="181">Arrest Made</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="171">Drug Law Violation</td>
@@ -881,7 +932,7 @@
 <td width="168">4/20/24 8:32 PM</td>
 <td width="166">4/20/24 9:01 PM</td>
 <td width="215">Harrison Hall</td>
-<td width="181">Arrest Made</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="171">Minor Consumption</td>

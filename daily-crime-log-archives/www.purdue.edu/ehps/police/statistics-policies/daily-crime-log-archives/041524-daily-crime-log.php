@@ -667,7 +667,7 @@
 <td width="168">4/18/24 6:27 PM</td>
 <td width="166">4/18/24 6:49 PM</td>
 <td width="215">Earhart Hall</td>
-<td width="181">Under Investigation</td>
+<td width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="171">Arson/ Criminal Recklessness</td>
@@ -675,7 +675,7 @@
 <td width="168">4/18/24 8:54 PM</td>
 <td width="166">4/18/24 10:12 PM</td>
 <td width="215">Owen Hall</td>
-<td width="181">Under Investigation</td>
+<td width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="171">Theft-Bike</td>
@@ -691,23 +691,23 @@
 <td width="168">4/19/24 1:33 AM</td>
 <td width="166">4/19/24 1:52 AM</td>
 <td width="215">Meredith Hall</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="171">Arson/ Criminal Mischief</td>
 <td width="154">2024PU00626</td>
-<td width="168">4/16/2024&#160; Unknown Time</td>
-<td width="166">4/16/24 9:48 PM</td>
+<td width="168">4/16/2024&#160; 4:00 PM</td>
+<td width="166">4/19/24 10:00 AM</td>
 <td width="215">Earhart Hall</td>
-<td width="181">Under Investigation</td>
+<td width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="171">Arson/ Criminal Mischief</td>
 <td width="154">2024PU00627</td>
 <td width="168">4/18/24 6:27 PM</td>
-<td width="166">4/18/24 6:49 PM</td>
+<td width="166">4/19/24 10:00 AM</td>
 <td width="215">Earhart Hall</td>
-<td width="181">Under Investigation</td>
+<td width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="171">Burglary</td>
