@@ -683,7 +683,162 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, April 29, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft-EMPV</td>
+<td width="154">2024PU00679</td>
+<td width="168">4/26/24 5:44 AM</td>
+<td width="166">4/26/24 6:01 AM</td>
+<td width="215">McCutcheon Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU00680</td>
+<td width="168">4/23/24 8:30 AM</td>
+<td width="166">4/26/24 2:09 PM</td>
+<td width="215">Physical Facilities</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Trespass/Drug Law Violation/Public Intoxication</td>
+<td width="154">2024PU00681</td>
+<td width="168">4/26/24 10:23 PM</td>
+<td width="166">4/26/24 10:27 PM</td>
+<td width="215">Elliott Hall</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="154">2024PU00683</td>
+<td width="168">4/27/24 1:19 AM</td>
+<td width="166">4/27/24 1:46 AM</td>
+<td width="215">Earhart Hall</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU00684</td>
+<td width="168">4/27/24 1:41 AM</td>
+<td width="166">4/27/24 1:56 AM</td>
+<td width="215">Sigma Nu</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU00685</td>
+<td width="168">4/27/24 1:57 AM</td>
+<td width="166">4/27/24 2:12 AM</td>
+<td width="215">Meredith South Hall</td>
+<td width="181">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU00686</td>
+<td width="168">4/25/24 12:00 PM</td>
+<td width="166">4/27/24 1:09 PM</td>
+<td width="215">Knoy Hall</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Operating W/Out Ever Receiving</td>
+<td width="154">2024PU00687</td>
+<td width="168">4/26/24 11:12 PM</td>
+<td width="166">4/27/24 6:02 PM</td>
+<td width="215">US HWY 231 S/S River Rd</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="154">2024PU00690</td>
+<td width="168">4/28/24 7:53 PM</td>
+<td width="166">4/28/24 8:57 PM</td>
+<td width="215">Harrison Hall</td>
+<td width="181">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Criminal Mischief</td>
+<td width="154">2024PU00692</td>
+<td width="168">4/29/24 12:48 AM</td>
+<td width="166">4/29/24 1:20 AM</td>
+<td width="215">Windsor Dining Court</td>
+<td width="181">Under Investigation</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>7 Disciplinary Referral</td>
+<td>4/6/24 8:45 PM</td>
+<td>4/6/24 9:23 PM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>6 Disciplinary Referral</td>
+<td>4/7/24 1:30 AM</td>
+<td>4/7/24 4:00 AM</td>
+<td>Harrison Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>5 Disciplinary Referral</td>
+<td>4/8/24 10:30 PM</td>
+<td>4/9/24 7:11 PM</td>
+<td>Aspire Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>11 Disciplinary Referral</td>
+<td>4/12/24 9:30 PM</td>
+<td>4/13/24 1:48 AM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>4 Disciplinary Referral</td>
+<td>4/13/24 1:15 AM</td>
+<td>4/13/24 2:28 AM</td>
+<td>Aspire Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>5 Disciplinary Referral</td>
+<td>4/14/24 1:00 AM</td>
+<td>4/14/24 3:01 AM</td>
+<td>Aspire Apts</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td width="171">Liquor Law Violation</td>
+<td width="154">3 Disciplinary Referral</td>
+<td width="168">4/18/24 10:30 PM</td>
+<td width="166">4/18/24 11:08 PM</td>
+<td width="215">Honors Residence Hall</td>
+<td width="181">Judicial Review</td>
+</tr>
+<tr>
+<td width="171">Rape</td>
+<td width="154">CSA</td>
+<td width="168">9/20/22 12:00 AM</td>
+<td width="166">4/26/24 2:00 PM</td>
+<td width="215">On-Campus Housing</td>
+<td width="181">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
