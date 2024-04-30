@@ -676,7 +676,106 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, April 30, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU00675</td>
+<td width="168">4/25/24 10:00 AM</td>
+<td width="166">4/25/24 4:57 PM</td>
+<td width="215">Tarkington Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU00694</td>
+<td width="168">4/25/24 7:54 AM</td>
+<td width="166">4/29/24 8:09 AM</td>
+<td width="215">Cary Quad South</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Arson</td>
+<td width="154">2024PU00699</td>
+<td width="168">4/30/24 3:59 AM</td>
+<td width="166">4/30/24 4:08 AM</td>
+<td width="215">Wiley Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU00700</td>
+<td width="168">4/30/24 1:30 AM</td>
+<td width="166">4/30/24 4:10 AM</td>
+<td width="215">Beering Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td>Theft-Vehicle</td>
+<td>CAD# 2024-067017</td>
+<td>4/26/24 9:00 PM</td>
+<td>4/26/24 9:00 PM</td>
+<td>Salisbury Campus Apartments</td>
+<td>Documented in 2024WL01004</td>
+</tr>
+<tr>
+<td width="171">Harassment</td>
+<td width="154">CAD# 2024-066444</td>
+<td width="168">4/26/24 5:22 PM</td>
+<td width="166">4/26/24 5:22 PM</td>
+<td width="215">200 Blk Marsteller St</td>
+<td width="200">Documented in 2024WL01012</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="154">CAD# 2024-066833</td>
+<td width="168">4/27/24 11:41 AM</td>
+<td width="166">4/27/24 11:41 AM</td>
+<td width="215">Honors College</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="154">CAD# 2024-067081</td>
+<td width="168">4/27/24 12:24 AM</td>
+<td width="166">4/27/24 12:24 AM</td>
+<td width="215">Wood St Parking Garage</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="154">CAD# 2024-067081</td>
+<td width="168">4/27/24 10:30 PM</td>
+<td width="166">4/27/24 10:30 PM</td>
+<td width="215">Harrison Hall</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Trespass</td>
+<td width="154">CAD# 2024-067194</td>
+<td width="168">4/28/24 2:36 AM</td>
+<td width="166">4/28/24 2:36 AM</td>
+<td width="215">Ross-Ade Stadium</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="171"></td>
+<td width="154"></td>
+<td width="168"></td>
+<td width="166"></td>
+<td width="215"></td>
+<td width="200"></td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

@@ -1011,7 +1011,7 @@
 <td width="168">4/6/24 1:20 AM</td>
 <td width="166">4/6/24 1:36 AM</td>
 <td width="195">Tarkington Hall</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td>Theft-EMPV</td>
