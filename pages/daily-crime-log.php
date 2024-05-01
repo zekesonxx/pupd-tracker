@@ -669,7 +669,90 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, May 1, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<td width="171">Nature</td>
+<td width="154">Case Number</td>
+<td width="168">Date/Time Occurred</td>
+<td width="166">Date/Time Reported</td>
+<td width="215">General Location</td>
+<td width="200">Disposition&#160;</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU00701</td>
+<td width="168">4/28/24 6:00 PM</td>
+<td width="166">4/30/24 1:52 PM</td>
+<td width="215">Tarkington Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Threats</td>
+<td style="font-weight: 400;" width="154">2024PU00702</td>
+<td style="font-weight: 400;" width="168">4/27/24 2:41 PM</td>
+<td style="font-weight: 400;" width="166">4/30/24 3:22 PM</td>
+<td style="font-weight: 400;" width="215">Elliott Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU00703</td>
+<td style="font-weight: 400;" width="168">4/1/24 8:00 AM</td>
+<td style="font-weight: 400;" width="166">4/30/24 4:52 PM</td>
+<td style="font-weight: 400;" width="215">Harrison Street Parking Garage</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Harassment</td>
+<td style="font-weight: 400;" width="154">2024PU00704</td>
+<td style="font-weight: 400;" width="168">4/30/24 4:19 PM</td>
+<td style="font-weight: 400;" width="166">4/30/24 5:44 PM</td>
+<td style="font-weight: 400;" width="215">600 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Fraud</td>
+<td style="font-weight: 400;">2024PU00705</td>
+<td style="font-weight: 400;">4/30/24 7:58 PM</td>
+<td style="font-weight: 400;">4/30/24 8:09 PM</td>
+<td style="font-weight: 400;" width="215">Hilltop Apartments</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU00706</td>
+<td style="font-weight: 400;" width="168">4/30/24 10:18 PM</td>
+<td style="font-weight: 400;" width="166">4/30/24 10:52 PM</td>
+<td style="font-weight: 400;">Mitch Daniels Blvd/ S University St</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00707</td>
+<td style="font-weight: 400;" width="168">5/1/24 12:42 AM</td>
+<td style="font-weight: 400;" width="166">5/1/24 12:55 AM</td>
+<td style="font-weight: 400;" width="215">Harrison Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Trespass</td>
+<td style="font-weight: 400;" width="154">2024PU00708</td>
+<td style="font-weight: 400;" width="168">5/1/24 1:07 AM</td>
+<td style="font-weight: 400;" width="166">5/1/24 1:17 AM</td>
+<td style="font-weight: 400;" width="215">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-068059</td>
+<td style="font-weight: 400;" width="168">4/29/24 7:26 PM</td>
+<td style="font-weight: 400;" width="166">4/29/24 7:26 PM</td>
+<td style="font-weight: 400;" width="215">W State St/N Chauncey Ave</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
