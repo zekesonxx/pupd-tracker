@@ -662,7 +662,34 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, May 2, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="154">2024PU00712</td>
+<td width="168">4/4/24 12:36 AM</td>
+<td width="166">5/2/24 12:53 AM</td>
+<td width="215">Crosswalk Commons</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="154">CAD# 2024-068836</td>
+<td width="168">5/1/24 12:19 AM</td>
+<td width="166">5/1/24 12:19 AM</td>
+<td width="215">US 231 Hwy/ S River Rd</td>
+<td width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
