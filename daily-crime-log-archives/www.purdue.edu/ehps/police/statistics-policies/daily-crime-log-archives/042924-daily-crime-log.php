@@ -841,7 +841,7 @@
 <td width="168">4/30/24 3:59 AM</td>
 <td width="166">4/30/24 4:08 AM</td>
 <td width="215">Wiley Hall</td>
-<td width="200">Under Investigation</td>
+<td width="200"><span>Investigation Failed to Determine Fire was Intentionally Set</span></td>
 </tr>
 <tr>
 <td width="171">Theft</td>
