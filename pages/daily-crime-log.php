@@ -676,7 +676,42 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, May 7, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="154">2024PU00745</td>
+<td width="168">5/6/24 11:31 PM</td>
+<td width="166">5/6/24 11:57 PM</td>
+<td width="215">Marsteller St/Mitch Daniels Blvd</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Resisting Law Enforcement</td>
+<td width="154">2024PU00746</td>
+<td width="168">5/6/24 11:49 PM</td>
+<td width="166">5/7/24 12:03 AM</td>
+<td width="215">Pierce St/W Wood St</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Operating While Intoxicated</td>
+<td width="154">2024PU00747</td>
+<td width="168">5/7/24 2:51 AM</td>
+<td width="166">5/7/24 3:16 AM</td>
+<td width="215">W Wood St/Pierce St</td>
+<td width="200">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
