@@ -246,7 +246,7 @@
         
         
             
-                    <li role="none"><a href="https://www.bkstr.com/boilermakersstore" role="menuitem">Shop</a></li>
+                    <li role="none"><a href="https://purdueteamstore.com/home" role="menuitem">Shop</a></li>
             
                                  
         
@@ -621,7 +621,7 @@
 <td style="height: 18px;">2</td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px;">Outside Vegitation Fire&#160;</td>
+<td style="height: 18px;">Outside Vegetation&#160;Fire&#160;</td>
 <td style="height: 18px;">2</td>
 <td style="height: 18px;">3</td>
 <td style="height: 18px;">2</td>
@@ -849,7 +849,7 @@
 <td style="height: 18px;"></td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px;">Cancelled En Route</td>
+<td style="height: 18px;">Canceled En Route</td>
 <td style="height: 18px;">14</td>
 <td style="height: 18px;">15</td>
 <td style="height: 18px;">14</td>

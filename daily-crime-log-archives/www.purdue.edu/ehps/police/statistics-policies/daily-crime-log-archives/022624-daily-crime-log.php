@@ -659,7 +659,7 @@
 <td width="168">2/28/24 5:30 PM</td>
 <td width="166">2/29/24 12:28 PM</td>
 <td width="223">Dudley Hall</td>
-<td width="199"><span>Pending Prosecutor Reivew. The investigation determined this case to be a burglary</span></td>
+<td width="199"><span>Pending Prosecutor Review. The investigation determined this case to be a burglary</span></td>
 </tr>
 <tr>
 <td width="240">Hit &amp; Run</td>
@@ -717,7 +717,7 @@
 <td style="font-weight: 400;" width="168">2/28/24 4:27 PM</td>
 <td style="font-weight: 400;" width="166">2/28/24 4:58 PM</td>
 <td style="font-weight: 400;" width="223">Mackey Arena</td>
-<td style="font-weight: 400;" width="199"><span>Pending Prosecutor Reivew. The investigation determined this case to be a burglary</span></td>
+<td style="font-weight: 400;" width="199"><span>Pending Prosecutor Review. The investigation determined this case to be a burglary</span></td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft</td>
@@ -725,7 +725,7 @@
 <td style="font-weight: 400;" width="168">2/28/24 8:42 PM</td>
 <td style="font-weight: 400;" width="166">2/28/24 8:58 PM</td>
 <td style="font-weight: 400;" width="223">Lambertus Hall</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Reivew</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Burglary</td>
@@ -733,7 +733,7 @@
 <td style="font-weight: 400;" width="168">2/28/24 4:00 PM</td>
 <td style="font-weight: 400;" width="166">2/28/24 10:33 PM</td>
 <td style="font-weight: 400;" width="223">Forney Hall</td>
-<td style="font-weight: 400;" width="199"><span>Pending Prosecutor Reivew. The investigation determined this case to be a burglary</span></td>
+<td style="font-weight: 400;" width="199"><span>Pending Prosecutor Review. The investigation determined this case to be a burglary</span></td>
 </tr>
 <tr>
 <td style="font-weight: 400;">Intimidation</td>
@@ -791,7 +791,7 @@
 <td style="font-weight: 400;" width="168">2/27/24 9:50 AM</td>
 <td style="font-weight: 400;" width="166">2/27/24 10:18 AM</td>
 <td style="font-weight: 400;" width="223">Physics Building</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Reivew</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Criminal Mischief/Burglary</td>
@@ -799,7 +799,7 @@
 <td style="font-weight: 400;" width="168">2/22/24 5:00 PM</td>
 <td style="font-weight: 400;" width="166">2/27/24 11:51 AM</td>
 <td style="font-weight: 400;" width="223">Hovde Hall</td>
-<td style="font-weight: 400;" width="199"><span>Pending Prosecutor Reivew. The investigation determined this case to be a burglary</span></td>
+<td style="font-weight: 400;" width="199"><span>Pending Prosecutor Review. The investigation determined this case to be a burglary</span></td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft-Bike</td>
@@ -839,7 +839,7 @@
 <td style="font-weight: 400;" width="168">2/27/24 4:56 PM</td>
 <td style="font-weight: 400;" width="166">2/27/24 9:14 PM</td>
 <td style="font-weight: 400;" width="223">Cary Quadrangle</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Reivew</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Burglary</td>
@@ -847,7 +847,7 @@
 <td style="font-weight: 400;" width="168">2/27/24 6:00 PM</td>
 <td style="font-weight: 400;" width="166">2/27/24 9:36 PM</td>
 <td style="font-weight: 400;" width="223">Physics Building</td>
-<td style="font-weight: 400;" width="199"><span>Pending Prosecutor Reivew. The investigation determined this case to be a burglary</span></td>
+<td style="font-weight: 400;" width="199"><span>Pending Prosecutor Review. The investigation determined this case to be a burglary</span></td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft</td>
@@ -855,7 +855,7 @@
 <td style="font-weight: 400;" width="168">2/27/24 4:00 PM</td>
 <td style="font-weight: 400;" width="166">2/27/24 11:48 PM</td>
 <td style="font-weight: 400;" width="223">Hiene Pharmacy Building</td>
-<td style="font-weight: 400;" width="199">Pending Prosecutor Reivew</td>
+<td style="font-weight: 400;" width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="187">Theft-Bike</td>
@@ -921,7 +921,7 @@
 <td width="168">2/26/24 6:17 PM</td>
 <td width="166">2/26/24 6:37 PM</td>
 <td width="223">Krach Leadership Center</td>
-<td width="199">Pending Prosecutor Reivew</td>
+<td width="199">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td>Criminal Mischief</td>
@@ -929,7 +929,7 @@
 <td>2/26/24 5:14 PM</td>
 <td>2/26/24 8:09 PM</td>
 <td>Mechanical Engineering</td>
-<td>Pending Prosecutor Reivew</td>
+<td>Pending Prosecutor Review</td>
 </tr>
 </tbody>
 </table>
