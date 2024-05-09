@@ -1010,7 +1010,7 @@
 <td style="font-weight: 400;" width="154">2024PU00605</td>
 <td style="font-weight: 400;" width="168">4/14/24 1:30 AM</td>
 <td style="font-weight: 400;" width="166">4/14/24 6:37 PM</td>
-<td style="font-weight: 400;" width="215">Tarkingtom Hall</td>
+<td style="font-weight: 400;" width="215">Tarkington Hall</td>
 <td style="font-weight: 400;" width="181">Under Investigation</td>
 </tr>
 <tr>
