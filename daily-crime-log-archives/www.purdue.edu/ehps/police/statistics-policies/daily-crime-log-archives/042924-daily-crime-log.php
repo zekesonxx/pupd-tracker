@@ -947,7 +947,7 @@
 <td width="168">4/26/24 10:23 PM</td>
 <td width="166">4/26/24 10:27 PM</td>
 <td width="215">Elliott Hall</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="171">Drug Law Violation</td>

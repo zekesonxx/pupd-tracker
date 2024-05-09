@@ -971,7 +971,7 @@
 <td width="168">4/20/24 11:22 PM</td>
 <td width="166">4/20/24 11:38 PM</td>
 <td width="215">Alpha Chi Rho - Crows</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="171">Minor Consumption</td>
@@ -979,7 +979,7 @@
 <td width="168">4/20/24 11:27 PM</td>
 <td width="166">4/20/24 11:47 PM</td>
 <td width="215">Wiley Hall</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="171">Operating While Intoxicated</td>
@@ -995,7 +995,7 @@
 <td width="168">4/21/24 12:15 AM</td>
 <td width="166">4/21/24 12:31 AM</td>
 <td width="215">Harrison Hall</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="171">Minor Consumption</td>

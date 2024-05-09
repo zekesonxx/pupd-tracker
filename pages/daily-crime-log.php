@@ -662,7 +662,34 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, May 9, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="154">2024PU00753</td>
+<td width="168">5/6/24 8:00 PM</td>
+<td width="166">5/8/24 3:01 PM</td>
+<td width="215">1st St Towers</td>
+<td width="200">Unfounded</td>
+</tr>
+<tr>
+<td width="171">Sexaual Assault</td>
+<td width="154">CSA</td>
+<td width="168">12/15/22 7:00 PM</td>
+<td width="166">5/7/24 11:00 AM</td>
+<td width="215">On-Campus Housing</td>
+<td width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -680,7 +707,7 @@ Will be posted soon.
 <th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
 </tr>
 <tr>
-<td width="171">Theft</td>
+<td width="171">Theft-Bike</td>
 <td width="154">2024PU00750</td>
 <td width="168">5/6/24 1:30 PM</td>
 <td width="166">5/7/24 2:31 PM</td>
@@ -769,7 +796,7 @@ Will be posted soon.
 <td width="168">5/3/24 10:16 AM</td>
 <td width="166">5/3/24 10:49 AM</td>
 <td width="215">1st St Towers</td>
-<td width="200">Under Investigation</td>
+<td width="200">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="171">Harassment</td>
