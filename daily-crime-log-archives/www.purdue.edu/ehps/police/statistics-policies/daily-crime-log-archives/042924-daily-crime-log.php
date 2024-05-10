@@ -971,7 +971,7 @@
 <td width="168">4/27/24 1:57 AM</td>
 <td width="166">4/27/24 2:12 AM</td>
 <td width="215">Meredith South Hall</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="171">Theft</td>

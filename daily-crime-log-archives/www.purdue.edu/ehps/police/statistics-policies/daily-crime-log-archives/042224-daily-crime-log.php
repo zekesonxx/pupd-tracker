@@ -675,7 +675,7 @@
 <td style="font-weight: 400;" width="168">4/25/24 10:30 PM</td>
 <td style="font-weight: 400;" width="166">4/26/24 1:35 AM</td>
 <td style="font-weight: 400;" width="215">CoRec</td>
-<td style="font-weight: 400;" width="181">Under Investigation</td>
+<td style="font-weight: 400;" width="181"><span>It was Determined not to be an E-Skateboard/Classified as Larceny</span></td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Drug Law Violation</td>
