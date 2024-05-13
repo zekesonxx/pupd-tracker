@@ -683,7 +683,98 @@
   
     	<section class="content__group">
   					<h3>Monday, May 13, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU00759</td>
+<td width="168">5/10/24 3:30 PM</td>
+<td width="166">5/10/24 5:58 PM</td>
+<td width="215">Purdue Memorial Union</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Trespass</td>
+<td width="154">2024PU00760</td>
+<td width="168">5/10/24 9:22 PM</td>
+<td width="166">5/10/24 9:42 PM</td>
+<td width="215">Neil Armstrong Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU00761</td>
+<td width="168">5/10/24 10:43 PM</td>
+<td width="166">5/10/24 11:27 PM</td>
+<td width="215">CoRec</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Operating w/out Ever Receiving a License</td>
+<td width="154">2024PU00762</td>
+<td width="168">5/11/24 2:25 AM</td>
+<td width="166">5/11/24 2:40 AM</td>
+<td width="215">US HWY 231 S/Mitch Daniels Blvd</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Operating w/out Ever Receiving a License</td>
+<td width="154">2024PU00766</td>
+<td width="168">5/11/24 1:40 PM</td>
+<td width="166">5/11/24 2:07 PM</td>
+<td width="215">Arnold Dr/Nimitz Dr</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="154">2024PU00767</td>
+<td width="168">5/11/24 6:05 PM</td>
+<td width="166">5/11/24 6:28 PM</td>
+<td width="215">Ford Dining Court</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="154">2024PU00769</td>
+<td width="168">5/10/24 10:00 PM</td>
+<td width="166">5/12/24 2:11 PM</td>
+<td width="215">Owen Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-EMPV</td>
+<td width="154">2024PU00770</td>
+<td width="168">5/6/24 7:33 AM</td>
+<td width="166">5/12/24 2:33 PM</td>
+<td width="215">Greater Lafayette Islamic Center</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="154">CAD# 2024-074871</td>
+<td width="168">5/11/24 2:40 AM</td>
+<td width="166">5/11/24 2:40 AM</td>
+<td width="215">Pierce St/W Wood St</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Driving While Suspended-Prior</td>
+<td width="154">CAD# 2024-074968</td>
+<td width="168">5/11/24 10:18 AM</td>
+<td width="166">5/11/24 10:18 AM</td>
+<td width="215">Mitch Daniels Blvd/S University St</td>
+<td width="200">Documented 2024WL01114</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
