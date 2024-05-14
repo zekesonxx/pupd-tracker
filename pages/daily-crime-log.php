@@ -676,7 +676,42 @@
   
     	<section class="content__group">
   					<h3>Tuesday, May 14, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft-EMPV</td>
+<td width="154">2024PU00771</td>
+<td width="168">5/13/24 8:30 AM</td>
+<td width="166">5/13/24 2:42 PM</td>
+<td width="215">Rawls Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-EMPV</td>
+<td width="154">2024PU00772</td>
+<td width="168">5/13/24 2:55 PM</td>
+<td width="166">5/13/24 3:09 PM</td>
+<td width="215">Meredith South Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU00773</td>
+<td width="168">5/12/24 10:00 PM</td>
+<td width="166">5/13/24 4:36 PM</td>
+<td width="215">Aspire</td>
+<td width="200">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
