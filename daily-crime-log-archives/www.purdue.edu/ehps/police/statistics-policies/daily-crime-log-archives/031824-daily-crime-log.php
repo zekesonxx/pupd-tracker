@@ -851,7 +851,7 @@
 <td width="168">3/15/24 7:51 PM</td>
 <td width="166">3/15/24 8:14 PM</td>
 <td width="195">S Russell St/S River Rd</td>
-<td width="181">Arrest Made</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="174">Operating While Never Receiving a License/Drug Law Violation</td>
