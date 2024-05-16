@@ -662,7 +662,58 @@
   
     	<section class="content__group">
   					<h3>Thursday, May 16, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Criminal Mischief</td>
+<td width="154">2024PU00779</td>
+<td width="168">5/14/24 2:00 PM</td>
+<td width="166">5/15/24 1:17 PM</td>
+<td width="215">Agronomy Farms</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-EMPV</td>
+<td width="154">2024PU00781</td>
+<td width="168">5/15/24 4:09 PM</td>
+<td width="166">5/15/24 4:24 PM</td>
+<td width="215">1st St Towers</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU00784</td>
+<td width="168">5/16/24 3:45 AM</td>
+<td width="166">5/16/24 4:03 AM</td>
+<td width="215">Wilmeth Active Learning Center</td>
+<td width="200">Unfounded</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="154">CAD# 2024-077260</td>
+<td width="168">5/15/24 11:45 AM</td>
+<td width="166">5/15/24 11:45 AM</td>
+<td width="215">Continuum</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Driving While Suspended</td>
+<td width="154">CAD# 2024-077304</td>
+<td width="168">5/15/24 1:17 PM</td>
+<td width="166">5/15/24 1:17 PM</td>
+<td width="215">W Stadium Ave/N University St</td>
+<td width="200">Documented 2024WL01150</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -685,7 +736,7 @@
 <td width="168">5/13/24 2:45 PM</td>
 <td width="166">5/14/24 8:46 AM</td>
 <td width="215">Potter Hall</td>
-<td width="200">Under Investigation</td>
+<td width="200"><span>Fire Could not be Determined to have Been Intentionally Set</span></td>
 </tr>
 <tr>
 <td width="171">Theft</td>
