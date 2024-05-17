@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			051324 Daily Crime Log - 
+			052024 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -654,248 +654,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, May 17, 2024</h3>
+  					<h3>Friday, May 24, 2024</h3>
 <p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, May 16, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="171">Criminal Mischief</td>
-<td width="154">2024PU00779</td>
-<td width="168">5/14/24 2:00 PM</td>
-<td width="166">5/15/24 1:17 PM</td>
-<td width="215">Agronomy Farms</td>
-<td width="200">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Theft-EMPV</td>
-<td width="154">2024PU00781</td>
-<td width="168">5/15/24 4:09 PM</td>
-<td width="166">5/15/24 4:24 PM</td>
-<td width="215">1st St Towers</td>
-<td width="200">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Theft</td>
-<td width="154">2024PU00784</td>
-<td width="168">5/16/24 3:45 AM</td>
-<td width="166">5/16/24 4:03 AM</td>
-<td width="215">Wilmeth Active Learning Center</td>
-<td width="200">Unfounded</td>
-</tr>
-<tr>
-<td width="171">Drug Law Violation</td>
-<td width="154">CAD# 2024-077260</td>
-<td width="168">5/15/24 11:45 AM</td>
-<td width="166">5/15/24 11:45 AM</td>
-<td width="215">Continuum</td>
-<td width="200">Nothing Further</td>
-</tr>
-<tr>
-<td width="171">Driving While Suspended</td>
-<td width="154">CAD# 2024-077304</td>
-<td width="168">5/15/24 1:17 PM</td>
-<td width="166">5/15/24 1:17 PM</td>
-<td width="215">W Stadium Ave/N University St</td>
-<td width="200">Documented 2024WL01150</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, May 23, 2024</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, May 15, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="171">Arson</td>
-<td width="154">2024PU00774</td>
-<td width="168">5/13/24 2:45 PM</td>
-<td width="166">5/14/24 8:46 AM</td>
-<td width="215">Potter Hall</td>
-<td width="200"><span>Fire Could not be Determined to have Been Intentionally Set</span></td>
-</tr>
-<tr>
-<td width="171">Theft</td>
-<td width="154">2024PU00775</td>
-<td width="168">5/6/24 9:30 AM</td>
-<td width="166">5/14/24 10:38 AM</td>
-<td width="215">Armory</td>
-<td width="200">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Theft</td>
-<td width="154">2024PU00776</td>
-<td width="168">5/14/24 10:05 PM</td>
-<td width="166">5/14/24 10:22 PM</td>
-<td width="215">Wilmeth Active Learning Center</td>
-<td width="200">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, May 22, 2024</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday, May 14, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="171">Theft-EMPV</td>
-<td width="154">2024PU00771</td>
-<td width="168">5/13/24 8:30 AM</td>
-<td width="166">5/13/24 2:42 PM</td>
-<td width="215">Rawls Hall</td>
-<td width="200">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Theft-EMPV</td>
-<td width="154">2024PU00772</td>
-<td width="168">5/13/24 2:55 PM</td>
-<td width="166">5/13/24 3:09 PM</td>
-<td width="215">Meredith South Hall</td>
-<td width="200">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Theft</td>
-<td width="154">2024PU00773</td>
-<td width="168">5/12/24 10:00 PM</td>
-<td width="166">5/13/24 4:36 PM</td>
-<td width="215">Aspire</td>
-<td width="200">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday, May 21, 2024</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, May 13, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="171">Theft</td>
-<td width="154">2024PU00759</td>
-<td width="168">5/10/24 3:30 PM</td>
-<td width="166">5/10/24 5:58 PM</td>
-<td width="215">Purdue Memorial Union</td>
-<td width="200">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Trespass</td>
-<td width="154">2024PU00760</td>
-<td width="168">5/10/24 9:22 PM</td>
-<td width="166">5/10/24 9:42 PM</td>
-<td width="215">Neil Armstrong Hall</td>
-<td width="200">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Theft</td>
-<td width="154">2024PU00761</td>
-<td width="168">5/10/24 10:43 PM</td>
-<td width="166">5/10/24 11:27 PM</td>
-<td width="215">CoRec</td>
-<td width="200">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Operating w/out Ever Receiving a License</td>
-<td width="154">2024PU00762</td>
-<td width="168">5/11/24 2:25 AM</td>
-<td width="166">5/11/24 2:40 AM</td>
-<td width="215">US HWY 231 S/Mitch Daniels Blvd</td>
-<td width="200">Arrest Made</td>
-</tr>
-<tr>
-<td width="171">Operating w/out Ever Receiving a License</td>
-<td width="154">2024PU00766</td>
-<td width="168">5/11/24 1:40 PM</td>
-<td width="166">5/11/24 2:07 PM</td>
-<td width="215">Arnold Dr/Nimitz Dr</td>
-<td width="200">Arrest Made</td>
-</tr>
-<tr>
-<td width="171">Theft-Bike</td>
-<td width="154">2024PU00767</td>
-<td width="168">5/11/24 6:05 PM</td>
-<td width="166">5/11/24 6:28 PM</td>
-<td width="215">Ford Dining Court</td>
-<td width="200">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Theft-Bike</td>
-<td width="154">2024PU00769</td>
-<td width="168">5/10/24 10:00 PM</td>
-<td width="166">5/12/24 2:11 PM</td>
-<td width="215">Owen Hall</td>
-<td width="200">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Theft-EMPV</td>
-<td width="154">2024PU00770</td>
-<td width="168">5/6/24 7:33 AM</td>
-<td width="166">5/12/24 2:33 PM</td>
-<td width="215">Greater Lafayette Islamic Center</td>
-<td width="200">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Reckless Driver</td>
-<td width="154">CAD# 2024-074871</td>
-<td width="168">5/11/24 2:40 AM</td>
-<td width="166">5/11/24 2:40 AM</td>
-<td width="215">Pierce St/W Wood St</td>
-<td width="200">Nothing Further</td>
-</tr>
-<tr>
-<td width="171">Driving While Suspended-Prior</td>
-<td width="154">CAD# 2024-074968</td>
-<td width="168">5/11/24 10:18 AM</td>
-<td width="166">5/11/24 10:18 AM</td>
-<td width="215">Mitch Daniels Blvd/S University St</td>
-<td width="200">Documented 2024WL01114</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Monday, May 20, 2024</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>

@@ -704,7 +704,7 @@
 <td width="200">Unfounded</td>
 </tr>
 <tr>
-<td width="171">Sexaual Assault</td>
+<td width="171">Sexual Assault</td>
 <td width="154">CSA</td>
 <td width="168">12/15/22 7:00 PM</td>
 <td width="166">5/7/24 11:00 AM</td>
