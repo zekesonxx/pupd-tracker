@@ -683,7 +683,42 @@
   
     	<section class="content__group">
   					<h3>Monday, May 20, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="154">2024PU00787</td>
+<td width="168">5/14/24 8:00 PM</td>
+<td width="166">5/17/24 5:39 PM</td>
+<td width="215">Wetherill</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Trespass</td>
+<td width="154">2024PU00789</td>
+<td width="168">5/17/24 11:22 PM</td>
+<td width="166">5/17/24 11:34 PM</td>
+<td width="215">Ross-Ade Stadium</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Fraud</td>
+<td width="154">2024PU00792</td>
+<td width="168">5/19/24 3:54 PM</td>
+<td width="166">5/19/24 4:21 PM</td>
+<td width="215">Continuum</td>
+<td width="200">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

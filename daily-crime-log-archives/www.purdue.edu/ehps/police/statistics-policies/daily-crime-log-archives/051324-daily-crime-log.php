@@ -766,7 +766,7 @@
 <td width="168">5/13/24 2:55 PM</td>
 <td width="166">5/13/24 3:09 PM</td>
 <td width="215">Meredith South Hall</td>
-<td width="200">Under Investigation</td>
+<td width="200">Suspended</td>
 </tr>
 <tr>
 <td width="171">Theft</td>
@@ -808,7 +808,7 @@
 <td width="168">5/10/24 9:22 PM</td>
 <td width="166">5/10/24 9:42 PM</td>
 <td width="215">Neil Armstrong Hall</td>
-<td width="200">Under Investigation</td>
+<td width="200">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="171">Theft</td>
@@ -848,7 +848,7 @@
 <td width="168">5/10/24 10:00 PM</td>
 <td width="166">5/12/24 2:11 PM</td>
 <td width="215">Owen Hall</td>
-<td width="200">Under Investigation</td>
+<td width="200">Suspended</td>
 </tr>
 <tr>
 <td width="171">Theft-EMPV</td>
@@ -856,7 +856,7 @@
 <td width="168">5/6/24 7:33 AM</td>
 <td width="166">5/12/24 2:33 PM</td>
 <td width="215">Greater Lafayette Islamic Center</td>
-<td width="200">Under Investigation</td>
+<td width="200">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="171">Reckless Driver</td>
