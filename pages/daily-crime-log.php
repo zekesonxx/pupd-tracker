@@ -676,7 +676,42 @@
   
     	<section class="content__group">
   					<h3>Tuesday, May 21, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft-Vehicle</td>
+<td width="154">2024PU00795</td>
+<td width="168">5/20/24 4:30 PM</td>
+<td width="166">5/20/24 5:07 PM</td>
+<td width="215">1400 Blk Aviation Dr</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Operating w/out Ever Receiving a License</td>
+<td width="154">2024PU00797</td>
+<td width="168">5/20/24 7:37 PM</td>
+<td width="166">5/20/24 8:02 PM</td>
+<td width="215">US HWY 231 S/S River Rd</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Aggravated Assault</td>
+<td width="154">2024PU00798</td>
+<td width="168">5/20/24 9:45 PM</td>
+<td width="166">5/20/24 11:04 PM</td>
+<td width="215">Mitch Daniels Blvd/N Russell St</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
