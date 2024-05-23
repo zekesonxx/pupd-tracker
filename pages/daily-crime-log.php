@@ -662,7 +662,7 @@
   
     	<section class="content__group">
   					<h3>Thursday, May 23, 2024</h3>
-<p>Will be posted soon.</p>
+<p>Nothing to report.</p>
 		</section>
 	
           <div class="clearfix"></div>
