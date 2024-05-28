@@ -759,7 +759,7 @@
 <td style="font-weight: 400;" width="168">4/30/24 4:19 PM</td>
 <td style="font-weight: 400;" width="166">4/30/24 5:44 PM</td>
 <td style="font-weight: 400;" width="215">600 Blk Mitch Daniels Blvd</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;">Fraud</td>

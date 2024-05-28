@@ -684,7 +684,7 @@
 <td style="font-weight: 400;" width="168">5/21/24 11:00 AM</td>
 <td style="font-weight: 400;" width="166">5/21/24 11:42 AM</td>
 <td style="font-weight: 400;" width="215">Waldron Square Apartments</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Unfounded</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft-Bike</td>

@@ -676,7 +676,50 @@
   
     	<section class="content__group">
   					<h3>Tuesday, May 28, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU00805</td>
+<td style="font-weight: 400;" width="168">5/24/24 9:03 AM</td>
+<td style="font-weight: 400;" width="166">5/24/24 9:21 AM</td>
+<td style="font-weight: 400;" width="215">Armory</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00806</td>
+<td style="font-weight: 400;" width="168">5/24/24 10:37 AM</td>
+<td style="font-weight: 400;" width="166">5/24/24 11:23 AM</td>
+<td style="font-weight: 400;" width="215">Northwestern Garage</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving While Suspended</td>
+<td style="font-weight: 400;" width="154">2024PU00810</td>
+<td style="font-weight: 400;" width="168">5/25/24 7:16 PM</td>
+<td style="font-weight: 400;" width="166">5/25/24 7:50 PM</td>
+<td style="font-weight: 400;" width="215">Northwestern Ave/ Lindberg Rd</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2024PU00813</td>
+<td style="font-weight: 400;" width="168">5/26/24 3:26 AM</td>
+<td style="font-weight: 400;" width="166">5/26/24 3:54 AM</td>
+<td style="font-weight: 400;" width="215">US 231/ Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
