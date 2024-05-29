@@ -939,7 +939,7 @@
 <td width="168">4/19/24 11:58 PM</td>
 <td width="166">4/20/24 12:23 AM</td>
 <td width="215">Shreve Hall</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="171">Minor Consumption</td>

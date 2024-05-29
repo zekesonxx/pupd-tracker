@@ -931,7 +931,7 @@
 <td style="font-weight: 400;" width="168">4/12/24 10:01 PM</td>
 <td style="font-weight: 400;" width="166">4/12/24 10:45 PM</td>
 <td style="font-weight: 400;" width="215">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>
