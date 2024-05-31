@@ -851,7 +851,7 @@
 <td width="168">5/4/24 12:11 AM</td>
 <td width="166">5/4/24 12:40 AM</td>
 <td width="215">Aspire</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Arson</td>
