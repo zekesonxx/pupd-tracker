@@ -683,7 +683,42 @@
   
     	<section class="content__group">
   					<h3>Monday, June 3, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driving</td>
+<td style="font-weight: 400;" width="154">2024PU00802</td>
+<td style="font-weight: 400;" width="168">5/18/24 12:45 PM</td>
+<td style="font-weight: 400;" width="166">5/18/24 12:45 PM</td>
+<td style="font-weight: 400;" width="215">Harrison St</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00823</td>
+<td style="font-weight: 400;" width="168">5/30/24 9:00 PM</td>
+<td style="font-weight: 400;" width="166">5/31/24 10:45 AM</td>
+<td style="font-weight: 400;" width="215">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU00824</td>
+<td style="font-weight: 400;" width="168">6/1/24 6:49 PM</td>
+<td style="font-weight: 400;" width="166">6/1/24 7:17 PM</td>
+<td style="font-weight: 400;" width="215">Wood St Garage</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
