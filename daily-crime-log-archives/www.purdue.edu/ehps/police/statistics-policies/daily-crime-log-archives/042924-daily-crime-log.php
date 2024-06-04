@@ -791,7 +791,7 @@
 <td style="font-weight: 400;" width="168">5/1/24 1:07 AM</td>
 <td style="font-weight: 400;" width="166">5/1/24 1:17 AM</td>
 <td style="font-weight: 400;" width="215">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Reckless Driver</td>
@@ -963,7 +963,7 @@
 <td width="168">4/27/24 1:41 AM</td>
 <td width="166">4/27/24 1:56 AM</td>
 <td width="215">Sigma Nu</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="171">Minor Consumption</td>

@@ -809,7 +809,7 @@
 <td width="168">4/22/24 5:49 PM</td>
 <td width="166">4/22/24 5:57 PM</td>
 <td width="215">100 Blk N Macarthur Dr</td>
-<td width="181">Pending Prosecutor Review</td>
+<td width="181">Under Investigation</td>
 </tr>
 <tr>
 <td width="171">Blackmail</td>
@@ -947,7 +947,7 @@
 <td width="168">4/20/24 2:39 AM</td>
 <td width="166">4/20/24 2:59 AM</td>
 <td width="215">W Stadium Ave/Waldron St</td>
-<td width="181">Arrest Made</td>
+<td width="181">Closed</td>
 </tr>
 <tr>
 <td width="171">Trespass/Public Intoxication</td>

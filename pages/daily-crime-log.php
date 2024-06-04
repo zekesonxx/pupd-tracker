@@ -676,7 +676,66 @@
   
     	<section class="content__group">
   					<h3>Tuesday, June 4, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud</td>
+<td style="font-weight: 400;" width="154">2024PU00826</td>
+<td style="font-weight: 400;" width="168">6/3/24 7:52 AM</td>
+<td style="font-weight: 400;" width="166">6/3/24 2:22 PM</td>
+<td style="font-weight: 400;" width="215">Hansen Life Sciences</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Intimidation</td>
+<td style="font-weight: 400;" width="154">2024PU00827</td>
+<td style="font-weight: 400;" width="168">6/3/24 6:31 PM</td>
+<td style="font-weight: 400;" width="166">6/3/24 6:47 PM</td>
+<td style="font-weight: 400;" width="215">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU00828</td>
+<td style="font-weight: 400;" width="168">6/3/24 9:47 PM</td>
+<td style="font-weight: 400;" width="166">6/3/24 10:37 PM</td>
+<td style="font-weight: 400;" width="215">US 231/ Cherry Ln</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-086060</td>
+<td style="font-weight: 400;" width="168">5/31/24 3:28 PM</td>
+<td style="font-weight: 400;" width="166">5/31/24 3:28 PM</td>
+<td style="font-weight: 400;" width="215">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-086094</td>
+<td style="font-weight: 400;" width="168">5/31/24 4:49 PM</td>
+<td style="font-weight: 400;" width="166">5/31/24 4:49 PM</td>
+<td style="font-weight: 400;" width="215">US HWY 231 S/Airport Rd</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating w/out Ever Receiving a License</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-086751</td>
+<td style="font-weight: 400;" width="168">6/1/24 11:10 PM</td>
+<td style="font-weight: 400;" width="166">6/1/24 11:10 PM</td>
+<td style="font-weight: 400;" width="215">S River Rd/Ahlers Dr</td>
+<td style="font-weight: 400;" width="200">Documented 2024WL01276</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
