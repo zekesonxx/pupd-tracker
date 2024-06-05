@@ -669,7 +669,98 @@
   
     	<section class="content__group">
   					<h3>Wednesday, June 5, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Fraud</td>
+<td width="154">2024PU00829</td>
+<td width="168">6/3/24 3:00 PM</td>
+<td width="166">6/4/24 9:46 AM</td>
+<td width="215">Black Cultural Center</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="154">CAD# 2024-087812</td>
+<td width="168">6/4/24 1:06 AM</td>
+<td width="166">6/4/24 1:06 AM</td>
+<td width="215">US HWY 231 S/S River Rd</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="154">1 Disciplinary Referral</td>
+<td width="168">4/20/24 8:30 PM</td>
+<td width="166">4/20/24 9:39 PM</td>
+<td width="215">Harrison Hall</td>
+<td width="200">Judicial Review</td>
+</tr>
+<tr>
+<td width="171">Liquor Law Violation</td>
+<td width="154">5 Disciplinary Referrals</td>
+<td width="168">4/20/24 8:30 PM</td>
+<td width="166">4/20/24 9:39 PM</td>
+<td width="215">Harrison Hall</td>
+<td width="200">Judicial Review</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="154">1 Disciplinary Referral</td>
+<td width="168">4/26/24 3:45 AM</td>
+<td width="166">4/26/24 4:29 AM</td>
+<td width="215">Earhart Hall</td>
+<td width="200">Judicial Review</td>
+</tr>
+<tr>
+<td width="171">Liquor Law Violation</td>
+<td width="154">2 Disciplinary Referrals</td>
+<td width="168">4/26/24 7:15 PM</td>
+<td width="166">4/26/24 7:45 PM</td>
+<td width="215">Harrison Hall</td>
+<td width="200">Judicial Review</td>
+</tr>
+<tr>
+<td width="171">Liquor Law Violation</td>
+<td width="154">2 Disciplinary Referrals</td>
+<td width="168">5/5/24 10:30 AM</td>
+<td width="166">5/5/24 11:03 AM</td>
+<td width="215">McCutcheon Hall</td>
+<td width="200">Judicial Review</td>
+</tr>
+<tr>
+<td width="171">Liquor Law Violation</td>
+<td width="154">1 Disciplinary Referral</td>
+<td width="168">5/6/24 3:15 PM</td>
+<td width="166">5/5/24 3:46 PM</td>
+<td width="215">Aspire Apts.</td>
+<td width="200">Judicial Review</td>
+</tr>
+<tr>
+<td width="171">Liquor Law Violation</td>
+<td width="154">2 Disciplinary Referral</td>
+<td width="168">5/12/24 12:30 PM</td>
+<td width="166">5/12/24 12:53 PM</td>
+<td width="215">Shreve Hall</td>
+<td width="200">Judicial Review</td>
+</tr>
+<tr>
+<td width="171">Liquor Law Violation</td>
+<td width="154">1 Disciplinary Referral</td>
+<td width="168">5/20/24 6:15 PM</td>
+<td width="166">5/20/24 7:45 PM</td>
+<td width="215">Harrison Hall</td>
+<td width="200">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
