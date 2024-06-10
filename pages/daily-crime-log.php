@@ -683,7 +683,82 @@
   
     	<section class="content__group">
   					<h3>Monday, June 10, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2024PU00836</td>
+<td style="font-weight: 400;" width="168">6/7/24 11:14 PM</td>
+<td style="font-weight: 400;" width="166">6/7/24 11:40 PM</td>
+<td style="font-weight: 400;" width="215">Northwestern Ave/ Lindberg Rd</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Residential Entry</td>
+<td style="font-weight: 400;" width="154">2024PU00837</td>
+<td style="font-weight: 400;" width="168">6/8/24 7:22 AM</td>
+<td style="font-weight: 400;" width="166">6/8/24 8:22 AM</td>
+<td style="font-weight: 400;" width="215">Pi Kappa Alpha</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00838</td>
+<td style="font-weight: 400;" width="168">6/7/24 10:30 PM</td>
+<td style="font-weight: 400;" width="166">6/8/24 8:57 AM</td>
+<td style="font-weight: 400;" width="215">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud</td>
+<td style="font-weight: 400;" width="154">2024PU00839</td>
+<td style="font-weight: 400;" width="168">6/8/24 5:55 PM</td>
+<td style="font-weight: 400;" width="166">6/8/24 6:13 PM</td>
+<td style="font-weight: 400;" width="215">Alpha Kappa Lambda</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU00840</td>
+<td style="font-weight: 400;" width="168">6/8/24 7:26 PM</td>
+<td style="font-weight: 400;" width="166">6/8/24 7:51 PM</td>
+<td style="font-weight: 400;" width="215">Marsteller St/ Agriculture Mall Dr</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU00841</td>
+<td style="font-weight: 400;" width="168">6/8/24 11:35 PM</td>
+<td style="font-weight: 400;" width="166">6/9/24 12:23 AM</td>
+<td style="font-weight: 400;" width="215">Newman Rd/ State Road 26 W</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated/ Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU00844</td>
+<td style="font-weight: 400;" width="168">6/10/24 12:51 AM</td>
+<td style="font-weight: 400;" width="166">6/10/24 1:53 AM</td>
+<td style="font-weight: 400;" width="215">1000 Blk S River Rd</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-089553</td>
+<td style="font-weight: 400;" width="168">6/7/24 7:13 AM</td>
+<td style="font-weight: 400;" width="166">6/7/24 7:13 AM</td>
+<td style="font-weight: 400;" width="215">University St Parking Garage</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
