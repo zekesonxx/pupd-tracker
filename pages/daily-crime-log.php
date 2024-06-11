@@ -676,7 +676,42 @@
   
     	<section class="content__group">
   					<h3>Tuesday, June 11, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating Never Receiving License</td>
+<td style="font-weight: 400;" width="154">2024PU00846</td>
+<td style="font-weight: 400;" width="168">6/10/24 10:36 PM</td>
+<td style="font-weight: 400;" width="166">6/10/24 11:06 PM</td>
+<td style="font-weight: 400;" width="215">W Stadium Ave/ N University St</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU00847</td>
+<td style="font-weight: 400;" width="168">6/10/24 10:46 PM</td>
+<td style="font-weight: 400;" width="166">6/10/24 11:20 PM</td>
+<td style="font-weight: 400;" width="215">300 Blk McCormick Rd</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Trespass</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-090498</td>
+<td style="font-weight: 400;" width="168">6/8/24 8:45 PM</td>
+<td style="font-weight: 400;" width="166">6/8/24 8:45 PM</td>
+<td style="font-weight: 400;" width="215">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

@@ -591,12 +591,7 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                                                                                                
-        
-                
-    
-    <li role="none"><a href="031824-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
-                            </ul>
+                                            </ul>
 </nav>
 
 
@@ -963,7 +958,7 @@
 <td style="font-weight: 400;" width="168">4/13/24 3:36 AM</td>
 <td style="font-weight: 400;" width="166">4/13/24 4:03 AM</td>
 <td style="font-weight: 400;" width="215">800 Blk S River Rd</td>
-<td style="font-weight: 400;" width="181">Arrest Made</td>
+<td style="font-weight: 400;" width="181">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
