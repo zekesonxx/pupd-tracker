@@ -662,7 +662,26 @@
   
     	<section class="content__group">
   					<h3>Thursday, June 13, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-092091</td>
+<td style="font-weight: 400;" width="168">6/12/24 12:07 AM</td>
+<td style="font-weight: 400;" width="166">6/12/27 12:07 AM</td>
+<td style="font-weight: 400;" width="215">Cary Quad West</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -777,7 +796,7 @@
 <td style="font-weight: 400;" width="168">6/7/24 10:30 PM</td>
 <td style="font-weight: 400;" width="166">6/8/24 8:57 AM</td>
 <td style="font-weight: 400;" width="215">Winifred Parker Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Fraud</td>

@@ -591,12 +591,7 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                                                                                                
-        
-                
-    
-    <li role="none"><a href="031824-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
-                            </ul>
+                                            </ul>
 </nav>
 
 
@@ -883,7 +878,7 @@
 <td width="168">5/5/24 12:35 AM</td>
 <td width="166">5/5/24 1:23 AM</td>
 <td width="215">Wood St Parking Garage</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Criminal Mischief</td>
