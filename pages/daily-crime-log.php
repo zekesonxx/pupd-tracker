@@ -683,7 +683,98 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, June 17, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00859</td>
+<td style="font-weight: 400;" width="168">6/14/24 3:30 PM</td>
+<td style="font-weight: 400;" width="166">6/14/24 3:56 PM</td>
+<td style="font-weight: 400;" width="215">Stewart Center</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">False Informing</td>
+<td style="font-weight: 400;" width="154">2024PU00860</td>
+<td style="font-weight: 400;" width="168">6/6/24 1:58 AM</td>
+<td style="font-weight: 400;" width="166">6/6/24 1:58 AM</td>
+<td style="font-weight: 400;" width="215">Heavilon Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU00861</td>
+<td style="font-weight: 400;" width="168">6/15/24 12:49 AM</td>
+<td style="font-weight: 400;" width="166">6/15/24 1:07 AM</td>
+<td style="font-weight: 400;" width="215">Pickett Park</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Liqour Law Violations</td>
+<td style="font-weight: 400;" width="154">7 Disciplinary Referrals</td>
+<td style="font-weight: 400;" width="168">2023</td>
+<td style="font-weight: 400;" width="166">6/14/24</td>
+<td style="font-weight: 400;" width="215">On Campus Location</td>
+<td style="font-weight: 400;" width="200">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violations</td>
+<td style="font-weight: 400;" width="154">8 Disciplinary Referrals</td>
+<td style="font-weight: 400;" width="168">2023</td>
+<td style="font-weight: 400;" width="166">6/14/24</td>
+<td style="font-weight: 400;" width="215">On Campus Location</td>
+<td style="font-weight: 400;" width="200">Judicial Review</td>
+</tr>
+<tr>
+<td width="171"></td>
+<td width="154"></td>
+<td width="168"></td>
+<td width="166"></td>
+<td width="215"></td>
+<td width="200"></td>
+</tr>
+<tr>
+<td width="171">Updated:</td>
+<td width="154"></td>
+<td width="168"></td>
+<td width="166"></td>
+<td width="215"></td>
+<td width="200"></td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="154">2024PU00745</td>
+<td width="168">5/6/24 11:31 PM</td>
+<td width="166">5/6/24 11:57 PM</td>
+<td width="215">Marsteller St/Mitch Daniels Blvd</td>
+<td width="200">Closed</td>
+</tr>
+<tr>
+<td width="171">Aggravated Assault</td>
+<td width="154">2024PU00798</td>
+<td width="168">5/20/24 9:45 PM</td>
+<td width="166">5/20/24 11:04 PM</td>
+<td width="215">Mitch Daniels Blvd/N Russell St</td>
+<td width="200">Closed</td>
+</tr>
+<tr>
+<td width="171">False Informing</td>
+<td width="154">CAD# 2024-089019</td>
+<td width="168">6/6/24 1:58 AM</td>
+<td width="166">6/6/24 1:58 AM</td>
+<td width="215">Heavilon Hall</td>
+<td width="200">Documented 2024PU00860</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

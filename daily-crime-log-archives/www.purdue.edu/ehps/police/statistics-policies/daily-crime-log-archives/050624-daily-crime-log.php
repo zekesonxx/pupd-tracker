@@ -764,7 +764,7 @@
 <td width="168">5/6/24 11:31 PM</td>
 <td width="166">5/6/24 11:57 PM</td>
 <td width="215">Marsteller St/Mitch Daniels Blvd</td>
-<td width="200">Arrest Made</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Resisting Law Enforcement</td>

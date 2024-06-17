@@ -591,12 +591,7 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                                                                                                
-        
-                
-    
-    <li role="none"><a href="031824-daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
-                            </ul>
+                                            </ul>
 </nav>
 
 
@@ -734,7 +729,7 @@
 <td width="168">5/20/24 9:45 PM</td>
 <td width="166">5/20/24 11:04 PM</td>
 <td width="215">Mitch Daniels Blvd/N Russell St</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 </tbody>
 </table>

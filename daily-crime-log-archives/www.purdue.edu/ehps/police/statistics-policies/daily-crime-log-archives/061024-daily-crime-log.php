@@ -688,7 +688,7 @@
 <td width="168">6/6/24 1:58 AM</td>
 <td width="166">6/6/24 1:58 AM</td>
 <td width="215">Heavilon Hall</td>
-<td width="200">Nothing Further</td>
+<td width="200">Documented in 2024PU00860</td>
 </tr>
 <tr>
 <td width="171">Drug Law Violation</td>
