@@ -676,7 +676,42 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, June 18, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Trespass</td>
+<td style="font-weight: 400;" width="154">2024PU00863</td>
+<td style="font-weight: 400;" width="168">6/17/24 10:21 AM</td>
+<td style="font-weight: 400;" width="166">6/17/24 11:04 AM</td>
+<td style="font-weight: 400;" width="215">Rawls Hall</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU00864</td>
+<td style="font-weight: 400;" width="168">6/14/24 12:00 PM</td>
+<td style="font-weight: 400;" width="166">6/17/24 1:26 PM</td>
+<td style="font-weight: 400;" width="215">Lilly Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Traffic Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-094346</td>
+<td style="font-weight: 400;" width="168">6/16/24 1:32 AM</td>
+<td style="font-weight: 400;" width="166">6/16/24 1:32 AM</td>
+<td style="font-weight: 400;" width="215">US HWY 231 S/S Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="200">Documented 2024WL01360</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1281,7 +1316,7 @@ Will be posted soon.
         
         
                 
-                     <p>Contact <a href="../contact/index.php" rel="noopener" target="_blank">Purdue University Police Department</a> for accessibility issues with this page | <a href="https://www.purdue.edu/disabilityresources/">Accessibility Resources</a> | <a href="../contact/index.php">Contact Us</a></p>
+                     <p>Contact <a href="../contact/index.php" rel="noopener" target="_blank">Purdue University Police Department</a> for accessibility issues with this page | <a href="https://www.purdue.edu/disabilityresources/">Accessibility Resources</a> | <a href="../contact/index.php">Contact Us</a> | <a href="https://collegescorecard.ed.gov/school/fields/?243780-Purdue-University-Main-Campus" target="_blank">DOE Degree Scorecards</a></p>
     </article>
 </section>
 
