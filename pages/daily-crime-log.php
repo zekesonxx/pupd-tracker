@@ -729,84 +729,44 @@ Will be posted soon.
 <th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Criminal Mischief</td>
-<td style="font-weight: 400;" width="154">2024PU00859</td>
-<td style="font-weight: 400;" width="168">6/14/24 3:30 PM</td>
-<td style="font-weight: 400;" width="166">6/14/24 3:56 PM</td>
-<td style="font-weight: 400;" width="215">Stewart Center</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td>Criminal Mischief</td>
+<td>2024PU00859</td>
+<td>6/14/24 3:30 PM</td>
+<td>6/14/24 3:56 PM</td>
+<td>Stewart Center</td>
+<td>Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">False Informing</td>
-<td style="font-weight: 400;" width="154">2024PU00860</td>
-<td style="font-weight: 400;" width="168">6/6/24 1:58 AM</td>
-<td style="font-weight: 400;" width="166">6/6/24 1:58 AM</td>
-<td style="font-weight: 400;" width="215">Heavilon Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td>False Informing</td>
+<td>2024PU00860</td>
+<td>6/6/24 1:58 AM</td>
+<td>6/6/24 1:58 AM</td>
+<td>Heavilon Hall</td>
+<td>Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Minor Consumption</td>
-<td style="font-weight: 400;" width="154">2024PU00861</td>
-<td style="font-weight: 400;" width="168">6/15/24 12:49 AM</td>
-<td style="font-weight: 400;" width="166">6/15/24 1:07 AM</td>
-<td style="font-weight: 400;" width="215">Pickett Park</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td>Minor Consumption</td>
+<td>2024PU00861</td>
+<td>6/15/24 12:49 AM</td>
+<td>6/15/24 1:07 AM</td>
+<td>Pickett Park</td>
+<td>Pending Prosecutor Review</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Liqour Law Violations</td>
-<td style="font-weight: 400;" width="154">7 Disciplinary Referrals</td>
-<td style="font-weight: 400;" width="168">2023</td>
-<td style="font-weight: 400;" width="166">6/14/24</td>
-<td style="font-weight: 400;" width="215">On Campus Location</td>
-<td style="font-weight: 400;" width="200">Judicial Review</td>
+<td>Liqour Law Violations</td>
+<td>7 Disciplinary Referrals</td>
+<td>2023</td>
+<td>6/14/2024</td>
+<td>On Campus Location</td>
+<td>Judicial Review</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Drug Law Violations</td>
-<td style="font-weight: 400;" width="154">8 Disciplinary Referrals</td>
-<td style="font-weight: 400;" width="168">2023</td>
-<td style="font-weight: 400;" width="166">6/14/24</td>
-<td style="font-weight: 400;" width="215">On Campus Location</td>
-<td style="font-weight: 400;" width="200">Judicial Review</td>
-</tr>
-<tr>
-<td width="171"></td>
-<td width="154"></td>
-<td width="168"></td>
-<td width="166"></td>
-<td width="215"></td>
-<td width="200"></td>
-</tr>
-<tr>
-<td width="171">Updated:</td>
-<td width="154"></td>
-<td width="168"></td>
-<td width="166"></td>
-<td width="215"></td>
-<td width="200"></td>
-</tr>
-<tr>
-<td width="171">Drug Law Violation</td>
-<td width="154">2024PU00745</td>
-<td width="168">5/6/24 11:31 PM</td>
-<td width="166">5/6/24 11:57 PM</td>
-<td width="215">Marsteller St/Mitch Daniels Blvd</td>
-<td width="200">Closed</td>
-</tr>
-<tr>
-<td width="171">Aggravated Assault</td>
-<td width="154">2024PU00798</td>
-<td width="168">5/20/24 9:45 PM</td>
-<td width="166">5/20/24 11:04 PM</td>
-<td width="215">Mitch Daniels Blvd/N Russell St</td>
-<td width="200">Closed</td>
-</tr>
-<tr>
-<td width="171">False Informing</td>
-<td width="154">CAD# 2024-089019</td>
-<td width="168">6/6/24 1:58 AM</td>
-<td width="166">6/6/24 1:58 AM</td>
-<td width="215">Heavilon Hall</td>
-<td width="200">Documented 2024PU00860</td>
+<td>Drug Law Violations</td>
+<td>8 Disciplinary Referrals</td>
+<td>2023</td>
+<td>6/14/2024</td>
+<td>On Campus Location</td>
+<td>Judicial Review</td>
 </tr>
 </tbody>
 </table>
