@@ -652,8 +652,8 @@
 <td width="154">2024PU00779</td>
 <td width="168">5/14/24 2:00 PM</td>
 <td width="166">5/15/24 1:17 PM</td>
-<td width="215">Agronomy Farms</td>
-<td width="200">Under Investigation</td>
+<td width="215">Beck Agricultural Center</td>
+<td width="200">Suspended</td>
 </tr>
 <tr>
 <td width="171">Theft-EMPV</td>
@@ -1377,7 +1377,7 @@
         
         
                 
-                     <p>Contact <a href="../../contact/index.php" rel="noopener" target="_blank">Purdue University Police Department</a> for accessibility issues with this page | <a href="https://www.purdue.edu/disabilityresources/">Accessibility Resources</a> | <a href="../../contact/index.php">Contact Us</a></p>
+                     <p>Contact <a href="../../contact/index.php" rel="noopener" target="_blank">Purdue University Police Department</a> for accessibility issues with this page | <a href="https://www.purdue.edu/disabilityresources/">Accessibility Resources</a> | <a href="../../contact/index.php">Contact Us</a> | <a href="https://collegescorecard.ed.gov/school/fields/?243780-Purdue-University-Main-Campus" target="_blank">DOE Degree Scorecards</a></p>
     </article>
 </section>
 

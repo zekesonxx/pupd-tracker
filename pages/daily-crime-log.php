@@ -655,7 +655,34 @@
   
     	<section class="content__group">
   					<h3>Friday, June 21, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00870</td>
+<td style="font-weight: 400;" width="168">6/20/24 9:30 AM</td>
+<td style="font-weight: 400;" width="166">6/20/24 2:28 PM</td>
+<td style="font-weight: 400;" width="215">Biochemistry Building</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Battery</td>
+<td style="font-weight: 400;" width="154">2024PU00871</td>
+<td style="font-weight: 400;" width="168">6/20/24 3:24 PM</td>
+<td style="font-weight: 400;" width="166">6/20/24 4:20 PM</td>
+<td style="font-weight: 400;" width="215">1100 Blk W Stadium Ave</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

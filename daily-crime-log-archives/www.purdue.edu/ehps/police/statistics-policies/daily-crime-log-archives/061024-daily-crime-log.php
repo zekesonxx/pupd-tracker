@@ -722,7 +722,7 @@
 <td style="font-weight: 400;" width="168">6/6/24 2:46 PM</td>
 <td style="font-weight: 400;" width="166">6/6/24 2:46 PM</td>
 <td style="font-weight: 400;" width="215">Beck Agricultural Center</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Arson</td>
@@ -1364,7 +1364,7 @@
         
         
                 
-                     <p>Contact <a href="../../contact/index.php" rel="noopener" target="_blank">Purdue University Police Department</a> for accessibility issues with this page | <a href="https://www.purdue.edu/disabilityresources/">Accessibility Resources</a> | <a href="../../contact/index.php">Contact Us</a></p>
+                     <p>Contact <a href="../../contact/index.php" rel="noopener" target="_blank">Purdue University Police Department</a> for accessibility issues with this page | <a href="https://www.purdue.edu/disabilityresources/">Accessibility Resources</a> | <a href="../../contact/index.php">Contact Us</a> | <a href="https://collegescorecard.ed.gov/school/fields/?243780-Purdue-University-Main-Campus" target="_blank">DOE Degree Scorecards</a></p>
     </article>
 </section>
 
