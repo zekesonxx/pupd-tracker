@@ -683,7 +683,42 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, June 24, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00873</td>
+<td style="font-weight: 400;" width="168">6/21/24 5:15 AM</td>
+<td style="font-weight: 400;" width="166">6/21/24 12:33 PM</td>
+<td style="font-weight: 400;" width="215">Grant St Parking Garage</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00875</td>
+<td style="font-weight: 400;" width="168">6/21/24 10:13 PM</td>
+<td style="font-weight: 400;" width="166">6/21/24 10:36 PM</td>
+<td style="font-weight: 400;" width="215">Northwestern Parking Garage</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2024PU00879</td>
+<td style="font-weight: 400;" width="168">6/23/24 1:10 AM</td>
+<td style="font-weight: 400;" width="166">6/23/24 1:49 AM</td>
+<td style="font-weight: 400;" width="215">US 231/ S Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
