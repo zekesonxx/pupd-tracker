@@ -752,7 +752,7 @@ Nothing to report.
 <td>6/15/24 12:49 AM</td>
 <td>6/15/24 1:07 AM</td>
 <td>Pickett Park</td>
-<td>Pending Prosecutor Review</td>
+<td>Closed</td>
 </tr>
 <tr>
 <td>Liqour Law Violations</td>

@@ -10,7 +10,7 @@
 
 
 
-<meta content="Review the daily crime log maintained by the Purdue University Police Department." name="description"/>
+<meta content="Review the West Lafayette campus daily crime log maintained by the Purdue University Police Department." name="description"/>
 <meta content="Purdue University Police Department; Daily Crime Log; Clery Act" name="keywords"/>
 <meta content="Purdue University Administrative Operations Communications" name="author"/>
 
@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			062424 Daily Crime Log - 
+			062424 WL Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -560,7 +560,7 @@
                                 
         
                 
-                     <li>Daily Crime Log</li>
+                     <li>West Lafayette Daily Crime Log</li>
         
     </ul>
 </nav> 
@@ -595,7 +595,12 @@
         
                 
     
-    <li role="none"><a href="daily-crime-log.php" role="menuitem">Daily Crime Log</a></li>
+    <li role="none"><a href="daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
+                                                                            
+        
+                
+    
+    <li role="none"><a href="indy-daily-crime-log.php" role="menuitem">Indianapolis Daily Crime Log</a></li>
                                                                             
         
                 
@@ -637,7 +642,7 @@
 						
     
 						
-						    <h1 id="main-heading">Daily Crime Log</h1>
+						    <h1 id="main-heading">West Lafayette Campus Daily Crime Log</h1>
 
 						
 						
@@ -676,7 +681,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, June 25, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">False Informing</td>
+<td style="font-weight: 400;" width="154">2024PU00884</td>
+<td style="font-weight: 400;" width="168">6/24/24 5:22 PM</td>
+<td style="font-weight: 400;" width="166">6/24/24 5:38 PM</td>
+<td style="font-weight: 400;" width="215">Biochemistry Building</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00885</td>
+<td style="font-weight: 400;" width="168">6/25/24 1:00 AM</td>
+<td style="font-weight: 400;" width="166">6/25/24 2:08 AM</td>
+<td style="font-weight: 400;" width="215">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-097493</td>
+<td style="font-weight: 400;" width="168">6/21/24 9:03 PM</td>
+<td style="font-weight: 400;" width="166">6/21/24 9:03 PM</td>
+<td style="font-weight: 400;" width="215">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-098971</td>
+<td style="font-weight: 400;" width="168">6/24/24 1:17 PM</td>
+<td style="font-weight: 400;" width="166">6/24/24 1:17 PM</td>
+<td style="font-weight: 400;" width="215">700 Blk W Stadium Ave</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -702,7 +750,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="200">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="171">Theft</td>
 <td style="font-weight: 400;" width="154">2024PU00875</td>
 <td style="font-weight: 400;" width="168">6/21/24 10:13 PM</td>
 <td style="font-weight: 400;" width="166">6/21/24 10:36 PM</td>
