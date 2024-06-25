@@ -10,7 +10,7 @@
 
 
 
-<meta content="Review the daily crime log archive maintained by the Purdue University Police Department." name="description"/>
+<meta content="Review the West Lafayette campus daily crime log archive maintained by the Purdue University Police Department." name="description"/>
 <meta content="Purdue University Police Department; Daily Crime Log; Clery Act" name="keywords"/>
 <meta content="Purdue University Administrative Operations Communications" name="author"/>
 
@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			Daily Crime Log Archive - 
+			West Lafayette Campus Daily Crime Log Archive - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -565,7 +565,7 @@
                                 
         
                 
-                     <li>Daily Crime Log Archive</li>
+                     <li>West Lafayette Campus Daily Crime Log Archive</li>
         
     </ul>
 </nav> 
@@ -602,7 +602,7 @@
 						
     
 						
-						    <h1 id="main-heading">Daily Crime Log</h1>
+						    <h1 id="main-heading">West Lafayette Campus Daily Crime Log</h1>
 
 						
 						
