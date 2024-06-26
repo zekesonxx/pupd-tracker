@@ -669,7 +669,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, June 26, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Resisting Law Enforcement</td>
+<td style="font-weight: 400;" width="154">2024PU00886</td>
+<td style="font-weight: 400;" width="168">6/25/24 12:18 PM</td>
+<td style="font-weight: 400;" width="166">6/25/24 1:14 PM</td>
+<td style="font-weight: 400;" width="215">Purdue Student Hospital</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU00888</td>
+<td style="font-weight: 400;" width="168">6/25/24 7:50 PM</td>
+<td style="font-weight: 400;" width="166">6/25/24 8:13 PM</td>
+<td style="font-weight: 400;" width="215">Aspire</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Trespass</td>
+<td style="font-weight: 400;" width="154">2024PU00891</td>
+<td style="font-weight: 400;" width="168">6/25/24 11:18 PM</td>
+<td style="font-weight: 400;" width="166">6/26/24 12:07 AM</td>
+<td style="font-weight: 400;" width="215">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-099391</td>
+<td style="font-weight: 400;" width="168">6/25/24 8:20 AM</td>
+<td style="font-weight: 400;" width="166">6/25/24 8:20 AM</td>
+<td style="font-weight: 400;" width="215">Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
