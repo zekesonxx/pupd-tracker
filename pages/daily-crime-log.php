@@ -683,7 +683,42 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, July 1, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00895</td>
+<td style="font-weight: 400;" width="168">6/28/24 1:14 PM</td>
+<td style="font-weight: 400;" width="166">6/28/24 1:14 PM</td>
+<td style="font-weight: 400;" width="215">Earhart Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Trespass</td>
+<td style="font-weight: 400;" width="154">2024PU00899</td>
+<td style="font-weight: 400;" width="168">6/29/24 11:48 PM</td>
+<td style="font-weight: 400;" width="166">6/30/24 12:09 AM</td>
+<td style="font-weight: 400;" width="215">300 Blk McCormick Rd</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU00902</td>
+<td style="font-weight: 400;" width="168">7/1/24 12:03 AM</td>
+<td style="font-weight: 400;" width="166">7/1/24 12:34 AM</td>
+<td style="font-weight: 400;" width="215">Northwestern Ave/ Dodge St</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
