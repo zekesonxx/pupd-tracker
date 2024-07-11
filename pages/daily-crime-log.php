@@ -667,7 +667,50 @@
   
     	<section class="content__group">
   					<h3>Thursday, July 11, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00931</td>
+<td style="font-weight: 400;" width="168">7/10/24 8:59 AM</td>
+<td style="font-weight: 400;" width="166">7/10/24 9:20 AM</td>
+<td style="font-weight: 400;" width="215">Dudley Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating Never Receiving License</td>
+<td style="font-weight: 400;" width="154">2024PU00932</td>
+<td style="font-weight: 400;" width="168">7/10/24 8:51 PM</td>
+<td style="font-weight: 400;" width="166">7/10/24 9:03 PM</td>
+<td style="font-weight: 400;" width="215">US HWY 231 S/S Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00933</td>
+<td style="font-weight: 400;" width="168">7/11/24 3:34 AM</td>
+<td style="font-weight: 400;" width="166">7/11/24 3:55 AM</td>
+<td style="font-weight: 400;" width="215">Grant St Parking Garage</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-107301</td>
+<td style="font-weight: 400;" width="168">7/10/24 3:19 PM</td>
+<td style="font-weight: 400;" width="166">7/10/24 3:19 PM</td>
+<td style="font-weight: 400;" width="215">W State St/US HWY 231 S</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
