@@ -738,7 +738,7 @@
 <td width="168">5/8/24 2:37 AM</td>
 <td width="166">5/8/24 3:03 AM</td>
 <td width="215">McCormick Rd/3rd St</td>
-<td width="200">Arrest Made</td>
+<td width="200">Pending Prosecutor Review</td>
 </tr>
 </tbody>
 </table>

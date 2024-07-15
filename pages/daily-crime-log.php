@@ -688,7 +688,58 @@
   
     	<section class="content__group">
   					<h3>Monday, July 15, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU00938</td>
+<td style="font-weight: 400;" width="168">7/12/24 4:17 AM</td>
+<td style="font-weight: 400;" width="166">7/12/24 8:30 AM</td>
+<td style="font-weight: 400;" width="215">Shreve Hall</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2024PU00943</td>
+<td style="font-weight: 400;" width="168">7/13/24 7:51 PM</td>
+<td style="font-weight: 400;" width="166">7/13/24 7:51 PM</td>
+<td style="font-weight: 400;" width="215">North St/ N Grant St</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00944</td>
+<td style="font-weight: 400;" width="168">5/14/24 12:00 AM</td>
+<td style="font-weight: 400;" width="166">7/14/24 12:46 PM</td>
+<td style="font-weight: 400;" width="215">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00945</td>
+<td style="font-weight: 400;" width="168">7/1/24 12:00 AM</td>
+<td style="font-weight: 400;" width="166">7/15/24 3:13 AM</td>
+<td style="font-weight: 400;" width="215">Grant St Garage</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-108367</td>
+<td style="font-weight: 400;" width="168">7/12/24 2:11 PM</td>
+<td style="font-weight: 400;" width="166">7/12/24 2:11 PM</td>
+<td style="font-weight: 400;" width="215">S River Rd/US HWY 231 S</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
