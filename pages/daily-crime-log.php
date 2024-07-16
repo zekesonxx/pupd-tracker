@@ -699,6 +699,14 @@
 <td style="font-weight: 400;" width="215">Meredith South Hall</td>
 <td style="font-weight: 400;" width="200">Nothing Further</td>
 </tr>
+<tr>
+<td style="font-weight: 400;" width="171">Battery</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-110136</td>
+<td style="font-weight: 400;" width="168">7/16/24 12:07 AM</td>
+<td style="font-weight: 400;" width="166">7/16/24 12:07 AM</td>
+<td style="font-weight: 400;" width="215">Meredith South Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
 </tbody>
 </table>
 		</section>
