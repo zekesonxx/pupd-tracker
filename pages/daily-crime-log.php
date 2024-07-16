@@ -681,7 +681,26 @@
   
     	<section class="content__group">
   					<h3>Tuesday, July 16, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-109265</td>
+<td style="font-weight: 400;" width="168">7/14/24 12:23 PM</td>
+<td style="font-weight: 400;" width="166">7/14/24 12:23 PM</td>
+<td style="font-weight: 400;" width="215">Meredith South Hall</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

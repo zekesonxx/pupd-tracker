@@ -756,7 +756,7 @@
 <td style="font-weight: 400;" width="168">7/7/24 8:30 PM</td>
 <td style="font-weight: 400;" width="166">7/8/24 3:46 PM</td>
 <td style="font-weight: 400;" width="215">Frieda Parker Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Unfounded</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Reckless Driving</td>
