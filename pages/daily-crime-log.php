@@ -674,7 +674,34 @@
   
     	<section class="content__group">
   					<h3>Wednesday, July 17, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Intimidation</td>
+<td style="font-weight: 400;" width="154">2024PU00947</td>
+<td style="font-weight: 400;" width="168">7/16/24 1:00 PM</td>
+<td style="font-weight: 400;" width="166">7/16/24 2:59 PM</td>
+<td style="font-weight: 400;" width="215">3rd St/ McCormick Rd</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU00948</td>
+<td style="font-weight: 400;" width="168">7/17/24 2:01 AM</td>
+<td style="font-weight: 400;" width="166">7/17/24 2:38 AM</td>
+<td style="font-weight: 400;" width="215">US 231/ W State St</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
