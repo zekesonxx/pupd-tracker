@@ -806,7 +806,7 @@
 <td style="font-weight: 400;" width="168">7/5/24 8:43 PM</td>
 <td style="font-weight: 400;" width="166">7/5/24 9:01 PM</td>
 <td style="font-weight: 400;" width="215">Frieda Parker Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft-Bike</td>
