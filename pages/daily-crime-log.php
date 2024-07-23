@@ -595,11 +595,6 @@
         
                 
     
-    <li role="none"><a href="daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
-                                                                            
-        
-                
-    
     <li role="none"><a href="indy-daily-crime-log.php" role="menuitem">Indianapolis Daily Crime Log</a></li>
                                                                             
         
@@ -681,7 +676,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, July 23, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud</td>
+<td style="font-weight: 400;" width="154">2024PU00959</td>
+<td style="font-weight: 400;" width="168">7/22/24 7:59 AM</td>
+<td style="font-weight: 400;" width="166">7/22/24 3:58 PM</td>
+<td style="font-weight: 400;" width="215">Hanger 7</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving While Suspended</td>
+<td style="font-weight: 400;" width="154">2024PU00960</td>
+<td style="font-weight: 400;" width="168">7/22/24 7:18 PM</td>
+<td style="font-weight: 400;" width="166">7/22/24 7:37 PM</td>
+<td style="font-weight: 400;" width="215">W Stadium Ave/ Northwestern Ave</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-112804</td>
+<td style="font-weight: 400;" width="168">7/20/24 7:23 PM</td>
+<td style="font-weight: 400;" width="166">7/20/24 7:23 PM</td>
+<td style="font-weight: 400;" width="215">Mitch Daniels Blvd/S Grant St</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-112894</td>
+<td style="font-weight: 400;" width="168">7/20/24 11:45 PM</td>
+<td style="font-weight: 400;" width="166">7/20/24 11:45 PM</td>
+<td style="font-weight: 400;" width="215">Harrison Hall</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -699,12 +737,12 @@ Will be posted soon.
 <th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft-License Plate</td>
+<td style="font-weight: 400;" width="171">Theft</td>
 <td style="font-weight: 400;" width="154">2024PU00956</td>
 <td style="font-weight: 400;" width="168">7/20/24 12:00 PM</td>
 <td style="font-weight: 400;" width="166">7/20/24 8:33 PM</td>
 <td style="font-weight: 400;" width="215">Grant St Garage</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Suspended</td>
 </tr>
 </tbody>
 </table>
