@@ -688,7 +688,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, July 29, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; width: 171px; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<td style="font-weight: 400;" width="154">Case Number</td>
+<td style="font-weight: 400;" width="168">Date/Time Occurred</td>
+<td style="font-weight: 400;" width="166">Date/Time Reported</td>
+<td style="font-weight: 400;" width="215">General Location</td>
+<td style="font-weight: 400;" width="200">Disposition&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft/ Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00974</td>
+<td style="font-weight: 400;" width="168">7/26/24 5:58 PM</td>
+<td style="font-weight: 400;" width="166">7/26/24 7:18 PM</td>
+<td style="font-weight: 400;" width="215">1300 Blk McCormick Rd</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00975</td>
+<td style="font-weight: 400;" width="168">7/26/24 5:53 PM</td>
+<td style="font-weight: 400;" width="166">7/26/24 7:18 PM</td>
+<td style="font-weight: 400;" width="215">1300 Blk McCormick Rd</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft/ Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00976</td>
+<td style="font-weight: 400;" width="168">7/26/24 5:56 PM</td>
+<td style="font-weight: 400;" width="166">7/26/24 7:18 PM</td>
+<td style="font-weight: 400;" width="215">1300 Blk McCormick Rd</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Traffic Violation</td>
+<td style="font-weight: 400;" width="154">2024PU00979</td>
+<td style="font-weight: 400;" width="168">7/27/24 4:58 PM</td>
+<td style="font-weight: 400;" width="166">7/27/24 5:45 PM</td>
+<td style="font-weight: 400;" width="215">Harrison St/ S Russell St</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU00981</td>
+<td style="font-weight: 400;" width="168">7/28/24 12:45 AM</td>
+<td style="font-weight: 400;" width="166">7/28/24 1:33 AM</td>
+<td style="font-weight: 400;" width="215">Wood St Garage</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
