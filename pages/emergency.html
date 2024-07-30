@@ -1,115 +1,581 @@
+
+
 <!DOCTYPE html>
-<html dir='ltr'>
+<html lang="en-US" class="is-fullheight has-global-header">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<meta name="viewport" content="width=device-width">
-			<title>Database Error</title>
-	<style type="text/css">
-		html {
-			background: #f1f1f1;
-		}
-		body {
-			background: #fff;
-			border: 1px solid #ccd0d4;
-			color: #444;
-			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-			margin: 2em auto;
-			padding: 1em 2em;
-			max-width: 700px;
-			-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
-			box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
-		}
-		h1 {
-			border-bottom: 1px solid #dadada;
-			clear: both;
-			color: #666;
-			font-size: 24px;
-			margin: 30px 0 0 0;
-			padding: 0;
-			padding-bottom: 7px;
-		}
-		#error-page {
-			margin-top: 50px;
-		}
-		#error-page p,
-		#error-page .wp-die-message {
-			font-size: 14px;
-			line-height: 1.5;
-			margin: 25px 0 20px;
-		}
-		#error-page code {
-			font-family: Consolas, Monaco, monospace;
-		}
-		ul li {
-			margin-bottom: 10px;
-			font-size: 14px ;
-		}
-		a {
-			color: #2271b1;
-		}
-		a:hover,
-		a:active {
-			color: #135e96;
-		}
-		a:focus {
-			color: #043959;
-			box-shadow: 0 0 0 2px #2271b1;
-			outline: 2px solid transparent;
-		}
-		.button {
-			background: #f3f5f6;
-			border: 1px solid #016087;
-			color: #016087;
-			display: inline-block;
-			text-decoration: none;
-			font-size: 13px;
-			line-height: 2;
-			height: 28px;
-			margin: 0;
-			padding: 0 10px 1px;
-			cursor: pointer;
-			-webkit-border-radius: 3px;
-			-webkit-appearance: none;
-			border-radius: 3px;
-			white-space: nowrap;
-			-webkit-box-sizing: border-box;
-			-moz-box-sizing:    border-box;
-			box-sizing:         border-box;
+	<title>Campus Safety Status</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<style type="text/css">@media (min-width: 768px){
+.page-id-7 .section .container .wp-block-columns.page-layout-columns.columns .column.page-layout-sidebar {
+    flex-basis: 40% !important;
+}
+}
+.tagged-header {
+    padding: 0.675rem 1.5rem!important;
+    color: #fff!important;
+    font-family: "United Sans Condensed",Impact,"Arial Black","sans serif"!Important;
+    font-size: 1.125rem!important;
+    font-weight: 900!important;
+    line-height: 1!important;
+    border-radius: 4px!important;
+}
 
-			vertical-align: top;
-		}
+.purdue-home-tabs__header-text {
+    color: #fff!important;
+    font-family: acumin-pro,"Franklin Gothic",sans-serif!important;
+    font-size: 2.75rem!important;
+    font-weight: 700!important;
+    line-height: 1.1!Important;
+}
 
-		.button.button-large {
-			line-height: 2.30769231;
-			min-height: 32px;
-			padding: 0 12px;
-		}
+.is-provider-twitter {
+margin-top:0 !important;
+}
+.purdue-home-tabs a {
+color:#fff !important;
+}
 
-		.button:hover,
-		.button:focus {
-			background: #f1f1f1;
-		}
+.campus-safety-body a,
+.campus-safety-body a:hover {
+color:#000;
+}</style>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- The SEO Framework by Sybre Waaijer -->
+<meta name="robots" content="max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+<link rel="canonical" href="https://www.purdue.edu/emergency/" />
+<meta name="description" content="Find current information about Purdue Alerts that are issued by the office of Environmental Health and Public Safety." />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="Campus Safety Status" />
+<meta property="og:title" content="West Lafayette Campus Emergency Status" />
+<meta property="og:description" content="Find current information about Purdue Alerts that are issued by the office of Environmental Health and Public Safety." />
+<meta property="og:url" content="https://www.purdue.edu/emergency/" />
+<meta property="og:image" content="https://www.purdue.edu/emergency/wp-content/uploads/2024/01/Gateway-Arch.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="Purdue University" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@LifeAtPurdue" />
+<meta name="twitter:creator" content="@LifeAtPurdue" />
+<meta name="twitter:title" content="West Lafayette Campus Emergency Status" />
+<meta name="twitter:description" content="Find current information about Purdue Alerts that are issued by the office of Environmental Health and Public Safety." />
+<meta name="twitter:image" content="https://www.purdue.edu/emergency/wp-content/uploads/2024/01/Gateway-Arch.jpg" />
+<meta name="twitter:image:alt" content="Purdue University" />
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.purdue.edu/emergency/#/schema/WebSite","url":"https://www.purdue.edu/emergency/","name":"Campus Safety Status","inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.purdue.edu/emergency/search/{search_term_string}/"},"query-input":"required name=search_term_string"},"publisher":{"@id":"https://www.purdue.edu/emergency/#/schema/Organization"}},{"@type":"WebPage","@id":"https://www.purdue.edu/emergency/","url":"https://www.purdue.edu/emergency/","name":"West Lafayette Campus Emergency Status","description":"Find current information about Purdue Alerts that are issued by the office of Environmental Health and Public Safety.","inLanguage":"en-US","isPartOf":{"@id":"https://www.purdue.edu/emergency/#/schema/WebSite"},"breadcrumb":{"@type":"BreadcrumbList","@id":"https://www.purdue.edu/emergency/#/schema/BreadcrumbList","itemListElement":{"@type":"ListItem","position":1,"name":"Campus Safety Status"}},"potentialAction":{"@type":"ReadAction","target":"https://www.purdue.edu/emergency/"},"about":{"@id":"https://www.purdue.edu/emergency/#/schema/Organization"}},{"@type":"Organization","@id":"https://www.purdue.edu/emergency/#/schema/Organization","name":"Campus Safety Status","url":"https://www.purdue.edu/emergency/"}]}</script>
+<!-- / The SEO Framework by Sybre Waaijer | 106.03ms meta | 70.37ms boot -->
 
-		.button:focus {
-			background: #f3f5f6;
-			border-color: #007cba;
-			-webkit-box-shadow: 0 0 0 1px #007cba;
-			box-shadow: 0 0 0 1px #007cba;
-			color: #016087;
-			outline: 2px solid transparent;
-			outline-offset: 0;
-		}
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.purdue.edu\/emergency\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
 
-		.button:active {
-			background: #f3f5f6;
-			border-color: #7e8993;
-			-webkit-box-shadow: none;
-			box-shadow: none;
-		}
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.purdue.edu/emergency/wp-includes/css/dist/block-library/common.min.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.purdue.edu/emergency/wp-includes/css/classic-themes.min.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='brandfonts-css' href='https://use.typekit.net/ghc8hdz.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='unitedsans-css' href='https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/unitedsans.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sourceserif-css' href='https://fonts.googleapis.com/css2?family=Source+Serif+Pro%3Awght%40400%3B600%3B700&#038;display=swap&#038;ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wpa-style-css' href='https://www.purdue.edu/emergency/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=2.1.4' type='text/css' media='all' />
+<style id='wpa-style-inline-css' type='text/css'>
+:root { --admin-bar-top : 7px; }
+</style>
+<link rel='stylesheet' id='load-fa-css' href='https://use.fontawesome.com/releases/v6.4.2/css/all.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='purdueBrand-style-css' href='https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/style.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='purdueBrand-brand-style-css' href='https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/build/app.css?ver=9f6e1200510dcdafc5dc' type='text/css' media='' />
+<link rel='stylesheet' id='purdue-content-block-style-css-css' href='https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/build/blocks/content-block/style-index.css?ver=9f6e1200510dcdafc5dc' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.purdue.edu/emergency/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.purdue.edu/emergency/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.purdue.edu/emergency/wp-content/plugins/wp-accessibility/js/fingerprint.min.js?ver=2.1.4" id="wpa-fingerprintjs-js"></script>
+<link rel="https://api.w.org/" href="https://www.purdue.edu/emergency/wp-json/" /><link rel="alternate" type="application/json" href="https://www.purdue.edu/emergency/wp-json/wp/v2/pages/7" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.purdue.edu/emergency/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" href="https://www.purdue.edu/emergency/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.purdue.edu%2Femergency%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.purdue.edu/emergency/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.purdue.edu%2Femergency%2F&#038;format=xml" />
 
-			</style>
-</head>
-<body id="error-page">
-	<div class="wp-die-message"><h1>Error establishing a database connection</h1></div></body>
+            <link rel="shortcut icon" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/favicon.ico" type="image/x-icon" />
+            <link rel="apple-touch-icon" sizes="57x57" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-57x57.png">
+            <link rel="apple-touch-icon" sizes="60x60" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-60x60.png">
+            <link rel="apple-touch-icon" sizes="72x72" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-72x72.png">
+            <link rel="apple-touch-icon" sizes="76x76" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-76x76.png">
+            <link rel="apple-touch-icon" sizes="114x114" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-114x114.png">
+            <link rel="apple-touch-icon" sizes="120x120" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-120x120.png">
+            <link rel="apple-touch-icon" sizes="144x144" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-144x144.png">
+            <link rel="apple-touch-icon" sizes="152x152" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-152x152.png">
+            <link rel="apple-touch-icon" sizes="180x180" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-180x180.png">
+            <link rel="icon" type="image/png" sizes="192x192"  href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/android-icon-192x192.png">
+            <link rel="icon" type="image/png" sizes="32x32" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/favicon-32x32.png">
+            <link rel="icon" type="image/png" sizes="96x96" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/favicon-96x96.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/favicon-16x16.png">
+            <link rel="manifest" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/manifest.json">
+            <meta name="msapplication-TileColor" content="#ffffff">
+            <meta name="msapplication-TileImage" content="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/ms-icon-144x144.png">
+            <meta name="theme-color" content="#ffffff">
+            
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to manual -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var dataLayer_content = {"pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"Nathaniel Saloh"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWGMN6Z');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --></head>
+
+<body class="home page-template-default page page-id-7">
+
+
+<!-- GTM Container placement set to manual -->
+<!-- Google Tag Manager (noscript) -->
+				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWGMN6Z" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->			<div id="page" class="site">
+		<a class="skip-link is-sr-only" href="#content">Skip to content</a>				<header id="header" class="header--global header--two-rows">
+				<nav class="navbar is-transparent purdue-top-nav purdue-top-nav__first-row" role="navigation">
+								<div class="navbar-brand">
+						<div class="navbar-logo">
+							<a href="https://www.purdue.edu/" class="navbar-item" rel="home"><img src="https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/imgs/PU-H-light.svg" alt="Purdue Logo"></a>
+							<a href="https://www.purdue.edu/emergency" class="navbar-site-name" rel="home">Campus Safety Status</a>
+						</div>
+						<div class="navbar-buttons">
+							<button class="icon is-large navbar-burger navbar-open is-active" data-target="navbar-find-info" aria-expanded="false" aria-label="Search and menu">
+								<img src="https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/icons/search-menu-icon.png" aria-hidden="true" alt="" class="burger-icon">
+							</button>
+							<button class="icon is-large navbar-close is-hidden" data-target="navbar-find-info" aria-label="close search and menu">	
+								<img src="https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/imgs/close_icon_black.svg" aria-hidden="true" alt="" class="close-icon">
+							</button>
+						</div>
+					</div>
+							</nav>
+				
+			<nav id="top-nav" class="navbar navbar-menu purdue-top-nav__second-row" role="navigation">					
+				<ul class="navbar-start menu-items">
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item navbar-item menu-item-222"><a title="Home" href="https://www.purdue.edu/emergency/">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom navbar-item menu-item-440"><a title="Annual Security Reports" target="_blank" href="https://www.purdue.edu/ehps/police/statistics-policies/security-reports.php">Annual Security Reports</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom navbar-item menu-item-438"><a title="Campus Safety Tips" target="_blank" href="https://www.purdue.edu/ehps/police/campus-safety-tips/index.php">Campus Safety Tips</a></li>
+										</ul>				
+			</nav>
+							
+			<div class="navbar-find-info is-hidden is-global"  data-menu="navbar-find-info">
+				<button class="icon is-large navbar-close" data-target="navbar-find-info" aria-label="close search and menu">	
+					<span>CLOSE</span>
+					<img src="https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/imgs/close_icon.svg" aria-hidden="true" alt="" class="close-icon">
+				</button>
+				<div class="navbar-find-info__items">
+					<div class="nav-brand">
+						Campus Safety Status					</div>
+					<div class="form-group search-box">
+						<form action="https://www.purdue.edu/emergency/" name="searchform" method="get" class="search-form">
+	<i class="fas fa-search search-icon"></i>
+	<input type="search" title="search" class="search-field" placeholder="" name="s" value="">	
+	<button type="submit" class="search-button">Search
+	</button>
+	<button type="button" class="clear-button">
+	<i class="fa-regular fa-circle-xmark" aria-label="Clear"></i>
+	</button>
+</form>
+										</div>	
+					<div class="navbar-find-info__menu">
+						<ul class="menu-items">
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item navbar-item menu-item-222"><a title="Home" href="https://www.purdue.edu/emergency/">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom navbar-item menu-item-440"><a title="Annual Security Reports" target="_blank" href="https://www.purdue.edu/ehps/police/statistics-policies/security-reports.php">Annual Security Reports</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom navbar-item menu-item-438"><a title="Campus Safety Tips" target="_blank" href="https://www.purdue.edu/ehps/police/campus-safety-tips/index.php">Campus Safety Tips</a></li>
+													</ul>
+					</div>
+					<div class="navbar-find-info__quicklinks">
+						<span class="navbar-links-description">Helpful links</span>
+						<ul class="navbar-quick-links"><li id="menu-item-319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-319"><a href="http://www.purdue.edu/police/">Purdue Police</a></li>
+<li id="menu-item-320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-320"><a href="http://www.purdue.edu/fire/">Purdue Fire</a></li>
+<li id="menu-item-321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-321"><a href="https://www.purdue.edu/ehps/emergency-preparedness/">Emergency Preparedness</a></li>
+<li id="menu-item-323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-323"><a href="http://www.purdue.edu/rem/">Environmental Health and Safety</a></li>
+</ul>					</div>
+										<div class="navbar-other-links-wrapper">
+						<span class="navbar-links-description">Quick links</span>
+						<ul class="navbar-other-links"><li id="menu-item-327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-327"><a href="https://www.purdue.edu/hotline/">Purdue Hotline</a></li>
+<li id="menu-item-326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-326"><a href="https://www.purdue.edu/ehps/police/timely-warnings/">Timely Warnings</a></li>
+<li id="menu-item-324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-324"><a href="https://www.purdue.edu/">Purdue Home</a></li>
+<li id="menu-item-325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-325"><a href="https://marcom.purdue.edu/">Marketing and Communications</a></li>
+</ul>					</div>
+									</div>
+			</div>
+								</header>
+
+		<div id="content" class="site-content has-global-header">
+
+
+<main id="site-content" role="main" class="main-content">
+    
+
+<div  class="section ">
+    <div class="container">
+                
+
+<h1 class="wp-block-heading has-text-align-left">Campus Emergency Status</h1>
+
+
+
+<div class="wp-block-columns page-layout-columns columns is-multiline is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column column is-full-tablet page-layout-main is-layout-flow wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading">West Lafayette location is under normal operations</h2>
+
+
+
+<h2 class="wp-block-heading">Indianapolis location is under normal operations</h2>
+
+
+
+<p>This web site is your resource for current information about Purdue alerts issued by Physical Facilities and Public Safety.</p>
+</div>
+
+
+
+<div class="wp-block-column column is-one-quarter-desktop is-full-tablet is-full-mobile page-layout-sidebar is-layout-flow wp-block-column-is-layout-flow">
+<p></p>
+</div>
+</div>
+
+    </div>
+</div>
+
+<div  class="section page-layout-with-sidebar has-gray-background ">
+    <div class="container desktop-reverse">
+                
+
+<div class="wp-block-columns page-layout-columns columns is-multiline is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column column is-full-tablet page-layout-main is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading">Timely warning messages at Purdue</h3>
+
+
+
+<p><a href="http://www.purdue.edu/timely-warnings/" target="_blank" rel="noreferrer noopener">Timely Warning</a>&nbsp;messages and the <a href="https://www.purdue.edu/ehps/police/statistics-policies/security-reports.php" data-type="link" data-id="https://www.purdue.edu/ehps/police/statistics-policies/security-reports.php" target="_blank" rel="noreferrer noopener">Annual Security Reports</a> are part of Purdue University’s commitment to providing campus-area crime information in compliance with the federal Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act or, Clery Act, as it is commonly known. For more information on the Clery Act please visit&nbsp;<a href="http://www.ed.gov/admins/lead/safety/campus.html" target="_blank" rel="noreferrer noopener">www.ed.gov/admins/lead/safety/campus.html</a>.</p>
+
+
+
+<h4 class="wp-block-heading">Text messaging sign up for students, faculty and staff</h4>
+
+
+
+<p>Sign up for <a href="https://www.purdue.edu/ehps/emergency-preparedness/purduealert-text/" target="_blank" rel="noreferrer noopener">PurdueALERT</a> text messaging or update your information.</p>
+
+
+
+<h4 class="wp-block-heading">Following @purdueemergency on X (Twitter)</h4>
+
+
+
+<p>You must have a X (Twitter) account to get notifications from @purdueemergency. You may need to log into your X (Twitter) account to see this timeline for the most current updates.</p>
+
+
+
+<h3 class="wp-block-heading">Prepare for emergencies</h3>
+
+
+
+<p>Prepare for emergencies and learn more about <a href="https://www.purdue.edu/ehps/emergency-preparedness/purduealert-text/" target="_blank" rel="noreferrer noopener">PurdueALERT</a> at&nbsp;<a href="http://www.purdue.edu/emergency_preparedness" target="_blank" rel="noreferrer noopener">www.purdue.edu/emergency_preparedness</a>.</p>
+</div>
+
+
+
+<div class="wp-block-column column is-one-quarter-desktop is-full-tablet is-full-mobile page-layout-sidebar is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<a class="twitter-timeline" data-width="500" data-height="750" data-dnt="true" href="https://twitter.com/purdueemergency?ref_src=twsrc%5Etfw">Tweets by purdueemergency</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+</div>
+</div>
+
+    </div>
+</div>
+
+<div  class="section has-gold-background has-padding-top-large has-padding-bottom-large  page-layout-wide">
+    <div class="container">
+                <div class="tagged-header-container tagged-header-container--content-block">
+            <h2 class="tagged-header">Safety Contacts</h2>
+        </div>
+                
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized is-style-default"><img fetchpriority="high" decoding="async" width="300" height="353" src="https://www.purdue.edu/emergency/wp-content/uploads/2024/03/911.png" alt="Call or Text 911 for emergencies - Police, Fire and Emergency Medical Services" class="wp-image-442" style="width:180px" srcset="https://www.purdue.edu/emergency/wp-content/uploads/2024/03/911.png 300w, https://www.purdue.edu/emergency/wp-content/uploads/2024/03/911-255x300.png 255w" sizes="(max-width: 300px) 100vw, 300px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading">Emergencies</h3>
+
+
+
+<p><strong>Call or Text 911</strong><br>Purdue Public Safety Dispatch Center for Police, Fire and Medical Emergency Services</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading">Purdue Police</h3>
+
+
+
+<p><a href="http://www.purdue.edu/police/" data-type="link" data-id="http://www.purdue.edu/police/" target="_blank" rel="noreferrer noopener">www.purdue.edu/police/</a><br>police@purdue.edu<br>Phone: 765-494-8221</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading">Purdue Fire</h3>
+
+
+
+<p><a href="http://www.purdue.edu/fire/" data-type="link" data-id="http://www.purdue.edu/fire/" target="_blank" rel="noreferrer noopener">www.purdue.edu/fire/<br></a>fire@purdue.edu<br>Phone: 765-494-6919</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading">Emergency Preparedness</h3>
+
+
+
+<p><a href="https://www.purdue.edu/ehps/emergency-preparedness/" data-type="link" data-id="https://www.purdue.edu/ehps/emergency-preparedness/">www.purdue.edu/ehps/emergency-preparedness/</a><br>emergency.preparedness@purdue.edu<br>Phone: 765-494-0446</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading">Environmental Health and Safety</h3>
+
+
+
+<p><a href="http://www.purdue.edu/rem/" data-type="link" data-id="http://www.purdue.edu/rem/" target="_blank" rel="noreferrer noopener">www.purdue.edu/rem/<br></a>Phone: 765-494-6371</p>
+</div>
+</div>
+
+    </div>
+</div>
+    <button id="to-top" class="to-top-hidden" aria-label="Back to Top Button">
+        <span class="icon"><i class="fa-solid fa-arrow-up" aria-hidden="true"></i></span>
+    </button>
+</main><!-- #site-content -->
+
+
+</div><!-- #content -->
+<footer id="colophon" role="contentinfo" class="footer" style="background-image: url(https://www.purdue.edu/home/wp-content/uploads/2023/09/DSC2463_lowres.jpg)">
+
+	<div class="footer__global__resources">
+		<div class="container is-fullhd">
+			<div class="columns is-desktop">
+				<div class="column is-four-fifths-desktop">
+					<div class="contact-info">
+						<div class="columns">
+							<div class="column is-half-mobile">
+								<div class="columns is-desktop">
+									<div class="column is-half-desktop">
+									<a href="https://www.purdue.edu/" rel="home"><img src="https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/imgs/PU-V.svg" alt="Purdue Logo"></a>									</div>
+									<div class="column is-half-desktop">
+										<p class="contact-info__address">
+										<a href="https://www.google.com/maps/search/?api=1&query=Purdue+University%2C610+Purdue+Mall%2CWest+Lafayette%2CIN" target="_blank">Purdue University<br/>610 Purdue Mall<br/>West Lafayette, IN 47906</a>										</p>
+										<p class="contact-info__phone">
+										<a href="tel://7654944600">765-494-4600</a>										</p>
+										<div class="navbar-item contact-info__campuses mobile-show">
+											<a class="purdue-home-button purdue-home-button--black" href="https://www.purdue.edu/home/about/systemwide-campuses/" target="_self">Systemwide campuses</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="column is-half-mobile social-container">
+								<div class="columns is-desktop">
+									<div class="column is-half-desktop">
+										<h2 class="title">Follow Us</h2>
+										<ul class="contact-info__social">
+																								<li class="navbar-item">
+														<a title="Facebook" href="https://www.facebook.com/PurdueUniversity/" target="_blank">
+															<span class="screen-reader-text">Facebook</span>
+															<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"/></svg>
+														</a>
+													</li>
+																									<li class="navbar-item">
+														<a title="Twitter" href="https://www.twitter.com/LifeAtPurdue" target="_blank">
+															<span class="screen-reader-text">Twitter</span>
+															<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm297.1 84L257.3 234.6 379.4 396H283.8L209 298.1 123.3 396H75.8l111-126.9L69.7 116h98l67.7 89.5L313.6 116h47.5zM323.3 367.6L153.4 142.9H125.1L296.9 367.6h26.3z"/></svg>													
+														</a>
+													</li>
+																									<li class="navbar-item">
+														<a title="LinkedIN" href="https://www.linkedin.com/edu/purdue-university-18357" target="_blank">
+															<span class="screen-reader-text">LinkedIn</span>
+															<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+														</a>
+													</li>
+																									<li class="navbar-item">
+														<a title="Instagram" href="https://www.instagram.com/lifeatpurdue/" target="_blank">
+														<span class="screen-reader-text">Instagram</span>
+														<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M224,202.66A53.34,53.34,0,1,0,277.36,256,53.38,53.38,0,0,0,224,202.66Zm124.71-41a54,54,0,0,0-30.41-30.41c-21-8.29-71-6.43-94.3-6.43s-73.25-1.93-94.31,6.43a54,54,0,0,0-30.41,30.41c-8.28,21-6.43,71.05-6.43,94.33S91,329.26,99.32,350.33a54,54,0,0,0,30.41,30.41c21,8.29,71,6.43,94.31,6.43s73.24,1.93,94.3-6.43a54,54,0,0,0,30.41-30.41c8.35-21,6.43-71.05,6.43-94.33S357.1,182.74,348.75,161.67ZM224,338a82,82,0,1,1,82-82A81.9,81.9,0,0,1,224,338Zm85.38-148.3a19.14,19.14,0,1,1,19.13-19.14A19.1,19.1,0,0,1,309.42,189.74ZM400,32H48A48,48,0,0,0,0,80V432a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V80A48,48,0,0,0,400,32ZM382.88,322c-1.29,25.63-7.14,48.34-25.85,67s-41.4,24.63-67,25.85c-26.41,1.49-105.59,1.49-132,0-25.63-1.29-48.26-7.15-67-25.85s-24.63-41.42-25.85-67c-1.49-26.42-1.49-105.61,0-132,1.29-25.63,7.07-48.34,25.85-67s41.47-24.56,67-25.78c26.41-1.49,105.59-1.49,132,0,25.63,1.29,48.33,7.15,67,25.85s24.63,41.42,25.85,67.05C384.37,216.44,384.37,295.56,382.88,322Z"/></svg>
+														</a>
+													</li>
+																									<li class="navbar-item">
+														<a title="YouTube" href="https://www.youtube.com/purdueuniversity" target="_blank">
+															<span class="screen-reader-text">Youtube</span>
+															<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M186.8 202.1l95.2 54.1-95.2 54.1V202.1zM448 80v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h352c26.5 0 48 21.5 48 48zm-42 176.3s0-59.6-7.6-88.2c-4.2-15.8-16.5-28.2-32.2-32.4C337.9 128 224 128 224 128s-113.9 0-142.2 7.7c-15.7 4.2-28 16.6-32.2 32.4-7.6 28.5-7.6 88.2-7.6 88.2s0 59.6 7.6 88.2c4.2 15.8 16.5 27.7 32.2 31.9C110.1 384 224 384 224 384s113.9 0 142.2-7.7c15.7-4.2 28-16.1 32.2-31.9 7.6-28.5 7.6-88.1 7.6-88.1z"/></svg>
+														</a>
+													</li>
+																									<li class="navbar-item">
+														<a title="SnapChat" href="https://www.snapchat.com/add/lifeatpurdue" target="_blank">
+															<span class="screen-reader-text">snapchat</span>
+															<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M384,32H64A64,64,0,0,0,0,96V416a64,64,0,0,0,64,64H384a64,64,0,0,0,64-64V96A64,64,0,0,0,384,32Zm-3.907,319.309-.083.1a32.364,32.364,0,0,1-8.717,6.823,90.26,90.26,0,0,1-20.586,8.2,12.694,12.694,0,0,0-3.852,1.76c-2.158,1.909-2.1,4.64-4.4,8.55a23.137,23.137,0,0,1-6.84,7.471c-6.707,4.632-14.244,4.923-22.23,5.23-7.214.274-15.39.581-24.729,3.669-3.761,1.245-7.753,3.694-12.377,6.533-11.265,6.9-26.68,16.353-52.3,16.353s-40.925-9.4-52.106-16.279c-4.657-2.888-8.675-5.362-12.543-6.64-9.339-3.08-17.516-3.4-24.729-3.67-7.986-.307-15.523-.6-22.231-5.229a23.085,23.085,0,0,1-6.01-6.11c-3.2-4.632-2.855-7.8-5.254-9.895a13.428,13.428,0,0,0-4.1-1.834,89.986,89.986,0,0,1-20.313-8.127,32.905,32.905,0,0,1-8.3-6.284c-6.583-6.757-8.276-14.776-5.686-21.824,3.436-9.338,11.571-12.111,19.4-16.262,14.776-8.027,26.348-18.055,34.433-29.884a68.236,68.236,0,0,0,5.985-10.567c.789-2.158.772-3.329.241-4.416a7.386,7.386,0,0,0-2.208-2.217c-2.532-1.676-5.113-3.353-6.882-4.5-3.27-2.141-5.868-3.818-7.529-4.98-6.267-4.383-10.65-9.04-13.4-14.245a28.4,28.4,0,0,1-1.369-23.584c4.134-10.924,14.469-17.706,26.978-17.706a37.141,37.141,0,0,1,7.845.83c.689.15,1.37.307,2.042.482-.108-7.43.058-15.357.722-23.119,2.358-27.261,11.912-41.589,21.874-52.994a86.836,86.836,0,0,1,22.28-17.931C188.254,100.383,205.312,96,224,96s35.828,4.383,50.944,13.016a87.169,87.169,0,0,1,22.239,17.9c9.961,11.406,19.516,25.709,21.874,52.995a231.194,231.194,0,0,1,.713,23.118c.673-.174,1.362-.332,2.051-.481a37.131,37.131,0,0,1,7.844-.83c12.5,0,22.82,6.782,26.971,17.706a28.37,28.37,0,0,1-1.4,23.559c-2.74,5.2-7.123,9.861-13.39,14.244-1.668,1.187-4.258,2.864-7.529,4.981-1.835,1.187-4.541,2.947-7.164,4.682a6.856,6.856,0,0,0-1.951,2.034c-.506,1.046-.539,2.191.166,4.208a69.015,69.015,0,0,0,6.085,10.792c8.268,12.1,20.188,22.313,35.454,30.407,1.486.772,2.98,1.5,4.441,2.258.722.332,1.569.763,2.491,1.3,4.9,2.723,9.2,6.01,11.455,12.153C387.821,336.915,386.269,344.7,380.093,351.309Zm-16.719-18.461c-50.313-24.314-58.332-61.918-58.689-64.749-.431-3.379-.921-6.035,2.806-9.472,3.594-3.328,19.541-13.19,23.965-16.278,7.33-5.114,10.534-10.219,8.16-16.495-1.66-4.316-5.686-5.976-9.961-5.976a18.5,18.5,0,0,0-3.993.448c-8.035,1.743-15.838,5.769-20.354,6.857a7.1,7.1,0,0,1-1.66.224c-2.408,0-3.279-1.071-3.088-3.968.564-8.783,1.759-25.925.373-41.937-1.884-22.032-8.99-32.948-17.432-42.6-4.051-4.624-23.135-24.654-59.536-24.654S168.53,134.359,164.479,139c-8.434,9.654-15.531,20.57-17.432,42.6-1.386,16.013-.141,33.147.373,41.937.166,2.756-.68,3.968-3.088,3.968a7.1,7.1,0,0,1-1.66-.224c-4.507-1.087-12.31-5.113-20.346-6.856a18.494,18.494,0,0,0-3.993-.449c-4.25,0-8.3,1.636-9.961,5.977-2.374,6.276.847,11.381,8.168,16.494,4.425,3.088,20.371,12.958,23.966,16.279,3.719,3.437,3.237,6.093,2.805,9.471-.356,2.79-8.384,40.394-58.689,64.749-2.946,1.428-7.96,4.45.88,9.331,13.88,7.628,23.111,6.807,30.3,11.43,6.093,3.927,2.5,12.394,6.923,15.449,5.454,3.76,21.583-.266,42.335,6.6,17.433,5.744,28.116,22.015,58.963,22.015s41.788-16.3,58.938-21.973c20.795-6.865,36.89-2.839,42.336-6.6,4.433-3.055.822-11.522,6.923-15.448,7.181-4.624,16.411-3.8,30.3-11.472C371.36,337.355,366.346,334.333,363.374,332.848Z"/></svg>
+														</a>
+													</li>
+																							
+										</ul>
+									</div>
+									<div class="column is-half-desktop">
+										<div class="contact-info__campuses navbar-item mobile-hidden">
+											<a class="purdue-home-button purdue-home-button--black" href="https://www.purdue.edu/home/about/systemwide-campuses/" target="_self">Systemwide campuses</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="link-resources columns is-multiline">
+						<div class="column is-one-quarter-desktop is-full-tablet">
+							<div class="footer__links"><h2>
+					<button class="accordion__heading accordion__heading--footer" aria-expanded="true" aria-disabled="true" id="accordion2id" aria-controls="sect2">EXPLORE
+					<svg aria-hidden="true" class="accordion__icon accordion__icon__plus" width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+						<title>plus_icon</title>
+						<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g stroke="#cfb991" stroke-width="4">
+								<circle cx="26" cy="26" r="24"></circle>
+								<line x1="26.5" y1="14" x2="26.5" y2="38" stroke-linecap="round" stroke-linejoin="round"></line>
+								<line x1="25.6896552" y1="14.5116279" x2="25.6896552" y2="38.6976744" stroke-linecap="round" stroke-linejoin="round" transform="translate(25.6897, 26.6047) rotate(-90) translate(-25.6897, -26.6047)"></line>
+							</g>
+						</g>
+					</svg>
+					</button>
+				</h2><ul class="accordion__content--footer" id="sect2" aria-labelledby="accordion2id"><li><a href="https://www.purdue.edu/campus-map/">West Lafayette Map</a></li><li><a href="https://www.purdue.edu/purdue/careers/index.php">Careers</a></li><li><a href="https://www.purdue.edu/hr/CHL/">Center for Healthy Living</a></li><li><a href="https://www.purdue.edu/home/colleges_schools/">Colleges and Schools</a></li><li><a href="https://www.purdue.edu/directory/">Directory</a></li><li><a href="https://www.purdue.edu/purdue/commercialization/index.php">Entrepreneurship and Commercialization</a></li><li><a href="https://www.purdue.edu/hr/">Human Resources</a></li><li><a href="https://www.lib.purdue.edu/">Libraries</a></li></ul></div>						</div>
+						<div class="column is-one-quarter-desktop is-full-tablet">
+						<div class="footer__links"><h2>
+					<button class="accordion__heading accordion__heading--footer" aria-expanded="true" aria-disabled="true" id="accordion1id" aria-controls="sect1">INFORMATION
+					<svg aria-hidden="true" class="accordion__icon accordion__icon__plus" width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+						<title>plus_icon</title>
+						<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g stroke="#cfb991" stroke-width="4">
+								<circle cx="26" cy="26" r="24"></circle>
+								<line x1="26.5" y1="14" x2="26.5" y2="38" stroke-linecap="round" stroke-linejoin="round"></line>
+								<line x1="25.6896552" y1="14.5116279" x2="25.6896552" y2="38.6976744" stroke-linecap="round" stroke-linejoin="round" transform="translate(25.6897, 26.6047) rotate(-90) translate(-25.6897, -26.6047)"></line>
+							</g>
+						</g>
+					</svg>
+					</button>
+				</h2><ul class="accordion__content--footer" id="sect1" aria-labelledby="accordion1id"><li><a href="https://www.purdue.edu/diversity-inclusion/">Diversity, Inclusion and Belonging</a></li><li><a href="https://www.purdue.edu/ethics/">Ethics and Compliance</a></li><li><a href="https://events.purdue.edu/">Events</a></li><li><a href="https://connect.purdue.edu/s/givenow">Give</a></li><li><a href="https://www.purdue.edu/surplus/lost-and-found/Index.html">Lost and Found</a></li><li><a href="https://www.purdue.edu/engagement/">Office of Engagement</a></li><li><a href="https://www.purdue.edu/president/">President</a></li><li><a href="https://www.purdue.edu/treasurer/finance/bursar-office/tuition/tuition-calculator/">Tuition Calculator</a></li></ul></div>						</div>
+						<div class="column is-one-quarter-desktop is-full-tablet">
+						<div class="footer__links"><h2>
+					<button class="accordion__heading accordion__heading--footer" aria-expanded="true" aria-disabled="true" id="accordion3id" aria-controls="sect3">RESOURCES
+					<svg aria-hidden="true" class="accordion__icon accordion__icon__plus" width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+						<title>plus_icon</title>
+						<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g stroke="#cfb991" stroke-width="4">
+								<circle cx="26" cy="26" r="24"></circle>
+								<line x1="26.5" y1="14" x2="26.5" y2="38" stroke-linecap="round" stroke-linejoin="round"></line>
+								<line x1="25.6896552" y1="14.5116279" x2="25.6896552" y2="38.6976744" stroke-linecap="round" stroke-linejoin="round" transform="translate(25.6897, 26.6047) rotate(-90) translate(-25.6897, -26.6047)"></line>
+							</g>
+						</g>
+					</svg>
+					</button>
+				</h2><ul class="accordion__content--footer" id="sect3" aria-labelledby="accordion3id"><li><a href="https://www.purdue.edu/boilerconnect/">BoilerConnect</a></li><li><a href="https://purdue.brightspace.com/">Brightspace</a></li><li><a href="https://www.purdue.edu/purdue/current_students/index.php">Current Students</a></li><li><a href="https://www.purdue.edu/purdue/faculty_staff/index.php">Faculty and Staff</a></li><li><a href="https://mypurdue.purdue.edu/">myPurdue</a></li><li><a href="https://portal.office.com/">Office 365</a></li><li><a href="https://one.purdue.edu/">OneCampus Portal</a></li><li><a href="https://outlook.office.com/">Outlook</a></li></ul></div>						</div>
+						<div class="column is-one-quarter-desktop is-full-tablet">
+						<div class="footer__links"><h2>
+					<button class="accordion__heading accordion__heading--footer" aria-expanded="true" aria-disabled="true" id="accordion4id" aria-controls="sect4">COMMUNICATION
+					<svg aria-hidden="true" class="accordion__icon accordion__icon__plus" width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+						<title>plus_icon</title>
+						<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g stroke="#cfb991" stroke-width="4">
+								<circle cx="26" cy="26" r="24"></circle>
+								<line x1="26.5" y1="14" x2="26.5" y2="38" stroke-linecap="round" stroke-linejoin="round"></line>
+								<line x1="25.6896552" y1="14.5116279" x2="25.6896552" y2="38.6976744" stroke-linecap="round" stroke-linejoin="round" transform="translate(25.6897, 26.6047) rotate(-90) translate(-25.6897, -26.6047)"></line>
+							</g>
+						</g>
+					</svg>
+					</button>
+				</h2><ul class="accordion__content--footer" id="sect4" aria-labelledby="accordion4id"><li><a href="https://www.purdue.edu/ehps/police/statistics-policies/security-reports.php">Annual Security Report</a></li><li><a href="https://www.purdue.edu/physicalfacilities/construction/">Construction</a></li><li><a href="https://www.purdue.edu/emergency/">Emergency</a></li><li><a href="https://www.it.purdue.edu/">Information Technology</a></li><li><a href="https://marcom.purdue.edu/">Marketing and Communications</a></li><li><a href="https://www.purdue.edu/newsroom/">Purdue News</a></li><li><a href="https://www.purdue.edu/hotline/">Purdue Hotline</a></li><li><a href="https://www.purdue.edu/ehps/police/timely-warnings/">Timely Warnings</a></li></ul></div>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer__signature">
+
+			
+		<div class="container is-fullhd">	
+			<a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright</a>
+			&copy; 2024 Purdue University. All Rights Reserved.<br /> 
+			<a href="https://www.purdue.edu/accessibilityresources/" target="_blank">Accessibility</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">EA/EO University</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/home/free-speech/" target="_blank">Free Expression</a> | <a href="https://collegescorecard.ed.gov/school/?243780-Purdue-University-Main-Campus" target="_blank">College Scorecard (ed.gov)</a> | <a href="https://www.purdue.edu/purdue/about/privacy-notice.php" target="_blank">Privacy Policy</a> | <a href="https://www.purdue.edu/purdue/contact-us/index.php">Contact Us</a>
+		</div>
+					</div>
+	</div>
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<link rel='stylesheet' id='wp-block-heading-css' href='https://www.purdue.edu/emergency/wp-includes/blocks/heading/style.min.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-paragraph-css' href='https://www.purdue.edu/emergency/wp-includes/blocks/paragraph/style.min.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-columns-css' href='https://www.purdue.edu/emergency/wp-includes/blocks/columns/style.min.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-embed-css' href='https://www.purdue.edu/emergency/wp-includes/blocks/embed/style.min.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-image-css' href='https://www.purdue.edu/emergency/wp-includes/blocks/image/style.min.css?ver=6.5.5' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--boiler-gold: #cfb991;--wp--preset--color--aged-gold: #8e6f3e;--wp--preset--color--dust-gold: #EBD99F;--wp--preset--color--field-gold: #DDB945;--wp--preset--color--rush-gold: #DAAA00;--wp--preset--color--steel-gray: #555960;--wp--preset--color--cool-gray: #6F727B;--wp--preset--color--railway-gray: #9D9795;--wp--preset--color--steam-gray: #C4BFC0;--wp--preset--color--opaque: rgba(0,0,0,0.65;--wp--preset--color--transparent: rgba(0,0,0,0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+</style>
+<style id='core-block-supports-inline-css' type='text/css'>
+.wp-container-core-columns-is-layout-1.wp-container-core-columns-is-layout-1{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-2.wp-container-core-columns-is-layout-2{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-3.wp-container-core-columns-is-layout-3{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-4.wp-container-core-columns-is-layout-4{flex-wrap:nowrap;}
+</style>
+<script type="text/javascript" id="purdueBrand-mainscript-js-before">
+/* <![CDATA[ */
+var siteHomeURL = "https:\/\/www.purdue.edu\/emergency"
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/build/app.js?ver=9f6e1200510dcdafc5dc" id="purdueBrand-mainscript-js"></script>
+<script type="text/javascript" src="https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/build/common/glide.esm.js?ver=7fc77b4af1610b4115de" id="glide.esm-js"></script>
+<script type="text/javascript" id="wpa.longdesc-js-extra">
+/* <![CDATA[ */
+var wpald = {"url":"https:\/\/www.purdue.edu\/emergency\/wp-json\/wp\/v2\/media","type":"jquery","text":"<span class=\"dashicons dashicons-media-text\" aria-hidden=\"true\"><\/span><span class=\"screen-reader\">Long Description<\/span>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.purdue.edu/emergency/wp-content/plugins/wp-accessibility/js/longdesc.min.js?ver=2.1.4" id="wpa.longdesc-js"></script>
+<script type="text/javascript" id="wp-accessibility-js-extra">
+/* <![CDATA[ */
+var wpa = {"skiplinks":{"enabled":false,"output":""},"target":"","tabindex":"1","underline":{"enabled":false,"target":"a"},"dir":"ltr","lang":"en-US","titles":"1","labels":"1","wpalabels":{"s":"Search","author":"Name","email":"Email","url":"Website","comment":"Comment"},"current":"","errors":"","tracking":"1","ajaxurl":"https:\/\/www.purdue.edu\/emergency\/wp-admin\/admin-ajax.php","security":"b5a26198e9","action":"wpa_stats_action","url":"https:\/\/www.purdue.edu\/emergency\/","post_id":"7"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.purdue.edu/emergency/wp-content/plugins/wp-accessibility/js/wp-accessibility.min.js?ver=2.1.4" id="wp-accessibility-js"></script>
+</body>
 </html>
-	
+
+<!-- Dynamic page generated in 1.460 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2024-07-30 15:45:04 -->
+
+<!-- super cache -->
