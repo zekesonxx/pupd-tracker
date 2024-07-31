@@ -681,7 +681,42 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, July 30, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU00982</td>
+<td style="font-weight: 400;" width="168">7/29/24 5:20 AM</td>
+<td style="font-weight: 400;" width="166">7/29/24 9:02 AM</td>
+<td style="font-weight: 400;" width="215">Wetherill Laboratory</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00988</td>
+<td style="font-weight: 400;" width="168">7/30/24 2:34 PM</td>
+<td style="font-weight: 400;" width="166">7/30/24 4:07 PM</td>
+<td style="font-weight: 400;" width="215">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Recless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-115852</td>
+<td style="font-weight: 400;" width="168">7/26/24 3:38 AM</td>
+<td style="font-weight: 400;" width="166">7/26/24 3:38 AM</td>
+<td style="font-weight: 400;" width="215">S River Rd/ US 231 Hwy</td>
+<td style="font-weight: 400;" width="200">Documented in 2024WL01636</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
