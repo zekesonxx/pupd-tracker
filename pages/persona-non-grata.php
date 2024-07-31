@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Monday, July 29, 2024</h3>
+  					<h3>Updated Wednesday, July 31, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -741,6 +741,11 @@
 <td width="204">Chang, Deng-Yuan</td>
 <td width="211">DLR, HAMP, HANS, HOVD, LILY, LSA, STON</td>
 <td width="76">4/19/25</td>
+</tr>
+<tr>
+<td width="204">Chen, Di</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">7/30/25</td>
 </tr>
 <tr>
 <td width="204">China, Harachia J.</td>
@@ -893,6 +898,11 @@
 <td width="76">2/15/25</td>
 </tr>
 <tr>
+<td width="204">Higgs, Ryan</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">7/30/25</td>
+</tr>
+<tr>
 <td width="204">Huston, Shelby</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">5/2/25</td>
@@ -938,6 +948,11 @@
 <td width="76">4/12/25</td>
 </tr>
 <tr>
+<td width="204">Lu, David</td>
+<td width="211">Harrison Hall</td>
+<td width="76">7/31/25</td>
+</tr>
+<tr>
 <td width="204">Mahony, John M.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">10/12/25</td>
@@ -976,11 +991,6 @@
 <td width="204">McKinley, Thomas M.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">3/20/25</td>
-</tr>
-<tr>
-<td width="204">McLellan, Braeden T.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">7/31/24</td>
 </tr>
 <tr>
 <td width="204">McNair, Lucas</td>
