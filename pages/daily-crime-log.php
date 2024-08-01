@@ -674,26 +674,7 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, July 31, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Trespass/ Resisting Law Enforcement</td>
-<td style="font-weight: 400;" width="154">243109</td>
-<td style="font-weight: 400;" width="168">7/27/24 11:28 PM</td>
-<td style="font-weight: 400;" width="166">7/27/24</td>
-<td style="font-weight: 400;" width="215">Engineering Science &amp; Technology Building</td>
-<td style="font-weight: 400;" width="200">Arrest Made</td>
-</tr>
-</tbody>
-</table>
+Nothing to report.
 		</section>
 	
           <div class="clearfix"></div>
