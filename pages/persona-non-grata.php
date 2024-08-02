@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Thursday, August 1, 2024</h3>
+  					<h3>Updated Friday, August 2, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -918,11 +918,6 @@
 <td width="76">11/27/24</td>
 </tr>
 <tr>
-<td width="204">Klimenko, Ivan I.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">8/4/24</td>
-</tr>
-<tr>
 <td width="204">Kuznia, Ronald J.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">8/21/24</td>
@@ -996,11 +991,6 @@
 <td width="204">Moore, Jason L.</td>
 <td width="211">Purdue Memorial Union</td>
 <td width="76">1/3/25</td>
-</tr>
-<tr>
-<td width="204">Morehouse, Elijah A.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">8/2/24</td>
 </tr>
 <tr>
 <td width="204">Mulligan, John</td>
@@ -1108,11 +1098,6 @@
 <td width="76">8/12/27</td>
 </tr>
 <tr>
-<td width="204">S., L. (Juvenile)</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">9/26/28</td>
-</tr>
-<tr>
 <td width="204">Sayed-Elawad, Mohab</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">4/6/25</td>
@@ -1121,6 +1106,11 @@
 <td width="204">Sayed-Elawad, Moneed</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">4/6/25</td>
+</tr>
+<tr>
+<td width="204">S., L. (Juvenile)</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">9/26/28</td>
 </tr>
 <tr>
 <td width="204">Scott, Jonathon J.</td>
@@ -1216,6 +1206,11 @@
 <td width="204">Zepeda, Damian G.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">3/25/25</td>
+</tr>
+<tr>
+<td width="204">Zhalinin, Timofey</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">7/31/25</td>
 </tr>
 <tr>
 <td width="204">Zhang, Maosheng</td>
