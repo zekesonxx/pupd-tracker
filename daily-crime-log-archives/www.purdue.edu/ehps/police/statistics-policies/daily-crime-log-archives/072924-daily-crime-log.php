@@ -710,7 +710,7 @@ Nothing to report.
 <td style="font-weight: 400;" width="168">7/30/24 2:34 PM</td>
 <td style="font-weight: 400;" width="166">7/30/24 4:07 PM</td>
 <td style="font-weight: 400;" width="215">Wilmeth Active Learning Center</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Recless Driver</td>

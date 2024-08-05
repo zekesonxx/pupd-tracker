@@ -688,7 +688,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, August 5, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Attempted Theft</td>
+<td style="font-weight: 400;" width="154">2024PU00993</td>
+<td style="font-weight: 400;" width="168">8/2/24 2:30 PM</td>
+<td style="font-weight: 400;" width="166">8/2/24 7:08 PM</td>
+<td style="font-weight: 400;" width="215">300 Blk N University St</td>
+<td style="font-weight: 400;" width="200">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2024PU00994</td>
+<td style="font-weight: 400;" width="168">8/3/24 12:48 AM</td>
+<td style="font-weight: 400;" width="166">8/3/24 1:16 AM</td>
+<td style="font-weight: 400;" width="215">S River Rd/ S Russell Dr</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2024PU00995</td>
+<td style="font-weight: 400;" width="168">8/3/24 1:32 AM</td>
+<td style="font-weight: 400;" width="166">8/3/24 2:19 AM</td>
+<td style="font-weight: 400;" width="215">US 231 Hwy/ Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="154">2024PU00997</td>
+<td style="font-weight: 400;" width="168">8/4/24 4:14 AM</td>
+<td style="font-weight: 400;" width="166">8/4/24 4:48 AM</td>
+<td style="font-weight: 400;" width="215">Mitch Daniels Blvd/ N McCutcheon Dr</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
