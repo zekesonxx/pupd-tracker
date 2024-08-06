@@ -681,7 +681,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, August 6, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01000</td>
+<td style="font-weight: 400;" width="168">8/5/24 3:52 PM</td>
+<td style="font-weight: 400;" width="166">8/5/24 4:09 PM</td>
+<td style="font-weight: 400;" width="215">Forney Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Trespass</td>
+<td style="font-weight: 400;" width="154">2024PU01001</td>
+<td style="font-weight: 400;" width="168">8/5/24 11:31 PM</td>
+<td style="font-weight: 400;" width="166">8/5/24 11:51 PM</td>
+<td style="font-weight: 400;" width="215">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-119784</td>
+<td style="font-weight: 400;" width="168">8/3/24 10:54 AM</td>
+<td style="font-weight: 400;" width="166">8/3/24 10:54 AM</td>
+<td style="font-weight: 400;" width="215">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-119963</td>
+<td style="font-weight: 400;" width="168">8/3/24 5:09 PM</td>
+<td style="font-weight: 400;" width="166">8/3/24 5:09 PM</td>
+<td style="font-weight: 400;" width="215">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

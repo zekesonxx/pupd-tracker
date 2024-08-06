@@ -646,7 +646,7 @@
 <td style="font-weight: 400;" width="168">8/1/24 10:56 AM</td>
 <td style="font-weight: 400;" width="166">8/1/24 11:24 AM</td>
 <td style="font-weight: 400;" width="215">Mitch Daniels Blvd/Trailway Blvd</td>
-<td style="font-weight: 400;" width="200">Arrest Made</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>
