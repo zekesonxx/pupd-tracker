@@ -674,7 +674,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, August 7, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01003</td>
+<td style="font-weight: 400;" width="168">8/5/24 4:00 PM</td>
+<td style="font-weight: 400;" width="166">8/6/24 12:00 PM</td>
+<td style="font-weight: 400;" width="215">Wiley Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01004</td>
+<td style="font-weight: 400;" width="168">8/5/24 4:30 PM</td>
+<td style="font-weight: 400;" width="166">8/6/24 1:28 PM</td>
+<td style="font-weight: 400;" width="215">Harrison Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-121529</td>
+<td style="font-weight: 400;" width="168">8/6/24 4:42 PM</td>
+<td style="font-weight: 400;" width="166">8/6/24 4:42 PM</td>
+<td style="font-weight: 400;" width="215">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-121542</td>
+<td style="font-weight: 400;" width="168">8/6/24 5:05 PM</td>
+<td style="font-weight: 400;" width="166">8/6/24 5:05 PM</td>
+<td style="font-weight: 400;" width="215">Northwestern Ave/Cherry Ln</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referral</td>
+<td style="font-weight: 400;">6/26/24 5:30 PM</td>
+<td style="font-weight: 400;">6/26/24 7:41 PM</td>
+<td style="font-weight: 400;">FUSE APT</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
