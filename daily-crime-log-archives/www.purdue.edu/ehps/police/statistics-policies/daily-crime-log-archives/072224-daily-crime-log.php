@@ -654,7 +654,7 @@
 <td style="font-weight: 400;" width="168">7/26/24 1:30 AM</td>
 <td style="font-weight: 400;" width="166">7/26/24 1:30 AM</td>
 <td style="font-weight: 400;" width="215">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Reckless Driver</td>
