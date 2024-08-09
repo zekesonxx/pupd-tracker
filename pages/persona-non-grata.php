@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Thursday, August 8, 2024</h3>
+  					<h3>Updated Friday, August 9, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -711,6 +711,11 @@
 <td width="204">Branz, Zachary M.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">1/19/25</td>
+</tr>
+<tr>
+<td width="204">Brooks, Austin T.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">8/8/24</td>
 </tr>
 <tr>
 <td width="204">Bryant, Corbin J.</td>
@@ -786,11 +791,6 @@
 <td width="204">Dawes, Ella S.</td>
 <td width="211">All Residence Halls and Dining Courts</td>
 <td width="76">12/2/24</td>
-</tr>
-<tr>
-<td width="204">Dyson, Darrell W.</td>
-<td width="211">All Residence Halls, Adjoining Properties, and Dining Courts</td>
-<td width="76">8/11/24</td>
 </tr>
 <tr>
 <td width="204">Espey, Jacob D.</td>
