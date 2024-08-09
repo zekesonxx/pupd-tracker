@@ -702,7 +702,7 @@ Nothing to report.
 <td style="font-weight: 400;" width="168">7/29/24 5:20 AM</td>
 <td style="font-weight: 400;" width="166">7/29/24 9:02 AM</td>
 <td style="font-weight: 400;" width="215">Wetherill Laboratory</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>

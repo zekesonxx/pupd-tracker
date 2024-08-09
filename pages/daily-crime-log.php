@@ -660,7 +660,34 @@
   
     	<section class="content__group">
   					<h3>Friday, August 9, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud</td>
+<td style="font-weight: 400;" width="154">2024PU01007</td>
+<td style="font-weight: 400;" width="168">7/9/24 8:00 AM</td>
+<td style="font-weight: 400;" width="166">8/8/24 9:55 AM</td>
+<td style="font-weight: 400;" width="215">Stewart Center</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Failure of a Sex or Violent Offender to Possess Identification</td>
+<td style="font-weight: 400;" width="154">2024PU01008</td>
+<td style="font-weight: 400;" width="168">8/8/24 11:07 PM</td>
+<td style="font-weight: 400;" width="166">8/8/24 11:37 PM</td>
+<td style="font-weight: 400;" width="215">900 Blk John R Wooden Dr</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
