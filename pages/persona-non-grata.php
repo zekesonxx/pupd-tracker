@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Friday, August 9, 2024</h3>
+  					<h3>Updated Monday, August 12, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -876,6 +876,11 @@
 <td width="204">G., E. (Juvenile)</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">6/21/25</td>
+</tr>
+<tr>
+<td width="204">Gregg, Benjamin</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">8/12/25</td>
 </tr>
 <tr>
 <td width="204">Hanns, Randall H. L.</td>
