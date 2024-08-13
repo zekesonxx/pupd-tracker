@@ -673,21 +673,40 @@ Will be posted soon.
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, August 13, 2024</h3>
+  					<h3>Wednesday, August 14, 2024</h3>
 Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday, August 12, 2024</h3>
-Will be posted soon.
+  					<h3>Tuesday, August 13, 2024</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01016</td>
+<td style="font-weight: 400;" width="168">8/10/24 1:00 PM</td>
+<td style="font-weight: 400;" width="166">8/12/24 1:24 PM</td>
+<td style="font-weight: 400;" width="215">Hawkins Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, August 11, 2024</h3>
+  					<h3>Monday, August 12, 2024</h3>
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
