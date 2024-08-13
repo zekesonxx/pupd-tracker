@@ -684,20 +684,36 @@ Will be posted soon.
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2024PU01016</td>
-<td style="font-weight: 400;" width="168">8/10/24 1:00 PM</td>
-<td style="font-weight: 400;" width="166">8/12/24 1:24 PM</td>
-<td style="font-weight: 400;" width="215">Hawkins Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td width="171">Theft-Bike</td>
+<td width="154">2024PU01016</td>
+<td width="168">8/10/24 1:00 PM</td>
+<td width="166">8/12/24 1:24 PM</td>
+<td width="215">Hawkins Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="154">CAD# 2024-123866</td>
+<td width="168">8/10/24 11:59 PM</td>
+<td width="166">8/10/24 11:59 PM</td>
+<td width="215">US HWY 231 S/S Martin Jischke Dr</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Fraud</td>
+<td width="154">CAD# 2024-123883</td>
+<td width="168">8/11/24 12:19 AM</td>
+<td width="166">8/11/24 12:19 AM</td>
+<td width="215">Delta Chi</td>
+<td width="200">Nothing Further</td>
 </tr>
 </tbody>
 </table>
