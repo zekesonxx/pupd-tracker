@@ -670,20 +670,28 @@ Will be posted soon.
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Fraud</td>
-<td style="font-weight: 400;" width="154">2024PU01020</td>
-<td style="font-weight: 400;" width="168">7/22/24 12:00 AM</td>
-<td style="font-weight: 400;" width="166">8/14/24 3:03 PM</td>
-<td style="font-weight: 400;" width="215">Shreve Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td width="171">Fraud</td>
+<td width="154">2024PU01020</td>
+<td width="168">7/22/24 12:00 AM</td>
+<td width="166">8/14/24 3:03 PM</td>
+<td width="215">Shreve Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Hit &amp; Run</td>
+<td width="154">CAD# 2024-125819</td>
+<td width="168">8/14/24 3:49 PM</td>
+<td width="166">8/14/24 3:49 PM</td>
+<td width="215">400 Blk S Grant St</td>
+<td width="200">Nothing Further</td>
 </tr>
 </tbody>
 </table>
