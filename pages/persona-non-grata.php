@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Monday, August 12, 2024</h3>
+  					<h3>Updated Friday, August 16, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1076,11 +1076,6 @@
 <td width="204">Roland, Cody M.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">8/8/25</td>
-</tr>
-<tr>
-<td width="204">Rosenthal, Justin H.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">8/16/24</td>
 </tr>
 <tr>
 <td width="204">Ruiz, Gabriel</td>
