@@ -883,11 +883,6 @@
 <td width="76">6/21/25</td>
 </tr>
 <tr>
-<td width="204">Gregg, Benjamin</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">8/12/25</td>
-</tr>
-<tr>
 <td width="204">Hanns, Randall H. L.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">5/3/26</td>
