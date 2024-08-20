@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Friday, August 16, 2024</h3>
+  					<h3>Updated Tuesday, August 20, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -961,11 +961,6 @@
 <td width="204">Marquez, Raymundo</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/26/24</td>
-</tr>
-<tr>
-<td width="204">Martin, Wesley</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">8/20/24</td>
 </tr>
 <tr>
 <td width="204">Martinez, Ricardo</td>
