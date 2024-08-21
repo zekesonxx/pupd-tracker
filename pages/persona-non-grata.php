@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Tuesday, August 20, 2024</h3>
+  					<h3>Updated Wednesday, August 21, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -908,11 +908,6 @@
 <td width="76">5/2/25</td>
 </tr>
 <tr>
-<td width="204">Kerssemakers, Stephanie D.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">8/21/24</td>
-</tr>
-<tr>
 <td width="204">King, Brian</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">1/30/25</td>
@@ -921,11 +916,6 @@
 <td width="204">King, Christopher L.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">11/27/24</td>
-</tr>
-<tr>
-<td width="204">Kuznia, Ronald J.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">8/21/24</td>
 </tr>
 <tr>
 <td width="204">Lavalley, Joseph</td>
