@@ -674,7 +674,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, August 21, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01056</td>
+<td style="font-weight: 400;" width="168">8/20/24 7:30 AM</td>
+<td style="font-weight: 400;" width="166">8/20/24 8:11 AM</td>
+<td style="font-weight: 400;" width="215">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="200">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU01057</td>
+<td style="font-weight: 400;" width="168">8/20/24 10:30 AM</td>
+<td style="font-weight: 400;" width="166">8/20/24 11:11 AM</td>
+<td style="font-weight: 400;" width="215">Brunner Small Animal Hospital</td>
+<td style="font-weight: 400;" width="200">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01059</td>
+<td style="font-weight: 400;" width="168">7/29/24 2:00 PM</td>
+<td style="font-weight: 400;" width="166">8/20/24 1:36 PM</td>
+<td style="font-weight: 400;" width="215">Heine Pharmacy Building</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01062</td>
+<td style="font-weight: 400;" width="168">8/19/24 11:30 AM</td>
+<td style="font-weight: 400;" width="166">8/20/24 8:46 PM</td>
+<td style="font-weight: 400;" width="215">Psychological Sciences Building</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
