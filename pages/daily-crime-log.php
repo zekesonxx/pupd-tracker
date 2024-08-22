@@ -667,7 +667,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, August 22, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Harassment</td>
+<td style="font-weight: 400;" width="154">2024PU01066</td>
+<td style="font-weight: 400;" width="168">8/21/24 10:21 AM</td>
+<td style="font-weight: 400;" width="166">8/21/24 10:58 AM</td>
+<td style="font-weight: 400;" width="215">2550 Northwestern Ave</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01067</td>
+<td style="font-weight: 400;" width="168">8/21/24 10:30 AM</td>
+<td style="font-weight: 400;" width="166">8/21/24 11:58 AM</td>
+<td style="font-weight: 400;" width="215">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01068</td>
+<td style="font-weight: 400;" width="168">8/20/24 10:24 PM</td>
+<td style="font-weight: 400;" width="166">8/21/24 1:03 PM</td>
+<td style="font-weight: 400;" width="215">Honors College North</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01071</td>
+<td style="font-weight: 400;" width="168">8/21/24 11:10 PM</td>
+<td style="font-weight: 400;" width="166">8/22/24 12:18 AM</td>
+<td style="font-weight: 400;" width="215">CoRec</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violations</td>
+<td style="font-weight: 400;" width="154">2024PU01072</td>
+<td style="font-weight: 400;" width="168">8/21/24 11:31 PM</td>
+<td style="font-weight: 400;" width="166">8/22/24 1:15 AM</td>
+<td style="font-weight: 400;" width="215">Armstrong Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
