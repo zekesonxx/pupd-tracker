@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Wednesday, August 21, 2024</h3>
+  					<h3>Updated Friday, August 23, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -681,11 +681,6 @@
 <td width="204">Baloochi, Shahab A.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">2/27/25</td>
-</tr>
-<tr>
-<td width="204">Barrett, Michael A.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">8/24/24</td>
 </tr>
 <tr>
 <td width="204">Beard, Corbin S.</td>
