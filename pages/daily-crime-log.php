@@ -688,7 +688,170 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, August 26, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01083</td>
+<td style="font-weight: 400;" width="168">8/22/24 7:00 PM</td>
+<td style="font-weight: 400;" width="166">8/23/24 8:55 AM</td>
+<td style="font-weight: 400;" width="215">CoRec</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01086</td>
+<td style="font-weight: 400;" width="168">8/23/24 11:30 AM</td>
+<td style="font-weight: 400;" width="166">8/23/24 1:56 PM</td>
+<td style="font-weight: 400;" width="215">Physics Building</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU01087</td>
+<td style="font-weight: 400;" width="168">8/23/24 12:00 PM</td>
+<td style="font-weight: 400;" width="166">8/23/24 3:50 PM</td>
+<td style="font-weight: 400;" width="215">CoRec</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01088</td>
+<td style="font-weight: 400;" width="168">8/23/24 4:30 PM</td>
+<td style="font-weight: 400;" width="166">8/23/24 6:12 PM</td>
+<td style="font-weight: 400;" width="215">CoRec</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01089</td>
+<td style="font-weight: 400;" width="168">8/22/24 4:00 PM</td>
+<td style="font-weight: 400;" width="166">8/23/24 6:38 PM</td>
+<td style="font-weight: 400;" width="215">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Possession</td>
+<td style="font-weight: 400;" width="154">2024PU01090</td>
+<td style="font-weight: 400;" width="168">8/23/24 6:45 PM</td>
+<td style="font-weight: 400;" width="166">8/23/24 9:35 PM</td>
+<td style="font-weight: 400;" width="215">Shreve Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike/ Vandalism</td>
+<td style="font-weight: 400;" width="154">2024PU01091</td>
+<td style="font-weight: 400;" width="168">8/22/24 3:30 PM</td>
+<td style="font-weight: 400;" width="166">8/23/24 10:19 PM</td>
+<td style="font-weight: 400;" width="215">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation/ Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU01092</td>
+<td style="font-weight: 400;" width="168">8/23/24 11:12 PM</td>
+<td style="font-weight: 400;" width="166">8/23/24 11:32 PM</td>
+<td style="font-weight: 400;" width="215">McCutcheon Garage</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU01093</td>
+<td style="font-weight: 400;" width="168">8/23/24 11:56 PM</td>
+<td style="font-weight: 400;" width="166">8/24/24 12:16 AM</td>
+<td style="font-weight: 400;" width="215">Wiley Hall</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU01094</td>
+<td style="font-weight: 400;" width="168">8/24/24 12:11 AM</td>
+<td style="font-weight: 400;" width="166">8/24/24 12:25 AM</td>
+<td style="font-weight: 400;" width="215">Armstrong Building</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU01095</td>
+<td style="font-weight: 400;" width="168">8/23/24 11:43 PM</td>
+<td style="font-weight: 400;" width="166">8/24/24 12:38 AM</td>
+<td style="font-weight: 400;" width="215">Hilltop Apartments</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU01096</td>
+<td style="font-weight: 400;" width="168">8/24/24 12:59 AM</td>
+<td style="font-weight: 400;" width="166">8/24/24 1:20 AM</td>
+<td style="font-weight: 400;" width="215">Meredith Hall</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Identity Deception</td>
+<td style="font-weight: 400;" width="154">2024PU01097</td>
+<td style="font-weight: 400;" width="168">8/23/24 Unknown Time</td>
+<td style="font-weight: 400;" width="166">8/24/24 11:54 AM</td>
+<td style="font-weight: 400;" width="215">Unknown Location</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01099</td>
+<td style="font-weight: 400;" width="168">8/23/24 10:05 PM</td>
+<td style="font-weight: 400;" width="166">8/24/24 10:02 PM</td>
+<td style="font-weight: 400;" width="215">Honors College North</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU01100</td>
+<td style="font-weight: 400;" width="168">8/24/24 10:10 PM</td>
+<td style="font-weight: 400;" width="166">8/24/24 10:53 PM</td>
+<td style="font-weight: 400;" width="215">Shreve Hall</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU01101</td>
+<td style="font-weight: 400;" width="168">8/24/24 10:50 PM</td>
+<td style="font-weight: 400;" width="166">8/24/24 11:55 PM</td>
+<td style="font-weight: 400;" width="215">Harrison Hall</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Public Intoxication/ Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU01102</td>
+<td style="font-weight: 400;" width="168">8/25/24 3:23 AM</td>
+<td style="font-weight: 400;" width="166">8/25/24 5:24 AM</td>
+<td style="font-weight: 400;" width="215">1200 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01103</td>
+<td style="font-weight: 400;" width="168">8/25/24 11:40 AM</td>
+<td style="font-weight: 400;" width="166">8/25/24 2:01 PM</td>
+<td style="font-weight: 400;" width="215">Harrison Hall</td>
+<td style="font-weight: 400;" width="200">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Sexual Harassment</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">8/22/24 12:00 PM</td>
+<td style="font-weight: 400;" width="166">8/23/24 4:00 PM</td>
+<td style="font-weight: 400;" width="215">300 Blk Centennial Mall Dr</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

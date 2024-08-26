@@ -678,7 +678,7 @@
 <td style="font-weight: 400;" width="168">8/16/24 1:04 AM</td>
 <td style="font-weight: 400;" width="166">8/16/24 1:26 AM</td>
 <td style="font-weight: 400;" width="215">Meredith Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
@@ -686,7 +686,7 @@
 <td style="font-weight: 400;" width="168">8/16/24 1:57 AM</td>
 <td style="font-weight: 400;" width="166">8/16/24 2:30 AM</td>
 <td style="font-weight: 400;" width="215">Vawter Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Reckless Driver</td>
@@ -762,7 +762,7 @@
 <td style="font-weight: 400;" width="168">8/13/24 4:30 PM</td>
 <td style="font-weight: 400;" width="166">8/13/24 11:03 PM</td>
 <td style="font-weight: 400;" width="215">Armstrong Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
