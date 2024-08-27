@@ -662,7 +662,7 @@
 <td style="font-weight: 400;" width="168">8/21/24 12:20 PM</td>
 <td style="font-weight: 400;" width="166">8/22/24 3:49 PM</td>
 <td style="font-weight: 400;" width="215">Beering Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Hit &amp; Run</td>
@@ -868,7 +868,7 @@
 <td style="font-weight: 400;" width="168">8/17/24 5:00 PM</td>
 <td style="font-weight: 400;" width="166">8/19/24 12:38 PM</td>
 <td style="font-weight: 400;" width="215">University Church</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Fraud</td>
