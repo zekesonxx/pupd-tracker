@@ -674,7 +674,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, August 28, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01117</td>
+<td style="font-weight: 400;" width="168">8/26/24 1:30 PM</td>
+<td style="font-weight: 400;" width="166">8/27/24 10:02 AM</td>
+<td style="font-weight: 400;" width="215">Ford Dining Court</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving While Suspended-Prior</td>
+<td style="font-weight: 400;" width="154">2024PU01118</td>
+<td style="font-weight: 400;" width="168">8/27/24 9:45 AM</td>
+<td style="font-weight: 400;" width="166">8/27/24 10:24 AM</td>
+<td style="font-weight: 400;" width="215">900 Blk John R Wood Dr</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01122</td>
+<td style="font-weight: 400;" width="168">8/27/24 7:37 PM</td>
+<td style="font-weight: 400;" width="166">8/27/24 7:58 PM</td>
+<td style="font-weight: 400;" width="215">Owen Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU00123</td>
+<td style="font-weight: 400;" width="168">8/27/24 7:38 PM</td>
+<td style="font-weight: 400;" width="166">8/27/24 8:16 PM</td>
+<td style="font-weight: 400;" width="215">Harrison St Parking Garage</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -737,7 +780,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="168">8/26/24 3:50 PM</td>
 <td style="font-weight: 400;" width="166">8/26/24 6:27 PM</td>
 <td style="font-weight: 400;" width="215">Frieda Parker Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Unfounded</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Fraud/ Identity Deception</td>
@@ -769,7 +812,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="168">8/26/24 10:24 PM</td>
 <td style="font-weight: 400;" width="166">8/26/24 10:50 PM</td>
 <td style="font-weight: 400;" width="215">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Drug Law Violation</td>
@@ -939,7 +982,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="168">8/24/24 10:10 PM</td>
 <td style="font-weight: 400;" width="166">8/24/24 10:53 PM</td>
 <td style="font-weight: 400;" width="215">Shreve Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>

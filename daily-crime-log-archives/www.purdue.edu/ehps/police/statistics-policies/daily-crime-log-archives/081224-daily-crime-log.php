@@ -854,7 +854,7 @@
 <td style="font-weight: 400;" width="168">8/9/24 8:00 AM</td>
 <td style="font-weight: 400;" width="166">8/10/24 1:21 PM</td>
 <td style="font-weight: 400;" width="215">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Investigation Determined This Report Unfounded</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
