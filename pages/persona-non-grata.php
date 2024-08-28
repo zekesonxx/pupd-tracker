@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Friday, August 23, 2024</h3>
+  					<h3>Updated Wednesday, August 28, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -711,11 +711,6 @@
 <td width="204">Brooks, Austin T.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">8/8/24</td>
-</tr>
-<tr>
-<td width="204">Bryant, Corbin J.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">8/28/24</td>
 </tr>
 <tr>
 <td width="204">Byers, Ethan S.</td>
@@ -1106,11 +1101,6 @@
 <td width="204">Sebrey, Robert L.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">10/3/24</td>
-</tr>
-<tr>
-<td width="204">Shaw, Bryan J.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">8/28/24</td>
 </tr>
 <tr>
 <td width="204">Sherman, Sheron E.</td>
