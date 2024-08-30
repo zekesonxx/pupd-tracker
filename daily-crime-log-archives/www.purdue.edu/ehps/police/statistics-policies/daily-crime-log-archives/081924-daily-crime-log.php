@@ -717,7 +717,7 @@
 <td style="font-weight: 400;" width="154">2024PU01084</td>
 <td style="font-weight: 400;" width="168">8/2023-11/2023</td>
 <td style="font-weight: 400;" width="166">8/22/24 Unknown Time</td>
-<td style="font-weight: 400;" width="215">Unknown Campus Location</td>
+<td style="font-weight: 400;" width="215">Winifred Parker Hall</td>
 <td style="font-weight: 400;" width="200">Under Investigation</td>
 </tr>
 <tr>

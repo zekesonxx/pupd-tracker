@@ -660,7 +660,90 @@
   
     	<section class="content__group">
   					<h3>Friday, August 30, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU01129</td>
+<td style="font-weight: 400;" width="168">8/28/24 1:35 PM</td>
+<td style="font-weight: 400;" width="166">8/29/24 7:57 AM</td>
+<td style="font-weight: 400;" width="215">600 Blk Oval Dr</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud</td>
+<td style="font-weight: 400;" width="154">2024PU01130</td>
+<td style="font-weight: 400;" width="168">8/29/24 1:24 AM</td>
+<td style="font-weight: 400;" width="166">8/29/24 9:21 AM</td>
+<td style="font-weight: 400;" width="215">Aspire</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01131</td>
+<td style="font-weight: 400;" width="168">8/28/24 10:30 PM</td>
+<td style="font-weight: 400;" width="166">8/29/24 1:30 PM</td>
+<td style="font-weight: 400;" width="215">1st St Towers West</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01132</td>
+<td style="font-weight: 400;" width="168">8/29/24 1:15 PM</td>
+<td style="font-weight: 400;" width="166">8/29/24 2:08 PM</td>
+<td style="font-weight: 400;" width="215">Mackey Arena</td>
+<td style="font-weight: 400;" width="200">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Possession/ Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU01134</td>
+<td style="font-weight: 400;" width="168">8/29/24 11:10 PM</td>
+<td style="font-weight: 400;" width="166">8/29/24 11:51 PM</td>
+<td style="font-weight: 400;" width="215">Horticulture Park</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01135</td>
+<td style="font-weight: 400;" width="168">8/29/24 7:00 PM</td>
+<td style="font-weight: 400;" width="166">8/29/24 11:48 PM</td>
+<td style="font-weight: 400;" width="215">300 Blk N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01136</td>
+<td style="font-weight: 400;" width="168">8/29/24 10:00 PM</td>
+<td style="font-weight: 400;" width="166">8/30/24 12:30 AM</td>
+<td style="font-weight: 400;" width="215">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-134357</td>
+<td style="font-weight: 400;" width="168">8/29/24 12:42 AM</td>
+<td style="font-weight: 400;" width="166">8/29/24 12:42 AM</td>
+<td style="font-weight: 400;" width="215">US HWY 231 N/Cherry Ln</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-134520</td>
+<td style="font-weight: 400;" width="168">8/29/24 9:28 AM</td>
+<td style="font-weight: 400;" width="166">8/29/24 9:28 AM</td>
+<td style="font-weight: 400;" width="215">US HWY 231 S/Aiport Rd</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
