@@ -681,7 +681,234 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, September 3, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft-EMPV</td>
+<td width="154">2024PU01138</td>
+<td width="168">8/29/24 6:00 PM</td>
+<td width="166">8/30/24 10:23 AM</td>
+<td width="215">Meredith South</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-EMPV</td>
+<td width="154">2024PU01139</td>
+<td width="168">8/30/24 8:00 AM</td>
+<td width="166">8/30/24 1:45 PM</td>
+<td width="215">Rawls Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU01141</td>
+<td width="168">8/29/24 4:10 PM</td>
+<td width="166">8/30/24 2:37 PM</td>
+<td width="215">Hillenbrand Hall</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Hit &amp; Run</td>
+<td width="154">2024PU01143</td>
+<td width="168">8/30/24 8:58 PM</td>
+<td width="166">8/30/24 9:18 PM</td>
+<td width="215">N University St/ W Stadium Ave</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU01144</td>
+<td width="168">8/31/24 12:24 AM</td>
+<td width="166">8/31/24 12:40 AM</td>
+<td width="215">Tarkington Hall</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation/ Operating While Intoxicated</td>
+<td width="154">2024PU01145</td>
+<td width="168">8/31/24 12:12 AM</td>
+<td width="166">8/31/24 1:24 AM</td>
+<td width="215">200 N Martin Jischke Dr</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Operating While Intoxicated/ Minor Consumption</td>
+<td width="154">2024PU01146</td>
+<td width="168">8/31/24 12:52 AM</td>
+<td width="166">8/31/24 1:24 AM</td>
+<td width="215">S University St/ Mitch Daniels Blvd</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU01147</td>
+<td width="168">8/31/24 1:46 AM</td>
+<td width="166">8/31/24 2:02 AM</td>
+<td width="215">Aspire Apartments</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU01148</td>
+<td width="168">8/31/24 2:29 AM</td>
+<td width="166">8/31/24 3:30 AM</td>
+<td width="215">Owen Hall</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Criminal Mischief</td>
+<td width="154">2024PU01149</td>
+<td width="168">8/30/24 9:00 PM</td>
+<td width="166">8/31/24 9:23 AM</td>
+<td width="215">Tarkington Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="154">2024PU01150</td>
+<td width="168">8/30/24 7:00 PM</td>
+<td width="166">8/31/24 1:27 PM</td>
+<td width="215">Pao Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Public Intoxicaton/ Minor Consumption/ Trespass</td>
+<td width="154">2024PU01151</td>
+<td width="168">8/31/24 1:57 PM</td>
+<td width="166">8/31/24 1:57 PM</td>
+<td width="215">Ross-Ade Stadium</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Hit &amp; Run</td>
+<td width="154">2024PU01152</td>
+<td width="168">8/30/24 8:00 AM</td>
+<td width="166">8/31/24 2:37 PM</td>
+<td width="215">1200 Blk W Sium Ave</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU01153</td>
+<td width="168">8/30/24 11:00 PM</td>
+<td width="166">8/31/24 3:33 PM</td>
+<td width="215">Wiley Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-EMPV</td>
+<td width="154">2024PU01156</td>
+<td width="168">8/31/24 6:30 PM</td>
+<td width="166">9/1/24 12:00 AM</td>
+<td width="215">Krach Center</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU01158</td>
+<td width="168">9/1/24 3:02 AM</td>
+<td width="166">9/1/24 3:18 AM</td>
+<td width="215">Frieda Parker Hall</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Hit &amp; Run</td>
+<td width="154">2024PU01160</td>
+<td width="168">8/31/24 6:08 PM</td>
+<td width="166">9/1/24 2:24 PM</td>
+<td width="215">David Ross Rd/ W Stadium Ave</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-EMPV</td>
+<td width="154">2024PU01161</td>
+<td width="168">8/31/24 8:00 PM</td>
+<td width="166">9/1/24 2:29 PM</td>
+<td width="215">First Street Towers</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU01162</td>
+<td width="168">8/31/24 6:21 PM</td>
+<td width="166">9/1/24 3:05 PM</td>
+<td width="215">David Ross Rd/ W Stadium Ave</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Unlawful Surveillance</td>
+<td width="154">2024PU01163</td>
+<td width="168">8/29/24 9:15 PM</td>
+<td width="166">9/1/24 4:10 PM</td>
+<td width="215">100 Blk Foundry Dr</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU01164</td>
+<td width="168">9/2/24 1:24 AM</td>
+<td width="166">9/2/24 1:47 AM</td>
+<td width="215">Honors College North</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Residential Entry</td>
+<td width="154">2024PU01165</td>
+<td width="168">9/2/24 1:50 AM</td>
+<td width="166">9/2/24 2:12 AM</td>
+<td width="215">Shreve Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU01166</td>
+<td width="168">9/2/24 4:07 AM</td>
+<td width="166">9/2/24 4:24 AM</td>
+<td width="215">Hilltop Apartments</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Theft-EMPV</td>
+<td width="154">2024PU01168</td>
+<td width="168">8/31/24 9:43 PM</td>
+<td width="166">9/2/24 5:32 PM</td>
+<td width="215">McCutcheon Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="154">2024PU01169</td>
+<td width="168">9/2/24 8:00 PM</td>
+<td width="166">9/2/24 10:23 PM</td>
+<td width="215">Meredith Hall</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="154">2024PU01170</td>
+<td width="168">9/2/24 5:00 PM</td>
+<td width="166">9/2/24 11:09 PM</td>
+<td width="215">Ford Dining Court</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Fondling</td>
+<td width="154">CSA</td>
+<td width="168">8/30/24 6:15 PM</td>
+<td width="166">8/30/24 6:15 PM</td>
+<td width="215">On-Campus Housing</td>
+<td width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

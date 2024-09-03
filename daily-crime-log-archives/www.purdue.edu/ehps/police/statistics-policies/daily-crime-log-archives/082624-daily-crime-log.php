@@ -1030,7 +1030,7 @@
 <td style="font-weight: 400;" width="168">8/23/24 11:43 PM</td>
 <td style="font-weight: 400;" width="166">8/24/24 12:38 AM</td>
 <td style="font-weight: 400;" width="215">Hilltop Apartments</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
