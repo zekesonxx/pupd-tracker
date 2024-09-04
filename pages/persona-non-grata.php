@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Wednesday, August 28, 2024</h3>
+  					<h3>Updated Tuesday, September 3, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1156,6 +1156,11 @@
 <td width="204">Thul, Daniel J.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/3/26</td>
+</tr>
+<tr>
+<td width="204">Torres-Valle, Luis A.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">9/3/29</td>
 </tr>
 <tr>
 <td width="204">Tripathi, Ishan</td>
