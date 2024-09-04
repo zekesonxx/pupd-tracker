@@ -968,7 +968,7 @@
 <td style="font-weight: 400;" width="168">8/17/24 2:18 AM</td>
 <td style="font-weight: 400;" width="166">8/17/24 2:36 AM</td>
 <td style="font-weight: 400;" width="215">Shreve Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft-EMPV</td>

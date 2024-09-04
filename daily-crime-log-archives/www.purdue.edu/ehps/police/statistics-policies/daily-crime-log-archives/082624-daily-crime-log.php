@@ -892,7 +892,7 @@
 <td style="font-weight: 400;" width="168">8/26/24 10:24 PM</td>
 <td style="font-weight: 400;" width="166">8/26/24 10:50 PM</td>
 <td style="font-weight: 400;" width="215">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Drug Law Violation</td>
@@ -1014,7 +1014,7 @@
 <td style="font-weight: 400;" width="168">8/23/24 11:56 PM</td>
 <td style="font-weight: 400;" width="166">8/24/24 12:16 AM</td>
 <td style="font-weight: 400;" width="215">Wiley Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>

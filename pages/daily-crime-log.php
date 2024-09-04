@@ -674,7 +674,130 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, September 4, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01159</td>
+<td style="font-weight: 400;" width="168">8/31/24 11:30 PM</td>
+<td style="font-weight: 400;" width="166">9/1/24 1:10 PM</td>
+<td style="font-weight: 400;" width="215">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01175</td>
+<td style="font-weight: 400;" width="168">8/30/24 6:00 PM</td>
+<td style="font-weight: 400;" width="166">9/3/24 11:39 AM</td>
+<td style="font-weight: 400;" width="215">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01176</td>
+<td style="font-weight: 400;" width="168">9/1/24 2:00 PM</td>
+<td style="font-weight: 400;" width="166">9/3/24 11:57 AM</td>
+<td style="font-weight: 400;" width="215">Shreve Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2027PU01177</td>
+<td style="font-weight: 400;" width="168">8/30/24 2:30 PM</td>
+<td style="font-weight: 400;" width="166">9/3/24 12:24 PM</td>
+<td style="font-weight: 400;" width="215">Harrison Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU01178</td>
+<td style="font-weight: 400;" width="168">9/3/24 1:45 PM</td>
+<td style="font-weight: 400;" width="166">9/3/24 3:25 PM</td>
+<td style="font-weight: 400;" width="215">1200 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud</td>
+<td style="font-weight: 400;" width="154">2024PU01179</td>
+<td style="font-weight: 400;" width="168">9/3/24 8:43 AM</td>
+<td style="font-weight: 400;" width="166">9/3/24 4:58 PM</td>
+<td style="font-weight: 400;" width="215">Rawls Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01181</td>
+<td style="font-weight: 400;" width="168">9/3/24 5:20 PM</td>
+<td style="font-weight: 400;" width="166">9/3/24 7:52 PM</td>
+<td style="font-weight: 400;" width="215">CoRec</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01184</td>
+<td style="font-weight: 400;" width="168">8/29/24 5:20 PM</td>
+<td style="font-weight: 400;" width="166">9/3/24 9:19 PM</td>
+<td style="font-weight: 400;" width="215">Physics Building</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud/ Intimidation</td>
+<td style="font-weight: 400;" width="154">2024PU01187</td>
+<td style="font-weight: 400;" width="168">9/3/24 7:52 PM</td>
+<td style="font-weight: 400;" width="166">9/4/24 2:20 AM</td>
+<td style="font-weight: 400;" width="215">Wiley Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Intimidation</td>
+<td style="font-weight: 400;" width="154">2024PU01188</td>
+<td style="font-weight: 400;" width="168">9/1/24 1:21 PM</td>
+<td style="font-weight: 400;" width="166">9/4/24 6:05 AM</td>
+<td style="font-weight: 400;" width="215">Harrison Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-135684</td>
+<td style="font-weight: 400;" width="168">8/30/24 10:55 PM</td>
+<td style="font-weight: 400;" width="166">8/30/24 10:55 PM</td>
+<td style="font-weight: 400;" width="215">100 Blk S Grant St</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-136787</td>
+<td style="font-weight: 400;" width="168">9/1/24 9:41 PM</td>
+<td style="font-weight: 400;" width="166">9/1/24 9:41 PM</td>
+<td style="font-weight: 400;" width="215">100 Blk S Grant St</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Indecent Exposure</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-137555</td>
+<td style="font-weight: 400;" width="168">9/3/24 8:38 AM</td>
+<td style="font-weight: 400;" width="166">9/3/24 8:38 AM</td>
+<td style="font-weight: 400;" width="215">200 Blk N Grant St</td>
+<td style="font-weight: 400;" width="200">Documented in 2024WL01949 and 2024WL01950</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-137901</td>
+<td style="font-weight: 400;" width="168">9/3/24 6:16 PM</td>
+<td style="font-weight: 400;" width="166">9/3/24 6:16 PM</td>
+<td style="font-weight: 400;" width="215">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
