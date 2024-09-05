@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Tuesday, September 3, 2024</h3>
+  					<h3>Updated Thursday, September 5, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -971,11 +971,6 @@
 <td width="204">Moore, Jason L.</td>
 <td width="211">Purdue Memorial Union</td>
 <td width="76">1/3/25</td>
-</tr>
-<tr>
-<td width="204">Mulligan, John</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">9/5/24</td>
 </tr>
 <tr>
 <td width="204">Myers, Grant E.</td>
