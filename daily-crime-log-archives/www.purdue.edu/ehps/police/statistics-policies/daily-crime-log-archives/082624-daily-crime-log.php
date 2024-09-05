@@ -892,7 +892,7 @@
 <td style="font-weight: 400;" width="168">8/26/24 10:24 PM</td>
 <td style="font-weight: 400;" width="166">8/26/24 10:50 PM</td>
 <td style="font-weight: 400;" width="215">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="200">Closed</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Drug Law Violation</td>
@@ -1038,7 +1038,7 @@
 <td style="font-weight: 400;" width="168">8/24/24 12:59 AM</td>
 <td style="font-weight: 400;" width="166">8/24/24 1:20 AM</td>
 <td style="font-weight: 400;" width="215">Meredith Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Identity Deception</td>
@@ -1070,7 +1070,7 @@
 <td style="font-weight: 400;" width="168">8/24/24 10:50 PM</td>
 <td style="font-weight: 400;" width="166">8/24/24 11:55 PM</td>
 <td style="font-weight: 400;" width="215">Harrison Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Public Intoxication/ Minor Consumption</td>
