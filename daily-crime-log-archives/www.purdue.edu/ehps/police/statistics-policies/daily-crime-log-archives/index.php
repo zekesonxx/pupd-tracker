@@ -611,6 +611,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log</h2>
 <ul>
+<li><a href="090224-daily-crime-log.php" title="090224 Daily Crime Log">Week of Sepember 2, 2024</a></li>
 <li><a href="082624-daily-crime-log.php" title="082624 Daily Crime Log">Week of August 26, 2024</a></li>
 <li><a href="081924-daily-crime-log.php" title="081924 Daily Crime Log">Week of August 19, 2024</a></li>
 <li><a href="081224-daily-crime-log.php" title="081224 WL Daily Crime Log">Week of August 12, 2024</a></li>
@@ -619,7 +620,7 @@
 <li><a href="072224-daily-crime-log.php" title="072224 WL Daily Crime Log">Week of July 22, 2024</a></li>
 <li><a href="071524-daily-crime-log.php" title="071524 Daily Crime Log">Week of July 15, 2024</a></li>
 <li><a href="070824-daily-crime-log.php" title="070824 Daily Crime Log">Week of July 8, 2024</a></li>
-<li><a href="070124-daily-crime-log.php" title="070124 Daily Crime Log">Week of July 1, 2024</a><a href="060324-daily-crime-log.php" title="060324 Daily Crime Log"></a><a href="2024-archive/042924-daily-crime-log.php" title="042924 Daily Crime Log"></a><a href="2024-archive/040124-daily-crime-log.php" title="040124 Daily Crime Log"></a></li>
+<li><a href="070124-daily-crime-log.php" title="070124 Daily Crime Log">Week of July 1, 2024</a><a href="2024-archive/060324-daily-crime-log.php" title="060324 Daily Crime Log"></a><a href="2024-archive/042924-daily-crime-log.php" title="042924 Daily Crime Log"></a><a href="2024-archive/040124-daily-crime-log.php" title="040124 Daily Crime Log"></a></li>
 </ul>
 		</section>
 	
