@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Friday, September 6, 2024</h3>
+  					<h3>Updated Sunday, September 8, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -701,6 +701,11 @@
 <td width="204">Bopp, Cameron A.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">7/11/29</td>
+</tr>
+<tr>
+<td width="204">Bowden, Edward</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">9/8/25</td>
 </tr>
 <tr>
 <td width="204">Branz, Zachary M.</td>
