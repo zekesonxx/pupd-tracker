@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Sunday, September 8, 2024</h3>
+  					<h3>Updated Monday, September 9, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -791,6 +791,11 @@
 <td width="204">Dawes, Ella S.</td>
 <td width="211">All Residence Halls and Dining Courts</td>
 <td width="76">12/2/24</td>
+</tr>
+<tr>
+<td width="204">De Mello, Daniel</td>
+<td width="211">DSAI</td>
+<td width="76">9/9/25</td>
 </tr>
 <tr>
 <td width="204">Espey, Jacob D.</td>
