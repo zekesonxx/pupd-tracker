@@ -838,7 +838,7 @@
 <td style="font-weight: 400;" width="168">8/4/24 4:14 AM</td>
 <td style="font-weight: 400;" width="166">8/4/24 4:48 AM</td>
 <td style="font-weight: 400;" width="215">Mitch Daniels Blvd/ N McCutcheon Dr</td>
-<td style="font-weight: 400;" width="200">Arrest Made</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
 </tr>
 </tbody>
 </table>

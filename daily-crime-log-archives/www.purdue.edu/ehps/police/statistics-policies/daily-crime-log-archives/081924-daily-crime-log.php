@@ -718,7 +718,7 @@
 <td style="font-weight: 400;" width="168">8/2023-11/2023</td>
 <td style="font-weight: 400;" width="166">8/22/24 Unknown Time</td>
 <td style="font-weight: 400;" width="215">Winifred Parker Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Burglary</td>
@@ -776,7 +776,7 @@
 <td style="font-weight: 400;" width="168">8/20/24 10:24 PM</td>
 <td style="font-weight: 400;" width="166">8/21/24 1:03 PM</td>
 <td style="font-weight: 400;" width="215">Honors College North</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>
@@ -1008,7 +1008,7 @@
 <td style="font-weight: 400;" width="168">8/18/24 12:37 AM</td>
 <td style="font-weight: 400;" width="166">8/18/24 12:56 AM</td>
 <td style="font-weight: 400;" width="215">Tarkington Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft-Bike</td>
