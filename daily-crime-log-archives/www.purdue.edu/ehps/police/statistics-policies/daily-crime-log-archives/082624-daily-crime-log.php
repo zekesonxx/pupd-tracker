@@ -1078,7 +1078,7 @@
 <td style="font-weight: 400;" width="168">8/25/24 3:23 AM</td>
 <td style="font-weight: 400;" width="166">8/25/24 5:24 AM</td>
 <td style="font-weight: 400;" width="215">1200 Blk Mitch Daniels Blvd</td>
-<td style="font-weight: 400;" width="200">Arrest Made</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>

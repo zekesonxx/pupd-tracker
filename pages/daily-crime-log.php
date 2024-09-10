@@ -681,7 +681,98 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, September 10, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01239</td>
+<td style="font-weight: 400;" width="168">9/8/24 10:00 PM</td>
+<td style="font-weight: 400;" width="166">9/9/24 11:04 AM</td>
+<td style="font-weight: 400;" width="215">Aspire Apartments</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01240</td>
+<td style="font-weight: 400;" width="168">9/5/24 8:00 AM</td>
+<td style="font-weight: 400;" width="166">9/9/24 11:14 AM</td>
+<td style="font-weight: 400;" width="215">First St Towers</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01241</td>
+<td style="font-weight: 400;" width="168">9/7/24 7:00 PM</td>
+<td style="font-weight: 400;" width="166">9/9/24 1:22 PM</td>
+<td style="font-weight: 400;" width="215">Owen Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01243</td>
+<td style="font-weight: 400;" width="168">9/7/24 6:00 PM</td>
+<td style="font-weight: 400;" width="166">9/9/24 3:33 PM</td>
+<td style="font-weight: 400;" width="215">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01244</td>
+<td style="font-weight: 400;" width="168">9/4/24 4:00 PM</td>
+<td style="font-weight: 400;" width="166">9/9/24 4:10 PM</td>
+<td style="font-weight: 400;" width="215">Stewart Center</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01245</td>
+<td style="font-weight: 400;" width="168">9/9/24 1:20 PM</td>
+<td style="font-weight: 400;" width="166">9/9/24 4:58 PM</td>
+<td style="font-weight: 400;" width="215">Schleman Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Trespass</td>
+<td style="font-weight: 400;" width="154">2024PU01247</td>
+<td style="font-weight: 400;" width="168">9/10/24 1:21 AM</td>
+<td style="font-weight: 400;" width="166">9/10/24 1:37 AM</td>
+<td style="font-weight: 400;" width="215">Memorial Mall</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-140738</td>
+<td style="font-weight: 400;" width="168">9/8/24 5:46 PM</td>
+<td style="font-weight: 400;" width="166">9/8/24 5:46 PM</td>
+<td style="font-weight: 400;" width="215">E State St/N River Rd</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating w/out Ever Receiving a License</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-140928</td>
+<td style="font-weight: 400;" width="168">9/9/24 3:44 AM</td>
+<td style="font-weight: 400;" width="166">9/9/24 3:44 AM</td>
+<td style="font-weight: 400;" width="215">Mitch Daniels Blvd/N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="200">Documented 2024WL02016</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-141047</td>
+<td style="font-weight: 400;" width="168">9/9/24 9:57 AM</td>
+<td style="font-weight: 400;" width="166">9/9/24 9:57 AM</td>
+<td style="font-weight: 400;" width="215">Provenance Apts</td>
+<td style="font-weight: 400;" width="200">Documented 2024WL02019</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

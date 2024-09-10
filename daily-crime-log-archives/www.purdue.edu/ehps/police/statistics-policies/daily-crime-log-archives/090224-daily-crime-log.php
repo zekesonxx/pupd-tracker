@@ -800,7 +800,7 @@
 <td style="font-weight: 400;" width="168">9/4/24 9:20 PM</td>
 <td style="font-weight: 400;" width="166">9/4/24 10:03 PM</td>
 <td style="font-weight: 400;" width="215">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="200">Arrest Made</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Intimidation</td>
@@ -980,7 +980,7 @@
 <td width="168">8/29/24 4:10 PM</td>
 <td width="166">8/30/24 2:37 PM</td>
 <td width="215">Hillenbrand Hall</td>
-<td width="200">Arrest Made</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Hit &amp; Run</td>
