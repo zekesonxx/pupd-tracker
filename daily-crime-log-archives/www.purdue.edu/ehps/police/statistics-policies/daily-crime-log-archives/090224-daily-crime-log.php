@@ -1084,7 +1084,7 @@
 <td width="168">9/1/24 3:02 AM</td>
 <td width="166">9/1/24 3:18 AM</td>
 <td width="215">Frieda Parker Hall</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Hit &amp; Run</td>
