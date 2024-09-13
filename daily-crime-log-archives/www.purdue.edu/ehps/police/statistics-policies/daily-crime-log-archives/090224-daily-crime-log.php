@@ -678,7 +678,7 @@
 <td style="font-weight: 400;" width="168">9/5/24 11:19 PM</td>
 <td style="font-weight: 400;" width="166">9/5/24 11:45 PM</td>
 <td style="font-weight: 400;" width="215">3rd St/ N Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Reckless Driver</td>
