@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Thursday, September 12, 2024</h3>
+  					<h3>Updated Monday, September 16, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -721,6 +721,11 @@
 <td width="204">Byers, Ethan S.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/26/26</td>
+</tr>
+<tr>
+<td width="204">Cabezas, Benito</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">9/16/25</td>
 </tr>
 <tr>
 <td width="204">Carrera, Jaden</td>
@@ -896,6 +901,11 @@
 <td width="204">Higgs, Ryan</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">7/30/25</td>
+</tr>
+<tr>
+<td width="204">Holsclaw, Owen</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">9/14/25</td>
 </tr>
 <tr>
 <td width="204">Huston, Shelby</td>
