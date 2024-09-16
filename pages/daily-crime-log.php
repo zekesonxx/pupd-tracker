@@ -688,7 +688,218 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, September 16, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU01278</td>
+<td width="168">9/12/24 5:00 PM</td>
+<td width="166">9/13/24 1:38 PM</td>
+<td width="215">Memorial Mall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-EMPV</td>
+<td width="154">2024PU01279</td>
+<td width="168">9/11/24 10:00 AM</td>
+<td width="166">9/13/24 2:20 PM</td>
+<td width="215">Shreve Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="154">2024PU01280</td>
+<td width="168">9/12/24 9:30 PM</td>
+<td width="166">9/13/24 9:43 PM</td>
+<td width="215">Aspire</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Indecent Exposure/Minor Consumption/Public Intoxication</td>
+<td width="154">2024PU01281</td>
+<td width="168">9/13/24 11:07 PM</td>
+<td width="166">9/13/24 11:36 PM</td>
+<td width="215">Pi Kappa Alpha - Pike House</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation/Operating While Intoxicated</td>
+<td width="154">2024PU01282</td>
+<td width="168">9/13/24 11:51 PM</td>
+<td width="166">9/14/24 12:15 AM</td>
+<td width="215">Mitch Daniels Blvd/McCormick Rd</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU01283</td>
+<td width="168">9/14/24 1:27 AM</td>
+<td width="166">9/14/24 1:57 AM</td>
+<td width="215">Phi Sigma Rho</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU01284</td>
+<td width="168">9/13/24 6:30 PM</td>
+<td width="166">9/14/24 2:34 AM</td>
+<td width="215">Tarkington Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Battery-Simple</td>
+<td width="154">2024PU01285</td>
+<td width="168">9/14/24 1:14 AM</td>
+<td width="166">9/14/24 2:34 AM</td>
+<td width="215">Duhme Hall</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU01286</td>
+<td width="168">9/14/24 4:44 AM</td>
+<td width="166">9/14/24 5:04 AM</td>
+<td width="215">Earhart Hall</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="154">2024PU01287</td>
+<td width="168">9/13/24 8:20 PM</td>
+<td width="166">9/14/24 3:55 PM</td>
+<td width="215">Harrison Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="154">2024PU01288</td>
+<td width="168">9/13/24 7:30 PM</td>
+<td width="166">9/14/24 3:08 PM</td>
+<td width="215">Cary Quad West</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU01289</td>
+<td width="168">9/14/24 3:35 PM</td>
+<td width="166">9/14/24 3:58 PM</td>
+<td width="215">Cary Quad South</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU01290</td>
+<td width="168">9/14/24 3:47 PM</td>
+<td width="166">9/14/24 4:21 PM</td>
+<td width="215">Physics Building</td>
+<td width="200">Unfounded</td>
+</tr>
+<tr>
+<td width="171">Hit &amp; Run</td>
+<td width="154">2024PU01291</td>
+<td width="168">9/11/24 12:45 PM</td>
+<td width="166">9/14/24 5:35 PM</td>
+<td width="215">McCutcheon Parking Garage</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="154">2024PU01292</td>
+<td width="168">9/14/24 6:34 PM</td>
+<td width="166">9/14/24 6:51 PM</td>
+<td width="215">Tower Dr/Beering Dr</td>
+<td width="200">Unfounded</td>
+</tr>
+<tr>
+<td width="171">Criminal Mischief/Theft</td>
+<td width="154">2024PU01293</td>
+<td width="168">9/14/24 8:15 PM</td>
+<td width="166">9/14/24 8:42 PM</td>
+<td width="215">Wiley Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="154">2024PU01294</td>
+<td width="168">9/15/24 12:41 AM</td>
+<td width="166">9/15/24 1:10 AM</td>
+<td width="215">McCutcheon Hall</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption/Public Intoxication</td>
+<td width="154">2024PU01295</td>
+<td width="168">9/15/24 1:41 AM</td>
+<td width="166">9/15/24 1:53 AM</td>
+<td width="215">Cary Quad East</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Criminal Mischief</td>
+<td width="154">2024PU01296</td>
+<td width="168">9/15/24 1:54 AM</td>
+<td width="166">9/15/24 2:02 AM</td>
+<td width="215">N University St/W Stadium Ave</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="154">2024PU01299</td>
+<td width="168">9/14/24 10:00 AM</td>
+<td width="166">9/15/24 2:39 PM</td>
+<td width="215">Harrison St Parking Garage</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Sexual Assault</td>
+<td width="154">2024PU01300</td>
+<td width="168">9/15/24 12:00 AM</td>
+<td width="166">9/15/24 3:47 PM</td>
+<td width="215">1200 Blk 1st St</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="154">2024PU01303</td>
+<td width="168">9/16/24 1:30 AM</td>
+<td width="166">9/16/24 2:06 AM</td>
+<td width="215">McCutcheon Hall</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="154">CAD# 2024-143411</td>
+<td width="168">9/13/24 12:39 AM</td>
+<td width="166">9/13/24 12:39 AM</td>
+<td width="215">W State St/N Grant St</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="154">CAD# 2024-143689</td>
+<td width="168">9/13/24 2:12 PM</td>
+<td width="166">9/13/24 2:13 PM</td>
+<td width="215">Provenance Apts</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="154">CAD# 2024-143797</td>
+<td width="168">9/13/24 5:18 PM</td>
+<td width="166">9/13/24 5:18 PM</td>
+<td width="215">Grant St Parking Garage</td>
+<td width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

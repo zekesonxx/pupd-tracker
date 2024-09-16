@@ -670,7 +670,7 @@
 <td style="font-weight: 400;" width="168">9/12/24 2:25 PM</td>
 <td style="font-weight: 400;" width="166">9/12/24 4:49 PM</td>
 <td style="font-weight: 400;" width="215">Wilmeth Active Learning Center</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Unfounded</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>
@@ -694,7 +694,7 @@
 <td style="font-weight: 400;" width="168">9/12/24 7:58 PM</td>
 <td style="font-weight: 400;" width="166">9/12/24 8:30 PM</td>
 <td style="font-weight: 400;" width="215">Purdue Memorial Union</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>
