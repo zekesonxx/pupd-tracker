@@ -681,7 +681,114 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, September 17, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01304</td>
+<td style="font-weight: 400;" width="168">9/15/24 10:00 PM</td>
+<td style="font-weight: 400;" width="166">9/16/24 9:42 AM</td>
+<td style="font-weight: 400;" width="215">Hawkins Graduate House</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Battery-Simple</td>
+<td style="font-weight: 400;" width="154">2024PU01307</td>
+<td style="font-weight: 400;" width="168">9/6/24 8:30 PM</td>
+<td style="font-weight: 400;" width="166">9/16/24 1:15 PM</td>
+<td style="font-weight: 400;" width="215">Slayter Hill</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU01309</td>
+<td style="font-weight: 400;" width="168">9/12/24 8:00 AM</td>
+<td style="font-weight: 400;" width="166">9/12/24 2:51 PM</td>
+<td style="font-weight: 400;" width="215">Harrison St Parking Garage</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01311</td>
+<td style="font-weight: 400;" width="168">9/15/24 8:00 PM</td>
+<td style="font-weight: 400;" width="166">9/16/24 3:59 PM</td>
+<td style="font-weight: 400;" width="215">Wiley Dining Court</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01315</td>
+<td style="font-weight: 400;" width="168">9/13/24 6:00 PM</td>
+<td style="font-weight: 400;" width="166">9/16/24 6:35 PM</td>
+<td style="font-weight: 400;" width="215">Harrison Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01317</td>
+<td style="font-weight: 400;" width="168">9/16/24 9:29 PM</td>
+<td style="font-weight: 400;" width="166">9/17/24 12:21 AM</td>
+<td style="font-weight: 400;" width="215">Hagle Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Trespass</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-143978</td>
+<td style="font-weight: 400;" width="168">9/13/24 11:19 PM</td>
+<td style="font-weight: 400;" width="166">9/13/24 11:19 PM</td>
+<td style="font-weight: 400;" width="215">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-144031</td>
+<td style="font-weight: 400;" width="168">9/14/24 1:09 AM</td>
+<td style="font-weight: 400;" width="166">9/14/24 1:09 AM</td>
+<td style="font-weight: 400;" width="215">W State St/N Grant St</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-144068</td>
+<td style="font-weight: 400;" width="168">9/14/24 2:28 AM</td>
+<td style="font-weight: 400;" width="166">9/14/24 2:28 AM</td>
+<td style="font-weight: 400;" width="215">100 Blk N Macarthur Dr</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-144736</td>
+<td style="font-weight: 400;" width="168">9/15/24 1:35 AM</td>
+<td style="font-weight: 400;" width="166">9/15/24 1:35 AM</td>
+<td style="font-weight: 400;" width="215">100 Blk S Grant St</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drunk Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-144769</td>
+<td style="font-weight: 400;" width="168">9/15/24 2:59 AM</td>
+<td style="font-weight: 400;" width="166">9/15/24 2:59 AM</td>
+<td style="font-weight: 400;" width="215">S River Rd/US HWY 231 S</td>
+<td style="font-weight: 400;" width="200">Documented 2024WL02074</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Burglary</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-144789</td>
+<td style="font-weight: 400;" width="168">9/15/24 4:09 AM</td>
+<td style="font-weight: 400;" width="166">9/15/24 4:09 AM</td>
+<td style="font-weight: 400;" width="215">Phi Kappa Sigma - Skulls</td>
+<td style="font-weight: 400;" width="200">Documented 2024WL02075</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

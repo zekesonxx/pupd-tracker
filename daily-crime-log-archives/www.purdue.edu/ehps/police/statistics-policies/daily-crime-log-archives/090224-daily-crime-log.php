@@ -882,7 +882,7 @@
 <td style="font-weight: 400;" width="168">9/3/24 5:20 PM</td>
 <td style="font-weight: 400;" width="166">9/3/24 7:52 PM</td>
 <td style="font-weight: 400;" width="215">CoRec</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Unfounded</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>

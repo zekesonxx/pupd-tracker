@@ -662,7 +662,7 @@
 <td style="font-weight: 400;" width="168">9/12/24 1:25 PM</td>
 <td style="font-weight: 400;" width="166">9/12/24 2:10 PM</td>
 <td style="font-weight: 400;" width="215">Lilly Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Unfounded</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft-Bike</td>
@@ -726,7 +726,7 @@
 <td style="font-weight: 400;" width="168">9/13/24 1:09 AM</td>
 <td style="font-weight: 400;" width="166">9/13/24 1:46 AM</td>
 <td style="font-weight: 400;" width="215">Earhart Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft-EMPV</td>
@@ -1118,7 +1118,7 @@
 <td width="168">9/6/24 7:00 PM</td>
 <td width="166">9/8/24 3:34 PM</td>
 <td width="215">CoRec</td>
-<td width="200">Under Investigation</td>
+<td width="200">Suspended</td>
 </tr>
 <tr>
 <td width="171">Theft-EMPV</td>
