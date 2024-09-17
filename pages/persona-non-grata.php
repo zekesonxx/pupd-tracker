@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Monday, September 16, 2024</h3>
+  					<h3>Updated Tuesday, September 17, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1031,6 +1031,11 @@
 <td width="204">Pope, Nicolas P.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">4/19/25</td>
+</tr>
+<tr>
+<td width="204">Ra, Minyoung</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">9/17/25</td>
 </tr>
 <tr>
 <td width="204">Rabindran, Sudarmadhi</td>
