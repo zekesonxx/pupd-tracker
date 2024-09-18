@@ -728,11 +728,6 @@
 <td width="76">9/26/26</td>
 </tr>
 <tr>
-<td width="204">Cabezas, Benito</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">9/16/25</td>
-</tr>
-<tr>
 <td width="204">Carrera, Jaden</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">3/1/29</td>
