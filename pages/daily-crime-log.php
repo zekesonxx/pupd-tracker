@@ -674,7 +674,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, September 18, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="179">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Blackmail</td>
+<td style="font-weight: 400;" width="154">2024PU01320</td>
+<td style="font-weight: 400;" width="168">9/7/24 7:00 PM</td>
+<td style="font-weight: 400;" width="166">9/17/24 2:02 PM</td>
+<td style="font-weight: 400;" width="215">Potter Engineering Center</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU01321</td>
+<td style="font-weight: 400;" width="168">9/17/24 1:36 PM</td>
+<td style="font-weight: 400;" width="166">9/17/24 2:40 PM</td>
+<td style="font-weight: 400;" width="215">Mitch Daniels Blvd/ N Russell St</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01323</td>
+<td style="font-weight: 400;" width="168">9/17/24 4:56 PM</td>
+<td style="font-weight: 400;" width="166">9/17/24 5:11 PM</td>
+<td style="font-weight: 400;" width="215">Tarkington Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01324</td>
+<td style="font-weight: 400;" width="168">9/16/24 7:40 PM</td>
+<td style="font-weight: 400;" width="166">9/17/24 6:29 PM</td>
+<td style="font-weight: 400;" width="215">Wetherill Laboratory</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Fraud</td>
+<td style="font-weight: 400;" width="154">2024PU01325</td>
+<td style="font-weight: 400;" width="168">9/17/24 1:20 PM</td>
+<td style="font-weight: 400;" width="166">9/17/24 7:22 PM</td>
+<td style="font-weight: 400;" width="215">Harrison Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
