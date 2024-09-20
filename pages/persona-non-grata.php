@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Wednesday, September 18, 2024</h3>
+  					<h3>Updated Friday, September 20, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -686,11 +686,6 @@
 <td width="204">Beard, Corbin S.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/18/28</td>
-</tr>
-<tr>
-<td width="204">Beck, Ernest E.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">9/22/24</td>
 </tr>
 <tr>
 <td width="204">Bittenbender, Robert</td>
@@ -1181,6 +1176,11 @@
 <td width="204">Thul, Daniel J.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/3/26</td>
+</tr>
+<tr>
+<td width="204">Tipton, Mary F.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">9/16/29</td>
 </tr>
 <tr>
 <td width="204">Torres-Valle, Luis A.</td>
