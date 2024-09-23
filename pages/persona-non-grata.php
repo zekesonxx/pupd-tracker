@@ -673,6 +673,11 @@
 <td width="76">3/1/25</td>
 </tr>
 <tr>
+<td width="204">Baker, Gabriel B.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">9/23/25</td>
+</tr>
+<tr>
 <td width="204">Baker, Lindsey D.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">10/12/28</td>
@@ -886,6 +891,11 @@
 <td width="204">Hanns, Randall H. L.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">5/3/26</td>
+</tr>
+<tr>
+<td width="204">Hardesty, Trevor J.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">9/23/29</td>
 </tr>
 <tr>
 <td width="204">Harper, Ethan J.</td>
@@ -1211,6 +1221,11 @@
 <td width="204">Wang, Jin</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">4/22/25</td>
+</tr>
+<tr>
+<td width="204">Wang, Yu-Hung</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">9/23/25</td>
 </tr>
 <tr>
 <td width="204">Wolfe, Mark</td>
