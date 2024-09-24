@@ -1006,7 +1006,7 @@
 <td width="168">9/6/24 9:14 PM</td>
 <td width="166">9/6/24 9:36 PM</td>
 <td width="215">Earhart Hall</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Stalking</td>
@@ -1038,7 +1038,7 @@
 <td width="168">9/7/24 1:03 AM</td>
 <td width="166">9/7/24 2:13 AM</td>
 <td width="215">Tarkington Hall</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Minor Consumption</td>
@@ -1078,7 +1078,7 @@
 <td width="168">9/7/24 11:16 PM</td>
 <td width="166">9/7/24 11:33 PM</td>
 <td width="215">Delta Upsilon</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Minor Consumption/ Public Intoxication</td>
@@ -1094,7 +1094,7 @@
 <td width="168">9/7/24 11:58 PM</td>
 <td width="166">9/8/24 12:17 AM</td>
 <td width="215">Mitch Daniels Blvd/ Russell St</td>
-<td width="200">Arrest Made</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Blackmail</td>

@@ -1020,7 +1020,7 @@
 <td width="168">8/31/24 1:46 AM</td>
 <td width="166">8/31/24 2:02 AM</td>
 <td width="215">Aspire Apartments</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Minor Consumption</td>
@@ -1052,7 +1052,7 @@
 <td width="168">8/31/24 1:57 PM</td>
 <td width="166">8/31/24 1:57 PM</td>
 <td width="215">Ross-Ade Stadium</td>
-<td width="200">Arrest Made</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Hit &amp; Run</td>
@@ -1140,7 +1140,7 @@
 <td width="168">9/2/24 4:07 AM</td>
 <td width="166">9/2/24 4:24 AM</td>
 <td width="215">Hilltop Apartments</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Theft-EMPV</td>
