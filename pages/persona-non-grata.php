@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Monday, September 23, 2024</h3>
+  					<h3>Updated Wednesday, September 25, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1166,6 +1166,11 @@
 <td width="204">Stidham, Jacob I.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">12/13/26</td>
+</tr>
+<tr>
+<td width="204">Swafford, Wheeler L.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">9/25/25</td>
 </tr>
 <tr>
 <td width="204">Terwilliger, Xavier (Cynthia)</td>
