@@ -982,7 +982,7 @@
 <td width="168">9/13/24 11:07 PM</td>
 <td width="166">9/13/24 11:36 PM</td>
 <td width="215">Pi Kappa Alpha - Pike House</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Drug Law Violation/Operating While Intoxicated</td>
