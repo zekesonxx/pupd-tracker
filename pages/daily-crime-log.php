@@ -667,7 +667,98 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, September 26, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="179">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01385</td>
+<td style="font-weight: 400;" width="168">8/25/24 9:18 AM</td>
+<td style="font-weight: 400;" width="166">9/25/24 9:55 AM</td>
+<td style="font-weight: 400;" width="215">Hawkins Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Harassment</td>
+<td style="font-weight: 400;" width="154">2024PU01388</td>
+<td style="font-weight: 400;" width="168">9/25/24 11:26 AM</td>
+<td style="font-weight: 400;" width="166">9/25/24 12:21 PM</td>
+<td style="font-weight: 400;" width="215">400 Blk Central Dr</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Theft/ Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01389</td>
+<td style="font-weight: 400;">9/25/24 7:42 PM</td>
+<td style="font-weight: 400;">9/25/24 8:03 PM</td>
+<td style="font-weight: 400;">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Fraud</td>
+<td style="font-weight: 400;" width="154">2024PU01390</td>
+<td style="font-weight: 400;" width="168">9/25/24 7:18 PM</td>
+<td style="font-weight: 400;" width="166">9/25/24 8:17 PM</td>
+<td style="font-weight: 400;" width="215">Aspire Apartments</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01391</td>
+<td style="font-weight: 400;" width="168">9/25/24 8:09 PM</td>
+<td style="font-weight: 400;" width="166">9/25/24 8:52 PM</td>
+<td style="font-weight: 400;" width="215">1200 Blk W Stadium Ave</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Kidnapping</td>
+<td style="font-weight: 400;" width="154">2024PU01393</td>
+<td style="font-weight: 400;" width="168">9/25/24 9:37 PM</td>
+<td style="font-weight: 400;" width="166">9/25/24 9:48 PM</td>
+<td style="font-weight: 400;" width="215">First St/ N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="200">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01394</td>
+<td style="font-weight: 400;" width="168">9/24/24 10:21 PM</td>
+<td style="font-weight: 400;" width="166">9/26/24 3:24 AM</td>
+<td style="font-weight: 400;" width="215">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01395</td>
+<td style="font-weight: 400;" width="168">9/17/24 1:00 PM</td>
+<td style="font-weight: 400;" width="166">9/26/24 3:35 AM</td>
+<td style="font-weight: 400;" width="215">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-150914</td>
+<td style="font-weight: 400;" width="168">9/25/24 1:10 PM</td>
+<td style="font-weight: 400;" width="166">9/25/24 1:10 PM</td>
+<td style="font-weight: 400;" width="215">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-150773</td>
+<td style="font-weight: 400;" width="168">9/1/24 9:28 AM</td>
+<td style="font-weight: 400;" width="166">9/1/24 9:28 AM</td>
+<td style="font-weight: 400;" width="215">Mitch Daniels Blvd/ Trainway Blvd</td>
+<td style="font-weight: 400;" width="200">Documented in 2024WL02171</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -934,7 +1025,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="129">9/21/24 2:19 AM</td>
 <td style="font-weight: 400;" width="129">9/21/24 2:50 AM</td>
 <td style="font-weight: 400;" width="167">Horticulture Park</td>
-<td style="font-weight: 400;" width="185">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="185">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="153">Minor Consumption</td>
