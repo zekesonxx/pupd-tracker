@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Thursday, September 26, 2024</h3>
+  					<h3>Updated Friday, September 27, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -901,6 +901,11 @@
 <td width="204">Harper, Ethan J.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">7/26/25</td>
+</tr>
+<tr>
+<td width="204">Harrison-Williams, Starr J.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">9/27/25</td>
 </tr>
 <tr>
 <td width="204">He, Siyuan</td>
@@ -1221,11 +1226,6 @@
 <td width="204">Wang, Jin</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">4/22/25</td>
-</tr>
-<tr>
-<td width="204">Wang, Yu-Hung</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">9/23/25</td>
 </tr>
 <tr>
 <td width="204">Wolfe, Mark</td>
