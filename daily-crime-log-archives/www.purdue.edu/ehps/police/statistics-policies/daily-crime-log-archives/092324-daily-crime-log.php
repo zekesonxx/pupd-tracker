@@ -1054,7 +1054,7 @@
 <td style="font-weight: 400;" width="129">9/21/24 2:57 AM</td>
 <td style="font-weight: 400;" width="129">9/21/24 3:20 AM</td>
 <td style="font-weight: 400;" width="167">1000 Blk Mitch Daniels Blvd</td>
-<td style="font-weight: 400;" width="185">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="185">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="153">Theft</td>

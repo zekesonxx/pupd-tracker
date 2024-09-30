@@ -704,7 +704,7 @@
 <td style="font-weight: 400; width: 102.833px;">9/15/24 8:10 AM</td>
 <td style="font-weight: 400; width: 102.2px;">9/18/24 9:36 AM</td>
 <td style="font-weight: 400; width: 126.767px;">RossAde Stadium</td>
-<td style="font-weight: 400; width: 126.017px;">Under Investigation</td>
+<td style="font-weight: 400; width: 126.017px;">Arrest Made</td>
 </tr>
 <tr>
 <td style="font-weight: 400; width: 114.517px;">Fraud/ Intimidation</td>

@@ -688,7 +688,122 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, September 30, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="179">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01404</td>
+<td style="font-weight: 400;" width="168">9/27/24 1:00 AM</td>
+<td style="font-weight: 400;" width="166">9/27/24 2:05 PM</td>
+<td style="font-weight: 400;" width="215">FarmHouse</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01406</td>
+<td style="font-weight: 400;" width="168">9/27/24 3:16 PM</td>
+<td style="font-weight: 400;" width="166">9/27/24 5:51 PM</td>
+<td style="font-weight: 400;" width="215">Knoy Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Blackmail/ Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01407</td>
+<td style="font-weight: 400;" width="168">9/4/24 9:00 AM</td>
+<td style="font-weight: 400;" width="166">9/27/24 6:32 PM</td>
+<td style="font-weight: 400;" width="215">300 Blk N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="200">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU01408</td>
+<td style="font-weight: 400;" width="168">9/27/24 11:34 PM</td>
+<td style="font-weight: 400;" width="166">9/27/24 11:57 PM</td>
+<td style="font-weight: 400;" width="215">Beta Sigma Psi</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU01409</td>
+<td style="font-weight: 400;" width="168">9/27/24 11:34 PM</td>
+<td style="font-weight: 400;" width="166">9/28/24 12:00 AM</td>
+<td style="font-weight: 400;" width="215">Beta Sigma Psi</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU01411</td>
+<td style="font-weight: 400;" width="168">9/28/24 12:25 AM</td>
+<td style="font-weight: 400;" width="166">9/28/24 12:44 AM</td>
+<td style="font-weight: 400;" width="215">Warren Hall</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Attempted Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01412</td>
+<td style="font-weight: 400;" width="168">9/28/24 1:27 AM</td>
+<td style="font-weight: 400;" width="166">9/28/24 1:51 AM</td>
+<td style="font-weight: 400;" width="215">500 Blk Purdue Mall</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Trespass</td>
+<td style="font-weight: 400;" width="154">2024PU01413</td>
+<td style="font-weight: 400;" width="168">9/28/24 5:03 PM</td>
+<td style="font-weight: 400;" width="166">9/28/24 5:10 PM</td>
+<td style="font-weight: 400;" width="215">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01415</td>
+<td style="font-weight: 400;" width="168">9/27/24 7:00 PM</td>
+<td style="font-weight: 400;" width="166">9/28/24 10:32 PM</td>
+<td style="font-weight: 400;" width="215">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01416</td>
+<td style="font-weight: 400;" width="168">9/28/24 11:37 PM</td>
+<td style="font-weight: 400;" width="166">9/29/24 12:02 AM</td>
+<td style="font-weight: 400;" width="215">Meredith South</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Trespass</td>
+<td style="font-weight: 400;" width="154">2024PU01418</td>
+<td style="font-weight: 400;" width="168">9/29/24 2:38 AM</td>
+<td style="font-weight: 400;" width="166">9/29/24 3:00 AM</td>
+<td style="font-weight: 400;" width="215">300 McCormick Rd</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01420</td>
+<td style="font-weight: 400;" width="168">9/26/24 3:30 PM</td>
+<td style="font-weight: 400;" width="166">9/29/24 7:31 PM</td>
+<td style="font-weight: 400;" width="215">Chaney Hale Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Battery (Simple)/ Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01421</td>
+<td style="font-weight: 400;" width="168">9/29/24 9:30 PM</td>
+<td style="font-weight: 400;" width="166">9/29/24 10:06 PM</td>
+<td style="font-weight: 400;" width="215">Shreve Hall</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
