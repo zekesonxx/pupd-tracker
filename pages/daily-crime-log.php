@@ -681,7 +681,98 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, October 1, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="179">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01424</td>
+<td style="font-weight: 400;" width="168">9/29/24 7:00 PM</td>
+<td style="font-weight: 400;" width="166">9/30/24 10:04 AM</td>
+<td style="font-weight: 400;" width="215">McCutcheon Parking Garage</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01425</td>
+<td style="font-weight: 400;" width="168">9/12/24 11:40 AM</td>
+<td style="font-weight: 400;" width="166">9/30/24 1:41 PM</td>
+<td style="font-weight: 400;" width="215">Mackey Arena</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01426</td>
+<td style="font-weight: 400;" width="168">9/26/24 2:00 PM</td>
+<td style="font-weight: 400;" width="166">9/30/24 1:57 PM</td>
+<td style="font-weight: 400;" width="215">Grissom Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01427</td>
+<td style="font-weight: 400;" width="168">9/29/24 3:55 AM</td>
+<td style="font-weight: 400;" width="166">9/30/24 2:29 PM</td>
+<td style="font-weight: 400;" width="215">Kappa Alpha Theta</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01429</td>
+<td style="font-weight: 400;" width="168">9/30/24 5:00 AM</td>
+<td style="font-weight: 400;" width="166">9/30/24 10:13 PM</td>
+<td style="font-weight: 400;" width="215">410 Steely St</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Fraud</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-152432</td>
+<td style="font-weight: 400;" width="168">9/27/24 8:50 PM</td>
+<td style="font-weight: 400;" width="166">9/24/24 8:50 PM</td>
+<td style="font-weight: 400;" width="215">Provenance Apts</td>
+<td style="font-weight: 400;" width="200">Documented 2024WL02201</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-152590</td>
+<td style="font-weight: 400;" width="168">9/28/24 2:11 AM</td>
+<td style="font-weight: 400;" width="166">9/28/24 2:11 AM</td>
+<td style="font-weight: 400;" width="215">US HWY 231 N/Cherry Ln</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-152594</td>
+<td style="font-weight: 400;" width="168">9/28/24 2:13 AM</td>
+<td style="font-weight: 400;" width="166">9/28/24 2:13 AM</td>
+<td style="font-weight: 400;" width="215">US HWY 231 S/Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-152941</td>
+<td style="font-weight: 400;" width="168">9/28/24 4:43 PM</td>
+<td style="font-weight: 400;" width="166">9/28/24 4:43 PM</td>
+<td style="font-weight: 400;" width="215">W Lutz Ave/N Grant St</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-153275</td>
+<td style="font-weight: 400;" width="168">9/29/24 3:48 AM</td>
+<td style="font-weight: 400;" width="166">9/29/24 3:48 AM</td>
+<td style="font-weight: 400;" width="215">Northwestern Ave/Cherry Ln</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

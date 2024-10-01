@@ -686,7 +686,7 @@
 <td style="font-weight: 400;" width="168">9/9/24 5:00 PM</td>
 <td style="font-weight: 400;" width="166">9/12/24 5:35 PM</td>
 <td style="font-weight: 400;" width="215">Chaffee Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
@@ -974,7 +974,7 @@
 <td width="168">8/30/24 12:08 PM</td>
 <td width="166">9/6/24 12:42 PM</td>
 <td width="215">Hillenbrand Hall</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Blackmail</td>
@@ -1046,7 +1046,7 @@
 <td width="168">9/7/24 3:34 AM</td>
 <td width="166">9/7/24 3:55 AM</td>
 <td width="215">Purdue Memorial Union</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Minor Consumption</td>

@@ -744,7 +744,7 @@ Nothing to report.
 <td style="font-weight: 400;" width="168">7/26/24 5:58 PM</td>
 <td style="font-weight: 400;" width="166">7/26/24 7:18 PM</td>
 <td style="font-weight: 400;" width="215">1300 Blk McCormick Rd</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>
@@ -752,7 +752,7 @@ Nothing to report.
 <td style="font-weight: 400;" width="168">7/26/24 5:53 PM</td>
 <td style="font-weight: 400;" width="166">7/26/24 7:18 PM</td>
 <td style="font-weight: 400;" width="215">1300 Blk McCormick Rd</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft/ Criminal Mischief</td>
@@ -760,7 +760,7 @@ Nothing to report.
 <td style="font-weight: 400;" width="168">7/26/24 5:56 PM</td>
 <td style="font-weight: 400;" width="166">7/26/24 7:18 PM</td>
 <td style="font-weight: 400;" width="215">1300 Blk McCormick Rd</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Traffic Violation</td>
