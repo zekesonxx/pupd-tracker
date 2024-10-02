@@ -674,7 +674,34 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, October 2, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="179">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft/ Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01431</td>
+<td style="font-weight: 400;" width="168">9/20/24 8:00 PM</td>
+<td style="font-weight: 400;" width="166">10/1/24 4:50 PM</td>
+<td style="font-weight: 400;" width="215">500 Blk Purdue Mall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Recovered Stolen Motorcycle</td>
+<td style="font-weight: 400;" width="154">2024PU01432</td>
+<td style="font-weight: 400;" width="168">10/1/24 7:32 PM</td>
+<td style="font-weight: 400;" width="166">10/1/24 8:04 PM</td>
+<td style="font-weight: 400;" width="215">W Stadium Ave/ Northwestern Ave</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
