@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Monday, September 30, 2024</h3>
+  					<h3>Updated Thursday, October 3, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1126,11 +1126,6 @@
 <td width="204">Seats, Ricky T.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/28/29</td>
-</tr>
-<tr>
-<td width="204">Sebrey, Robert L.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">10/3/24</td>
 </tr>
 <tr>
 <td width="204">Sherman, Sheron E.</td>
