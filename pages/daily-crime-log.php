@@ -667,7 +667,42 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, October 3, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="179">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01434</td>
+<td style="font-weight: 400;" width="168">9/26/24 10:30 AM</td>
+<td style="font-weight: 400;" width="166">10/2/24 2:22 PM</td>
+<td style="font-weight: 400;" width="215">Stewart Center</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Fraud</td>
+<td style="font-weight: 400;" width="154">2024PU01435</td>
+<td style="font-weight: 400;" width="168">9/9/24 2:29 PM</td>
+<td style="font-weight: 400;" width="166">10/2/24 2:56 PM</td>
+<td style="font-weight: 400;" width="215">Meredith South</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Operating While Intoxicated/ Minor Consumption/ Minor Possession/ False Informing</td>
+<td style="font-weight: 400;" width="154">2024PU01437</td>
+<td style="font-weight: 400;" width="168">10/3/24 12:00 AM</td>
+<td style="font-weight: 400;" width="166">10/3/24 12:26 AM</td>
+<td style="font-weight: 400;" width="215">N Martin Jischke Dr/ 1st St</td>
+<td style="font-weight: 400;" width="200">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
