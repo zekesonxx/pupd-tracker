@@ -688,7 +688,74 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, October 7, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="179">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;">Theft</td>
+<td style="font-weight: 400;">2024PU01445</td>
+<td style="font-weight: 400;">10/4/24 2:12 AM</td>
+<td style="font-weight: 400;">10/4/24 1:21 PM</td>
+<td style="font-weight: 400;">Stewart Center</td>
+<td style="font-weight: 400;">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Theft</td>
+<td style="font-weight: 400;">2024PU01446</td>
+<td style="font-weight: 400;">10/4/24 1:00 PM</td>
+<td style="font-weight: 400;">10/4/24 5:08 PM</td>
+<td style="font-weight: 400;">Purdue Memorial Union</td>
+<td style="font-weight: 400;">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Theft-Bike</td>
+<td style="font-weight: 400;">2024PU01447</td>
+<td style="font-weight: 400;">10/3/24 12:00 PM</td>
+<td style="font-weight: 400;">10/4/24 11:46 PM</td>
+<td style="font-weight: 400;">Continuum Apts</td>
+<td style="font-weight: 400;">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Burglary</td>
+<td style="font-weight: 400;" width="154">2024PU01448</td>
+<td style="font-weight: 400;" width="168">10/5/24 12:30 AM</td>
+<td style="font-weight: 400;" width="166">10/5/24 2:26 PM</td>
+<td style="font-weight: 400;" width="215">Alpha Tau Omega</td>
+<td style="font-weight: 400;">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Trespass</td>
+<td style="font-weight: 400;" width="154">2024PU01449</td>
+<td style="font-weight: 400;" width="168">10/5/24 9:08 PM</td>
+<td style="font-weight: 400;" width="166">10/5/24 9:35 PM</td>
+<td style="font-weight: 400;" width="215">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01451</td>
+<td style="font-weight: 400;" width="168">10/4/24 10:00 PM</td>
+<td style="font-weight: 400;" width="166">10/6/24 12:07 PM</td>
+<td style="font-weight: 400;" width="215">Launch Campus Ministry House</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-156636</td>
+<td style="font-weight: 400;" width="168">10/4/24 3:25 PM</td>
+<td style="font-weight: 400;" width="166">10/4/25 3:25 PM</td>
+<td style="font-weight: 400;" width="215">Delta Tau Delta</td>
+<td style="font-weight: 400;" width="200">Documented 2024WL02261</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
