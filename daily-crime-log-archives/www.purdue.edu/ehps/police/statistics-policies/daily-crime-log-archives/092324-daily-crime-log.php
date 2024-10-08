@@ -654,7 +654,7 @@
 <td style="font-weight: 400;" width="168">9/26/24 8:38 AM</td>
 <td style="font-weight: 400;" width="166">9/26/24 8:58 AM</td>
 <td style="font-weight: 400;" width="215">Hovde Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;">Criminal Mischief</td>

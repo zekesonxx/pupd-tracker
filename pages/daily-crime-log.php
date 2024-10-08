@@ -681,7 +681,26 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, October 8, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="179">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-156836</td>
+<td style="font-weight: 400;" width="168">10/4/24 10:22 PM</td>
+<td style="font-weight: 400;" width="166">10/4/24 10:22 PM</td>
+<td style="font-weight: 400;" width="215">Wood St Parking Garage</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
