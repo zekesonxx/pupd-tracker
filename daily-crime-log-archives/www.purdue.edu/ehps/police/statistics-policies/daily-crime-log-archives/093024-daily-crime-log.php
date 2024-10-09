@@ -1094,7 +1094,7 @@
 <td style="font-weight: 400;" width="168">9/29/24 2:38 AM</td>
 <td style="font-weight: 400;" width="166">9/29/24 3:00 AM</td>
 <td style="font-weight: 400;" width="215">300 McCormick Rd</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="179">Theft-Bike</td>

@@ -674,7 +674,82 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, October 9, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="179">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01452</td>
+<td style="font-weight: 400;" width="168">10/7/24 9:00 PM</td>
+<td style="font-weight: 400;" width="166">10/8/24 11:12 AM</td>
+<td style="font-weight: 400;" width="215">Tarkington Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Fraud</td>
+<td style="font-weight: 400;" width="154">2024PU01454</td>
+<td style="font-weight: 400;" width="168">6/22/24 12:00 PM</td>
+<td style="font-weight: 400;" width="166">10/8/24 1:47 PM</td>
+<td style="font-weight: 400;" width="215">2550 Northwestern Ave</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01455</td>
+<td style="font-weight: 400;" width="168">10/6/24 1:00 PM</td>
+<td style="font-weight: 400;" width="166">10/8/24 2:19 PM</td>
+<td style="font-weight: 400;" width="215">Earhart Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU01456</td>
+<td style="font-weight: 400;" width="168">10/8/24 7:15 PM</td>
+<td style="font-weight: 400;" width="166">10/8/24 7:43 PM</td>
+<td style="font-weight: 400;" width="215">1200 Blk 1st St</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01457</td>
+<td style="font-weight: 400;" width="168">10/8/24 3:00 PM</td>
+<td style="font-weight: 400;" width="166">10/8/24 8:38 PM</td>
+<td style="font-weight: 400;" width="215">Rawls Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">2024PU01458</td>
+<td style="font-weight: 400;" width="168">10/9/24 12:53 AM</td>
+<td style="font-weight: 400;" width="166">10/9/24 1:14 AM</td>
+<td style="font-weight: 400;" width="215">Owen Hall</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Intimidation</td>
+<td style="font-weight: 400;" width="154">2024PU01459</td>
+<td style="font-weight: 400;" width="168">10/5/24 3:00 AM</td>
+<td style="font-weight: 400;" width="166">10/9/24 4:32 AM</td>
+<td style="font-weight: 400;" width="215">Earhart Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-158687</td>
+<td style="font-weight: 400;" width="168">10/8/24 2:04 PM</td>
+<td style="font-weight: 400;" width="166">10/8/24 2:04 PM</td>
+<td style="font-weight: 400;" width="215">Mitch Daniels Blvd/Discovery Park</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
