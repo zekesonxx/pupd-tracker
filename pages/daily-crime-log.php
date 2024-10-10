@@ -667,7 +667,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, October 10, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="179">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01463</td>
+<td style="font-weight: 400;" width="168">10/9/24 10:30 AM</td>
+<td style="font-weight: 400;" width="166">10/9/24 3:15 PM</td>
+<td style="font-weight: 400;" width="215">Aerospace Engineering Science Lab</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU01466</td>
+<td style="font-weight: 400;" width="168">10/9/24 7:00 PM</td>
+<td style="font-weight: 400;" width="166">10/9/24 9:28 PM</td>
+<td style="font-weight: 400;" width="215">University Street Garage</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">False Informing</td>
+<td style="font-weight: 400;" width="154">2024PU01468</td>
+<td style="font-weight: 400;" width="168">10/10/24 12:49 AM</td>
+<td style="font-weight: 400;" width="166">10/10/24 1:05 AM</td>
+<td style="font-weight: 400;" width="215">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Drug Law Violation/ Operating While Intoxicated/ Traffic Violation</td>
+<td style="font-weight: 400;" width="154">2024PU01469</td>
+<td style="font-weight: 400;" width="168">10/10/24 2:11 AM</td>
+<td style="font-weight: 400;" width="166">10/10/24 3:08 AM</td>
+<td style="font-weight: 400;" width="215">Northwestern Ave/ W Stadium Ave</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-159232</td>
+<td style="font-weight: 400;" width="168">10/9/24 12:53 PM</td>
+<td style="font-weight: 400;" width="166">10/9/24 12:53 PM</td>
+<td style="font-weight: 400;" width="215">US HWY 231 S/R River Rd</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
