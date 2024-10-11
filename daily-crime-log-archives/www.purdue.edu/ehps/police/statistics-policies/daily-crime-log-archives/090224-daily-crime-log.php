@@ -1004,7 +1004,7 @@
 <td width="168">8/31/24 12:12 AM</td>
 <td width="166">8/31/24 1:24 AM</td>
 <td width="215">200 N Martin Jischke Dr</td>
-<td width="200">Arrest Made</td>
+<td width="200">Under Investigation</td>
 </tr>
 <tr>
 <td width="171">Operating While Intoxicated/ Minor Consumption</td>

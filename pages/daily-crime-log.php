@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			100724 WL Daily Crime Log - 
+			101424 WL Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -659,248 +659,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, October 11, 2024</h3>
+  					<h3>Friday, October 18, 2024</h3>
 Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, October 10, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="179">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Theft</td>
-<td style="font-weight: 400;" width="154">2024PU01463</td>
-<td style="font-weight: 400;" width="168">10/9/24 10:30 AM</td>
-<td style="font-weight: 400;" width="166">10/9/24 3:15 PM</td>
-<td style="font-weight: 400;" width="215">Aerospace Engineering Science Lab</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="154">2024PU01466</td>
-<td style="font-weight: 400;" width="168">10/9/24 7:00 PM</td>
-<td style="font-weight: 400;" width="166">10/9/24 9:28 PM</td>
-<td style="font-weight: 400;" width="215">University Street Garage</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">False Informing</td>
-<td style="font-weight: 400;" width="154">2024PU01468</td>
-<td style="font-weight: 400;" width="168">10/10/24 12:49 AM</td>
-<td style="font-weight: 400;" width="166">10/10/24 1:05 AM</td>
-<td style="font-weight: 400;" width="215">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Drug Law Violation/ Operating While Intoxicated/ Traffic Violation</td>
-<td style="font-weight: 400;" width="154">2024PU01469</td>
-<td style="font-weight: 400;" width="168">10/10/24 2:11 AM</td>
-<td style="font-weight: 400;" width="166">10/10/24 3:08 AM</td>
-<td style="font-weight: 400;" width="215">Northwestern Ave/ W Stadium Ave</td>
-<td style="font-weight: 400;" width="200">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Reckless Driver</td>
-<td style="font-weight: 400;" width="154">CAD# 2024-159232</td>
-<td style="font-weight: 400;" width="168">10/9/24 12:53 PM</td>
-<td style="font-weight: 400;" width="166">10/9/24 12:53 PM</td>
-<td style="font-weight: 400;" width="215">US HWY 231 S/R River Rd</td>
-<td style="font-weight: 400;" width="200">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, October 17, 2024</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, October 9, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="179">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Theft</td>
-<td style="font-weight: 400;" width="154">2024PU01452</td>
-<td style="font-weight: 400;" width="168">10/7/24 9:00 PM</td>
-<td style="font-weight: 400;" width="166">10/8/24 11:12 AM</td>
-<td style="font-weight: 400;" width="215">Tarkington Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Fraud</td>
-<td style="font-weight: 400;" width="154">2024PU01454</td>
-<td style="font-weight: 400;" width="168">6/22/24 12:00 PM</td>
-<td style="font-weight: 400;" width="166">10/8/24 1:47 PM</td>
-<td style="font-weight: 400;" width="215">2550 Northwestern Ave</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">2024PU01455</td>
-<td style="font-weight: 400;" width="168">10/6/24 1:00 PM</td>
-<td style="font-weight: 400;" width="166">10/8/24 2:19 PM</td>
-<td style="font-weight: 400;" width="215">Earhart Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="154">2024PU01456</td>
-<td style="font-weight: 400;" width="168">10/8/24 7:15 PM</td>
-<td style="font-weight: 400;" width="166">10/8/24 7:43 PM</td>
-<td style="font-weight: 400;" width="215">1200 Blk 1st St</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Theft-EMPV</td>
-<td style="font-weight: 400;" width="154">2024PU01457</td>
-<td style="font-weight: 400;" width="168">10/8/24 3:00 PM</td>
-<td style="font-weight: 400;" width="166">10/8/24 8:38 PM</td>
-<td style="font-weight: 400;" width="215">Rawls Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Drug Law Violation</td>
-<td style="font-weight: 400;" width="154">2024PU01458</td>
-<td style="font-weight: 400;" width="168">10/9/24 12:53 AM</td>
-<td style="font-weight: 400;" width="166">10/9/24 1:14 AM</td>
-<td style="font-weight: 400;" width="215">Owen Hall</td>
-<td style="font-weight: 400;" width="200">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Intimidation</td>
-<td style="font-weight: 400;" width="154">2024PU01459</td>
-<td style="font-weight: 400;" width="168">10/5/24 3:00 AM</td>
-<td style="font-weight: 400;" width="166">10/9/24 4:32 AM</td>
-<td style="font-weight: 400;" width="215">Earhart Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Reckless Driver</td>
-<td style="font-weight: 400;" width="154">CAD# 2024-158687</td>
-<td style="font-weight: 400;" width="168">10/8/24 2:04 PM</td>
-<td style="font-weight: 400;" width="166">10/8/24 2:04 PM</td>
-<td style="font-weight: 400;" width="215">Mitch Daniels Blvd/Discovery Park</td>
-<td style="font-weight: 400;" width="200">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, October 16, 2024</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday, October 8, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="179">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Reckless Driver</td>
-<td style="font-weight: 400;" width="154">CAD# 2024-156836</td>
-<td style="font-weight: 400;" width="168">10/4/24 10:22 PM</td>
-<td style="font-weight: 400;" width="166">10/4/24 10:22 PM</td>
-<td style="font-weight: 400;" width="215">Wood St Parking Garage</td>
-<td style="font-weight: 400;" width="200">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday, October 15, 2024</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, October 7, 2024</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="179">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;">Theft</td>
-<td style="font-weight: 400;">2024PU01445</td>
-<td style="font-weight: 400;">10/4/24 2:12 AM</td>
-<td style="font-weight: 400;">10/4/24 1:21 PM</td>
-<td style="font-weight: 400;">Stewart Center</td>
-<td style="font-weight: 400;">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Theft</td>
-<td style="font-weight: 400;">2024PU01446</td>
-<td style="font-weight: 400;">10/4/24 1:00 PM</td>
-<td style="font-weight: 400;">10/4/24 5:08 PM</td>
-<td style="font-weight: 400;">Purdue Memorial Union</td>
-<td style="font-weight: 400;">Unfounded</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Theft-Bike</td>
-<td style="font-weight: 400;">2024PU01447</td>
-<td style="font-weight: 400;">10/3/24 12:00 PM</td>
-<td style="font-weight: 400;">10/4/24 11:46 PM</td>
-<td style="font-weight: 400;">Continuum Apts</td>
-<td style="font-weight: 400;">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Burglary</td>
-<td style="font-weight: 400;" width="154">2024PU01448</td>
-<td style="font-weight: 400;" width="168">10/5/24 12:30 AM</td>
-<td style="font-weight: 400;" width="166">10/5/24 2:26 PM</td>
-<td style="font-weight: 400;" width="215">Alpha Tau Omega</td>
-<td style="font-weight: 400;">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Trespass</td>
-<td style="font-weight: 400;" width="154">2024PU01449</td>
-<td style="font-weight: 400;" width="168">10/5/24 9:08 PM</td>
-<td style="font-weight: 400;" width="166">10/5/24 9:35 PM</td>
-<td style="font-weight: 400;" width="215">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Theft</td>
-<td style="font-weight: 400;" width="154">2024PU01451</td>
-<td style="font-weight: 400;" width="168">10/4/24 10:00 PM</td>
-<td style="font-weight: 400;" width="166">10/6/24 12:07 PM</td>
-<td style="font-weight: 400;" width="215">Launch Campus Ministry House</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="179">Theft-Bike</td>
-<td style="font-weight: 400;" width="154">CAD# 2024-156636</td>
-<td style="font-weight: 400;" width="168">10/4/24 3:25 PM</td>
-<td style="font-weight: 400;" width="166">10/4/25 3:25 PM</td>
-<td style="font-weight: 400;" width="215">Delta Tau Delta</td>
-<td style="font-weight: 400;" width="200">Documented 2024WL02261</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Monday, October 14, 2024</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
