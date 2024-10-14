@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Friday, October 11, 2024</h3>
+  					<h3>Updated Monday, October 14, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -806,11 +806,6 @@
 <td width="204">Espey, Jacob D.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/22/28</td>
-</tr>
-<tr>
-<td width="204">Farmer, Carlos E.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">10/14/24</td>
 </tr>
 <tr>
 <td width="204">Ferguson, Elias-Chandler</td>
@@ -1764,7 +1759,9 @@
 
 		</footer>
 		
-		<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
+		<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/all.js"></script>
+<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/v4-shims.js"></script>
+<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
 		
 
             
