@@ -667,7 +667,7 @@
 <tr>
 <td style="font-weight: 400;" width="179">Theft-Bike</td>
 <td style="font-weight: 400;" width="154">2024PU01472</td>
-<td style="font-weight: 400;" width="168">9/28/2024&#160; Unknown Time</td>
+<td style="font-weight: 400;" width="168">9/28/24 10:00 PM</td>
 <td style="font-weight: 400;" width="166">10/10/24 1:35 PM</td>
 <td style="font-weight: 400;" width="215">Earhart Hall</td>
 <td style="font-weight: 400;" width="200">Under Investigation</td>
@@ -1451,7 +1451,9 @@
 
 		</footer>
 		
-		<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
+		<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/all.js"></script>
+<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/v4-shims.js"></script>
+<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
 		
 
             

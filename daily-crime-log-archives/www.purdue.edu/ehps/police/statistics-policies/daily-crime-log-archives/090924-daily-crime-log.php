@@ -718,7 +718,7 @@
 <td style="font-weight: 400;" width="168">9/13/24 1:04 AM</td>
 <td style="font-weight: 400;" width="166">9/13/24 1:35 AM</td>
 <td style="font-weight: 400;" width="215">Meredith South</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
@@ -1875,7 +1875,9 @@
 
 		</footer>
 		
-		<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
+		<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/all.js"></script>
+<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/v4-shims.js"></script>
+<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
 		
 
             

@@ -688,7 +688,202 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, October 14, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="179">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="179">Theft-EMPV</td>
+<td width="154">2024PU01480</td>
+<td width="168">10/4/24 5:00 PM</td>
+<td width="166">10/11/24 5:20 PM</td>
+<td width="215">Tarkington Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="179">Theft-Bike</td>
+<td width="154">2024PU01481</td>
+<td width="168">10/1/24 11:30 AM</td>
+<td width="166">10/11/24 8:24 PM</td>
+<td width="215">Potter Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="179">Theft-Bike</td>
+<td width="154">2024PU01482</td>
+<td width="168">10/11/24 10:21 PM</td>
+<td width="166">10/11/24 10:21 PM</td>
+<td width="215">CoRec</td>
+<td width="200">Unfounded</td>
+</tr>
+<tr>
+<td width="179">Minor Consumption</td>
+<td width="154">2024PU01484</td>
+<td width="168">10/12/24 1:06 AM</td>
+<td width="166">10/12/24 1:33 AM</td>
+<td width="215">Sigma Nu</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="179">Minor Consumption/ Drug Law Violations</td>
+<td width="154">2024PU01485</td>
+<td width="168">10/11/24 11:00 PM</td>
+<td width="166">10/12/24 2:01 AM</td>
+<td width="215">Aspire Apts</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="179">Minor Consumption</td>
+<td width="154">2024PU01487</td>
+<td width="168">10/12/24 2:42 AM</td>
+<td width="166">10/12/24 3:05 AM</td>
+<td width="215">Owen Hall</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="179">Minor Consumption</td>
+<td width="154">2024PU01488</td>
+<td width="168">10/12/24 2:52 AM</td>
+<td width="166">10/12/24 3:14 AM</td>
+<td width="215">Sigma Nu</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="179">Minor Consumption</td>
+<td width="154">2024PU01489</td>
+<td width="168">10/12/24 2:24 AM</td>
+<td width="166">10/12/24 3:38 AM</td>
+<td width="215">McCutcheon Hall</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="179">Criminal Mischief</td>
+<td width="154">2024PU01490</td>
+<td width="168">Unknown Date and Time</td>
+<td width="166">10/12/24 9:32 AM</td>
+<td width="215">Hillel House</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="179">Battery (Aggravated)</td>
+<td width="154">2024PU01494</td>
+<td width="168">10/12/24 10:24 PM</td>
+<td width="166">10/12/24 10:43 PM</td>
+<td width="215">Wood St Parking Garage</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="179">Theft-EMPV</td>
+<td width="154">2024PU01495</td>
+<td width="168">10/12/24 2:00 PM</td>
+<td width="166">10/12/24 10:43 PM</td>
+<td width="215">Honors College North</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="179">Criminal Mischief</td>
+<td width="154">2024PU01496</td>
+<td width="168">10/12/24 10:30 PM</td>
+<td width="166">10/12/24 11:58 PM</td>
+<td width="215">100 Blk Waldron St</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="179">Public Intoxication/ Minor Consumption</td>
+<td width="154">2024PU01498</td>
+<td width="168">10/13/24 1:24 AM</td>
+<td width="166">10/13/24 1:51 AM</td>
+<td width="215">1200 Blk Mitch Daniels Dr</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="179">Theft-EMPV</td>
+<td width="154">2024PU01499</td>
+<td width="168">10/13/24 4:00 AM</td>
+<td width="166">10/13/24 8:32 AM</td>
+<td width="215">Wilmeth Active Learning Center</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="179">Theft</td>
+<td width="154">2024PU01501</td>
+<td width="168">10/13/24 2:07 PM</td>
+<td width="166">10/13/24 3:00 PM</td>
+<td width="215">Earhart Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="179">Theft-EMPV</td>
+<td width="154">2024PU01502</td>
+<td width="168">10/13/24 12:38 AM</td>
+<td width="166">10/13/24 3:51 PM</td>
+<td width="215">Frieda Parker Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="179">Theft-Bike</td>
+<td width="154">2024PU01503</td>
+<td width="168">10/13/24 12:00 PM</td>
+<td width="166">10/13/24 4:19 PM</td>
+<td width="215">Harrison Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="179">Theft-Bike</td>
+<td width="154">2024PU01504</td>
+<td width="168">9/25/24 4:00 PM</td>
+<td width="166">10/13/24 5:12 PM</td>
+<td width="215">Harrison Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="179">Theft</td>
+<td width="154">2024PU01505</td>
+<td width="168">10/12/24 9:30 PM</td>
+<td width="166">10/13/24 5:34 PM</td>
+<td width="215">Wiley Dining Court</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="179">Drug Law Violation</td>
+<td width="154">CAD# 2024-160154</td>
+<td width="168">10/11/24 12:04 AM</td>
+<td width="166">10/11/24 12:04 AM</td>
+<td width="215">Owen Hall</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="179">Reckless Driver</td>
+<td width="154">CAD# 2024-160190</td>
+<td width="168">10/11/24 1:43 AM</td>
+<td width="166">10/11/24 1:43 AM</td>
+<td width="215">US HWY 231 S/S River Rd</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="179">Theft</td>
+<td width="154">CSA</td>
+<td width="168">10/3/24&#160; Unknown Time</td>
+<td width="166">10/12/24 4:00 PM</td>
+<td width="215">Shreve Hall</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="179">Stalking</td>
+<td width="154">CSA</td>
+<td width="168">Fall 2024</td>
+<td width="166">10/11/24 9:30 AM</td>
+<td width="215">Unknown On Campus Location</td>
+<td width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1202,7 +1397,9 @@ Will be posted soon.
 
 		</footer>
 		
-		<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
+		<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/all.js"></script>
+<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/v4-shims.js"></script>
+<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
 		
 
             

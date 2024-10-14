@@ -1022,7 +1022,7 @@
 <td width="168">9/14/24 4:44 AM</td>
 <td width="166">9/14/24 5:04 AM</td>
 <td width="215">Earhart Hall</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Theft-Bike</td>
@@ -1667,7 +1667,9 @@
 
 		</footer>
 		
-		<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
+		<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/all.js"></script>
+<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/v4-shims.js"></script>
+<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
 		
 
             
