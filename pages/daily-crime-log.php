@@ -681,7 +681,106 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, October 15, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="179">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01510</td>
+<td style="font-weight: 400;" width="168">10/11/24 4:00 PM</td>
+<td style="font-weight: 400;" width="166">10/14/24 11:44 AM</td>
+<td style="font-weight: 400;" width="215">Hilltop Apts</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Harassment</td>
+<td style="font-weight: 400;" width="154">2024PU01514</td>
+<td style="font-weight: 400;" width="168">10/14/24 4:15 PM</td>
+<td style="font-weight: 400;" width="166">10/14/24 4:41 PM</td>
+<td style="font-weight: 400;" width="215">Hillel House</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01515</td>
+<td style="font-weight: 400;" width="168">10/10/24 6:00 PM</td>
+<td style="font-weight: 400;" width="166">10/14/24 5:54 PM</td>
+<td style="font-weight: 400;" width="215">Beering Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-160656</td>
+<td style="font-weight: 400;" width="168">10/11/24 8:11 PM</td>
+<td style="font-weight: 400;" width="166">10/11/24 8:11 PM</td>
+<td style="font-weight: 400;" width="215">Earhart Hall</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-160887</td>
+<td style="font-weight: 400;" width="168">10/12/24 2:55 AM</td>
+<td style="font-weight: 400;" width="166">10/12/24 2:55 AM</td>
+<td style="font-weight: 400;" width="215">Wood St Parking Garage</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Trespassing</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-161283</td>
+<td style="font-weight: 400;" width="168">10/12/24 8:42 PM</td>
+<td style="font-weight: 400;" width="166">10/12/24 8:42 PM</td>
+<td style="font-weight: 400;" width="215">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Indecent Exposure</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-161316</td>
+<td style="font-weight: 400;" width="168">10/12/24 9:38 PM</td>
+<td style="font-weight: 400;" width="166">10/12/24 9:38 PM</td>
+<td style="font-weight: 400;" width="215">Joshua House</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Trespassing</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-161424</td>
+<td style="font-weight: 400;" width="168">10/13/24 1:47 AM</td>
+<td style="font-weight: 400;" width="166">10/13/24 1:47 AM</td>
+<td style="font-weight: 400;" width="215">300 Blk McCormick Rd</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Hit &amp; Run&#160;</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-161773</td>
+<td style="font-weight: 400;" width="168">10/13/24 9:17 PM</td>
+<td style="font-weight: 400;" width="166">10/13/24 9:17 PM</td>
+<td style="font-weight: 400;" width="215">Benchmark II</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-161827</td>
+<td style="font-weight: 400;" width="168">10/13/24 11:31 PM</td>
+<td style="font-weight: 400;" width="166">10/13/24 11:31 PM</td>
+<td style="font-weight: 400;" width="215">400 Blk N Russell St</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Fraud</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-161981</td>
+<td style="font-weight: 400;" width="168">10/14/24 9:52 AM</td>
+<td style="font-weight: 400;" width="166">10/14/24 9:52 AM</td>
+<td style="font-weight: 400;" width="215">Station 21</td>
+<td style="font-weight: 400;" width="200">Documented 2024WL02339</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
