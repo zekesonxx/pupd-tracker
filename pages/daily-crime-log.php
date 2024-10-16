@@ -674,7 +674,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, October 16, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="179">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01518</td>
+<td style="font-weight: 400;" width="168">10/15/24 1:24 PM</td>
+<td style="font-weight: 400;" width="166">10/15/24 1:57 PM</td>
+<td style="font-weight: 400;" width="215">Hillel House</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU01519</td>
+<td style="font-weight: 400;" width="168">10/1/24 12:01 AM</td>
+<td style="font-weight: 400;" width="166">10/15/24 7:17 PM</td>
+<td style="font-weight: 400;" width="215">Hilltop Apts</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01521</td>
+<td style="font-weight: 400;" width="168">10/15/24 8:05 PM</td>
+<td style="font-weight: 400;" width="166">10/15/24 10:17 PM</td>
+<td style="font-weight: 400;" width="215">Elliott Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01522</td>
+<td style="font-weight: 400;" width="168">10/15/24 7:30 PM</td>
+<td style="font-weight: 400;" width="166">10/16/24 1:20 AM</td>
+<td style="font-weight: 400;" width="215">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Fondling</td>
+<td style="font-weight: 400;" width="154">CSA</td>
+<td style="font-weight: 400;" width="168">Unknown</td>
+<td style="font-weight: 400;" width="166">10/15/24 12:00 AM</td>
+<td style="font-weight: 400;" width="215">On-Campus Housing</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -864,7 +915,7 @@ Will be posted soon.
 <tr>
 <td width="179">Criminal Mischief</td>
 <td width="154">2024PU01490</td>
-<td width="168">Unknown Date and Time</td>
+<td width="168">10/12/24 2:17 AM</td>
 <td width="166">10/12/24 9:32 AM</td>
 <td width="215">Hillel House</td>
 <td width="200">Under Investigation</td>
