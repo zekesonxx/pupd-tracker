@@ -611,6 +611,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log</h2>
 <ul>
+<li><a href="101424-daily-crime-log.php" title="101424 Daily Crime Log">Week of October 14, 2024</a></li>
 <li><a href="100724-daily-crime-log.php" title="100724 Daily Crime Log">Week of October 7, 2024</a></li>
 <li><a href="093024-daily-crime-log.php" title="093024 Daily Crime Log">Week of September 30, 2024</a></li>
 <li><a href="092324-daily-crime-log.php" title="092324 Daily Crime Log">Week of September 23, 2024</a></li>
@@ -1128,7 +1129,9 @@
 
 		</footer>
 		
-		<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
+		<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/all.js"></script>
+<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/v4-shims.js"></script>
+<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
 		
 
             
