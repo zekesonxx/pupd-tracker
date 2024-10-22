@@ -681,7 +681,90 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, October 22, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="192">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Threats</td>
+<td style="font-weight: 400;" width="154">2024PU01568</td>
+<td style="font-weight: 400;" width="168">10/21/24 9:45 AM</td>
+<td style="font-weight: 400;" width="166">10/21/24 9:45 AM</td>
+<td style="font-weight: 400;" width="215">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01569</td>
+<td style="font-weight: 400;" width="168">10/18/24 5:00 PM</td>
+<td style="font-weight: 400;" width="166">10/21/24 10:56 AM</td>
+<td style="font-weight: 400;" width="215">Hilltop Apts</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01570</td>
+<td style="font-weight: 400;" width="168">10/18/24 5:00 PM</td>
+<td style="font-weight: 400;" width="166">10/21/24 10:56 AM</td>
+<td style="font-weight: 400;" width="215">Hilltop Apts</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01571</td>
+<td style="font-weight: 400;" width="168">10/21/24 11:21 AM</td>
+<td style="font-weight: 400;" width="166">10/21/24 12:07 PM</td>
+<td style="font-weight: 400;" width="215">Northwestern Parking Garage</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01575</td>
+<td style="font-weight: 400;" width="168">10/21/24 2:45 PM</td>
+<td style="font-weight: 400;" width="166">10/21/24 6:27 PM</td>
+<td style="font-weight: 400;" width="215">Dudley Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Battery</td>
+<td style="font-weight: 400;" width="154">2024PU01576</td>
+<td style="font-weight: 400;" width="168">10/19/24 12:30 AM</td>
+<td style="font-weight: 400;" width="166">10/21/24 6:34 PM</td>
+<td style="font-weight: 400;" width="215">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Public Intoxication</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-164724</td>
+<td style="font-weight: 400;" width="168">10/19/24 12:14 AM</td>
+<td style="font-weight: 400;" width="166">10/19/24 12:14 AM</td>
+<td style="font-weight: 400;" width="215">Convergence Center</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Reckless Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-164951</td>
+<td style="font-weight: 400;" width="168">10/19/24 12:51 PM</td>
+<td style="font-weight: 400;" width="166">10/19/24 12:51 PM</td>
+<td style="font-weight: 400;" width="215">Harrison St/S Russell St</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Drug Law Violation</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-165192</td>
+<td style="font-weight: 400;" width="168">10/19/24 10:08 PM</td>
+<td style="font-weight: 400;" width="166">10/19/24 10:08 PM</td>
+<td style="font-weight: 400;" width="215">Owen Hall</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
