@@ -1243,6 +1243,11 @@
 <td width="76">9/17/25</td>
 </tr>
 <tr>
+<td width="204">Yang, Vincent O.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">10/21/25</td>
+</tr>
+<tr>
 <td width="204">Zepeda, Damian G.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">3/25/25</td>
