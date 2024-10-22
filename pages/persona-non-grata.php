@@ -1043,6 +1043,11 @@
 <td width="76">1/25/29</td>
 </tr>
 <tr>
+<td width="204">Pence, Jeffrey L.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">10/22/25</td>
+</tr>
+<tr>
 <td width="204">Pitt, Spencer A.</td>
 <td width="211">Krach and PMU</td>
 <td width="76">1/23/25</td>
