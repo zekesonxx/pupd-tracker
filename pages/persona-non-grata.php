@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Tuesday, October 22, 2024</h3>
+  					<h3>Updated Wednesday, October 23, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -936,6 +936,11 @@
 <td width="204">King, Christopher L.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">11/27/24</td>
+</tr>
+<tr>
+<td width="204">Landrum, Nicholas W.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">10/23/29</td>
 </tr>
 <tr>
 <td width="204">Lavalley, Joseph</td>
@@ -1246,6 +1251,11 @@
 <td width="204">Yang, Vincent O.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">10/21/25</td>
+</tr>
+<tr>
+<td width="204">Yu, Dalton</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">10/22/25</td>
 </tr>
 <tr>
 <td width="204">Zepeda, Damian G.</td>

@@ -674,7 +674,82 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, October 23, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="192">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="192">Reckless Driving/ Criminal Recklessness</td>
+<td width="154">2024PU01579</td>
+<td width="168">10/22/24 5:57 AM</td>
+<td width="166">10/22/24 5:57 AM</td>
+<td width="215">Airport Rd/ Mitch Daniels Blvd</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="192">Theft-Bike</td>
+<td width="154">2024PU01581</td>
+<td width="168">10/20/24 12:00 PM</td>
+<td width="166">10/22/24 2:08 PM</td>
+<td width="215">Hawkins Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Theft</td>
+<td width="154">2024PU01582</td>
+<td width="168">10/22/24 3:20 PM</td>
+<td width="166">10/22/24 4:06 PM</td>
+<td width="215">Hawkins Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Hit &amp; Run</td>
+<td width="154">2024PU01583</td>
+<td width="168">10/7/24 5:17 PM</td>
+<td width="166">10/22/24 5:54 PM</td>
+<td width="215">N Martin Jishcke Dr/ Tower Dr</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Theft-Bike</td>
+<td width="154">2024PU01584</td>
+<td width="168">10/22/24 4:42 PM</td>
+<td width="166">10/22/24 6:28 PM</td>
+<td width="215">CoRec</td>
+<td width="200">Unfounded</td>
+</tr>
+<tr>
+<td width="192">Theft-Bike</td>
+<td width="154">2024PU01585</td>
+<td width="168">10/22/24 4:40 PM</td>
+<td width="166">10/22/24 11:15 PM</td>
+<td width="215">CoRec</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">False Informing</td>
+<td width="154">2024PU01586</td>
+<td width="168">10/23/24 12:07 AM</td>
+<td width="166">10/23/24 12:20 AM</td>
+<td width="215">Purdue Union Club Hotel</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Voyeurism</td>
+<td width="154">2024PU01587</td>
+<td width="168">10/21/24 10:30 PM</td>
+<td width="166">10/23/24 1:51 AM</td>
+<td width="215">Hillenbrand Hall</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

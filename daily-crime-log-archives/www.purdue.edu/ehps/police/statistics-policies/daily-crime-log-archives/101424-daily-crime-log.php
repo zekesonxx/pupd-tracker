@@ -1030,7 +1030,7 @@
 <td width="168">10/12/24 2:24 AM</td>
 <td width="166">10/12/24 3:38 AM</td>
 <td width="215">McCutcheon Hall</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="179">Criminal Mischief</td>
@@ -1069,8 +1069,8 @@
 <td width="154">2024PU01498</td>
 <td width="168">10/13/24 1:24 AM</td>
 <td width="166">10/13/24 1:51 AM</td>
-<td width="215">1200 Blk Mitch Daniels Dr</td>
-<td width="200">Arrest Made</td>
+<td width="215">1200 Blk Mitch Daniels Blvd</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="179">Theft-EMPV</td>

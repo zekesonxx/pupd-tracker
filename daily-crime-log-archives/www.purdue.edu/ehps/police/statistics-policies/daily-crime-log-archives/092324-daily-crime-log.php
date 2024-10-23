@@ -1078,7 +1078,7 @@
 <td style="font-weight: 400;" width="129">9/22/24 12:47 AM</td>
 <td style="font-weight: 400;" width="129">9/11/24 1:14 AM</td>
 <td style="font-weight: 400;" width="167">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="185">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="185">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="153">Theft-Bike</td>
@@ -1635,7 +1635,9 @@
 
 		</footer>
 		
-		<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
+		<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/all.js"></script>
+<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/v4-shims.js"></script>
+<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
 		
 
             
