@@ -998,7 +998,7 @@
 <td width="168">10/12/24 1:06 AM</td>
 <td width="166">10/12/24 1:33 AM</td>
 <td width="215">Sigma Nu</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="179">Minor Consumption/ Drug Law Violations</td>
@@ -1006,7 +1006,7 @@
 <td width="168">10/11/24 11:00 PM</td>
 <td width="166">10/12/24 2:01 AM</td>
 <td width="215">Aspire Apts</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="179">Minor Consumption</td>

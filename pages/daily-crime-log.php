@@ -667,7 +667,98 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, October 24, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="192">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="192">Intimidation/ Battery</td>
+<td width="154">2024PU01589</td>
+<td width="168">10/23/24 7:38 AM</td>
+<td width="166">10/23/24 9:35 AM</td>
+<td width="215">1400 Mitch Daniels Blvd</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="192">Theft</td>
+<td width="154">2024PU01592</td>
+<td width="168">10/22/24 4:00 PM</td>
+<td width="166">10/23/24 2:57 PM</td>
+<td width="215">Horticulture Building</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Traffic Violation</td>
+<td width="154">2024PU01593</td>
+<td width="168">10/23/24 1:25 PM</td>
+<td width="166">10/23/24 1:25 PM</td>
+<td width="215">Wood St Garage</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Theft-EMPV</td>
+<td width="154">2024PU01595</td>
+<td width="168">10/22/24 8:30 PM</td>
+<td width="166">10/23/24 7:45 PM</td>
+<td width="215">First St Towers</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Theft</td>
+<td width="154">2024PU01596</td>
+<td width="168">10/23/24 9:00 PM</td>
+<td width="166">10/23/24 10:00 PM</td>
+<td width="215">CoRec</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Theft-EMPV</td>
+<td width="154">2024PU01597</td>
+<td width="168">10/24/24 8:31 AM</td>
+<td width="166">10/24/24 2:15 AM</td>
+<td width="215">Potter Center</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Theft-EMPV</td>
+<td width="154">2024PU01598</td>
+<td width="168">10/23/24 12:02 PM</td>
+<td width="166">10/24/24 2:38 AM</td>
+<td width="215">Wetherill Laboratory</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Harassment</td>
+<td width="154">2024PU01602</td>
+<td width="168">10/24/24 3:37 PM</td>
+<td width="166">10/24/24 3:38 PM</td>
+<td width="215">Aspire</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Fondling</td>
+<td width="154">CSA</td>
+<td width="168">10/4/24-10/13/2024</td>
+<td width="166">10/23/24 9:00 AM</td>
+<td width="215">On-Campus Housing</td>
+<td width="200">Nothing Further</td>
+</tr>
+<tr>
+<td width="192">Battery (Simple)</td>
+<td width="154">CSA</td>
+<td width="168">10/19/2024 Unknown Time</td>
+<td width="166">10/23/24 7:30 PM</td>
+<td width="215">Harrison Hall</td>
+<td width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -918,7 +1009,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="168">10/19/24 1:36 AM</td>
 <td style="font-weight: 400;" width="166">10/19/24 2:09 AM</td>
 <td style="font-weight: 400;" width="215">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Drug Law Violation</td>
