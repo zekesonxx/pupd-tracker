@@ -1014,7 +1014,7 @@
 <td width="168">9/14/24 1:14 AM</td>
 <td width="166">9/14/24 2:34 AM</td>
 <td width="215">Duhme Hall</td>
-<td width="200">Arrest Made</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Minor Consumption</td>

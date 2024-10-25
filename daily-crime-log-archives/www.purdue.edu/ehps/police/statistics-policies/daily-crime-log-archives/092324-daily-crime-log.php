@@ -1038,7 +1038,7 @@
 <td style="font-weight: 400;" width="129">9/21/24 2:20 AM</td>
 <td style="font-weight: 400;" width="129">9/21/24 2:41 AM</td>
 <td style="font-weight: 400;" width="167">Honors College North</td>
-<td style="font-weight: 400;" width="185">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="185">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="153">Minor Consumption</td>
