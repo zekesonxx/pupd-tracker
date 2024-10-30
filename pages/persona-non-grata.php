@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Wednesday, October 28, 2024</h3>
+  					<h3>Updated Wednesday, October 30, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1266,11 +1266,6 @@
 <td width="204">Zhang, Maosheng</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">6/13/25</td>
-</tr>
-<tr>
-<td width="204">Zhou, Xiaojia</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">10/9/25</td>
 </tr>
 <tr>
 <td width="204">Ziegler, Jonathan J.</td>

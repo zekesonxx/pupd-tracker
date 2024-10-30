@@ -852,7 +852,7 @@
 <td style="font-weight: 400;" width="168">9/6/24 8:30 PM</td>
 <td style="font-weight: 400;" width="166">9/16/24 1:15 PM</td>
 <td style="font-weight: 400;" width="215">Slayter Hill</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Hit &amp; Run</td>

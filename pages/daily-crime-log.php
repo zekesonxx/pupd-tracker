@@ -674,7 +674,218 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, October 30, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="192">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01640</td>
+<td style="font-weight: 400;" width="168">10/25/24 12:16 PM</td>
+<td style="font-weight: 400;" width="166">10/29/24 11:13 AM</td>
+<td style="font-weight: 400;" width="215">Honors College North</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01643</td>
+<td style="font-weight: 400;" width="168">10/29/24 11:30 AM</td>
+<td style="font-weight: 400;" width="166">10/29/24 2:57 PM</td>
+<td style="font-weight: 400;" width="215">500 Blk Northwestern Ave</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01644</td>
+<td style="font-weight: 400;" width="168">10/22/24 4:00 PM</td>
+<td style="font-weight: 400;" width="166">10/29/24 3:10 PM</td>
+<td style="font-weight: 400;" width="215">Beering Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01645</td>
+<td style="font-weight: 400;" width="168">10/28/24 4:30 PM</td>
+<td style="font-weight: 400;" width="166">10/29/24 3:48 PM</td>
+<td style="font-weight: 400;" width="215">Beering Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01646</td>
+<td style="font-weight: 400;" width="168">10/29/24 9:33 AM</td>
+<td style="font-weight: 400;" width="166">10/29/24 4:32 PM</td>
+<td style="font-weight: 400;" width="215">1300 Blk Beering Dr</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01647</td>
+<td style="font-weight: 400;" width="168">10/29/24 3:45 PM</td>
+<td style="font-weight: 400;" width="166">10/29/24 5:30 PM</td>
+<td style="font-weight: 400;" width="215">Stewart Center</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01649</td>
+<td style="font-weight: 400;" width="168">10/18/24 11:30 AM</td>
+<td style="font-weight: 400;" width="166">10/29/24 7:58 PM</td>
+<td style="font-weight: 400;" width="215">Warren Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01650</td>
+<td style="font-weight: 400;" width="168">10/29/24 5:00 PM</td>
+<td style="font-weight: 400;" width="166">10/29/24 8:32 PM</td>
+<td style="font-weight: 400;" width="215">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01651</td>
+<td style="font-weight: 400;" width="168">10/29/24 9:45 AM</td>
+<td style="font-weight: 400;" width="166">10/29/24 8:48 PM</td>
+<td style="font-weight: 400;" width="215">Physics Building</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01652</td>
+<td style="font-weight: 400;" width="168">10/28/24 6:30 PM</td>
+<td style="font-weight: 400;" width="166">10/29/24 10:30 PM</td>
+<td style="font-weight: 400;" width="215">Aspire Apts</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU01653</td>
+<td style="font-weight: 400;" width="168">10/30/24 1:02 AM</td>
+<td style="font-weight: 400;" width="166">10/30/24 1:28 AM</td>
+<td style="font-weight: 400;" width="215">Earhart Hall</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01654</td>
+<td style="font-weight: 400;" width="168">10/28/24 7:03 AM</td>
+<td style="font-weight: 400;" width="166">10/30/24 2:20 AM</td>
+<td style="font-weight: 400;" width="215">Aspire Apts</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referrals</td>
+<td style="font-weight: 400;">10/4/24 11:30 PM</td>
+<td style="font-weight: 400;">10/5/24 12:09 AM</td>
+<td style="font-weight: 400;">Earhart Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referrals</td>
+<td style="font-weight: 400;">10/11/24 12:00 AM</td>
+<td style="font-weight: 400;">10/11/24 1:08 AM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">8 Disciplinary Referrals</td>
+<td style="font-weight: 400;">10/11/24 10:15 PM</td>
+<td style="font-weight: 400;">10/11/24 11:24 PM</td>
+<td style="font-weight: 400;">Frieda Parker Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">10/11/24 11:00 PM</td>
+<td style="font-weight: 400;">10/14/24 6:43 PM</td>
+<td style="font-weight: 400;">Aspire Apts</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referrals</td>
+<td style="font-weight: 400;">10/13/24 1:00 AM</td>
+<td style="font-weight: 400;">10/13/24 3:49 AM</td>
+<td style="font-weight: 400;">Aspire Apts</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">10 Disciplinary Referrals</td>
+<td style="font-weight: 400;">10/13/24 2:00 AM</td>
+<td style="font-weight: 400;">10/13/24 3:49 AM</td>
+<td style="font-weight: 400;">Aspire Apts</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">4 Disciplinary Referrals</td>
+<td style="font-weight: 400;">10/18/24 10:40 PM</td>
+<td style="font-weight: 400;">10/18/24 11:32 PM</td>
+<td style="font-weight: 400;">Harrison Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">5 Disciplinary Referrals</td>
+<td style="font-weight: 400;">10/19/24 12:30 AM</td>
+<td style="font-weight: 400;">10/19/24 1:22 AM</td>
+<td style="font-weight: 400;">Earhart Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referrals</td>
+<td style="font-weight: 400;">10/19/24 12:30 AM</td>
+<td style="font-weight: 400;">10/19/24 2:24 AM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">12 Disciplinary Referrals</td>
+<td style="font-weight: 400;">10/19/24 1:00 AM</td>
+<td style="font-weight: 400;">10/19/24 1:55 AM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">3 Disciplinary Referrals</td>
+<td style="font-weight: 400;">10/19/24 9:50 PM</td>
+<td style="font-weight: 400;">10/20/24 12:23 AM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">6 Disciplinary Referrals</td>
+<td style="font-weight: 400;">10/20/24 1:40 AM</td>
+<td style="font-weight: 400;">10/20/24 2:05 AM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disiplinary Referral</td>
+<td style="font-weight: 400;">10/21/24 9:00 PM</td>
+<td style="font-weight: 400;">10/21/24 10:05 PM</td>
+<td style="font-weight: 400;">Provenance Apts</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -819,7 +1030,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="168">10/26/24 1:46 AM</td>
 <td style="font-weight: 400;" width="166">10/26/24 2:12 AM</td>
 <td style="font-weight: 400;" width="215">Honors College South</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Minor Consumption</td>
@@ -827,7 +1038,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="168">10/26/24 3:12 AM</td>
 <td style="font-weight: 400;" width="166">10/26/24 3:28 AM</td>
 <td style="font-weight: 400;" width="215">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Theft-Bike</td>
@@ -867,7 +1078,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="168">10/27/24 1:13 AM</td>
 <td style="font-weight: 400;" width="166">10/27/24 2:56 AM</td>
 <td style="font-weight: 400;" width="215">Honors College South</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Minor Consumption</td>

@@ -646,7 +646,7 @@
 <td style="font-weight: 400;" width="168">10/17/24 9:39 AM</td>
 <td style="font-weight: 400;" width="166">10/17/24 10:51 AM</td>
 <td style="font-weight: 400;" width="215">Cary Quadrangle</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Theft</td>
@@ -1022,7 +1022,7 @@
 <td width="168">10/12/24 2:52 AM</td>
 <td width="166">10/12/24 3:14 AM</td>
 <td width="215">Sigma Nu</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="179">Minor Consumption</td>

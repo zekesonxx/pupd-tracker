@@ -1150,7 +1150,7 @@
 <td style="font-weight: 400;" width="168">10/20/24 2:26 AM</td>
 <td style="font-weight: 400;" width="166">10/20/24 2:46 AM</td>
 <td style="font-weight: 400;" width="215">Cary Quadrangle</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Minor Consumption</td>
@@ -1158,7 +1158,7 @@
 <td style="font-weight: 400;" width="168">10/20/24 7:08 AM</td>
 <td style="font-weight: 400;" width="166">10/20/24 8:13 AM</td>
 <td style="font-weight: 400;" width="215">Owen Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Theft</td>
