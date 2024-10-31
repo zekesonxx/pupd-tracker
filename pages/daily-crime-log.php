@@ -667,7 +667,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, October 31, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="192">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="192">Theft-EMPV</td>
+<td width="154">2024PU01661</td>
+<td width="168">10/30/24 11:05 AM</td>
+<td width="166">10/30/24 3:29 PM</td>
+<td width="215">CoRec</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Theft-Bike</td>
+<td width="154">2024PU01662</td>
+<td width="168">10/23/24 1:45 PM</td>
+<td width="166">10/30/24 5:01 PM</td>
+<td width="215">McCutcheon Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Drug Law Violation</td>
+<td width="154">CAD# 2024-169820</td>
+<td width="168">10/28/24 11:49 AM</td>
+<td width="166">10/28/24 1:07 PM</td>
+<td width="215">Mitch Daniels Blvd/ N MacArthur Dr</td>
+<td width="200">Documented in 2024WL02461</td>
+</tr>
+<tr>
+<td width="192">Road Rage</td>
+<td width="154">CAD# 2024-170920</td>
+<td width="168">10/30/24 8:47 AM</td>
+<td width="166">10/30/24 8:47 AM</td>
+<td width="215">US HWY 231 S/S Martin Jischke Dr</td>
+<td width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
