@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Wednesday, October 30, 2024</h3>
+  					<h3>Updated Wednesday, October 31, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -666,6 +666,11 @@
 <td width="204">Albee, Neil C.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">2/25/25</td>
+</tr>
+<tr>
+<td width="204">Alcala, Erika</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">10/31/25</td>
 </tr>
 <tr>
 <td width="204">Ang, Yock A.</td>
