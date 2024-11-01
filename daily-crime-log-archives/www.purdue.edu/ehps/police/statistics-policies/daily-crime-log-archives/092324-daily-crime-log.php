@@ -712,7 +712,7 @@
 <td style="font-weight: 400;" width="168">9/25/24 11:26 AM</td>
 <td style="font-weight: 400;" width="166">9/25/24 12:21 PM</td>
 <td style="font-weight: 400;" width="215">400 Blk Central Dr</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;">Theft/ Criminal Mischief</td>

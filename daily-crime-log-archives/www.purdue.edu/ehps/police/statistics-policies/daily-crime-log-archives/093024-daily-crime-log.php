@@ -1046,7 +1046,7 @@
 <td style="font-weight: 400;" width="168">9/27/24 11:34 PM</td>
 <td style="font-weight: 400;" width="166">9/28/24 12:00 AM</td>
 <td style="font-weight: 400;" width="215">Beta Sigma Psi</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="179">Minor Consumption</td>
@@ -1054,7 +1054,7 @@
 <td style="font-weight: 400;" width="168">9/28/24 12:25 AM</td>
 <td style="font-weight: 400;" width="166">9/28/24 12:44 AM</td>
 <td style="font-weight: 400;" width="215">Warren Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="179">Attempted Theft</td>
