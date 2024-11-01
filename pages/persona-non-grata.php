@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Wednesday, October 31, 2024</h3>
+  					<h3>Updated Friday, November 1, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -821,6 +821,11 @@
 <td width="204">Fleming, Owen S.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">10/4/29</td>
+</tr>
+<tr>
+<td width="204">Ford, Natalie J.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">11/1/25</td>
 </tr>
 <tr>
 <td width="204">Freeland, Wesley</td>
