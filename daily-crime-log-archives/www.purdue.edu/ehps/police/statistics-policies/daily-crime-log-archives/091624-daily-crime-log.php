@@ -990,7 +990,7 @@
 <td width="168">9/13/24 11:51 PM</td>
 <td width="166">9/14/24 12:15 AM</td>
 <td width="215">Mitch Daniels Blvd/McCormick Rd</td>
-<td width="200">Under Investigation</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="171">Minor Consumption</td>
