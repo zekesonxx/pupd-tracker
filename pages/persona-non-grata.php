@@ -1238,11 +1238,6 @@
 <td width="76">9/18/25</td>
 </tr>
 <tr>
-<td width="204">Vondersaar, Michael D.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">10/21/25</td>
-</tr>
-<tr>
 <td width="204">Walker, Mark E.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">7/26/25</td>
