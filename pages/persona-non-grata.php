@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Friday, November 1, 2024</h3>
+  					<h3>Updated Wedneday, November 6, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -946,6 +946,11 @@
 <td width="204">King, Christopher L.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">11/27/24</td>
+</tr>
+<tr>
+<td width="204">Lai, Yuet C.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">11/6/25</td>
 </tr>
 <tr>
 <td width="204">Landrum, Nicholas W.</td>

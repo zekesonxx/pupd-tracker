@@ -674,7 +674,82 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, November 6, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="192">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="192">Theft-EMPV</td>
+<td width="154">2024PU01719</td>
+<td width="168">11/4/24 9:30 PM</td>
+<td width="166">11/5/24 9:01 AM</td>
+<td width="215">Earhart Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Theft</td>
+<td width="154">2024PU01720</td>
+<td width="168">11/2/24 3:00 PM</td>
+<td width="166">11/5/24 10:22 AM</td>
+<td width="215">Ross-Ade Stadium</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Theft-Bike</td>
+<td width="154">2024PU01721</td>
+<td width="168">11/4/24 6:00 PM</td>
+<td width="166">11/5/24 2:59 PM</td>
+<td width="215">Wiley Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">False Informing</td>
+<td width="154">2024PU01722</td>
+<td width="168">11/5/24 3:33 PM</td>
+<td width="166">11/5/24 3:48 PM</td>
+<td width="215">Physics Building</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Theft</td>
+<td width="154">2024PU01723</td>
+<td width="168">10/28/24 8:00 AM</td>
+<td width="166">11/5/24 4:48 PM</td>
+<td width="215">Telecommunications Building</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Harassment</td>
+<td width="154">2024PU01725</td>
+<td width="168">11/4/24 3:30 PM</td>
+<td width="166">11/5/24 11:19 PM</td>
+<td width="215">Wiley Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="192">Aggravated Assault</td>
+<td width="154">CAD# 2024-174012</td>
+<td width="168">11/4/24 10:01 AM</td>
+<td width="166">11/4/24 10:01 AM</td>
+<td width="215">500 Blk Northwestern Ave</td>
+<td width="200">Documented 2024WL02537</td>
+</tr>
+<tr>
+<td width="192">Reckless Driver</td>
+<td width="154">CAD# 2024-174725</td>
+<td width="168">11/5/24 12:06 PM</td>
+<td width="166">11/5/24 12:06 PM</td>
+<td width="215">Harrison St/Martin Jischke Dr</td>
+<td width="200">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -692,7 +767,7 @@ Will be posted soon.
 <th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="192">Theft-Bike</td>
+<td style="font-weight: 400;" width="192">Theft-EMPV</td>
 <td style="font-weight: 400;" width="154">2024PU01710</td>
 <td style="font-weight: 400;" width="168">11/1/24 12:00 AM</td>
 <td style="font-weight: 400;" width="166">11/4/24 9:20 AM</td>

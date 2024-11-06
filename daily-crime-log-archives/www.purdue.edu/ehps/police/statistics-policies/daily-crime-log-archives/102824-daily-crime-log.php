@@ -657,12 +657,12 @@
 <td style="font-weight: 400;" width="200">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="192">Theft</td>
+<td style="font-weight: 400;" width="192">Attempted Theft</td>
 <td style="font-weight: 400;" width="154">2024PU01667</td>
 <td style="font-weight: 400;" width="168">10/31/24 2:00 PM</td>
 <td style="font-weight: 400;" width="166">10/31/24 2:57 PM</td>
 <td style="font-weight: 400;" width="215">Earhart Hall</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Drug Law Violation</td>
