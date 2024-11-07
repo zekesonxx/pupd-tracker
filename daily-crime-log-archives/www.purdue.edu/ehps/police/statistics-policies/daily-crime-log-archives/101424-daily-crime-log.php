@@ -1014,7 +1014,7 @@
 <td width="168">10/12/24 2:42 AM</td>
 <td width="166">10/12/24 3:05 AM</td>
 <td width="215">Owen Hall</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="179">Minor Consumption</td>

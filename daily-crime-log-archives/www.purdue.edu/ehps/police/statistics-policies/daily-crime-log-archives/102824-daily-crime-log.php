@@ -686,7 +686,7 @@
 <td style="font-weight: 400;" width="168">10/31/24 10:53 PM</td>
 <td style="font-weight: 400;" width="166">10/31/24 11:18 PM</td>
 <td style="font-weight: 400;" width="215">Meredith Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Drug Law Violation</td>

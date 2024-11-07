@@ -667,7 +667,34 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, November 7, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="192">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">2024PU01729</td>
+<td style="font-weight: 400;" width="168">11/6/24 7:50 AM</td>
+<td style="font-weight: 400;" width="166">11/6/24 3:46 PM</td>
+<td style="font-weight: 400;" width="215">1200 Blk W Stadium Ave</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="192">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01735</td>
+<td style="font-weight: 400;" width="168">11/7/24 12:30 AM</td>
+<td style="font-weight: 400;" width="166">11/7/24 2:43 AM</td>
+<td style="font-weight: 400;" width="215">Tarkington Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -947,7 +974,7 @@ Will be posted soon.
 <tr>
 <td style="font-weight: 400;" width="192">Theft-EMPV</td>
 <td style="font-weight: 400;" width="154">2024PU01696</td>
-<td style="font-weight: 400;" width="168">11/2/24 12:55 AM</td>
+<td style="font-weight: 400;" width="168">11/1/24 9:39 PM</td>
 <td style="font-weight: 400;" width="166">11/2/24 1:04 AM</td>
 <td style="font-weight: 400;" width="215">Purdue Memorial Union</td>
 <td style="font-weight: 400;" width="200">Under Investigation</td>
@@ -958,7 +985,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="168">11/2/24 1:16 AM</td>
 <td style="font-weight: 400;" width="166">11/2/24 1:33 AM</td>
 <td style="font-weight: 400;" width="215">Cary Quadrangle</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Minor Consumption</td>
@@ -982,7 +1009,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="168">11/2/24 11:46 PM</td>
 <td style="font-weight: 400;" width="166">11/3/24 12:21 AM</td>
 <td style="font-weight: 400;" width="215">Earhart Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Minor Consumption</td>
