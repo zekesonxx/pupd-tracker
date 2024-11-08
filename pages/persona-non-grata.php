@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Thursday, November 7, 2024</h3>
+  					<h3>Updated Friday, November 8, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1265,7 +1265,7 @@
 <tr>
 <td width="204">Yu, Dalton</td>
 <td width="211">Entire WL Purdue Campus</td>
-<td width="76">10/22/25</td>
+<td width="76">11/8/29</td>
 </tr>
 <tr>
 <td width="204">Zepeda, Damian G.</td>
