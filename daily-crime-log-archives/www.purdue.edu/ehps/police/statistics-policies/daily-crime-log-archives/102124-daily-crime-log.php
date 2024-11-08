@@ -694,7 +694,7 @@
 <td style="font-weight: 400;" width="168">10/24/24 10:05 PM</td>
 <td style="font-weight: 400;" width="166">10/24/24 10:35 PM</td>
 <td style="font-weight: 400;" width="215">Honors College North</td>
-<td style="font-weight: 400;" width="200">Arrest Made</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Theft-EMPV</td>
