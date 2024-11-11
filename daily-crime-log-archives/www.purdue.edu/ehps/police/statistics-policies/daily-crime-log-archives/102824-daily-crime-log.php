@@ -710,7 +710,7 @@
 <td style="font-weight: 400;" width="168">11/1/24 12:11 AM</td>
 <td style="font-weight: 400;" width="166">11/1/24 12:34 AM</td>
 <td style="font-weight: 400;" width="215">Hilltop Apts</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Minor Consumption</td>
@@ -906,7 +906,7 @@
 <td style="font-weight: 400;" width="168">10/30/24 1:02 AM</td>
 <td style="font-weight: 400;" width="166">10/30/24 1:28 AM</td>
 <td style="font-weight: 400;" width="215">Earhart Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Theft-Bike</td>
@@ -1222,7 +1222,7 @@
 <td style="font-weight: 400;" width="168">10/27/24 2:45 AM</td>
 <td style="font-weight: 400;" width="166">10/27/24 2:59 AM</td>
 <td style="font-weight: 400;" width="215">Alpha Sigma Phi</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Criminal Mischief</td>

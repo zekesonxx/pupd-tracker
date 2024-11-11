@@ -1118,7 +1118,7 @@
 <td width="168">9/15/24 12:00 AM</td>
 <td width="166">9/15/24 3:47 PM</td>
 <td width="215">1200 Blk 1st St</td>
-<td width="200">Under Investigation</td>
+<td width="200">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td width="171">Drug Law Violation</td>

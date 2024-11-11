@@ -688,7 +688,226 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, November 11, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="212">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="212">Trespass</td>
+<td width="154">2024PU01747</td>
+<td width="168">11/5/24 5:59 PM</td>
+<td width="166">11/8/24 8:48 AM</td>
+<td width="215">Rawls Hall</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="212">Theft-EMPV</td>
+<td width="154">2024PU01748</td>
+<td width="168">11/7/24 8:45 PM</td>
+<td width="166">11/8/24 11:34 AM</td>
+<td width="215">Honors College</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="212">Drug Law Violation</td>
+<td width="154">2024PU01750</td>
+<td width="168">11/8/24 11:49 PM</td>
+<td width="166">11/9/24 12:05 AM</td>
+<td width="215">Meredith South Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="212">Minor Consumption</td>
+<td width="154">2024PU01751</td>
+<td width="168">11/9/24 12:37 AM</td>
+<td width="166">11/9/24 12:52 AM</td>
+<td width="215">Wiley Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="212">Minor Consumption</td>
+<td width="154">2024PU01752</td>
+<td width="168">11/9/24 12:37 AM</td>
+<td width="166">11/9/24 1:02 AM</td>
+<td width="215">Tarkington Hall</td>
+<td width="200">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="212">Theft-Bike</td>
+<td width="154">2024PU01753</td>
+<td width="168">11/8/24 5:00 PM</td>
+<td width="166">11/9/24 3:48 PM</td>
+<td width="215">Wilmeth Active Learning Center</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="212">Public Intoxication</td>
+<td width="154">2024PU01757</td>
+<td width="168">11/10/24 2:13 AM</td>
+<td width="166">11/10/24 3:09 AM</td>
+<td width="215">Harrison St/S Martin Jischke Dr</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="212">Theft-Bike</td>
+<td width="154">2024PU01758</td>
+<td width="168">11/8/24 10:00 PM</td>
+<td width="166">11/10/24 2:10 PM</td>
+<td width="215">McCutcheon Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="212">Theft-EMPV</td>
+<td width="154">2024PU01759</td>
+<td width="168">11/9/24 9:00 PM</td>
+<td width="166">11/10/24 2:10 PM</td>
+<td width="215">Honors College</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="212">Criminal Mischief</td>
+<td width="154">2024PU01761</td>
+<td width="168">10/26/24 1:00 AM</td>
+<td width="166">11/10/24 3:32 PM</td>
+<td width="215">Tarkington Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="212">Harassment</td>
+<td width="154">2024PU01762</td>
+<td width="168">10/4/24 3:00 PM</td>
+<td width="166">11/10/24 4:42 PM</td>
+<td width="215">Hawkins Graduate House</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="212">Driving While Suspended-Prior</td>
+<td width="154">2024PU01763</td>
+<td width="168">11/10/24 6:36 PM</td>
+<td width="166">11/10/24 6:42 PM</td>
+<td width="215">500 Blk Northwestern Ave</td>
+<td width="200">Arrest Made</td>
+</tr>
+<tr>
+<td width="212">Criminal Mischief</td>
+<td width="154">2024PU01764</td>
+<td width="168">11/10/24 9:30 PM</td>
+<td width="166">11/10/24 9:47 PM</td>
+<td width="215">Wiley Hall</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td width="212">Theft-EMPV</td>
+<td width="154">2024PU01765</td>
+<td width="168">11/10/24 11:30 PM</td>
+<td width="166">11/11/24 2:00 AM</td>
+<td width="215">Cary Quad West</td>
+<td width="200">Under Investigation</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>3 Disciplinary Referrals</td>
+<td>10/24/24 4:00 PM</td>
+<td>10/26/24 12:53 AM</td>
+<td>Fuse Apt.</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>5 Disciplinary Referrals</td>
+<td>10/25/24 10:15 PM</td>
+<td>10/25/24 10:53 PM</td>
+<td>Owen Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referrals</td>
+<td>10/26/24 7:00 PM</td>
+<td>11/3/24 4:23 PM</td>
+<td>Shreve Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>2 Disciplinary Referrals</td>
+<td>10/28/24 5:05 PM</td>
+<td>10/29/24 10:52 PM</td>
+<td>Aspire Apts.</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>10/29/24 8:05 PM</td>
+<td>10/29/24 10:19 PM</td>
+<td>Tarkington Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>10/28/24 5:16 PM</td>
+<td>10/29/24 9:49 PM</td>
+<td>Aspire Apts.</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>1 Disciplinary Referral</td>
+<td>10/29/24 10:30 AM</td>
+<td>10/29/24 9:39 PM</td>
+<td>Shreve Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>6 Disciplinary Referrals</td>
+<td>10/31/24 8:45 PM</td>
+<td>10/31/24 10:29 PM</td>
+<td>Aspire Apts.</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>6 Disciplinary Referrals</td>
+<td>10/31/24 9:15 PM</td>
+<td>11/1/24 1:23 AM</td>
+<td>Aspire Apts.</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>5 Disciplinary Referrals</td>
+<td>10/31/24 9:45 PM</td>
+<td>10/31/24 10:13 PM</td>
+<td>Wiley Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Liquor Law Violation</td>
+<td>7 Disciplinary Referrals</td>
+<td>10/31/24 9:30 PM</td>
+<td>10/31/24 10:32 PM</td>
+<td>Shreve Hall</td>
+<td>Judicial Review</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td>2 Disciplinary Referrals</td>
+<td>10/31/24 11:30 PM</td>
+<td>11/1/24 9:04 PM</td>
+<td>Hillenbrand Hall</td>
+<td>Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

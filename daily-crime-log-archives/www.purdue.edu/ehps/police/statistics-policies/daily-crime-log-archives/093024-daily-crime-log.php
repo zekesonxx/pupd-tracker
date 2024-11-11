@@ -940,7 +940,7 @@
 <td style="font-weight: 400;" width="168">9/29/24 3:55 AM</td>
 <td style="font-weight: 400;" width="166">9/30/24 2:29 PM</td>
 <td style="font-weight: 400;" width="215">Kappa Alpha Theta</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="179">Theft</td>

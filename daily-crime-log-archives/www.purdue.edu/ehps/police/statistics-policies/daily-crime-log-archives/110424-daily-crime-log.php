@@ -892,7 +892,7 @@
 <td style="font-weight: 400;" width="168">11/3/24 1:30 AM</td>
 <td style="font-weight: 400;" width="166">11/4/24 5:10 PM</td>
 <td style="font-weight: 400;" width="215">400 Blk Steely St</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Theft</td>
@@ -1017,12 +1017,12 @@
 <td style="font-weight: 400;" width="200">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="192">Battery (Simple)</td>
+<td style="font-weight: 400;" width="192">Battery-Simple</td>
 <td style="font-weight: 400;" width="154">2024PU01694</td>
 <td style="font-weight: 400;" width="168">11/1/24 10:39 PM</td>
 <td style="font-weight: 400;" width="166">11/1/24 11:00 PM</td>
 <td style="font-weight: 400;" width="215">University St Garage</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Hit &amp; Run</td>
@@ -1110,7 +1110,7 @@
 <td style="font-weight: 400;" width="168">11/3/24 1:21 AM</td>
 <td style="font-weight: 400;" width="166">11/3/24 1:36 AM</td>
 <td style="font-weight: 400;" width="215">Owen Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Operating While Intoxicated</td>
