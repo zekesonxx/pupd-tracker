@@ -681,7 +681,66 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, November 12, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="212">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="168">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="166">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="212">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">2024PU01767</td>
+<td style="font-weight: 400;" width="168">11/10/24 10:00 PM</td>
+<td style="font-weight: 400;" width="166">11/11/24 11:57 AM</td>
+<td style="font-weight: 400;" width="215">Earhart Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="212">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01771</td>
+<td style="font-weight: 400;" width="168">11/10/24 5:12 PM</td>
+<td style="font-weight: 400;" width="166">11/11/24 7:00 PM</td>
+<td style="font-weight: 400;" width="215">Young Hall</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="212">Drunk Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-176862</td>
+<td style="font-weight: 400;" width="168">11/9/24 1:02 AM</td>
+<td style="font-weight: 400;" width="166">11/9/24 1:02 AM</td>
+<td style="font-weight: 400;" width="215">100 Blk Memorial Mall</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="212">Theft-Bike</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-177066</td>
+<td style="font-weight: 400;" width="168">11/9/24 1:10 PM</td>
+<td style="font-weight: 400;" width="166">11/9/24 1:10 PM</td>
+<td style="font-weight: 400;" width="215">Salisbury Campus</td>
+<td style="font-weight: 400;" width="200">Documented 2024WL02588</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="212">Burglary</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-177073</td>
+<td style="font-weight: 400;" width="168">11/9/24 1:25 PM</td>
+<td style="font-weight: 400;" width="166">11/9/24 1:25 PM</td>
+<td style="font-weight: 400;" width="215">Convergence Center</td>
+<td style="font-weight: 400;" width="200">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="212">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-177395</td>
+<td style="font-weight: 400;" width="168">11/10/24 12:26 AM</td>
+<td style="font-weight: 400;" width="166">11/10/24 12:26 AM</td>
+<td style="font-weight: 400;" width="215">Northwestern Ave/Cherry Ln</td>
+<td style="font-weight: 400;" width="200">Documented 2024WL02592</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
