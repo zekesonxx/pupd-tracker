@@ -674,7 +674,66 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, November 13, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="153">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="153">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="200">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01773</td>
+<td style="font-weight: 400;" width="153">11/12/24 7:25 AM</td>
+<td style="font-weight: 400;" width="153">11/12/24 9:26 AM</td>
+<td style="font-weight: 400;" width="215">Wetherill Laboratory</td>
+<td style="font-weight: 400;" width="201">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="200">Criminal Mischief</td>
+<td style="font-weight: 400;" width="154">2024PU01774</td>
+<td style="font-weight: 400;" width="153">11/12/16 9:38 AM</td>
+<td style="font-weight: 400;" width="153">11/12/24 9:56 AM</td>
+<td style="font-weight: 400;" width="215">Young Hall</td>
+<td style="font-weight: 400;" width="201">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="200">Battery (Simple)/ Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01775</td>
+<td style="font-weight: 400;" width="153">11/12/24 9:40 AM</td>
+<td style="font-weight: 400;" width="153">11/12/24 10:26 AM</td>
+<td style="font-weight: 400;" width="215">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="201">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="200">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01776</td>
+<td style="font-weight: 400;" width="153">11/6/24 12:00 PM</td>
+<td style="font-weight: 400;" width="153">11/12/24 1:18 PM</td>
+<td style="font-weight: 400;" width="215">Agronomy Center</td>
+<td style="font-weight: 400;" width="201">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="200">Unlawful Surveillance</td>
+<td style="font-weight: 400;" width="154">2024PU01780</td>
+<td style="font-weight: 400;" width="153">11/11/24 2:00 PM</td>
+<td style="font-weight: 400;" width="153">11/12/24 4:22 PM</td>
+<td style="font-weight: 400;" width="215">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="201">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="200">Drunk Driver</td>
+<td style="font-weight: 400;" width="154">CAD# 2024-178068</td>
+<td style="font-weight: 400;" width="153">11/11/24 9:46 AM</td>
+<td style="font-weight: 400;" width="153">11/11/24 9:46 AM</td>
+<td style="font-weight: 400;" width="215">Northwestern Ave/N Grant St</td>
+<td style="font-weight: 400;" width="201">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

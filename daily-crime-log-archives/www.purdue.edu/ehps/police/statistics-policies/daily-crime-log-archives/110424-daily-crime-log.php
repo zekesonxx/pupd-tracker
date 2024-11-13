@@ -1078,7 +1078,7 @@
 <td style="font-weight: 400;" width="168">11/3/24 12:35 AM</td>
 <td style="font-weight: 400;" width="166">11/3/24 12:51 AM</td>
 <td style="font-weight: 400;" width="215">Wiley Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Minor Consumption</td>
@@ -1102,7 +1102,7 @@
 <td style="font-weight: 400;" width="168">11/3/24 1:40 AM</td>
 <td style="font-weight: 400;" width="166">11/3/24 1:59 AM</td>
 <td style="font-weight: 400;" width="215">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Minor Consumption</td>
