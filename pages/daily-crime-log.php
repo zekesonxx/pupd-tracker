@@ -667,7 +667,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, November 14, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="200">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="154">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="153">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="153">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="215">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="200">Theft</td>
+<td style="font-weight: 400;" width="154">2024PU01781</td>
+<td style="font-weight: 400;" width="153">11/13/24 12:24 PM</td>
+<td style="font-weight: 400;" width="153">11/13/24 1:57 PM</td>
+<td style="font-weight: 400;" width="215">Earhart Hall</td>
+<td style="font-weight: 400;" width="201">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="200">Theft-EMPV</td>
+<td style="font-weight: 400;" width="154">2024PU01784</td>
+<td style="font-weight: 400;" width="153">11/12/24 5:30 PM</td>
+<td style="font-weight: 400;" width="153">11/13/24 11:40 PM</td>
+<td style="font-weight: 400;" width="215">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="201">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="200">Battery (Simple)</td>
+<td style="font-weight: 400;" width="154">2024PU01785</td>
+<td style="font-weight: 400;" width="153">11/14/24 12:31 AM</td>
+<td style="font-weight: 400;" width="153">11/14/24 12:56 AM</td>
+<td style="font-weight: 400;" width="215">Shreve Hall</td>
+<td style="font-weight: 400;" width="201">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="200">Minor Consumption</td>
+<td style="font-weight: 400;" width="154">2024PU01786</td>
+<td style="font-weight: 400;" width="153">11/14/24 1:59 AM</td>
+<td style="font-weight: 400;" width="153">11/14/24 2:23 AM</td>
+<td style="font-weight: 400;" width="215">Honors College South</td>
+<td style="font-weight: 400;" width="201">Pending Prosecutor Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
