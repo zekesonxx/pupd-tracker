@@ -742,7 +742,7 @@
 <td style="font-weight: 400;" width="168">11/1/24 3:28 AM</td>
 <td style="font-weight: 400;" width="166">11/1/24 3:38 AM</td>
 <td style="font-weight: 400;" width="215">Vawter Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Drug Law Violation</td>
@@ -882,7 +882,7 @@
 <td style="font-weight: 400;" width="168">10/29/24 5:00 PM</td>
 <td style="font-weight: 400;" width="166">10/29/24 8:32 PM</td>
 <td style="font-weight: 400;" width="215">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Theft</td>
