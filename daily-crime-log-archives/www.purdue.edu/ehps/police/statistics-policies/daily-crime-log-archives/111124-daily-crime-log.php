@@ -686,7 +686,7 @@
 <td style="font-weight: 400;" width="153">11/14/24 9:40 PM</td>
 <td style="font-weight: 400;" width="153">11/14/24 9:38 PM</td>
 <td style="font-weight: 400;" width="215">Harrison Hall</td>
-<td style="font-weight: 400;" width="201">Under Investigation</td>
+<td style="font-weight: 400;" width="201">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="259">Theft-Bike</td>
@@ -768,7 +768,7 @@
 <td style="font-weight: 400;" width="153">11/14/24 1:59 AM</td>
 <td style="font-weight: 400;" width="153">11/14/24 2:23 AM</td>
 <td style="font-weight: 400;" width="215">Honors College South</td>
-<td style="font-weight: 400;" width="201">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="201">Closed</td>
 </tr>
 </tbody>
 </table>
@@ -794,7 +794,7 @@
 <td style="font-weight: 400;" width="153">11/12/24 7:25 AM</td>
 <td style="font-weight: 400;" width="153">11/12/24 9:26 AM</td>
 <td style="font-weight: 400;" width="215">Wetherill Laboratory</td>
-<td style="font-weight: 400;" width="201">Under Investigation</td>
+<td style="font-weight: 400;" width="201">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="200">Criminal Mischief</td>

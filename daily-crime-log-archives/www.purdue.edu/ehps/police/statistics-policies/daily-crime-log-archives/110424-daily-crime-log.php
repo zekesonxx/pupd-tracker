@@ -1054,7 +1054,7 @@
 <td style="font-weight: 400;" width="168">11/2/24 5:50 PM</td>
 <td style="font-weight: 400;" width="166">11/2/24 6:25 PM</td>
 <td style="font-weight: 400;" width="215">Hawkins Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Theft</td>
@@ -1086,7 +1086,7 @@
 <td style="font-weight: 400;" width="168">11/3/24 12:39 AM</td>
 <td style="font-weight: 400;" width="166">11/3/24 12:59 AM</td>
 <td style="font-weight: 400;" width="215">Earhart Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Minor Consumption</td>
@@ -1094,7 +1094,7 @@
 <td style="font-weight: 400;" width="168">11/3/24 1:34 AM</td>
 <td style="font-weight: 400;" width="166">11/3/24 1:49 AM</td>
 <td style="font-weight: 400;" width="215">Knoy Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Minor Consumption</td>

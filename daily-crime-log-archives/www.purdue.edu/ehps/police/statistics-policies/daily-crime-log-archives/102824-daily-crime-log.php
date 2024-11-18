@@ -678,7 +678,7 @@
 <td style="font-weight: 400;" width="168">10/31/24 10:52 PM</td>
 <td style="font-weight: 400;" width="166">10/31/24 11:11 PM</td>
 <td style="font-weight: 400;" width="215">Armstrong Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Minor Consumption</td>
