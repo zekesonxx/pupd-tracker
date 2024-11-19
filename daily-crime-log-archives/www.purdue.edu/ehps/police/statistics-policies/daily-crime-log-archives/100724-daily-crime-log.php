@@ -902,7 +902,7 @@
 <td style="font-weight: 400;">10/3/24 12:00 PM</td>
 <td style="font-weight: 400;">10/4/24 11:46 PM</td>
 <td style="font-weight: 400;">Continuum Apts</td>
-<td style="font-weight: 400;">Under Investigation</td>
+<td style="font-weight: 400;">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="179">Burglary</td>

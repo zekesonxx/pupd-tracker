@@ -813,7 +813,7 @@
 <td style="font-weight: 400;" width="201">Arrest Made</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="200">Theft</td>
+<td style="font-weight: 400;" width="200">Burglary</td>
 <td style="font-weight: 400;" width="154">2024PU01776</td>
 <td style="font-weight: 400;" width="153">11/6/24 12:00 PM</td>
 <td style="font-weight: 400;" width="153">11/12/24 1:18 PM</td>

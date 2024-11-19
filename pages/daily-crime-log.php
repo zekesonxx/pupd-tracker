@@ -681,7 +681,146 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, November 19, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="180">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Trespass/ Burglary/ Intimidation</td>
+<td style="font-weight: 400;" width="150">2024PU01827</td>
+<td style="font-weight: 400;" width="149">11/18/24 8:13 AM</td>
+<td style="font-weight: 400;" width="149">11/18/24 8:59 AM</td>
+<td style="font-weight: 400;" width="193">Lynn Hall</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2024PU01828</td>
+<td style="font-weight: 400;" width="149">11/18/24 9:16 AM</td>
+<td style="font-weight: 400;" width="149">11/18/24 9:17 AM</td>
+<td style="font-weight: 400;" width="193">Wood Street Garage</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2024PU01829</td>
+<td style="font-weight: 400;" width="149">11/18/24 10:27 AM</td>
+<td style="font-weight: 400;" width="149">11/18/24 12:01 PM</td>
+<td style="font-weight: 400;" width="193">Brunner Farm Animal Hospital</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-Bike</td>
+<td style="font-weight: 400;" width="150">2024PU01830</td>
+<td style="font-weight: 400;" width="149">11/17/24 3:00 PM</td>
+<td style="font-weight: 400;" width="149">11/18/24 12:14 PM</td>
+<td style="font-weight: 400;" width="193">Honors College North</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Burglary</td>
+<td style="font-weight: 400;" width="150">2024PU01831</td>
+<td style="font-weight: 400;" width="149">11/15/24 6:00 PM</td>
+<td style="font-weight: 400;" width="149">11/18/24 2:54 PM</td>
+<td style="font-weight: 400;" width="193">Lynn Hall</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2024PU01832</td>
+<td style="font-weight: 400;" width="149">11/18/24 2:56 PM</td>
+<td style="font-weight: 400;" width="149">11/18/24 2:56 PM</td>
+<td style="font-weight: 400;" width="193">Lynn Hall</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2024PU01833</td>
+<td style="font-weight: 400;" width="149">11/18/24 3:46 PM</td>
+<td style="font-weight: 400;" width="149">11/18/24 3:47 PM</td>
+<td style="font-weight: 400;" width="193">Tarkington Hall</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2024PU01834</td>
+<td style="font-weight: 400;" width="149">11/18/24 3:48 PM</td>
+<td style="font-weight: 400;" width="149">11/18/24 3:49 PM</td>
+<td style="font-weight: 400;" width="193">Tarkington Hall</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2024PU01835</td>
+<td style="font-weight: 400;" width="149">11/15/24 4:00 PM</td>
+<td style="font-weight: 400;" width="149">11/18/24 4:12 PM</td>
+<td style="font-weight: 400;" width="193">Northwestern Garage</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="150">2024PU01838</td>
+<td style="font-weight: 400;" width="149">11/18/24 4:15 PM</td>
+<td style="font-weight: 400;" width="149">11/18/24 5:54 PM</td>
+<td style="font-weight: 400;" width="193">500 Blk W Wood St</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="150">2024PU01840</td>
+<td style="font-weight: 400;" width="149">11/18/24 7:33 PM</td>
+<td style="font-weight: 400;" width="149">11/18/24 10:18 PM</td>
+<td style="font-weight: 400;" width="193">500 Blk N Russell St</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-EMPV</td>
+<td style="font-weight: 400;" width="150">2024PU01842</td>
+<td style="font-weight: 400;" width="149">11/18/24 10:15 PM</td>
+<td style="font-weight: 400;" width="149">11/19/24 3:16 AM</td>
+<td style="font-weight: 400;" width="193">Rawls Hall</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-180868</td>
+<td style="font-weight: 400;" width="149">11/16/24 12:46 AM</td>
+<td style="font-weight: 400;" width="149">11/16/24 12:46 AM</td>
+<td style="font-weight: 400;" width="193">S River Rd/Ahlers Dr</td>
+<td style="font-weight: 400;" width="180">Documented 2024WL02644</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drunk Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-180934</td>
+<td style="font-weight: 400;" width="149">11/16/24 4:24 AM</td>
+<td style="font-weight: 400;" width="149">11/16/24 4:24 AM</td>
+<td style="font-weight: 400;" width="193">Northwestern Ave/W State St</td>
+<td style="font-weight: 400;" width="180">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Public Intoxication</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-181175</td>
+<td style="font-weight: 400;" width="149">11/16/24 3:46 PM</td>
+<td style="font-weight: 400;" width="149">11/16/24 3:46 PM</td>
+<td style="font-weight: 400;" width="193">Grant St Parking Garage</td>
+<td style="font-weight: 400;" width="180">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-181350</td>
+<td style="font-weight: 400;" width="149">11/16/24 10:59 PM</td>
+<td style="font-weight: 400;" width="149">11/16/24 10:59 PM</td>
+<td style="font-weight: 400;" width="193">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="180">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
