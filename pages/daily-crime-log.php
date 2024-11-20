@@ -674,7 +674,106 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, November 20, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="180">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-EMPV</td>
+<td style="font-weight: 400;" width="150">2024PU01843</td>
+<td style="font-weight: 400;" width="149">11/19/24 8:45 AM</td>
+<td style="font-weight: 400;" width="149">11/19/24 10:43 AM</td>
+<td style="font-weight: 400;" width="193">Lilly Hall</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-EMPV</td>
+<td style="font-weight: 400;" width="150">2024PU01844</td>
+<td style="font-weight: 400;" width="149">11/19/24 9:00 AM</td>
+<td style="font-weight: 400;" width="149">11/19/24 11:35 AM</td>
+<td style="font-weight: 400;" width="193">Class of 50 Hall</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Driving While Suspended</td>
+<td style="font-weight: 400;" width="150">2024PU01846</td>
+<td style="font-weight: 400;" width="149">11/19/24 12:48 PM</td>
+<td style="font-weight: 400;" width="149">11/19/24 1:17 PM</td>
+<td style="font-weight: 400;" width="193">200 Blk S Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="180">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Burglary</td>
+<td style="font-weight: 400;" width="150">2024PU01847</td>
+<td style="font-weight: 400;" width="149">11/17/24 9:30 PM</td>
+<td style="font-weight: 400;" width="149">11/19/24 1:58 PM</td>
+<td style="font-weight: 400;" width="193">Lynn Hall</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Burglary</td>
+<td style="font-weight: 400;" width="150">2024PU01848</td>
+<td style="font-weight: 400;" width="149">11/15/24 4:30 PM</td>
+<td style="font-weight: 400;" width="149">11/19/24 2:06 PM</td>
+<td style="font-weight: 400;" width="193">Lynn Hall</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2024PU01850</td>
+<td style="font-weight: 400;" width="149">11/19/24 11:30 AM</td>
+<td style="font-weight: 400;" width="149">11/19/24 3:03 PM</td>
+<td style="font-weight: 400;" width="193">Smith Hall</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="150">2024PU01851</td>
+<td style="font-weight: 400;" width="149">11/19/24 8:27 AM</td>
+<td style="font-weight: 400;" width="149">11/19/24 4:23 PM</td>
+<td style="font-weight: 400;" width="193">800 Blk 3rd St</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Burglary</td>
+<td style="font-weight: 400;" width="150">2024PU01852</td>
+<td style="font-weight: 400;" width="149">11/19/24 6:19 PM</td>
+<td style="font-weight: 400;" width="149">11/19/24 6:46 PM</td>
+<td style="font-weight: 400;" width="193">Lynn Hall</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2024PU01853</td>
+<td style="font-weight: 400;" width="149">11/19/24 10:30 AM</td>
+<td style="font-weight: 400;" width="149">11/19/24 7:18 PM</td>
+<td style="font-weight: 400;" width="193">Memorial Mall</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-EMPV</td>
+<td style="font-weight: 400;" width="150">2024PU01856</td>
+<td style="font-weight: 400;" width="149">11/19/24 6:00 PM</td>
+<td style="font-weight: 400;" width="149">11/19/24 10:08 PM</td>
+<td style="font-weight: 400;" width="193">Forney Hall</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-EMPV</td>
+<td style="font-weight: 400;" width="150">2024PU01857</td>
+<td style="font-weight: 400;" width="149">11/19/24 3:00 PM</td>
+<td style="font-weight: 400;" width="149">11/20/24 4:47 AM</td>
+<td style="font-weight: 400;" width="193">Armstrong Hall</td>
+<td style="font-weight: 400;" width="180">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -708,9 +807,9 @@ Will be posted soon.
 <td style="font-weight: 400;" width="180">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="182">Burglary</td>
 <td style="font-weight: 400;" width="150">2024PU01829</td>
-<td style="font-weight: 400;" width="149">11/18/24 10:27 AM</td>
+<td style="font-weight: 400;" width="149">11/15/24 6:00 PM</td>
 <td style="font-weight: 400;" width="149">11/18/24 12:01 PM</td>
 <td style="font-weight: 400;" width="193">Brunner Farm Animal Hospital</td>
 <td style="font-weight: 400;" width="180">Under Investigation</td>
@@ -719,7 +818,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="182">Theft-Bike</td>
 <td style="font-weight: 400;" width="150">2024PU01830</td>
 <td style="font-weight: 400;" width="149">11/17/24 3:00 PM</td>
-<td style="font-weight: 400;" width="149">11/18/24 12:14 PM</td>
+<td style="font-weight: 400;" width="149">11/18/24 10:30 AM</td>
 <td style="font-weight: 400;" width="193">Honors College North</td>
 <td style="font-weight: 400;" width="180">Under Investigation</td>
 </tr>
@@ -727,31 +826,31 @@ Will be posted soon.
 <td style="font-weight: 400;" width="182">Burglary</td>
 <td style="font-weight: 400;" width="150">2024PU01831</td>
 <td style="font-weight: 400;" width="149">11/15/24 6:00 PM</td>
-<td style="font-weight: 400;" width="149">11/18/24 2:54 PM</td>
+<td style="font-weight: 400;" width="149">11/18/24 10:30 AM</td>
 <td style="font-weight: 400;" width="193">Lynn Hall</td>
 <td style="font-weight: 400;" width="180">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Theft</td>
 <td style="font-weight: 400;" width="150">2024PU01832</td>
-<td style="font-weight: 400;" width="149">11/18/24 2:56 PM</td>
-<td style="font-weight: 400;" width="149">11/18/24 2:56 PM</td>
+<td style="font-weight: 400;" width="149">11/15/24 6:00 PM</td>
+<td style="font-weight: 400;" width="149">11/18/24 10:30 AM</td>
 <td style="font-weight: 400;" width="193">Lynn Hall</td>
 <td style="font-weight: 400;" width="180">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Criminal Mischief</td>
 <td style="font-weight: 400;" width="150">2024PU01833</td>
-<td style="font-weight: 400;" width="149">11/18/24 3:46 PM</td>
-<td style="font-weight: 400;" width="149">11/18/24 3:47 PM</td>
+<td style="font-weight: 400;" width="149">11/2/24 3:47 PM</td>
+<td style="font-weight: 400;" width="149">11/10/24 3:47 PM</td>
 <td style="font-weight: 400;" width="193">Tarkington Hall</td>
 <td style="font-weight: 400;" width="180">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Criminal Mischief</td>
 <td style="font-weight: 400;" width="150">2024PU01834</td>
-<td style="font-weight: 400;" width="149">11/18/24 3:48 PM</td>
-<td style="font-weight: 400;" width="149">11/18/24 3:49 PM</td>
+<td style="font-weight: 400;" width="149">10/26/24 3:48 PM</td>
+<td style="font-weight: 400;" width="149">11/10/24 3:49 PM</td>
 <td style="font-weight: 400;" width="193">Tarkington Hall</td>
 <td style="font-weight: 400;" width="180">Under Investigation</td>
 </tr>
@@ -907,7 +1006,7 @@ Will be posted soon.
 <td width="149">11/14/24 9:00 PM</td>
 <td width="149">11/16/24 7:01 AM</td>
 <td width="193">CoRec</td>
-<td width="180">Under Investigation</td>
+<td width="180">Unfounded</td>
 </tr>
 <tr>
 <td width="182">Theft</td>

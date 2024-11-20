@@ -686,7 +686,7 @@
 <td style="font-weight: 400;" width="168">11/7/24 11:53 PM</td>
 <td style="font-weight: 400;" width="166">11/8/24 12:19 AM</td>
 <td style="font-weight: 400;" width="215">Earhart Hall</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Theft-EMPV</td>
