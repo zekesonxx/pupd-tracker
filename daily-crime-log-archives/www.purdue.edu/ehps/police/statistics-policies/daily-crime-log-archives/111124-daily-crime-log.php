@@ -805,12 +805,12 @@
 <td style="font-weight: 400;" width="201">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="200">Battery (Simple)/ Theft</td>
+<td style="font-weight: 400;" width="200">Theft</td>
 <td style="font-weight: 400;" width="154">2024PU01775</td>
 <td style="font-weight: 400;" width="153">11/12/24 9:40 AM</td>
 <td style="font-weight: 400;" width="153">11/12/24 10:26 AM</td>
 <td style="font-weight: 400;" width="215">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="201">Arrest Made</td>
+<td style="font-weight: 400;" width="201">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="200">Burglary</td>
