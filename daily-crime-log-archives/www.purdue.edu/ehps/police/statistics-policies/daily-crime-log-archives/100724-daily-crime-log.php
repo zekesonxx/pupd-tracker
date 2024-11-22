@@ -591,7 +591,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="111824-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -902,7 +907,7 @@
 <td style="font-weight: 400;">10/3/24 12:00 PM</td>
 <td style="font-weight: 400;">10/4/24 11:46 PM</td>
 <td style="font-weight: 400;">Continuum Apts</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="179">Burglary</td>
