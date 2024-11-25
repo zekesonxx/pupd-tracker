@@ -591,7 +591,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="111824-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -654,7 +659,7 @@
 <td style="font-weight: 400;" width="153">11/14/24 6:37 AM</td>
 <td style="font-weight: 400;" width="153">11/14/24 7:21 AM</td>
 <td style="font-weight: 400;" width="215">400 Blk W Wood St</td>
-<td style="font-weight: 400;" width="201">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="201">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="259">Theft-Bike</td>
@@ -818,7 +823,7 @@
 <td style="font-weight: 400;" width="153">11/6/24 12:00 PM</td>
 <td style="font-weight: 400;" width="153">11/12/24 1:18 PM</td>
 <td style="font-weight: 400;" width="215">Agronomy Center</td>
-<td style="font-weight: 400;" width="201">Under Investigation</td>
+<td style="font-weight: 400;" width="201">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="200">Unlawful Surveillance</td>

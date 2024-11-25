@@ -688,7 +688,74 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, November 25, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Harassment</td>
+<td style="font-weight: 400;" width="150">2024PU01875</td>
+<td style="font-weight: 400;" width="149">11/21/24 6:30 PM</td>
+<td style="font-weight: 400;" width="149">11/23/24 4:00 AM</td>
+<td style="font-weight: 400;" width="193">Purdue Airport</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">2024PU01877</td>
+<td style="font-weight: 400;" width="149">11/23/24 12:10 AM</td>
+<td style="font-weight: 400;" width="149">11/23/24 12:33 AM</td>
+<td style="font-weight: 400;" width="193">Wood St Garage</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Operating While Intoxicated/ Driving While Suspended</td>
+<td style="font-weight: 400;" width="150">2024PU01882</td>
+<td style="font-weight: 400;" width="149">11/24/24 3:13 AM</td>
+<td style="font-weight: 400;" width="149">11/24/24 3:46 AM</td>
+<td style="font-weight: 400;" width="193">Northwestern Ave/ Northridge Dr</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Harassment</td>
+<td style="font-weight: 400;" width="150">2024PU01883</td>
+<td style="font-weight: 400;" width="149">11/13/24 5:12 PM</td>
+<td style="font-weight: 400;" width="149">11/24/24 5:12 PM</td>
+<td style="font-weight: 400;" width="193">Niswonger Building</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2024PU01884</td>
+<td style="font-weight: 400;" width="149">11/24/24 4:30 PM</td>
+<td style="font-weight: 400;" width="149">11/24/24 4:32 PM</td>
+<td style="font-weight: 400;" width="193">Grant St Garage</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Dating Violence</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-183997</td>
+<td style="font-weight: 400;" width="149">11/1/2024 Unknown Time</td>
+<td style="font-weight: 400;" width="149">11/21/24 3:11 AM</td>
+<td style="font-weight: 400;" width="193">Kappa Sigma</td>
+<td style="font-weight: 400;" width="186">Documented in WLPD 2024WL02699</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-183847</td>
+<td style="font-weight: 400;" width="149">11/21/24 10:31 AM</td>
+<td style="font-weight: 400;" width="149">11/21/24 10:31 AM</td>
+<td style="font-weight: 400;" width="193">400 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

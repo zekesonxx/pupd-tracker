@@ -815,7 +815,7 @@
 <td style="font-weight: 400;" width="149">11/17/24 9:30 PM</td>
 <td style="font-weight: 400;" width="149">11/19/24 1:58 PM</td>
 <td style="font-weight: 400;" width="193">Lynn Hall</td>
-<td style="font-weight: 400;" width="180">Under Investigation</td>
+<td style="font-weight: 400;" width="180">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Burglary</td>
@@ -897,7 +897,7 @@
 <td style="font-weight: 400;" width="149">11/18/24 8:13 AM</td>
 <td style="font-weight: 400;" width="149">11/18/24 8:59 AM</td>
 <td style="font-weight: 400;" width="193">Lynn Hall</td>
-<td style="font-weight: 400;" width="180">Under Investigation</td>
+<td style="font-weight: 400;" width="180">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Criminal Mischief</td>
@@ -913,7 +913,7 @@
 <td style="font-weight: 400;" width="149">11/15/24 6:00 PM</td>
 <td style="font-weight: 400;" width="149">11/18/24 12:01 PM</td>
 <td style="font-weight: 400;" width="193">Brunner Farm Animal Hospital</td>
-<td style="font-weight: 400;" width="180">Under Investigation</td>
+<td style="font-weight: 400;" width="180">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Theft-Bike</td>
@@ -929,7 +929,7 @@
 <td style="font-weight: 400;" width="149">11/15/24 6:00 PM</td>
 <td style="font-weight: 400;" width="149">11/18/24 10:30 AM</td>
 <td style="font-weight: 400;" width="193">Lynn Hall</td>
-<td style="font-weight: 400;" width="180">Under Investigation</td>
+<td style="font-weight: 400;" width="180">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Theft</td>
@@ -937,7 +937,7 @@
 <td style="font-weight: 400;" width="149">11/15/24 6:00 PM</td>
 <td style="font-weight: 400;" width="149">11/18/24 10:30 AM</td>
 <td style="font-weight: 400;" width="193">Lynn Hall</td>
-<td style="font-weight: 400;" width="180">Under Investigation</td>
+<td style="font-weight: 400;" width="180">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Criminal Mischief</td>
@@ -1083,7 +1083,7 @@
 <td width="149">11/16/24 1:32 AM</td>
 <td width="149">11/16/24 2:59 AM</td>
 <td width="193">Sigma Rho Phi</td>
-<td width="180">Pending Prosecutor Review</td>
+<td width="180">Closed</td>
 </tr>
 <tr>
 <td width="182">Minor Consumption</td>
