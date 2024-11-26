@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Monday, November 18, 2024</h3>
+  					<h3>Updated Tuesday, November 26, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -968,11 +968,6 @@
 <td width="76">6/21/25</td>
 </tr>
 <tr>
-<td width="204">L., A. (Juvenile)</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">11/26/24</td>
-</tr>
-<tr>
 <td width="204">Lewit, Lucas P.</td>
 <td width="211">All Residence Halls and Dining Courts</td>
 <td width="76">4/12/25</td>
@@ -1016,6 +1011,11 @@
 <td width="204">Merrell, F. Alexander</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">5/22/29</td>
+</tr>
+<tr>
+<td width="204">Mo, Chun Yu</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">11/25/25</td>
 </tr>
 <tr>
 <td width="204">Moore, Jason L.</td>
@@ -1108,16 +1108,6 @@
 <td width="76">10/16/25</td>
 </tr>
 <tr>
-<td width="204">Rushinsky, Elijah S.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">11/26/24</td>
-</tr>
-<tr>
-<td width="204">Rushinsky, Isaiah M.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">11/26/24</td>
-</tr>
-<tr>
 <td width="204">Ryan, Shawn J.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">7/8/25</td>
@@ -1176,11 +1166,6 @@
 <td width="204">Smith, Clayton</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">3/5/25</td>
-</tr>
-<tr>
-<td width="204">S., Z. (Juvenile)</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">11/26/24</td>
 </tr>
 <tr>
 <td width="204">Spar, Christopher A.</td>
