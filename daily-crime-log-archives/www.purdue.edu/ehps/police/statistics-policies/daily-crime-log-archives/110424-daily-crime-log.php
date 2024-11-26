@@ -591,7 +591,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="111824-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -646,7 +651,7 @@
 <td style="font-weight: 400;" width="168">11/3/24 12:01 AM</td>
 <td style="font-weight: 400;" width="166">11/7/24 1:41 PM</td>
 <td style="font-weight: 400;" width="215">Wilmeth Active Learning Center</td>
-<td style="font-weight: 400;" width="200">Under Investigation</td>
+<td style="font-weight: 400;" width="200">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Theft</td>

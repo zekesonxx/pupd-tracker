@@ -681,7 +681,42 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, November 26, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Operating Never Receiving License</td>
+<td style="font-weight: 400;" width="150">2024PU01880</td>
+<td style="font-weight: 400;" width="149">11/23/24 8:33 PM</td>
+<td style="font-weight: 400;" width="149">11/23/24 9:08 PM</td>
+<td style="font-weight: 400;" width="193">Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-Bike</td>
+<td style="font-weight: 400;" width="150">2024PU01886</td>
+<td style="font-weight: 400;" width="149">11/24/24 9:00 PM</td>
+<td style="font-weight: 400;" width="149">11/25/24 9:08 AM</td>
+<td style="font-weight: 400;" width="193">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-185827</td>
+<td style="font-weight: 400;" width="149">11/25/24 12:40 AM</td>
+<td style="font-weight: 400;" width="149">11/25/24 12:40 AM</td>
+<td style="font-weight: 400;" width="193">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
