@@ -674,7 +674,186 @@ Thanksgiving Day.
   
     	<section class="content__group">
   					<h3>Wednesday, November 27, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="182">Theft-EMPV</td>
+<td width="150">2024PU01890</td>
+<td width="149">11/26/24 8:00 PM</td>
+<td width="149">11/27/24 1:38 AM</td>
+<td width="193">Wilmeth Active Learning Center</td>
+<td width="186">Under Investigation</td>
+</tr>
+<tr>
+<td width="182">Theft</td>
+<td width="150">CAD# 2024-186215</td>
+<td width="149">11/25/24 3:22 PM</td>
+<td width="149">11/25/24 3:22 PM</td>
+<td width="193">Rise Apartments</td>
+<td width="186">Documented 2024WL02732</td>
+</tr>
+<tr>
+<td width="182">Liquor Law Violation</td>
+<td width="150">8 Disciplinary Referrals</td>
+<td width="149">11/1/24 1:30 AM</td>
+<td width="149">11/1/24 8:30 PM</td>
+<td width="193">333 Grant St Apartments</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Liquor Law Violation</td>
+<td width="150">1 Disciplinary Referrals</td>
+<td width="149">11/1/24 2:48 AM</td>
+<td width="149">11/1/24 4:25 AM</td>
+<td width="193">Windsor Halls</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Liquor Law Violation</td>
+<td width="150">6 Disciplinary Referrals</td>
+<td width="149">11/1/24 9:30 PM</td>
+<td width="149">11/1/24 11:34 PM</td>
+<td width="193">Provenance Apartments</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Liquor Law Violation</td>
+<td width="150">5 Disciplinary Referrals</td>
+<td width="149">11/2/24 1:23 AM</td>
+<td width="149">11/2/24 3:57 AM</td>
+<td width="193">Provenance Apartments</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Liquor Law Violation</td>
+<td width="150">8 Disciplinary Referrals</td>
+<td width="149">11/2/24 2:00 AM</td>
+<td width="149">11/2/24 3:33 AM</td>
+<td width="193">Provenance Apartments</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Liquor Law Violation</td>
+<td width="150">2 Disciplinary Referrals</td>
+<td width="149">11/2/24 10:30 PM</td>
+<td width="149">11/2/24 11:21 PM</td>
+<td width="193">Harrison Hall</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Liquor Law Violation</td>
+<td width="150">5 Disciplinary Referrals</td>
+<td width="149">11/2/24 11:30 PM</td>
+<td width="149">11/3/24 1:48 AM</td>
+<td width="193">Earhart Hall</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Liquor Law Violation</td>
+<td width="150">5 Disciplinary Referrals</td>
+<td width="149">11/3/24 12:58 AM</td>
+<td width="149">11/3/24 1:44 AM</td>
+<td width="193">Provenance Apartments</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Liquor Law Violation</td>
+<td width="150">3 Disciplinary Referrals</td>
+<td width="149">11/9/24 12:30 AM</td>
+<td width="149">11/9/24 1:28 AM</td>
+<td width="193">Harrison Hall</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Liquor Law Violation</td>
+<td width="150">2 Disciplinary Referrals</td>
+<td width="149">11/9/24 9:00 AM</td>
+<td width="149">11/9/24 10:43 PM</td>
+<td width="193">Meredith South</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Drug Law Violation</td>
+<td width="150">1 Disciplinary Referrals</td>
+<td width="149">11/13/24 8:41 PM</td>
+<td width="149">11/13/24 9:54 PM</td>
+<td width="193">Aspire Apartments</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Liquor Law Violation</td>
+<td width="150">6 Disciplinary Referrals</td>
+<td width="149">11/16/24 9:30 PM</td>
+<td width="149">11/16/24 11:22 PM</td>
+<td width="193">Harrison Hall</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Drug Law Violation</td>
+<td width="150">1 Disciplinary Referrals</td>
+<td width="149">11/17/24 7:30 AM</td>
+<td width="149">11/17/24 9:20 AM</td>
+<td width="193">McCutcheon Hall</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Drug Law Violation</td>
+<td width="150">2 Disciplinary Referrals</td>
+<td width="149">11/17/24 8:15 PM</td>
+<td width="149">11/17/24 11:17 PM</td>
+<td width="193">McCutcheon Hall</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Drug Law Violation</td>
+<td width="150">5 Disciplinary Referrals</td>
+<td width="149">11/17/24 10:45 PM</td>
+<td width="149">11/18/24 12:01 AM</td>
+<td width="193">Hillenbrand Hall</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Liquor Law Violation</td>
+<td width="150">1 Disciplinary Referrals</td>
+<td width="149">11/18/24 12:01 PM</td>
+<td width="149">11/19/24 10:38 PM</td>
+<td width="193">Aspire Apartments</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Liquor Law Violation</td>
+<td width="150">1 Disciplinary Referrals</td>
+<td width="149">11/18/24 12:10 PM</td>
+<td width="149">11/19/24 10:23 PM</td>
+<td width="193">Aspire Apartments</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Liquor Law Violation</td>
+<td width="150">1 Disciplinary Referrals</td>
+<td width="149">11/20/24 6:00 PM</td>
+<td width="149">11/20/24 7:29 PM</td>
+<td width="193">Provenance Apartments</td>
+<td width="186">Judicial Review</td>
+</tr>
+<tr>
+<td width="182">Liquor Law Violation</td>
+<td width="150">1 Disciplinary Referrals</td>
+<td width="149">11/21/24 4:45 PM</td>
+<td width="149">11/21/24 10:11 PM</td>
+<td width="193">Provenance Apartments</td>
+<td width="186">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

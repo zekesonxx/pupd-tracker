@@ -1075,7 +1075,7 @@
 <td width="149">11/16/24 12:43 AM</td>
 <td width="149">11/16/24 12:56 AM</td>
 <td width="193">Winifred Parker Hall</td>
-<td width="180">Pending Prosecutor Review</td>
+<td width="180">Closed</td>
 </tr>
 <tr>
 <td width="182">Minor Consumption</td>
@@ -1099,7 +1099,7 @@
 <td width="149">11/16/24 3:37 AM</td>
 <td width="149">11/16/24 3:53 AM</td>
 <td width="193">Tarkington Hall</td>
-<td width="180">Pending Prosecutor Review</td>
+<td width="180">Closed</td>
 </tr>
 <tr>
 <td width="182">Theft-EMPV</td>

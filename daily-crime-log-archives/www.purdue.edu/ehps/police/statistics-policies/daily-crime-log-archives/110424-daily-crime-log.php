@@ -683,7 +683,7 @@
 <td style="font-weight: 400;" width="168">11/7/24 5:00 PM</td>
 <td style="font-weight: 400;" width="166">11/7/24 6:16 PM</td>
 <td style="font-weight: 400;" width="215">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="200">Arrest Made</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Minor Consumption</td>
