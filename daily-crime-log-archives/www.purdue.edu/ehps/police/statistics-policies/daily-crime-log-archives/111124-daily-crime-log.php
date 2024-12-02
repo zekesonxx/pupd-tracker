@@ -691,7 +691,7 @@
 <td style="font-weight: 400;" width="153">11/14/24 9:40 PM</td>
 <td style="font-weight: 400;" width="153">11/14/24 9:38 PM</td>
 <td style="font-weight: 400;" width="215">Harrison Hall</td>
-<td style="font-weight: 400;" width="201">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="201">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="259">Theft-Bike</td>

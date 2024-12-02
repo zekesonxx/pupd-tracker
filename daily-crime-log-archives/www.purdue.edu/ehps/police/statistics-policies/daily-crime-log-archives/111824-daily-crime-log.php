@@ -1139,7 +1139,7 @@
 <td width="149">11/16/24 4:05 PM</td>
 <td width="149">11/16/24 4:09 PM</td>
 <td width="193">Ross Ade Stadium</td>
-<td width="180">Arrest Made</td>
+<td width="180">Closed</td>
 </tr>
 <tr>
 <td width="182">Theft-Vehicle</td>

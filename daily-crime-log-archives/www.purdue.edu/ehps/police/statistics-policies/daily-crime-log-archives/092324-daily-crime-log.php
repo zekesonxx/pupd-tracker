@@ -591,7 +591,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="111824-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -1030,7 +1035,7 @@
 <td style="font-weight: 400;" width="129">9/21/24 12:04 PM</td>
 <td style="font-weight: 400;" width="129">9/21/24 12:32 AM</td>
 <td style="font-weight: 400;" width="167">800 Blk W Stadium Ave</td>
-<td style="font-weight: 400;" width="185">Arrest Made</td>
+<td style="font-weight: 400;" width="185">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="153">Minor Consumption</td>
