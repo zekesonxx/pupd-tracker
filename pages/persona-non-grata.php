@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Tuesday, November 26, 2024</h3>
+  					<h3>Updated Monday, December 2, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -675,7 +675,7 @@
 <tr>
 <td width="204">Ang, Yock A.</td>
 <td width="211">Entire WL Purdue Campus</td>
-<td width="76">3/1/25</td>
+<td width="76">1/6/25</td>
 </tr>
 <tr>
 <td width="204">Baker, Gabriel B.</td>
@@ -801,11 +801,6 @@
 <td width="204">Davis, Wyatt A.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">2/25/25</td>
-</tr>
-<tr>
-<td width="204">Dawes, Ella S.</td>
-<td width="211">All Residence Halls and Dining Courts</td>
-<td width="76">12/2/24</td>
 </tr>
 <tr>
 <td width="204">De Mello, Daniel</td>
@@ -951,11 +946,6 @@
 <td width="204">King, Brian</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">1/30/25</td>
-</tr>
-<tr>
-<td width="204">King, Christopher L.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">11/27/24</td>
 </tr>
 <tr>
 <td width="204">Landrum, Nicholas W.</td>
