@@ -681,7 +681,98 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, December 3, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Fraud</td>
+<td style="font-weight: 400;" width="150">2024PU01896</td>
+<td style="font-weight: 400;" width="149">12/2/24 9:21 AM</td>
+<td style="font-weight: 400;" width="149">12/2/24 9:49 AM</td>
+<td style="font-weight: 400;" width="193">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-Bike</td>
+<td style="font-weight: 400;" width="150">2024PU01897</td>
+<td style="font-weight: 400;" width="149">11/30/24 3:00 PM</td>
+<td style="font-weight: 400;" width="149">12/2/24 11:55 AM</td>
+<td style="font-weight: 400;" width="193">Aspire Apts</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-EMPV</td>
+<td style="font-weight: 400;" width="150">2024PU01898</td>
+<td style="font-weight: 400;" width="149">11/22/24 6:00 PM</td>
+<td style="font-weight: 400;" width="149">12/2/24 2:12 PM</td>
+<td style="font-weight: 400;" width="193">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2024PU01899</td>
+<td style="font-weight: 400;" width="149">11/27/24 7:28 PM</td>
+<td style="font-weight: 400;" width="149">12/2/24 8:01 PM</td>
+<td style="font-weight: 400;" width="193">Wang Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft/ Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2024PU01900</td>
+<td style="font-weight: 400;" width="149">12/2/24 8:02 PM</td>
+<td style="font-weight: 400;" width="149">12/2/24 8:04 PM</td>
+<td style="font-weight: 400;" width="193">Wang Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Burglary</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-187350</td>
+<td style="font-weight: 400;" width="149">11/27/24 3:55 PM</td>
+<td style="font-weight: 400;" width="149">11/27/24 3:55 PM</td>
+<td style="font-weight: 400;" width="193">Fuse</td>
+<td style="font-weight: 400;" width="186">Documented 2024WL02748</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-187485</td>
+<td style="font-weight: 400;" width="149">11/27/24 8:53 PM</td>
+<td style="font-weight: 400;" width="149">11/27/24 8:53 PM</td>
+<td style="font-weight: 400;" width="193">US HWY 231 S/S Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Viotlation</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-187780</td>
+<td style="font-weight: 400;" width="149">11/28/24 7:52 PM</td>
+<td style="font-weight: 400;" width="149">11/28/24 7:52 PM</td>
+<td style="font-weight: 400;" width="193">Fuse</td>
+<td style="font-weight: 400;" width="186">Documented 2024WL02752</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-187823</td>
+<td style="font-weight: 400;" width="149">11/28/24 10:49 PM</td>
+<td style="font-weight: 400;" width="149">11/28/24 10:49 PM</td>
+<td style="font-weight: 400;" width="193">Wood St Parking Garage</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-188525</td>
+<td style="font-weight: 400;" width="149">11/30/24 9:03 PM</td>
+<td style="font-weight: 400;" width="149">11/30/24 9:03 PM</td>
+<td style="font-weight: 400;" width="193">S River Rd/Ahlers Dr</td>
+<td style="font-weight: 400;" width="186">Documented 2024WL02759</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

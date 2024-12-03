@@ -591,7 +591,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="111824-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -1046,7 +1051,7 @@
 <td style="font-weight: 400;" width="168">10/18/24 10:14 PM</td>
 <td style="font-weight: 400;" width="166">10/18/24 10:43 PM</td>
 <td style="font-weight: 400;" width="215">1st St/ N Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="200">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="200">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Theft-EMPV</td>
