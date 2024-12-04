@@ -674,7 +674,34 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, December 4, 2024</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption</td>
+<td style="font-weight: 400;" width="150">2024PU01901</td>
+<td style="font-weight: 400;" width="149">12/3/24 4:25 AM</td>
+<td style="font-weight: 400;" width="149">12/3/24 5:02 AM</td>
+<td style="font-weight: 400;" width="193">Earhart Hall</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2024PU01903</td>
+<td style="font-weight: 400;" width="149">12/3/24 7:33 PM</td>
+<td style="font-weight: 400;" width="149">12/3/24 7:46 PM</td>
+<td style="font-weight: 400;" width="193">Wiley Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

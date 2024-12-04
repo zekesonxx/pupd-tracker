@@ -931,7 +931,7 @@
 <td width="168">11/5/24 5:59 PM</td>
 <td width="166">11/8/24 8:48 AM</td>
 <td width="215">Rawls Hall</td>
-<td width="200">Pending Prosecutor Review</td>
+<td width="200">Closed</td>
 </tr>
 <tr>
 <td width="212">Theft-EMPV</td>

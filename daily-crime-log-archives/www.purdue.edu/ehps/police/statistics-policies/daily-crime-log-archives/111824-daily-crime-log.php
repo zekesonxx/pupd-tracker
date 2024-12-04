@@ -1091,7 +1091,7 @@
 <td width="149">11/16/24 3:23 AM</td>
 <td width="149">11/16/24 3:39 AM</td>
 <td width="193">Tarkington Hall</td>
-<td width="180">Pending Prosecutor Review</td>
+<td width="180">Closed</td>
 </tr>
 <tr>
 <td width="182">Minor Consumption</td>
