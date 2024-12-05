@@ -667,7 +667,66 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, December 5, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2024PU01906</td>
+<td style="font-weight: 400;" width="149">12/3/24 9:25 AM</td>
+<td style="font-weight: 400;" width="149">12/4/24 12:59 PM</td>
+<td style="font-weight: 400;" width="193">Material Sciences and Electrical Engineering Building</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Public Intoxication</td>
+<td style="font-weight: 400;" width="150">2024PU01907</td>
+<td style="font-weight: 400;" width="149">12/4/24 1:29 PM</td>
+<td style="font-weight: 400;" width="149">12/4/24 2:21 PM</td>
+<td style="font-weight: 400;" width="193">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Public Intoxication</td>
+<td style="font-weight: 400;" width="150">2024PU01910</td>
+<td style="font-weight: 400;" width="149">12/4/24 2:40 PM</td>
+<td style="font-weight: 400;" width="149">12/4/24 2:57 PM</td>
+<td style="font-weight: 400;" width="193">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Residential Entry</td>
+<td style="font-weight: 400;" width="150">2024PU01911</td>
+<td style="font-weight: 400;" width="149">12/4/24 8:03 PM</td>
+<td style="font-weight: 400;" width="149">12/4/24 8:21 PM</td>
+<td style="font-weight: 400;" width="193">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption</td>
+<td style="font-weight: 400;" width="150">2024PU01912</td>
+<td style="font-weight: 400;" width="149">12/5/24 1:47 AM</td>
+<td style="font-weight: 400;" width="149">12/5/24 2:09 AM</td>
+<td style="font-weight: 400;" width="193">Owen Hall</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">2024PU01913</td>
+<td style="font-weight: 400;" width="149">12/5/24 4:55 AM</td>
+<td style="font-weight: 400;" width="149">12-5 0457</td>
+<td style="font-weight: 400;" width="193">Hilltop Apts</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
