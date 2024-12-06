@@ -595,11 +595,6 @@
         
                 
     
-    <li role="none"><a href="daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
-                                                                            
-        
-                
-    
     <li role="none"><a href="indy-daily-crime-log.php" role="menuitem">Indianapolis Daily Crime Log</a></li>
                                                                             
         
@@ -654,7 +649,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Thursday, December 5, 2024</h3>
+  					<h3>Updated Friday, December 6, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -941,6 +936,11 @@
 <td width="204">Jackson, Anthony</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">11/11/25</td>
+</tr>
+<tr>
+<td width="204">Jung, Isaac J.</td>
+<td width="211">All Residence Halls and Dining Courts</td>
+<td width="76">12/6/25</td>
 </tr>
 <tr>
 <td width="204">King, Brian</td>
