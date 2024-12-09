@@ -717,7 +717,7 @@
 <td style="font-weight: 400;" width="149">12/4/24 8:03 PM</td>
 <td style="font-weight: 400;" width="149">12/4/24 8:21 PM</td>
 <td style="font-weight: 400;" width="193">Frieda Parker Hall</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Minor Consumption</td>
@@ -725,7 +725,7 @@
 <td style="font-weight: 400;" width="149">12/5/24 1:47 AM</td>
 <td style="font-weight: 400;" width="149">12/5/24 2:09 AM</td>
 <td style="font-weight: 400;" width="193">Owen Hall</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Drug Law Violation</td>
