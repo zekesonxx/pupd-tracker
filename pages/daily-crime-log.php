@@ -676,7 +676,74 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, December 10, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2024PU01940</td>
+<td style="font-weight: 400;" width="149">12/8/24 9:00 PM</td>
+<td style="font-weight: 400;" width="149">12/9/24 10:21 AM</td>
+<td style="font-weight: 400;" width="193">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2024PU01941</td>
+<td style="font-weight: 400;" width="149">12/7/24 4:00 PM</td>
+<td style="font-weight: 400;" width="149">12/9/24 12:01 PM</td>
+<td style="font-weight: 400;" width="193">Elliott Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2024PU01943</td>
+<td style="font-weight: 400;" width="149">12/6/24 5:55 PM</td>
+<td style="font-weight: 400;" width="149">12/9/24 4:19 PM</td>
+<td style="font-weight: 400;" width="193">Stanley Coulter Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2024PU01944</td>
+<td style="font-weight: 400;" width="149">12/9/24 7:44 PM</td>
+<td style="font-weight: 400;" width="149">12/9/24 8:02 PM</td>
+<td style="font-weight: 400;" width="193">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-191951</td>
+<td style="font-weight: 400;" width="149">12/6/24 9:55 PM</td>
+<td style="font-weight: 400;" width="149">12/6/24 9:55 PM</td>
+<td style="font-weight: 400;" width="193">US HWY 231 S/S Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Resisting Law Enforcement/ Public Intoxication</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-192012</td>
+<td style="font-weight: 400;" width="149">12/6/24 11:49 PM</td>
+<td style="font-weight: 400;" width="149">12/6/24 11:49 PM</td>
+<td style="font-weight: 400;" width="193">Chabad</td>
+<td style="font-weight: 400;" width="186">Documented in 2024WL02797</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Driving While Suspended</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-192945</td>
+<td style="font-weight: 400;" width="149">12/8/24 9:44 PM</td>
+<td style="font-weight: 400;" width="149">12/8/24 9:44 PM</td>
+<td style="font-weight: 400;" width="193">S River Rd/Ahlers Dr</td>
+<td style="font-weight: 400;" width="186">Documented in 2024WL02818</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

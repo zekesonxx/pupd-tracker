@@ -709,7 +709,7 @@
 <td style="font-weight: 400;" width="149">12/4/24 2:40 PM</td>
 <td style="font-weight: 400;" width="149">12/4/24 2:57 PM</td>
 <td style="font-weight: 400;" width="193">Purdue Memorial Union</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Residential Entry</td>
