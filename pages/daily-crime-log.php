@@ -669,7 +669,66 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, December 11, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Burglary</td>
+<td style="font-weight: 400;" width="150">2024PU01905</td>
+<td style="font-weight: 400;" width="149">11/27/24 11:00 AM</td>
+<td style="font-weight: 400;" width="149">12/4/24 12:57 PM</td>
+<td style="font-weight: 400;" width="193">Aerospace Engineering Science Lab</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Reckless Driving/ Resisting Law Enforcement</td>
+<td style="font-weight: 400;" width="150">2024PU01947</td>
+<td style="font-weight: 400;" width="149">12/10/24 11:12 AM</td>
+<td style="font-weight: 400;" width="149">12/10/24 11:53 AM</td>
+<td style="font-weight: 400;" width="193">University St Garage</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2024PU01948</td>
+<td style="font-weight: 400;" width="149">12/4/24 8:03 PM</td>
+<td style="font-weight: 400;" width="149">12/10/24 12:47 PM</td>
+<td style="font-weight: 400;" width="193">Hilltop Apts</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Arson</td>
+<td style="font-weight: 400;" width="150">2024PU01951</td>
+<td style="font-weight: 400;" width="149">12/8/24 7:00 PM</td>
+<td style="font-weight: 400;" width="149">12/10/24 3:22 PM</td>
+<td style="font-weight: 400;" width="193">Honors College North</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2024PU01952</td>
+<td style="font-weight: 400;" width="149">10/22/24 5:26 PM</td>
+<td style="font-weight: 400;" width="149">12/10/24 5:04 PM</td>
+<td style="font-weight: 400;" width="193">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-193637</td>
+<td style="font-weight: 400;" width="149">12/10/24 1:05 AM</td>
+<td style="font-weight: 400;" width="149">12/10/24 1:05 AM</td>
+<td style="font-weight: 400;" width="193">1500 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

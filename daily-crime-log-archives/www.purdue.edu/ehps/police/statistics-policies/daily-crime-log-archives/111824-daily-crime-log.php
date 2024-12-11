@@ -741,7 +741,7 @@
 <td style="font-weight: 400;" width="149">11/19/24 10:38 PM</td>
 <td style="font-weight: 400;" width="149">11/20/24 9:46 AM</td>
 <td style="font-weight: 400;" width="193">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="180">Under Investigation</td>
+<td style="font-weight: 400;" width="180">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Theft</td>

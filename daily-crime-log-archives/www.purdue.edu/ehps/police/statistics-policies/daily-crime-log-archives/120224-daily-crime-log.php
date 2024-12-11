@@ -894,12 +894,12 @@
 <td style="font-weight: 400;" width="186">Nothing Further</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="182">Burglary</td>
 <td style="font-weight: 400;" width="150">CSA</td>
 <td style="font-weight: 400;" width="149">11/12/2024&#160; Unknown Time</td>
 <td style="font-weight: 400;" width="149">11/27/24 5:50 PM</td>
 <td style="font-weight: 400;" width="193">Fuse Apts</td>
-<td style="font-weight: 400;" width="186">Nothing Further</td>
+<td style="font-weight: 400;" width="186">Documented in WLPD 2024WL02748, further investigation determined case to be a Burglary</td>
 </tr>
 </tbody>
 </table>
