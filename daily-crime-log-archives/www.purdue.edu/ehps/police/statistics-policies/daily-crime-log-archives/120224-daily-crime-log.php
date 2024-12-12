@@ -659,7 +659,7 @@
 <td style="font-weight: 400;" width="149">12/6/24 12:21 AM</td>
 <td style="font-weight: 400;" width="149">12/6/24 12:43 AM</td>
 <td style="font-weight: 400;" width="193">1200 Blk 3rd St</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Drug Law Violation</td>
@@ -759,7 +759,7 @@
 <td style="font-weight: 400;" width="149">12/3/24 4:25 AM</td>
 <td style="font-weight: 400;" width="149">12/3/24 5:02 AM</td>
 <td style="font-weight: 400;" width="193">Earhart Hall</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Criminal Mischief</td>

@@ -757,7 +757,7 @@
 <td style="font-weight: 400;" width="149">11/21/24 12:48 AM</td>
 <td style="font-weight: 400;" width="149">11/21/24 12:56 AM</td>
 <td style="font-weight: 400;" width="193">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="180">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="180">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Drug Law Violation</td>
