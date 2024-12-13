@@ -649,7 +649,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Friday, December 6, 2024</h3>
+  					<h3>Updated Friday, December 13, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -996,6 +996,11 @@
 <td width="204">McNair, Lucas</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">6/13/29</td>
+</tr>
+<tr>
+<td width="204">McWhirter, Christopher J.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">12/13/25</td>
 </tr>
 <tr>
 <td width="204">Merrell, F. Alexander</td>
