@@ -688,7 +688,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, December 16, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-EMPV</td>
+<td style="font-weight: 400;" width="150">2024PU01968</td>
+<td style="font-weight: 400;" width="149">12/12/24 11:50 AM</td>
+<td style="font-weight: 400;" width="149">12/13/24 7:39 PM</td>
+<td style="font-weight: 400;" width="193">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2024PU01969</td>
+<td style="font-weight: 400;" width="149">12/13/24 9:00 PM</td>
+<td style="font-weight: 400;" width="149">12/13/24 9:22 PM</td>
+<td style="font-weight: 400;" width="193">Slayter Hill</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-Bike</td>
+<td style="font-weight: 400;" width="150">2024PU01971</td>
+<td style="font-weight: 400;" width="149">12/9/24 11:00 AM</td>
+<td style="font-weight: 400;" width="149">12/13/24 9:16 PM</td>
+<td style="font-weight: 400;" width="193">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="186">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">2024PU01973</td>
+<td style="font-weight: 400;" width="149">12/15/24 11:39 AM</td>
+<td style="font-weight: 400;" width="149">12/15/24 12:29 PM</td>
+<td style="font-weight: 400;" width="193">Aspire Apts</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2024-195402</td>
+<td style="font-weight: 400;" width="149">12/12/24 10:34 PM</td>
+<td style="font-weight: 400;" width="149">12/12/24 10:34 PM</td>
+<td style="font-weight: 400;" width="193">S Grant St/Harrison St</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

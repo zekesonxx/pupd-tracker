@@ -825,7 +825,7 @@
 <td style="font-weight: 400;" width="149">12/6/24 5:55 PM</td>
 <td style="font-weight: 400;" width="149">12/9/24 4:19 PM</td>
 <td style="font-weight: 400;" width="193">Stanley Coulter Hall</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Criminal Mischief</td>
