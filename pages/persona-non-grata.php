@@ -595,6 +595,11 @@
         
                 
     
+    <li role="none"><a href="daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
+                                                                            
+        
+                
+    
     <li role="none"><a href="indy-daily-crime-log.php" role="menuitem">Indianapolis Daily Crime Log</a></li>
                                                                             
         
@@ -649,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Friday, December 13, 2024</h3>
+  					<h3>Updated Monday, December 16, 2024</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1026,6 +1031,11 @@
 <td width="204">O'Brien, Thomas C.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">8/14/28</td>
+</tr>
+<tr>
+<td width="204">Oh, Jason S.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">12/13/25</td>
 </tr>
 <tr>
 <td width="204">Oltarsh, Ryan</td>
