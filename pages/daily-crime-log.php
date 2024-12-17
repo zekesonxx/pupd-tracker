@@ -681,7 +681,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, December 17, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="182">Theft</td>
+<td width="150">2024PU01976</td>
+<td width="149">11/25/24 2:00 PM</td>
+<td width="149">12/16/24 1:45 PM</td>
+<td width="193">Lynn Hall&#160;</td>
+<td width="186">Under Investigation&#160;</td>
+</tr>
+<tr>
+<td width="182">Drug Law Violation</td>
+<td width="150">CAD# 2024-196686</td>
+<td width="149">12/15/24 11:37 AM</td>
+<td width="149">12/15/24 11:37 AM</td>
+<td width="193">Fuse</td>
+<td width="186">Documented 2024WL02872</td>
+</tr>
+<tr>
+<td width="182">Drug Law Violation</td>
+<td width="150">CAD# 2024-196688</td>
+<td width="149">12/15/24 11:40 AM</td>
+<td width="149">12/15/24 11:40 AM</td>
+<td width="193">Owen Hall</td>
+<td width="186">Nothing Further</td>
+</tr>
+<tr>
+<td width="182">Drug Law Violation</td>
+<td width="150">CAD# 2024-196707</td>
+<td width="149">12/15/24 12:32 PM</td>
+<td width="149">12/15/24 12:32 PM</td>
+<td width="193">Aspire</td>
+<td width="186">Nothing Further</td>
+</tr>
+<tr>
+<td width="182">Drug Law Violation</td>
+<td width="150">CAD# 2024-196871</td>
+<td width="149">12/15/24 8:08 PM</td>
+<td width="149">12/15/24 8:08 PM</td>
+<td width="193">Salisbury Cmpus</td>
+<td width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

@@ -1131,7 +1131,7 @@
 <td width="149">11/16/24 4:07 PM</td>
 <td width="149">11/16/24 4:08 PM</td>
 <td width="193">Ross Ade Stadium</td>
-<td width="180">Arrest Made</td>
+<td width="180">Closed</td>
 </tr>
 <tr>
 <td width="182">Public Intoxication</td>
