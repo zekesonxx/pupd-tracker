@@ -683,7 +683,7 @@
 <td style="font-weight: 400;" width="149">11/22/24 12:10 AM</td>
 <td style="font-weight: 400;" width="149">11/22/24 3:58 AM</td>
 <td style="font-weight: 400;" width="193">Owen Hall</td>
-<td style="font-weight: 400;" width="180">Arrest Made</td>
+<td style="font-weight: 400;" width="180">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Theft</td>
