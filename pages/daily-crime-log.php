@@ -660,7 +660,26 @@
   
     	<section class="content__group">
   					<h3>Friday, December 20, 2024</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;">Trespass/ Drug Law Violation</td>
+<td style="font-weight: 400;">2024PU01985</td>
+<td style="font-weight: 400;">12/20/24 12:23 AM</td>
+<td style="font-weight: 400;">12/20/24 1:03 AM</td>
+<td style="font-weight: 400;">W Stadium Ave/ Northwestern Ave</td>
+<td style="font-weight: 400;">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

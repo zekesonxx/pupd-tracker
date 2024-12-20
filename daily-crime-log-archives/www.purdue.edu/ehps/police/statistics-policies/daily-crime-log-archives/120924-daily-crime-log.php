@@ -717,7 +717,7 @@
 <td style="font-weight: 400;" width="149">12/12/24 2:32 AM</td>
 <td style="font-weight: 400;" width="149">12/12/24 2:47 AM</td>
 <td style="font-weight: 400;" width="193">Harrison Hall</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 </tbody>
 </table>
@@ -955,7 +955,7 @@
 <td style="font-weight: 400;" width="149">12/8/24 1:10 PM</td>
 <td style="font-weight: 400;" width="149">12/8/24 1:40 PM</td>
 <td style="font-weight: 400;" width="193">Mackey Arena</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Criminal Mischief</td>
