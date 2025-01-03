@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			123024 WL Daily Crime Log - 
+			010625 WL Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -659,71 +659,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, January 3, 2025</h3>
-<p>Nothing to report.</p>
+  					<h3>Friday, January 10, 2025</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, January 2, 2025</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="182">Drug Law Violation</td>
-<td style="font-weight: 400;" width="150">2024PU01990</td>
-<td style="font-weight: 400;" width="149">12/22/24 12:05 AM</td>
-<td style="font-weight: 400;" width="149">12/22/24 12:30 AM</td>
-<td style="font-weight: 400;" width="193">Northwestern Ave/ W Stadium Ave</td>
-<td style="font-weight: 400;" width="186">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="182">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="150">2024PU01992</td>
-<td style="font-weight: 400;" width="149">12/22/24 2:12 AM</td>
-<td style="font-weight: 400;" width="149">12/22/24 2:49 AM</td>
-<td style="font-weight: 400;" width="193">Northwestern Ave/ W Stadium Ave</td>
-<td style="font-weight: 400;" width="186">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="182">Reckless Driver</td>
-<td style="font-weight: 400;" width="150">CAD# 202287</td>
-<td style="font-weight: 400;" width="149">12/27/25 6:08 PM</td>
-<td style="font-weight: 400;" width="149">12/27/25 6:08 PM</td>
-<td style="font-weight: 400;" width="193">US 231 Hwy/ S River Rd</td>
-<td style="font-weight: 400;" width="186">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, January 9, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, January 1, 2025</h3>
-<p>New Years Day.</p>
+  					<h3>Wednesday, January 8, 2025</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday, December 31, 2024</h3>
-<p>Winter Recess.</p>
+  					<h3>Tuesday, January 7, 2025</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, December 30, 2024</h3>
-<p>Winter Recess.</p>
+  					<h3>Monday, January 6, 2025</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
