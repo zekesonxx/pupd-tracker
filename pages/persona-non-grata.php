@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Thursday, January 2, 2025</h3>
+  					<h3>Updated Friday, January 3, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -745,7 +745,7 @@
 <tr>
 <td width="204">Canning, Christopher S.</td>
 <td width="211">Entire WL Purdue Campus</td>
-<td width="76">12/19/25</td>
+<td width="76">12/21/29</td>
 </tr>
 <tr>
 <td width="204">Carrera, Jaden</td>
