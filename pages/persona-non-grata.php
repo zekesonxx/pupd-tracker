@@ -993,11 +993,6 @@
 <td width="76">9/2/25</td>
 </tr>
 <tr>
-<td width="204">Masterson, Douglas</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">1/5/25</td>
-</tr>
-<tr>
 <td width="204">McGirt, Larry</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/18/25</td>
@@ -1021,11 +1016,6 @@
 <td width="204">Merrell, F. Alexander</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">5/22/29</td>
-</tr>
-<tr>
-<td width="204">Moore, Jason L.</td>
-<td width="211">Purdue Memorial Union</td>
-<td width="76">1/3/25</td>
 </tr>
 <tr>
 <td width="204">Myers, Grant E.</td>
