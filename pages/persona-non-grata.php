@@ -654,13 +654,18 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Friday, January 3, 2025</h3>
+  					<h3>Updated Monday, January 6, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
 <th scope="col" width="204">Name</th>
 <th scope="col" width="211">Location Where Valid</th>
 <th scope="col" width="76">Expiration Date</th>
+</tr>
+<tr>
+<td width="204">Abdel-Haleem, Ayman M.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">1/4/26</td>
 </tr>
 <tr>
 <td width="204">Albee, Neil C.</td>
@@ -1166,6 +1171,11 @@
 <td width="204">Smith, Clayton</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">3/5/25</td>
+</tr>
+<tr>
+<td width="204">Smith, Jason M.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">1/5/26</td>
 </tr>
 <tr>
 <td width="204">Spar, Christopher A.</td>
