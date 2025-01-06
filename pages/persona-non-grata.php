@@ -678,11 +678,6 @@
 <td width="76">10/31/25</td>
 </tr>
 <tr>
-<td width="204">Ang, Yock A.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">1/6/25</td>
-</tr>
-<tr>
 <td width="204">Baker, Gabriel B.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/23/25</td>
