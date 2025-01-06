@@ -688,7 +688,34 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, January 6, 2025</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Domestic Battery</td>
+<td style="font-weight: 400;" width="150">2025PU00003</td>
+<td style="font-weight: 400;" width="149">1/3/25 9:15 PM</td>
+<td style="font-weight: 400;" width="149">1/3/25 9:39 PM</td>
+<td style="font-weight: 400;" width="193">1300 Blk McCormick Rd</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Intimidation</td>
+<td style="font-weight: 400;" width="150">2025PU00004</td>
+<td style="font-weight: 400;" width="149">1/3/25 9:57 PM</td>
+<td style="font-weight: 400;" width="149">1/3/25 10:18 PM</td>
+<td style="font-weight: 400;" width="193">Aspire Apts</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
