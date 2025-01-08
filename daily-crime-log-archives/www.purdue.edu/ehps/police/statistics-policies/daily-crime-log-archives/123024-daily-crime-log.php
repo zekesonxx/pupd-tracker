@@ -658,7 +658,7 @@
 <td style="font-weight: 400;" width="149">12/22/24 12:05 AM</td>
 <td style="font-weight: 400;" width="149">12/22/24 12:30 AM</td>
 <td style="font-weight: 400;" width="193">Northwestern Ave/ W Stadium Ave</td>
-<td style="font-weight: 400;" width="186">Arrest Made</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Operating While Intoxicated</td>
