@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Monday, January 6, 2025</h3>
+  					<h3>Updated Friday, January 10, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -954,8 +954,8 @@
 </tr>
 <tr>
 <td width="204">Jung, Isaac J.</td>
-<td width="211">All Residence Halls and Dining Courts</td>
-<td width="76">12/6/25</td>
+<td width="211">Frieda and Winifred Parker Halls</td>
+<td width="76">1/9/26</td>
 </tr>
 <tr>
 <td width="204">King, Brian</td>
