@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			010625 WL Daily Crime Log - 
+			011325 WL Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -659,200 +659,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, January 10, 2025</h3>
+  					<h3>Friday, January 17, 2025</h3>
 <p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, January 9, 2025</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">1 Disciplinary Referral</td>
-<td style="font-weight: 400;">12/14/24 2:00 AM</td>
-<td style="font-weight: 400;">12/14/24 2:23 AM</td>
-<td style="font-weight: 400;">Tarkington Hall</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">1 Disciplinary Referral</td>
-<td style="font-weight: 400;">12/15/24 11:00 AM</td>
-<td style="font-weight: 400;">12/15/24 11:00 AM</td>
-<td style="font-weight: 400;">McCutcheon Hall</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">3 Disciplinary Referral</td>
-<td style="font-weight: 400;">12/15/24 11:00 AM</td>
-<td style="font-weight: 400;">12/15/24 1:20 PM</td>
-<td style="font-weight: 400;">Harrision Hall</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">3 Disciplinary Referrals</td>
-<td style="font-weight: 400;">12/15/24 11:00 AM</td>
-<td style="font-weight: 400;">12/15/24 4:40 PM</td>
-<td style="font-weight: 400;">Shreve Hall</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Drug Law Vioaltion</td>
-<td style="font-weight: 400;">1 Disciplinary Referral</td>
-<td style="font-weight: 400;">12/15/24 11:15 AM</td>
-<td style="font-weight: 400;">12/15/24 3:05 PM</td>
-<td style="font-weight: 400;">Aspire Apts.</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">2 Disciplinary Referral</td>
-<td style="font-weight: 400;">12/15/24 11:45 AM</td>
-<td style="font-weight: 400;">12/15/24 1:13 PM</td>
-<td style="font-weight: 400;">Meredith South</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">2 Disciplinary Referrals</td>
-<td style="font-weight: 400;">12/15/24 11:45 AM</td>
-<td style="font-weight: 400;">12/15/24 12:36 PM</td>
-<td style="font-weight: 400;">Hilltop Apts.</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">2 Disciplinary Referrals</td>
-<td style="font-weight: 400;">12/15/24 12:00 PM</td>
-<td style="font-weight: 400;">12/15/24 2:54 PM</td>
-<td style="font-weight: 400;">Aspire Apts.</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">3 Disciplinary Referral</td>
-<td style="font-weight: 400;">12/15/24 1:00 PM</td>
-<td style="font-weight: 400;">12/18/24 9:13 AM</td>
-<td style="font-weight: 400;">McCutcheon Hall</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Drug Law Vioaltion</td>
-<td style="font-weight: 400;">1 Disciplinary Referral</td>
-<td style="font-weight: 400;">12/15/24 2:10 PM</td>
-<td style="font-weight: 400;">12/15/24 4:35 PM</td>
-<td style="font-weight: 400;">Village West Apts.</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">3 Disciplinary Referrals</td>
-<td style="font-weight: 400;">12/18/24 8:58 AM</td>
-<td style="font-weight: 400;">12/18/24 8:58 AM</td>
-<td style="font-weight: 400;">Tarkington Hall</td>
-<td style="font-weight: 400;">Judicial Review</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, January 16, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, January 8, 2025</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="182">Drug Law Violation</td>
-<td style="font-weight: 400;" width="150">CAD# 2025-002723</td>
-<td style="font-weight: 400;" width="149">1/6/25 8:00 PM</td>
-<td style="font-weight: 400;" width="149">1/6/25 8:00 PM</td>
-<td style="font-weight: 400;" width="193">S River Rd/Ahlers Dr</td>
-<td style="font-weight: 400;" width="186">Documented 2025WL00033</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, January 15, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday, January 7, 2025</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="182">Driving While Suspended</td>
-<td style="font-weight: 400;" width="150">CAD# 2025-001833</td>
-<td style="font-weight: 400;" width="149">1/4/25 10:46 PM</td>
-<td style="font-weight: 400;" width="149">1/4/25 10:46 PM</td>
-<td style="font-weight: 400;" width="193">E State St/N River Rd</td>
-<td style="font-weight: 400;" width="186">Documented 2025WL00021</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday, January 14, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, January 6, 2025</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="182">Domestic Battery</td>
-<td style="font-weight: 400;" width="150">2025PU00003</td>
-<td style="font-weight: 400;" width="149">1/3/25 9:15 PM</td>
-<td style="font-weight: 400;" width="149">1/3/25 9:39 PM</td>
-<td style="font-weight: 400;" width="193">1300 Blk McCormick Rd</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="182">Intimidation</td>
-<td style="font-weight: 400;" width="150">2025PU00004</td>
-<td style="font-weight: 400;" width="149">1/3/25 9:57 PM</td>
-<td style="font-weight: 400;" width="149">1/3/25 10:18 PM</td>
-<td style="font-weight: 400;" width="193">Aspire Apts</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Monday, January 13, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
