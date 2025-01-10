@@ -653,6 +653,14 @@
 <td style="font-weight: 400;">100 Blk N University St</td>
 <td style="font-weight: 400;">Under Investigation</td>
 </tr>
+<tr>
+<td style="font-weight: 400;">Theft</td>
+<td style="font-weight: 400;">2025PU00016</td>
+<td style="font-weight: 400;">Dec2022-Dec 2024</td>
+<td style="font-weight: 400;">1/3/24</td>
+<td style="font-weight: 400;">Mechanical Engineering</td>
+<td style="font-weight: 400;">Under Investigation</td>
+</tr>
 </tbody>
 </table>
 		</section>
