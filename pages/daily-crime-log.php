@@ -688,7 +688,42 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, January 13, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Identity Theft/ Attempted Fraud</td>
+<td style="font-weight: 400;" width="150">2025PU00015</td>
+<td style="font-weight: 400;" width="149">Dec 2022-Dec 2024</td>
+<td style="font-weight: 400;" width="149">1/3/25 9:20 AM</td>
+<td style="font-weight: 400;" width="193">Mackey Arena</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-Bike</td>
+<td style="font-weight: 400;" width="150">2025PU00018</td>
+<td style="font-weight: 400;" width="149">12/12/24 4:00 PM</td>
+<td style="font-weight: 400;" width="149">1/11/25 11:21 AM</td>
+<td style="font-weight: 400;" width="193">Wetherill Laboratory</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption</td>
+<td style="font-weight: 400;" width="150">2025PU00020</td>
+<td style="font-weight: 400;" width="149">1/12/25 12:51 AM</td>
+<td style="font-weight: 400;" width="149">1/12/25 1:22 AM</td>
+<td style="font-weight: 400;" width="193">Owen Hall</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
