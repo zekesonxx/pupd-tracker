@@ -912,7 +912,7 @@
 <td style="font-weight: 400;" width="154">CAD# 2024-173100</td>
 <td style="font-weight: 400;" width="168">11/2/24 4:27 PM</td>
 <td style="font-weight: 400;" width="166">11/2/24 4:27 PM</td>
-<td style="font-weight: 400;" width="215">Salisbury Cmpus</td>
+<td style="font-weight: 400;" width="215">Salisbury Campus</td>
 <td style="font-weight: 400;" width="200">Documented 2024WL02516</td>
 </tr>
 <tr>

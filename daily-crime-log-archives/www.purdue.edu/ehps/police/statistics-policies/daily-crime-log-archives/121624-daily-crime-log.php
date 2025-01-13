@@ -679,7 +679,7 @@ Nothing to report.
 <th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;">Drug Law Vioaltion</td>
+<td style="font-weight: 400;">Drug Law Violation</td>
 <td style="font-weight: 400;">5 Disciplinary Referrals</td>
 <td style="font-weight: 400;">11/22/24 12:14 AM</td>
 <td style="font-weight: 400;">11/26/24 6:19 PM</td>
@@ -704,7 +704,7 @@ Nothing to report.
 </tr>
 <tr>
 <td style="font-weight: 400;">Drug Law Violation</td>
-<td style="font-weight: 400;">3 Discliplianry Referrals</td>
+<td style="font-weight: 400;">3 Disciplinary Referrals</td>
 <td style="font-weight: 400;">11/28/24 7:52 PM</td>
 <td style="font-weight: 400;">12/2/24 4:08 PM</td>
 <td style="font-weight: 400;">Fuse</td>
@@ -789,7 +789,7 @@ Nothing to report.
 <td width="150">CAD# 2024-196871</td>
 <td width="149">12/15/24 8:08 PM</td>
 <td width="149">12/15/24 8:08 PM</td>
-<td width="193">Salisbury Cmpus</td>
+<td width="193">Salisbury Campus</td>
 <td width="186">Nothing Further</td>
 </tr>
 </tbody>

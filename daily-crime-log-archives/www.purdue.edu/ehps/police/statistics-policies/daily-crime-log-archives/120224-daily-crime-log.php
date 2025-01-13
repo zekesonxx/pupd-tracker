@@ -844,7 +844,7 @@
 <td style="font-weight: 400;" width="186">Nothing Further</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="182">Drug Law Viotlation</td>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
 <td style="font-weight: 400;" width="150">CAD# 2024-187780</td>
 <td style="font-weight: 400;" width="149">11/28/24 7:52 PM</td>
 <td style="font-weight: 400;" width="149">11/28/24 7:52 PM</td>

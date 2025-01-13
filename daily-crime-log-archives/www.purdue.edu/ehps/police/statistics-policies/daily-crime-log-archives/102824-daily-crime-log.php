@@ -1019,7 +1019,7 @@
 </tr>
 <tr>
 <td style="font-weight: 400;">Liquor Law Violation</td>
-<td style="font-weight: 400;">1 Disiplinary Referral</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
 <td style="font-weight: 400;">10/21/24 9:00 PM</td>
 <td style="font-weight: 400;">10/21/24 10:05 PM</td>
 <td style="font-weight: 400;">Provenance Apts</td>
