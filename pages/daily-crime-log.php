@@ -681,7 +681,74 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, January 14, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Invasion of Privacy</td>
+<td style="font-weight: 400;" width="150">2025PU00022</td>
+<td style="font-weight: 400;" width="149">1/13/25 12:00 PM</td>
+<td style="font-weight: 400;" width="149">1/13/25 2:31 PM</td>
+<td style="font-weight: 400;" width="193">600 Blk Oval Dr</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-EMPV</td>
+<td style="font-weight: 400;" width="150">2025PU00024</td>
+<td style="font-weight: 400;" width="149">1/13/25 9:00 PM</td>
+<td style="font-weight: 400;" width="149">1/13/25 9:28 PM</td>
+<td style="font-weight: 400;" width="193">Aspire Apts</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-005409</td>
+<td style="font-weight: 400;" width="149">1/11/25 10:43 PM</td>
+<td style="font-weight: 400;" width="149">1/11/25 10:43 PM</td>
+<td style="font-weight: 400;" width="193">Northwestern Ave/Lindberg Rd</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-005476</td>
+<td style="font-weight: 400;" width="149">1/12/25 3:25 AM</td>
+<td style="font-weight: 400;" width="149">1/12/25 3:25 AM</td>
+<td style="font-weight: 400;" width="193">E State St/N River Rd</td>
+<td style="font-weight: 400;" width="186">Documented 2025WL00078</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-005848</td>
+<td style="font-weight: 400;" width="149">1/12/25 10:48 PM</td>
+<td style="font-weight: 400;" width="149">1/12/25 10:48 PM</td>
+<td style="font-weight: 400;" width="193">Owen Hall</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Burglary</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-006259</td>
+<td style="font-weight: 400;" width="149">1/13/25 3:30 PM</td>
+<td style="font-weight: 400;" width="149">1/13/25 3:30 PM</td>
+<td style="font-weight: 400;" width="193">Provenance Apts</td>
+<td style="font-weight: 400;" width="186">Documented 2025WL00086</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Rape/ Indecent Exposure</td>
+<td style="font-weight: 400;" width="150">CSA</td>
+<td style="font-weight: 400;" width="149">11/16/2024&#160; Unknown Time</td>
+<td style="font-weight: 400;" width="149">1/13/25 9:00 PM</td>
+<td style="font-weight: 400;" width="193">1300 Blk 3rd St</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -720,7 +787,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="149">1/12/25 12:51 AM</td>
 <td style="font-weight: 400;" width="149">1/12/25 1:22 AM</td>
 <td style="font-weight: 400;" width="193">Owen Hall</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 </tbody>
 </table>
