@@ -674,7 +674,42 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, January 15, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00028</td>
+<td style="font-weight: 400;" width="149">1/11/25 3:00 AM</td>
+<td style="font-weight: 400;" width="149">1/14/25 7:55 PM</td>
+<td style="font-weight: 400;" width="193">Hawkins Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-007007</td>
+<td style="font-weight: 400;" width="149">1/14/25 8:15 PM</td>
+<td style="font-weight: 400;" width="149">1/14/25 8:15 PM</td>
+<td style="font-weight: 400;" width="193">Shreve Hall</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-EMPV</td>
+<td style="font-weight: 400;" width="150">CSA</td>
+<td style="font-weight: 400;" width="149">12/16/24 12:00 AM</td>
+<td style="font-weight: 400;" width="149">1/14/25 10:36 PM</td>
+<td style="font-weight: 400;" width="193">Provenance Apts</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -737,7 +772,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="149">1/13/25 3:30 PM</td>
 <td style="font-weight: 400;" width="149">1/13/25 3:30 PM</td>
 <td style="font-weight: 400;" width="193">Provenance Apts</td>
-<td style="font-weight: 400;" width="186">Documented 2025WL00086</td>
+<td style="font-weight: 400;" width="186">Investigation Determined that this was a Larceny-Theft. Documented 2025WL00086</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Rape/ Indecent Exposure</td>
