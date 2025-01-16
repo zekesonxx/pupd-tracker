@@ -667,7 +667,58 @@
   
     	<section class="content__group">
   					<h3>Thursday, January 16, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="182">Harassment</td>
+<td width="150">2025PU00030</td>
+<td width="149">1/15/25 8:45 AM</td>
+<td width="149">1/15/25 11:00 AM</td>
+<td width="193">Purdue Memorial Union</td>
+<td width="186">Under Investigation</td>
+</tr>
+<tr>
+<td width="182">Fraud</td>
+<td width="150">2025PU00033</td>
+<td width="149">1/14/25 2:22 PM</td>
+<td width="149">1/15/25 4:41 PM</td>
+<td width="193">Harrison Hall</td>
+<td width="186">Under Investigation</td>
+</tr>
+<tr>
+<td width="182">Minor Consumption</td>
+<td width="150">2025PU00035</td>
+<td width="149">1/16/25 12:22 AM</td>
+<td width="149">1/16/25 12:36 AM</td>
+<td width="193">600 Blk Stadium Mall Dr</td>
+<td width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="182">Drug Law Violation</td>
+<td width="150">2025PU00036</td>
+<td width="149">1/16/25 1:35 AM</td>
+<td width="149">1/16/25 1:50 AM</td>
+<td width="193">Shreve Hall</td>
+<td width="186">Nothing Further</td>
+</tr>
+<tr>
+<td width="182">Theft-EMPV</td>
+<td width="150">CSA</td>
+<td width="149">Unknown Date 9:38 AM</td>
+<td width="149">1/12/2025 Unknown Time</td>
+<td width="193">Provenance Apts</td>
+<td width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
