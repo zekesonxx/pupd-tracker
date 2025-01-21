@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Friday, January 17, 2025</h3>
+  					<h3>Updated Monday, January 21, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -721,6 +721,11 @@
 <td width="204">Bowden, Edward</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/8/25</td>
+</tr>
+<tr>
+<td width="204">Branaman, Ryan D.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">1/21/26</td>
 </tr>
 <tr>
 <td width="204">Brooks, Austin T.</td>
