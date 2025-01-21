@@ -731,7 +731,7 @@
 <td style="font-weight: 400;" width="168">11/1/24 2:27 AM</td>
 <td style="font-weight: 400;" width="166">11/1/24 2:51 AM</td>
 <td style="font-weight: 400;" width="215">1000 Blk S River Rd</td>
-<td style="font-weight: 400;" width="200">Arrest Made</td>
+<td style="font-weight: 400;" width="200">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="192">Hit &amp; Run</td>
