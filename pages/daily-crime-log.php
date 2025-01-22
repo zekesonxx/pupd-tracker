@@ -674,7 +674,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, January 22, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00071</td>
+<td style="font-weight: 400;" width="149">1/20/25 8:00 PM</td>
+<td style="font-weight: 400;" width="149">1/21/25 3:49 PM</td>
+<td style="font-weight: 400;" width="193">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-EMPV</td>
+<td style="font-weight: 400;" width="150">2025PU00072</td>
+<td style="font-weight: 400;" width="149">1/21/25 4:00 PM</td>
+<td style="font-weight: 400;" width="149">1/21/25 8:41 PM</td>
+<td style="font-weight: 400;" width="193">Mackey Arena</td>
+<td style="font-weight: 400;" width="186">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00073</td>
+<td style="font-weight: 400;" width="149">1/18/25 10:14 PM</td>
+<td style="font-weight: 400;" width="149">1/22/25 1:34 AM</td>
+<td style="font-weight: 400;" width="193">Meredith South</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-010803</td>
+<td style="font-weight: 400;" width="149">1/21/25 9:02 PM</td>
+<td style="font-weight: 400;" width="149">1/21/25 9:02 PM</td>
+<td style="font-weight: 400;" width="193">Owen Hall</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
