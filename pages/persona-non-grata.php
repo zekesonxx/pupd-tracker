@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Monday, January 21, 2025</h3>
+  					<h3>Updated Thursday, January 23, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1061,11 +1061,6 @@
 <td width="204">Pence, Jeffrey L.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">10/22/25</td>
-</tr>
-<tr>
-<td width="204">Pitt, Spencer A.</td>
-<td width="211">Krach and PMU</td>
-<td width="76">1/23/25</td>
 </tr>
 <tr>
 <td width="204">Pope, Nicolas P.</td>
