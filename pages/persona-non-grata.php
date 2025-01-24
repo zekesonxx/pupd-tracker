@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Thursday, January 23, 2025</h3>
+  					<h3>Updated Friday, January 24, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1076,11 +1076,6 @@
 <td width="204">Reed, Austin K.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">5/20/25</td>
-</tr>
-<tr>
-<td width="204">Reese, Riley J.</td>
-<td width="211">Warren and Windsor Hall</td>
-<td width="76">1/26/25</td>
 </tr>
 <tr>
 <td width="204">Rochefort, Christopher L.</td>
