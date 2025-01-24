@@ -723,11 +723,6 @@
 <td width="76">9/8/25</td>
 </tr>
 <tr>
-<td width="204">Branaman, Ryan D.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">1/21/26</td>
-</tr>
-<tr>
 <td width="204">Brooks, Austin T.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">8/8/24</td>
