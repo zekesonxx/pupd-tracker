@@ -675,7 +675,7 @@
 <td style="font-weight: 400;" width="149">1/17/25 1:38 AM</td>
 <td style="font-weight: 400;" width="149">1/17/25 1:59 AM</td>
 <td style="font-weight: 400;" width="193">Delta Delta Delta</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 </tbody>
 </table>
@@ -801,7 +801,7 @@
 <td style="font-weight: 400;" width="149">1/13/25 12:00 PM</td>
 <td style="font-weight: 400;" width="149">1/13/25 2:31 PM</td>
 <td style="font-weight: 400;" width="193">600 Blk Oval Dr</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Theft-EMPV</td>
