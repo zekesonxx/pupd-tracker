@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Friday, January 24, 2025</h3>
+  					<h3>Updated Tuesday, January 28, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1226,6 +1226,11 @@
 <td width="204">Vanness, Scott B.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/18/25</td>
+</tr>
+<tr>
+<td width="204">Vondersaar, Coleton</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">1/27/26</td>
 </tr>
 <tr>
 <td width="204">Walker, Mark E.</td>
