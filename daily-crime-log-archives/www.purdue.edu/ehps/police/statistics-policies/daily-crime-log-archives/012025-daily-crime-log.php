@@ -977,7 +977,7 @@
 <td style="font-weight: 400;" width="149">1/19/25 11:52 PM</td>
 <td style="font-weight: 400;" width="149">1/20/25 12:02 AM</td>
 <td style="font-weight: 400;" width="193">Wilmeth Active Learning Center</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Drug Law Violations/ Minor Consumption</td>
