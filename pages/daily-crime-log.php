@@ -667,7 +667,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, January 30, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00107</td>
+<td style="font-weight: 400;" width="149">1/21/25 10:48 AM</td>
+<td style="font-weight: 400;" width="149">1/29/25 11:42 AM</td>
+<td style="font-weight: 400;" width="193">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-EMPV</td>
+<td style="font-weight: 400;" width="150">2025PU00109</td>
+<td style="font-weight: 400;" width="149">12/9/24 12:00 AM</td>
+<td style="font-weight: 400;" width="149">1/29/25 4:06 PM</td>
+<td style="font-weight: 400;" width="193">Owen Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Soliciting/Panhandling</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-014530</td>
+<td style="font-weight: 400;" width="149">1/28/25 4:05 PM</td>
+<td style="font-weight: 400;" width="149">1/28/25 4:05 PM</td>
+<td style="font-weight: 400;" width="193">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Rape</td>
+<td style="font-weight: 400;" width="150">CSA</td>
+<td style="font-weight: 400;" width="149">8/1/24 12:00 AM</td>
+<td style="font-weight: 400;" width="149">1/29/25 11:00 AM</td>
+<td style="font-weight: 400;" width="193">On Campus Housing</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
