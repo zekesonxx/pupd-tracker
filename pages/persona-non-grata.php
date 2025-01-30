@@ -1048,6 +1048,11 @@
 <td width="76">1/25/29</td>
 </tr>
 <tr>
+<td width="204">Parker, Antonio S.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">1/29/26</td>
+</tr>
+<tr>
 <td width="204">Pence, Jeffrey L.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">10/22/25</td>
