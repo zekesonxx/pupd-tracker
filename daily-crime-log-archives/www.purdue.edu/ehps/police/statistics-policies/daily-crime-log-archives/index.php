@@ -611,6 +611,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log - West Lafayette</h2>
 <ul>
+<li><a href="012725-daily-crime-log.php" title="012725 Daily Crime Log">Week of January 27, 2025</a></li>
 <li><a href="012025-daily-crime-log.php" title="012025 Daily Crime Log">Week of January 20, 2025</a></li>
 <li><a href="011325-daily-crime-log.php" title="011325 Daily Crime Log">Week of January 13, 2025</a></li>
 <li><a href="010625-daily-crime-log.php" title="010625 Daily Crime Log">Week of January 6, 2025</a></li>

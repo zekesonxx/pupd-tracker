@@ -809,7 +809,7 @@
 <td style="font-weight: 400;" width="149">1/13/25 9:00 PM</td>
 <td style="font-weight: 400;" width="149">1/13/25 9:28 PM</td>
 <td style="font-weight: 400;" width="193">Aspire Apts</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Reckless Driver</td>
