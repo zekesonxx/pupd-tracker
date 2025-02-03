@@ -688,7 +688,82 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, February 3, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Driving While Suspended</td>
+<td style="font-weight: 400;" width="150">2025PU00119</td>
+<td style="font-weight: 400;" width="149">1/31/25 9:43 PM</td>
+<td style="font-weight: 400;" width="149">1/31/25 9:59 PM</td>
+<td style="font-weight: 400;" width="193">1300 Blk 3rd St</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Identity Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00123</td>
+<td style="font-weight: 400;" width="149">1/22/25 1:30 PM</td>
+<td style="font-weight: 400;" width="149">2/1/25 7:21 PM</td>
+<td style="font-weight: 400;" width="193">Aspire Apts</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption</td>
+<td style="font-weight: 400;" width="150">2025PU00124</td>
+<td style="font-weight: 400;" width="149">2/1/25 10:18 PM</td>
+<td style="font-weight: 400;" width="149">2/1/25 10:37 PM</td>
+<td style="font-weight: 400;" width="193">Wiley Hall</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption</td>
+<td style="font-weight: 400;" width="150">2025PU00125</td>
+<td style="font-weight: 400;" width="149">2/1/25 10:50 PM</td>
+<td style="font-weight: 400;" width="149">2/1/25 11:03 PM</td>
+<td style="font-weight: 400;" width="193">Zeta Beta Tau</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00127</td>
+<td style="font-weight: 400;" width="149">2/1/25 11:00 AM</td>
+<td style="font-weight: 400;" width="149">2/2/25 5:33 PM</td>
+<td style="font-weight: 400;" width="193">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Battery</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-017231</td>
+<td style="font-weight: 400;" width="149">2/2/25 11:54 AM</td>
+<td style="font-weight: 400;" width="149">2/2/25 11:54 AM</td>
+<td style="font-weight: 400;" width="193">Kappa Sigma</td>
+<td style="font-weight: 400;" width="186">Documented in WLPD 2025WL00222</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Battery</td>
+<td style="font-weight: 400;" width="150">CSA</td>
+<td style="font-weight: 400;" width="149">2/2/25 11:54 AM</td>
+<td style="font-weight: 400;" width="149">2/2/25 7:06 PM</td>
+<td style="font-weight: 400;" width="193">Kappa Sigma</td>
+<td style="font-weight: 400;" width="186">Documented in WLPD 2025WL00221</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Stalking</td>
+<td style="font-weight: 400;" width="150">CSA</td>
+<td style="font-weight: 400;" width="149">August 2024-January 2025 Unknown Time</td>
+<td style="font-weight: 400;" width="149">1/31/25 12:00 AM</td>
+<td style="font-weight: 400;" width="193">North Hall</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

@@ -873,7 +873,7 @@
 <td style="font-weight: 400;" width="149">1/17/25 8:02 PM</td>
 <td style="font-weight: 400;" width="149">1/17/25 8:29 PM</td>
 <td style="font-weight: 400;" width="193">Mackey Arena</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">False Informing</td>

@@ -651,7 +651,7 @@
 <td style="font-weight: 400;" width="149">1/30/25 2:30 PM</td>
 <td style="font-weight: 400;" width="149">1/31/25 12:31 AM</td>
 <td style="font-weight: 400;" width="193">Lawson Hall</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
+<td style="font-weight: 400;" width="186">Unfounded</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Reckless Driver</td>
