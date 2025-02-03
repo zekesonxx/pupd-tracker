@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Friday, January 31, 2025</h3>
+  					<h3>Updated Friday, February 3, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1006,6 +1006,11 @@
 <td width="204">Merrell, F. Alexander</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">5/22/29</td>
+</tr>
+<tr>
+<td width="204">Mitchell, Andrew</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">2/2/26</td>
 </tr>
 <tr>
 <td width="204">Myers, Grant E.</td>
