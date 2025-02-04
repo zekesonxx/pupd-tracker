@@ -681,7 +681,90 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, February 4, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="150">2025PU00131</td>
+<td style="font-weight: 400;" width="149">2/3/25 10:00 AM</td>
+<td style="font-weight: 400;" width="149">2/3/25 4:09 PM</td>
+<td style="font-weight: 400;" width="193">300 Blk N Martin Jischke</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-016498</td>
+<td style="font-weight: 400;" width="149">1/31/25 9:33 PM</td>
+<td style="font-weight: 400;" width="149">1/31/25 9:33 PM</td>
+<td style="font-weight: 400;" width="193">Earhart Hall</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-016549</td>
+<td style="font-weight: 400;" width="149">1/31/25 11:46 PM</td>
+<td style="font-weight: 400;" width="149">1/31/25 11:46 PM</td>
+<td style="font-weight: 400;" width="193">Earhart Hall</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-016638</td>
+<td style="font-weight: 400;" width="149">2/1/25 4:48 AM</td>
+<td style="font-weight: 400;" width="149">2/1/25 4:48 AM</td>
+<td style="font-weight: 400;" width="193">Owen Hall</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Driving While Suspended</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-016714</td>
+<td style="font-weight: 400;" width="149">2/1/25 10:16 AM</td>
+<td style="font-weight: 400;" width="149">2/1/25 10:16 AM</td>
+<td style="font-weight: 400;" width="193">US HWY 231 S/S Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="186">Documented 2025WL00210</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Fraud</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-016847</td>
+<td style="font-weight: 400;" width="149">2/1/25 3:55 PM</td>
+<td style="font-weight: 400;" width="149">2/1/25 3:55 PM</td>
+<td style="font-weight: 400;" width="193">Fuse</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-017510</td>
+<td style="font-weight: 400;" width="149">2/3/25 12:34 AM</td>
+<td style="font-weight: 400;" width="149">2/3/25 12:34 AM</td>
+<td style="font-weight: 400;" width="193">Northwestern Ave/W Stadium Ave</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-017840</td>
+<td style="font-weight: 400;" width="149">2/3/25 2:42 PM</td>
+<td style="font-weight: 400;" width="149">2/3/25 2:42 PM</td>
+<td style="font-weight: 400;" width="193">HUB</td>
+<td style="font-weight: 400;" width="186">Documented 2025WL00228</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-017921</td>
+<td style="font-weight: 400;" width="149">2/3/25 6:17 PM</td>
+<td style="font-weight: 400;" width="149">2/3/25 5:17 PM</td>
+<td style="font-weight: 400;" width="193">Mitch Daniels Blvd/S Grant St</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
