@@ -591,12 +591,7 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                                                                                                
-        
-                
-    
-    <li role="none"><a href="111824-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
-                            </ul>
+                                            </ul>
 </nav>
 
 
@@ -985,7 +980,7 @@
 <td style="font-weight: 400;" width="149">1/20/25 12:50 AM</td>
 <td style="font-weight: 400;" width="149">1/20/25 1:18 AM</td>
 <td style="font-weight: 400;" width="193">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Drug Law Violations</td>
@@ -1009,7 +1004,7 @@
 <td style="font-weight: 400;" width="149">1/20/25 7:22 AM</td>
 <td style="font-weight: 400;" width="149">1/20/25 7:35 AM</td>
 <td style="font-weight: 400;" width="193">Tarkington Hall</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Fraud</td>

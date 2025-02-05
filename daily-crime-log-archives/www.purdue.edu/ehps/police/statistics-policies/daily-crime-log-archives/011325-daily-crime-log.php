@@ -591,12 +591,7 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                                                                                                
-        
-                
-    
-    <li role="none"><a href="111824-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
-                            </ul>
+                                            </ul>
 </nav>
 
 
@@ -717,7 +712,7 @@
 <td width="149">1/16/25 12:22 AM</td>
 <td width="149">1/16/25 12:36 AM</td>
 <td width="193">600 Blk Stadium Mall Dr</td>
-<td width="186">Pending Prosecutor Review</td>
+<td width="186">Closed</td>
 </tr>
 <tr>
 <td width="182">Drug Law Violation</td>

@@ -591,12 +591,7 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                                                                                                
-        
-                
-    
-    <li role="none"><a href="111824-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
-                            </ul>
+                                            </ul>
 </nav>
 
 
@@ -875,7 +870,7 @@
 <td style="font-weight: 400;">1/25/25 12:47 AM</td>
 <td style="font-weight: 400;">1/25/25 1:22 AM</td>
 <td style="font-weight: 400;">Waldron 125</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;">Minor Consumption</td>
