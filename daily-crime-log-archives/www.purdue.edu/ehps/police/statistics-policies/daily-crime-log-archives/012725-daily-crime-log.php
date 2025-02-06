@@ -878,7 +878,7 @@
 <td style="font-weight: 400;">1/25/25 2:29 AM</td>
 <td style="font-weight: 400;">1/25/25 2:50 AM</td>
 <td style="font-weight: 400;">Hilltop Apts</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;">Theft</td>
