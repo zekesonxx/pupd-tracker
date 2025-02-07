@@ -810,7 +810,7 @@
 <td style="font-weight: 400;" width="149">1/18/25 10:14 PM</td>
 <td style="font-weight: 400;" width="149">1/22/25 1:34 AM</td>
 <td style="font-weight: 400;" width="193">Meredith South</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
+<td style="font-weight: 400;" width="186">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Drug Law Violation</td>
