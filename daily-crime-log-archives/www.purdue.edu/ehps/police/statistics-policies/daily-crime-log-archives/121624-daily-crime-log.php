@@ -591,12 +591,7 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                                                                                                
-        
-                
-    
-    <li role="none"><a href="111824-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
-                            </ul>
+                                            </ul>
 </nav>
 
 
@@ -758,7 +753,7 @@ Nothing to report.
 <td width="149">11/25/24 2:00 PM</td>
 <td width="149">12/16/24 1:45 PM</td>
 <td width="193">Lynn Hall&#160;</td>
-<td width="186">Under Investigation&#160;</td>
+<td width="186">Suspended </td>
 </tr>
 <tr>
 <td width="182">Drug Law Violation</td>

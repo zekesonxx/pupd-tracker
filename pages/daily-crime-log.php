@@ -688,7 +688,122 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, February 10, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Trespass</td>
+<td style="font-weight: 400;" width="150">2025PU00157</td>
+<td style="font-weight: 400;" width="149">2/7/25 9:27 AM</td>
+<td style="font-weight: 400;" width="149">2/7/25 10:23 AM</td>
+<td style="font-weight: 400;" width="193">Electrical Engineering Building</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2025PU00158</td>
+<td style="font-weight: 400;" width="149">2/6/25 2:00 PM</td>
+<td style="font-weight: 400;" width="149">2/7/25 1:48 PM</td>
+<td style="font-weight: 400;" width="193">Cross Country Track</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption/ Public Intoxication/ False Informing</td>
+<td style="font-weight: 400;" width="150">2025PU00159</td>
+<td style="font-weight: 400;" width="149">2/7/25 7:27 PM</td>
+<td style="font-weight: 400;" width="149">2/7/25 8:00 PM</td>
+<td style="font-weight: 400;" width="193">Mackey Arena</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">2025PU00160</td>
+<td style="font-weight: 400;" width="149">2/7/25 10:30 PM</td>
+<td style="font-weight: 400;" width="149">2/7/25 10:46 PM</td>
+<td style="font-weight: 400;" width="193">Horticulture Park</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption</td>
+<td style="font-weight: 400;" width="150">2025PU00161</td>
+<td style="font-weight: 400;" width="149">2/7/25 11:49 PM</td>
+<td style="font-weight: 400;" width="149">2/8/25 12:14 AM</td>
+<td style="font-weight: 400;" width="193">Tarkington Hall</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption</td>
+<td style="font-weight: 400;" width="150">2025PU00162</td>
+<td style="font-weight: 400;" width="149">2/8/25 3:14 AM</td>
+<td style="font-weight: 400;" width="149">2/8/25 3:42 AM</td>
+<td style="font-weight: 400;" width="193">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft/ Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2025PU00164</td>
+<td style="font-weight: 400;" width="149">2/8/25 12:00 AM</td>
+<td style="font-weight: 400;" width="149">2/9/25 12:37 AM</td>
+<td style="font-weight: 400;" width="193">Wiley Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">2025PU00165</td>
+<td style="font-weight: 400;" width="149">2/9/25 12:02 AM</td>
+<td style="font-weight: 400;" width="149">2/9/25 12:54 AM</td>
+<td style="font-weight: 400;" width="193">Wiley Hall</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption</td>
+<td style="font-weight: 400;" width="150">2025PU00166</td>
+<td style="font-weight: 400;" width="149">2/9/25 12:38 AM</td>
+<td style="font-weight: 400;" width="149">2/9/25 12:57 AM</td>
+<td style="font-weight: 400;" width="193">Wiley Hall</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption</td>
+<td style="font-weight: 400;" width="150">2025PU00167</td>
+<td style="font-weight: 400;" width="149">2/9/25 2:19 AM</td>
+<td style="font-weight: 400;" width="149">2/9/25 2:42 AM</td>
+<td style="font-weight: 400;" width="193">Hawkins Hall</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">2025PU00168</td>
+<td style="font-weight: 400;" width="149">2/9/25 4:54 AM</td>
+<td style="font-weight: 400;" width="149">2/9/25 5:23 AM</td>
+<td style="font-weight: 400;" width="193">Earhart Hall</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption</td>
+<td style="font-weight: 400;" width="150">2025PU00169</td>
+<td style="font-weight: 400;" width="149">2/10/25 1:29 AM</td>
+<td style="font-weight: 400;" width="149">2/10/25 1:56 AM</td>
+<td style="font-weight: 400;" width="193">Wiley Hall</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-020845</td>
+<td style="font-weight: 400;" width="149">2/9/25 12:31 AM</td>
+<td style="font-weight: 400;" width="149">2/9/25 12:31 AM</td>
+<td style="font-weight: 400;" width="193">Krach Center</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
