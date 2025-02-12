@@ -674,7 +674,90 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, February 12, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="150">2025PU00180</td>
+<td style="font-weight: 400;" width="149">2/11/25 10:15 AM</td>
+<td style="font-weight: 400;" width="149">2/11/25 10:15 AM</td>
+<td style="font-weight: 400;" width="193">Harrison St Garage</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2025PU00183</td>
+<td style="font-weight: 400;" width="149">2/10/25 4:00 PM</td>
+<td style="font-weight: 400;" width="149">2/11/25 1:35 PM</td>
+<td style="font-weight: 400;" width="193">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Harassment</td>
+<td style="font-weight: 400;" width="150">2025PU00185</td>
+<td style="font-weight: 400;" width="149">2/7/25 8:51 PM</td>
+<td style="font-weight: 400;" width="149">2/11/25 3:01 PM</td>
+<td style="font-weight: 400;" width="193">900 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="150">2025PU00187</td>
+<td style="font-weight: 400;" width="149">2/11/25 12:17 PM</td>
+<td style="font-weight: 400;" width="149">2/11/25 4:47 PM</td>
+<td style="font-weight: 400;" width="193">1300 Blk 3rd St</td>
+<td style="font-weight: 400;" width="186">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00188</td>
+<td style="font-weight: 400;" width="149">2/11/25 6:30 PM</td>
+<td style="font-weight: 400;" width="149">2/11/25 10:00 PM</td>
+<td style="font-weight: 400;" width="193">Dudley Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-EMPV</td>
+<td style="font-weight: 400;" width="150">2025PU00189</td>
+<td style="font-weight: 400;" width="149">2/11/25 8:30 PM</td>
+<td style="font-weight: 400;" width="149">2/12/25 12:43 AM</td>
+<td style="font-weight: 400;" width="193">Stewart Center</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">2025PU00189</td>
+<td style="font-weight: 400;" width="149">2/12/25 12:30 AM</td>
+<td style="font-weight: 400;" width="149">2/12/25 12:43 AM</td>
+<td style="font-weight: 400;" width="193">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Driving While Suspended</td>
+<td style="font-weight: 400;">CAD# 2025-021995</td>
+<td style="font-weight: 400;">2/11/25 11:59 AM</td>
+<td style="font-weight: 400;">2/11/25 11:59 AM</td>
+<td style="font-weight: 400;">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;">Documented 2025WL00289</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;">CAD# 2025-022001</td>
+<td style="font-weight: 400;">2/11/25 12:09 AM</td>
+<td style="font-weight: 400;">2/11/25 12:09 AM</td>
+<td style="font-weight: 400;">University St Parking Garage</td>
+<td style="font-weight: 400;">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

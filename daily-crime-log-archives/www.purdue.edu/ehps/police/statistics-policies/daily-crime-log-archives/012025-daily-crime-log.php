@@ -900,7 +900,7 @@
 <td style="font-weight: 400;" width="149">1/18/25 2:52 AM</td>
 <td style="font-weight: 400;" width="149">1/18/25 3:19 AM</td>
 <td style="font-weight: 400;" width="193">Honors College North</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Minor Consumption</td>

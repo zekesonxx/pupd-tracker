@@ -894,7 +894,7 @@
 <td style="font-weight: 400;">1/26/25 2:26 AM</td>
 <td style="font-weight: 400;">1/26/25 2:53 AM</td>
 <td style="font-weight: 400;">Tarkington Dr/ W Stadium Ave</td>
-<td style="font-weight: 400;">Pending Prosecutor Review</td>
+<td style="font-weight: 400;">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;">Drug Law Violation</td>
