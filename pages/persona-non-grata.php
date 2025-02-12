@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Tuesday, February 4, 2025</h3>
+  					<h3>Updated Wednesday, February 12, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1241,6 +1241,11 @@
 <td width="204">Wang, Jin</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">4/22/25</td>
+</tr>
+<tr>
+<td width="204">Watkins, Matthew A.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">2/12/26</td>
 </tr>
 <tr>
 <td width="204">Wolfe, Mark</td>
