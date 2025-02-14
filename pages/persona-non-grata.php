@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Wednesday, February 12, 2025</h3>
+  					<h3>Updated Friday, February 14, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -916,11 +916,6 @@
 <td width="204">Harrison-Williams, Starr J.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/27/25</td>
-</tr>
-<tr>
-<td width="204">He, Siyuan</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">2/15/25</td>
 </tr>
 <tr>
 <td width="204">Higgs, Ryan</td>
