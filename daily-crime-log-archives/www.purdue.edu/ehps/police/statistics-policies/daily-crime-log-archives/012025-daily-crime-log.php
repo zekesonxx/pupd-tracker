@@ -654,7 +654,7 @@
 <td style="font-weight: 400;" width="149">1/24/25 1:26 AM</td>
 <td style="font-weight: 400;" width="149">1/24/25 1:47 AM</td>
 <td style="font-weight: 400;" width="193">Harrison Hall</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Stalking</td>
@@ -768,7 +768,7 @@
 <td style="font-weight: 400;" width="149">1/22/25 6:00 PM</td>
 <td style="font-weight: 400;" width="149">1/22/25 9:05 PM</td>
 <td style="font-weight: 400;" width="193">CoRec</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
+<td style="font-weight: 400;" width="186">Suspended</td>
 </tr>
 </tbody>
 </table>
