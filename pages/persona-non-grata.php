@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Friday, February 14, 2025</h3>
+  					<h3>Updated Monday, February 17, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -946,6 +946,11 @@
 <td width="204">Jung, Isaac J.</td>
 <td width="211">Frieda and Winifred Parker Halls</td>
 <td width="76">1/9/26</td>
+</tr>
+<tr>
+<td width="204">Khichi, Ali A.</td>
+<td width="211">All Residence Halls and Dining Courts</td>
+<td width="76">2/14/26</td>
 </tr>
 <tr>
 <td width="204">Landrum, Nicholas W.</td>
