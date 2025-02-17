@@ -1208,6 +1208,11 @@
 <td width="76">9/16/29</td>
 </tr>
 <tr>
+<td width="204">Torres, Ethan</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">2/17/26</td>
+</tr>
+<tr>
 <td width="204">Torres-Valle, Luis A.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/3/29</td>
