@@ -649,7 +649,7 @@
 <td style="font-weight: 400;" width="186">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="182">Burglary</td>
 <td style="font-weight: 400;" width="150">2025PU00149</td>
 <td style="font-weight: 400;" width="149">1/22/25 12:00 AM</td>
 <td style="font-weight: 400;" width="149">2/6/25 8:48 AM</td>

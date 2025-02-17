@@ -591,12 +591,7 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                                                                                                
-        
-                
-    
-    <li role="none"><a href="111824-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
-                            </ul>
+                                            </ul>
 </nav>
 
 
@@ -654,7 +649,7 @@
 <td style="font-weight: 400;">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;">Theft</td>
+<td style="font-weight: 400;">Burglary</td>
 <td style="font-weight: 400;">2025PU00016</td>
 <td style="font-weight: 400;">Dec2022-Dec 2024</td>
 <td style="font-weight: 400;">1/3/24</td>

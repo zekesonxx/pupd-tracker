@@ -688,7 +688,138 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, February 17, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Stalking/ Harassment</td>
+<td style="font-weight: 400;" width="150">2025PU00202</td>
+<td style="font-weight: 400;" width="149">1/25/25 2:14 PM</td>
+<td style="font-weight: 400;" width="149">2/14/25 3:58 PM</td>
+<td style="font-weight: 400;" width="193">200 Blk N Russell St</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2025PU00203</td>
+<td style="font-weight: 400;" width="149">12/15/24 3:00 PM</td>
+<td style="font-weight: 400;" width="149">2/14/25 4:02 PM</td>
+<td style="font-weight: 400;" width="193">Owen Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Harassment</td>
+<td style="font-weight: 400;" width="150">2025PU00204</td>
+<td style="font-weight: 400;" width="149">2/14/25 3:52 PM</td>
+<td style="font-weight: 400;" width="149">2/14/25 4:07 PM</td>
+<td style="font-weight: 400;" width="193">400 Blk Stadium Mall Dr</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">2025PU00205</td>
+<td style="font-weight: 400;" width="149">2/14/25 11:51 PM</td>
+<td style="font-weight: 400;" width="149">2/15/25 12:21 AM</td>
+<td style="font-weight: 400;" width="193">McCutcheon Parking Garage</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption</td>
+<td style="font-weight: 400;" width="150">2025PU00206</td>
+<td style="font-weight: 400;" width="149">2/15/25 12:48 AM</td>
+<td style="font-weight: 400;" width="149">2/15/25 1:08 AM</td>
+<td style="font-weight: 400;" width="193">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption</td>
+<td style="font-weight: 400;" width="150">2025PU00207</td>
+<td style="font-weight: 400;" width="149">2/15/25 12:48 AM</td>
+<td style="font-weight: 400;" width="149">2/15/25 1:08 AM</td>
+<td style="font-weight: 400;" width="193">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption</td>
+<td style="font-weight: 400;" width="150">2025PU00208</td>
+<td style="font-weight: 400;" width="149">2/15/25 1:49 AM</td>
+<td style="font-weight: 400;" width="149">2/15/25 4:02 AM</td>
+<td style="font-weight: 400;" width="193">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="150">2025PU00209</td>
+<td style="font-weight: 400;" width="149">2/15/25 3:00 AM</td>
+<td style="font-weight: 400;" width="149">2/15/25 3:23 AM</td>
+<td style="font-weight: 400;" width="193">1000 Blk S River Rd</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00210</td>
+<td style="font-weight: 400;" width="149">2/15/25 4:30 PM</td>
+<td style="font-weight: 400;" width="149">2/15/25 6:14 PM</td>
+<td style="font-weight: 400;" width="193">CoRec</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption</td>
+<td style="font-weight: 400;" width="150">2025PU00212</td>
+<td style="font-weight: 400;" width="149">2/16/25 12:22 AM</td>
+<td style="font-weight: 400;" width="149">2/16/25 12:44 AM</td>
+<td style="font-weight: 400;" width="193">Aspire Apts</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption</td>
+<td style="font-weight: 400;" width="150">2025PU00214</td>
+<td style="font-weight: 400;" width="149">2/16/25 1:17 AM</td>
+<td style="font-weight: 400;" width="149">2/16/25 1:42 AM</td>
+<td style="font-weight: 400;" width="193">Tarkington Hall</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Minor Consumption/ Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2025PU00215</td>
+<td style="font-weight: 400;" width="149">2/16/25 1:38 AM</td>
+<td style="font-weight: 400;" width="149">2/16/25 2:11 AM</td>
+<td style="font-weight: 400;" width="193">Wiley Hall</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Intimidation</td>
+<td style="font-weight: 400;" width="150">2025PU00217</td>
+<td style="font-weight: 400;" width="149">2/16/25 9:11 PM</td>
+<td style="font-weight: 400;" width="149">2/16/25 10:18 PM</td>
+<td style="font-weight: 400;" width="193">Hilltop Apts</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2025PU00219</td>
+<td style="font-weight: 400;" width="149">2/13/25 1:00 PM</td>
+<td style="font-weight: 400;" width="149">2/13/25 1:00 PM</td>
+<td style="font-weight: 400;" width="193">Mitch Daniels Blvd/ Russell St</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-023442</td>
+<td style="font-weight: 400;" width="149">2/13/25 11:10 PM</td>
+<td style="font-weight: 400;" width="149">2/13/25 11:10 PM</td>
+<td style="font-weight: 400;" width="193">Shreve Hall</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

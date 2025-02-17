@@ -653,8 +653,8 @@
 <td style="font-weight: 400;" width="150">2025PU00195</td>
 <td style="font-weight: 400;" width="149">2/13/25 1:00 PM</td>
 <td style="font-weight: 400;" width="149">2/13/25 1:12 PM</td>
-<td style="font-weight: 400;" width="193">Mitch Daniels Blvd</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
+<td style="font-weight: 400;" width="193">Mitch Daniels Blvd/ Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Hit &amp; Run</td>
@@ -735,7 +735,7 @@
 <tr>
 <td style="font-weight: 400;" width="182">Hit &amp; Run</td>
 <td style="font-weight: 400;" width="150">2025PU00180</td>
-<td style="font-weight: 400;" width="149">2/11/25 10:15 AM</td>
+<td style="font-weight: 400;" width="149">2/7/25 8:00 AM</td>
 <td style="font-weight: 400;" width="149">2/11/25 10:15 AM</td>
 <td style="font-weight: 400;" width="193">Harrison St Garage</td>
 <td style="font-weight: 400;" width="186">Under Investigation</td>
