@@ -760,7 +760,7 @@
 <td style="font-weight: 400;" width="149">1/21/25 4:40 PM</td>
 <td style="font-weight: 400;" width="149">1/22/25 4:58 PM</td>
 <td style="font-weight: 400;" width="193">CoRec</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
+<td style="font-weight: 400;" width="186">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Theft</td>

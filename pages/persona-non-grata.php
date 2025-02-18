@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Monday, February 17, 2025</h3>
+  					<h3>Updated Tuesday, February 18, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1046,6 +1046,11 @@
 <td width="204">O., T. (Juvenile)</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">5/20/25</td>
+</tr>
+<tr>
+<td width="204">Palma, Joshua M.</td>
+<td width="211">All University Residences and Dining Courts</td>
+<td width="76">2/17/26</td>
 </tr>
 <tr>
 <td width="204">Paradis, Daniel L.</td>

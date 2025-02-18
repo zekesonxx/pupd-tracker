@@ -681,7 +681,74 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, February 18, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Attempted Arson</td>
+<td style="font-weight: 400;" width="150">2025PU00211</td>
+<td style="font-weight: 400;" width="149">2/16/25 12:23 AM</td>
+<td style="font-weight: 400;" width="149">2/16/25 12:40 AM</td>
+<td style="font-weight: 400;" width="193">100 Blk Foundry Dr</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00223</td>
+<td style="font-weight: 400;" width="149">2/17/25 7:45 PM</td>
+<td style="font-weight: 400;" width="149">2/17/25 11:18 PM</td>
+<td style="font-weight: 400;" width="193">CoRec</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">2025PU00224</td>
+<td style="font-weight: 400;" width="149">2/17/25 11:47 PM</td>
+<td style="font-weight: 400;" width="149">2/17/25 11:47 PM</td>
+<td style="font-weight: 400;" width="193">Shreve Hall</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">2025PU00224</td>
+<td style="font-weight: 400;" width="149">2/18/25 12:19 AM</td>
+<td style="font-weight: 400;" width="149">2/18/25 12:32 AM</td>
+<td style="font-weight: 400;" width="193">Shreve Hall</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Public Intoxication</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-024508</td>
+<td style="font-weight: 400;" width="149">2/15/25 11:06 PM</td>
+<td style="font-weight: 400;" width="149">2/15/25 11:06 PM</td>
+<td style="font-weight: 400;" width="193">Purdue Union Club</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Harassment</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-024605</td>
+<td style="font-weight: 400;" width="149">2/16/25 2:56 AM</td>
+<td style="font-weight: 400;" width="149">2/16/25 2:56 AM</td>
+<td style="font-weight: 400;" width="193">Aspire</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Operating While Intoxicated/Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-025037</td>
+<td style="font-weight: 400;" width="149">2/17/25 2:35 AM</td>
+<td style="font-weight: 400;" width="149">2/17/25 2:35 AM</td>
+<td style="font-weight: 400;" width="193">S River Rd/Ahlers Dr</td>
+<td style="font-weight: 400;" width="186">Documented 2025WL00337</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
