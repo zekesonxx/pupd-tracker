@@ -704,7 +704,7 @@
 <td style="font-weight: 400;" width="149">2/12/25 11:37 AM</td>
 <td style="font-weight: 400;" width="149">2/12/25 11:55 AM</td>
 <td style="font-weight: 400;" width="193">Wilmeth Active Learning Center</td>
-<td style="font-weight: 400;" width="186">Arrest Made</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;">Hit &amp; Run</td>
@@ -990,7 +990,7 @@
 <td style="font-weight: 400;" width="149">2/8/25 3:14 AM</td>
 <td style="font-weight: 400;" width="149">2/8/25 3:42 AM</td>
 <td style="font-weight: 400;" width="193">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Theft/ Criminal Mischief</td>

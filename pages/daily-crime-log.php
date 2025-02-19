@@ -674,7 +674,90 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, February 19, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Operating While Intoxicated/Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">2025PU00218</td>
+<td style="font-weight: 400;" width="149">2/17/25 2:35 AM</td>
+<td style="font-weight: 400;" width="149">2/17/25 2:35 AM</td>
+<td style="font-weight: 400;" width="193">S River Rd/Ahlers Dr</td>
+<td style="font-weight: 400;" width="186">Documented in 2025WL00337</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00225</td>
+<td style="font-weight: 400;" width="149">1/1/25 8:24 AM</td>
+<td style="font-weight: 400;" width="149">2/18/25 8:51 AM</td>
+<td style="font-weight: 400;" width="193">Lynn Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00226</td>
+<td style="font-weight: 400;" width="149">2/17/25 4:35 PM</td>
+<td style="font-weight: 400;" width="149">2/18/25 2:35 PM</td>
+<td style="font-weight: 400;" width="193">Owen Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00227</td>
+<td style="font-weight: 400;" width="149">2/10/25 12:00 PM</td>
+<td style="font-weight: 400;" width="149">2/17/25 12:03 PM</td>
+<td style="font-weight: 400;" width="193">Wetherill Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2025PU00228</td>
+<td style="font-weight: 400;" width="149">2/1/25 11:00 AM</td>
+<td style="font-weight: 400;" width="149">2/18/25 3:16 PM</td>
+<td style="font-weight: 400;" width="193">Shreve Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00230</td>
+<td style="font-weight: 400;" width="149">2/16/25 5:46 PM</td>
+<td style="font-weight: 400;" width="149">2/18/25 9:28 PM</td>
+<td style="font-weight: 400;" width="193">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Road Rage</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-025814</td>
+<td style="font-weight: 400;" width="149">2/18/25 12:07 PM</td>
+<td style="font-weight: 400;" width="149">2/18/25 12:07 PM</td>
+<td style="font-weight: 400;" width="193">200 Blk Sheetz St</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Stalking</td>
+<td style="font-weight: 400;" width="150">CSA</td>
+<td style="font-weight: 400;" width="149">2/16/25 Unknown Time</td>
+<td style="font-weight: 400;" width="149">2/18/25 3:45 AM</td>
+<td style="font-weight: 400;" width="193">On-Campus Housing</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Burglary</td>
+<td style="font-weight: 400;" width="150">CSA</td>
+<td style="font-weight: 400;" width="149">2/15/25 12:00 PM</td>
+<td style="font-weight: 400;" width="149">2/18/25 12:10 AM</td>
+<td style="font-weight: 400;" width="193">Tarkington Hall</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -745,7 +828,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="149">2/17/25 2:35 AM</td>
 <td style="font-weight: 400;" width="149">2/17/25 2:35 AM</td>
 <td style="font-weight: 400;" width="193">S River Rd/Ahlers Dr</td>
-<td style="font-weight: 400;" width="186">Documented 2025WL00337</td>
+<td style="font-weight: 400;" width="186">Documented 2025PU00218</td>
 </tr>
 </tbody>
 </table>
