@@ -654,7 +654,7 @@
 <td style="font-weight: 400;" width="149">2/13/25 1:00 PM</td>
 <td style="font-weight: 400;" width="149">2/13/25 1:12 PM</td>
 <td style="font-weight: 400;" width="193">Mitch Daniels Blvd/ Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Hit &amp; Run</td>
@@ -966,7 +966,7 @@
 <td style="font-weight: 400;" width="149">2/7/25 7:27 PM</td>
 <td style="font-weight: 400;" width="149">2/7/25 8:00 PM</td>
 <td style="font-weight: 400;" width="193">Mackey Arena</td>
-<td style="font-weight: 400;" width="186">Arrest Made</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Drug Law Violation</td>

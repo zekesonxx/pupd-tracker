@@ -667,7 +667,42 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, February 20, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="182">Criminal Mischief</td>
+<td width="150">2025PU00234</td>
+<td width="149">2/19/25 5:49 PM</td>
+<td width="149">2/19/25 6:43 PM</td>
+<td width="193">128 Memorial Mall</td>
+<td width="186">Under Investigation</td>
+</tr>
+<tr>
+<td width="182">Drug Law Violation</td>
+<td width="150">CAD# 2025-026123</td>
+<td width="149">2/18/25 10:16 PM</td>
+<td width="149">2/18/25 10:16 PM</td>
+<td width="193">1st Street Towers</td>
+<td width="186">Nothing Further</td>
+</tr>
+<tr>
+<td width="182">Stalking</td>
+<td width="150">CSA</td>
+<td width="149">2/13/25 Unkown Time</td>
+<td width="149">2/17/25 Unknown Time</td>
+<td width="193">On-Campus Housing</td>
+<td width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -902,7 +937,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="149">2/15/25 1:49 AM</td>
 <td style="font-weight: 400;" width="149">2/15/25 4:02 AM</td>
 <td style="font-weight: 400;" width="193">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Operating While Intoxicated</td>
@@ -957,8 +992,8 @@ Will be posted soon.
 <td style="font-weight: 400;" width="150">2025PU00219</td>
 <td style="font-weight: 400;" width="149">2/13/25 1:00 PM</td>
 <td style="font-weight: 400;" width="149">2/13/25 1:00 PM</td>
-<td style="font-weight: 400;" width="193">Mitch Daniels Blvd/ Russell St</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="193">Mitch Daniels Blvd/Russell St</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Drug Law Violation</td>
