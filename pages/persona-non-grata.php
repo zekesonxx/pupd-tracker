@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Wednesday, February 19, 2025</h3>
+  					<h3>Updated Thursday, February 20, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -696,6 +696,11 @@
 <td width="204">Beard, Corbin S.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/18/28</td>
+</tr>
+<tr>
+<td width="204">Beaver, Aaron J.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">2/19/26</td>
 </tr>
 <tr>
 <td width="204">Berliner, Aaron J.</td>
