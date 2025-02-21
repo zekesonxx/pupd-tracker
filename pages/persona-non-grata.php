@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Thursday, February 20, 2025</h3>
+  					<h3>Updated Friday, February 21, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1086,11 +1086,6 @@
 <td width="204">Pope, Nicolas P.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">4/19/25</td>
-</tr>
-<tr>
-<td width="204">Rabindran, Sudarmadhi</td>
-<td width="211">First Street Towers</td>
-<td width="76">2/21/25</td>
 </tr>
 <tr>
 <td width="204">Reed, Austin K.</td>
