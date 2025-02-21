@@ -1006,7 +1006,7 @@
 <td style="font-weight: 400;" width="149">2/9/25 12:02 AM</td>
 <td style="font-weight: 400;" width="149">2/9/25 12:54 AM</td>
 <td style="font-weight: 400;" width="193">Wiley Hall</td>
-<td style="font-weight: 400;" width="186">Arrest Made</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Minor Consumption</td>
@@ -1014,7 +1014,7 @@
 <td style="font-weight: 400;" width="149">2/9/25 12:38 AM</td>
 <td style="font-weight: 400;" width="149">2/9/25 12:57 AM</td>
 <td style="font-weight: 400;" width="193">Wiley Hall</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Minor Consumption</td>
@@ -1022,7 +1022,7 @@
 <td style="font-weight: 400;" width="149">2/9/25 2:19 AM</td>
 <td style="font-weight: 400;" width="149">2/9/25 2:42 AM</td>
 <td style="font-weight: 400;" width="193">Hawkins Hall</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Drug Law Violation</td>
@@ -1038,7 +1038,7 @@
 <td style="font-weight: 400;" width="149">2/10/25 1:29 AM</td>
 <td style="font-weight: 400;" width="149">2/10/25 1:56 AM</td>
 <td style="font-weight: 400;" width="193">Wiley Hall</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Drug Law Violation</td>
