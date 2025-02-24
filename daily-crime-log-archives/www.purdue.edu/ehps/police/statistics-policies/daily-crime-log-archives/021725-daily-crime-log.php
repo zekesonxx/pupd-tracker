@@ -910,7 +910,7 @@
 <td style="font-weight: 400;" width="149">2/14/25 11:51 PM</td>
 <td style="font-weight: 400;" width="149">2/15/25 12:21 AM</td>
 <td style="font-weight: 400;" width="193">McCutcheon Parking Garage</td>
-<td style="font-weight: 400;" width="186">Arrest Made</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Minor Consumption</td>
@@ -918,7 +918,7 @@
 <td style="font-weight: 400;" width="149">2/15/25 12:48 AM</td>
 <td style="font-weight: 400;" width="149">2/15/25 1:08 AM</td>
 <td style="font-weight: 400;" width="193">Cary Quadrangle</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Minor Consumption</td>
@@ -926,7 +926,7 @@
 <td style="font-weight: 400;" width="149">2/15/25 12:48 AM</td>
 <td style="font-weight: 400;" width="149">2/15/25 1:08 AM</td>
 <td style="font-weight: 400;" width="193">Cary Quadrangle</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Minor Consumption</td>
