@@ -1268,6 +1268,11 @@
 <td width="76">2/12/26</td>
 </tr>
 <tr>
+<td width="204">Wineinger, Reece</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">2/24/26</td>
+</tr>
+<tr>
 <td width="204">Wolfe, Mark</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/17/25</td>
