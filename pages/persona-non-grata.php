@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Friday, February 21, 2025</h3>
+  					<h3>Updated Monday, February 24, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -973,6 +973,11 @@
 <td width="76">6/21/25</td>
 </tr>
 <tr>
+<td width="204">Lembo, Vincent F.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">2/23/26</td>
+</tr>
+<tr>
 <td width="204">Lewit, Lucas P.</td>
 <td width="211">All Residence Halls and Dining Courts</td>
 <td width="76">4/12/25</td>
@@ -1221,11 +1226,6 @@
 <td width="204">Tipton, Mary F.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/16/29</td>
-</tr>
-<tr>
-<td width="204">Torres, Ethan</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">2/17/26</td>
 </tr>
 <tr>
 <td width="204">Torres-Valle, Luis A.</td>
