@@ -852,7 +852,7 @@
 <td style="font-weight: 400;" width="149">2/11/25 2:16 AM</td>
 <td style="font-weight: 400;" width="149">2/11/25 2:40 AM</td>
 <td style="font-weight: 400;" width="193">US 231/ S Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="186">Arrest Made</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Reckless Driver</td>

@@ -741,7 +741,7 @@
 <td style="font-weight: 400;" width="186">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="182">Burglary</td>
 <td style="font-weight: 400;" width="150">2025PU00227</td>
 <td style="font-weight: 400;" width="149">2/10/25 12:00 PM</td>
 <td style="font-weight: 400;" width="149">2/17/25 12:03 PM</td>
@@ -982,7 +982,7 @@
 <td style="font-weight: 400;" width="149">2/16/25 9:11 PM</td>
 <td style="font-weight: 400;" width="149">2/16/25 10:18 PM</td>
 <td style="font-weight: 400;" width="193">Hilltop Apts</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Criminal Mischief</td>

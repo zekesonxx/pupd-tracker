@@ -681,7 +681,90 @@
   
     	<section class="content__group">
   					<h3>Tuesday, February 25, 2025</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;">Stalking</td>
+<td style="font-weight: 400;">2025PU00268</td>
+<td style="font-weight: 400;">2/24/25 12:00 PM</td>
+<td style="font-weight: 400;">2/24/25 2:36 PM</td>
+<td style="font-weight: 400;">500 Blk Northwestern Ave</td>
+<td style="font-weight: 400;">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Battery</td>
+<td style="font-weight: 400;" width="150">2025PU00269</td>
+<td style="font-weight: 400;" width="149">2/20/25 12:00 PM</td>
+<td style="font-weight: 400;" width="149">2/24/25 3:39 PM</td>
+<td style="font-weight: 400;" width="193">1200 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2025PU00270</td>
+<td style="font-weight: 400;" width="149">2/24/25 3:15 PM</td>
+<td style="font-weight: 400;" width="149">2/24/25 3:56 PM</td>
+<td style="font-weight: 400;" width="193">Hawkins Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2025PU00272</td>
+<td style="font-weight: 400;" width="149">2/24/25 6:39 PM</td>
+<td style="font-weight: 400;" width="149">2/24/25 7:00 PM</td>
+<td style="font-weight: 400;" width="193">Physics Building</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">2025PU00273</td>
+<td style="font-weight: 400;" width="149">2/24/25 6:55 PM</td>
+<td style="font-weight: 400;" width="149">2/24/25 7:31 PM</td>
+<td style="font-weight: 400;" width="193">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Theft</td>
+<td style="font-weight: 400;">2025PU00274</td>
+<td style="font-weight: 400;">2/24/25 5:00 PM</td>
+<td style="font-weight: 400;">2/24/25 8:02 PM</td>
+<td style="font-weight: 400;">Hillenbrand Hall</td>
+<td style="font-weight: 400;">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft-EMPV</td>
+<td style="font-weight: 400;" width="150">2025PU00275</td>
+<td style="font-weight: 400;" width="149">2/24/25 1:00 PM</td>
+<td style="font-weight: 400;" width="149">2/24/25 9:53 PM</td>
+<td style="font-weight: 400;" width="193">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;">CAD# 2025-027927</td>
+<td style="font-weight: 400;">2/21/25 11:22 PM</td>
+<td style="font-weight: 400;">2/21/25 11:22 PM</td>
+<td style="font-weight: 400;">1st Street Towers</td>
+<td style="font-weight: 400;">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Driving While Suspended</td>
+<td style="font-weight: 400;">CAD# 2025-029010</td>
+<td style="font-weight: 400;">2/24/25 10:02 AM</td>
+<td style="font-weight: 400;">2/24/25 10:02 AM</td>
+<td style="font-weight: 400;">Northwestern Ave/Cherry Ln</td>
+<td style="font-weight: 400;">Documented 2025WL00395</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>

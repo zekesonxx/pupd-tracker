@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Monday, February 24, 2025</h3>
+  					<h3>Updated Tuesday, February 25, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -666,11 +666,6 @@
 <td width="204">Abdel-Haleem, Ayman M.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">1/4/26</td>
-</tr>
-<tr>
-<td width="204">Albee, Neil C.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">2/25/25</td>
 </tr>
 <tr>
 <td width="204">Alcala, Erika</td>
@@ -811,11 +806,6 @@
 <td width="204">Davis, Jacob K.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">4/8/29</td>
-</tr>
-<tr>
-<td width="204">Davis, Wyatt A.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">2/25/25</td>
 </tr>
 <tr>
 <td width="204">De Mello, Daniel</td>
