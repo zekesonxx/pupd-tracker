@@ -762,7 +762,7 @@
 <td style="font-weight: 400;" width="149">2/16/25 5:46 PM</td>
 <td style="font-weight: 400;" width="149">2/18/25 9:28 PM</td>
 <td style="font-weight: 400;" width="193">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
+<td style="font-weight: 400;" width="186">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Road Rage</td>
@@ -820,7 +820,7 @@
 <td style="font-weight: 400;" width="149">2/17/25 7:45 PM</td>
 <td style="font-weight: 400;" width="149">2/17/25 11:18 PM</td>
 <td style="font-weight: 400;" width="193">CoRec</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
+<td style="font-weight: 400;" width="186">Unfounded</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Drug Law Violation</td>

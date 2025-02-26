@@ -674,7 +674,66 @@
   
     	<section class="content__group">
   					<h3>Wednesday, February 26, 2025</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;">Criminal Mischief</td>
+<td style="font-weight: 400;">2025PU00276</td>
+<td style="font-weight: 400;">2/9/25 3:53 PM</td>
+<td style="font-weight: 400;">2/25/25 12:20 PM</td>
+<td style="font-weight: 400;">900 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Driving Never Receiving License</td>
+<td style="font-weight: 400;">2025PU00277</td>
+<td style="font-weight: 400;" width="149">2/25/25 7:13 PM</td>
+<td style="font-weight: 400;" width="149">2/25/25 7:26 PM</td>
+<td style="font-weight: 400;" width="193">N Russell St/ 2nd St</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Domestic Assault</td>
+<td style="font-weight: 400;" width="150">2025PU00278</td>
+<td style="font-weight: 400;" width="149">2/25/25 8:09 PM</td>
+<td style="font-weight: 400;" width="149">2/25/25 9:18 PM</td>
+<td style="font-weight: 400;" width="193">Tower Dr/ N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Domestic Assault/ Interference with Law Enforcement</td>
+<td style="font-weight: 400;" width="150">2025PU00279</td>
+<td style="font-weight: 400;" width="149">2/25/25 8:09 PM</td>
+<td style="font-weight: 400;" width="149">2/25/25 9:19 PM</td>
+<td style="font-weight: 400;" width="193">Tower Dr/ N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00280</td>
+<td style="font-weight: 400;" width="149">2/25/25 11:16 PM</td>
+<td style="font-weight: 400;" width="149">2/26/25 12:24 AM</td>
+<td style="font-weight: 400;" width="193">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Reckless Driver</td>
+<td style="font-weight: 400;">CAD# 2025-029925</td>
+<td style="font-weight: 400;">2/25/25 7:16 PM</td>
+<td style="font-weight: 400;">2/25/25 7:16 PM</td>
+<td style="font-weight: 400;">Northwestern Ave/W Stadium Ave</td>
+<td style="font-weight: 400;">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
