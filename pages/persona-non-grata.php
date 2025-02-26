@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Tuesday, February 25, 2025</h3>
+  					<h3>Updated Wednesday, February 26, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -931,6 +931,16 @@
 <td width="204">Holsclaw, Owen</td>
 <td width="211">Windsor Halls</td>
 <td width="76">9/14/25</td>
+</tr>
+<tr>
+<td width="204">Hu, Cennuo</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">2/27/26</td>
+</tr>
+<tr>
+<td width="204">Huang, Qiuyang</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">2/27/26</td>
 </tr>
 <tr>
 <td width="204">Huston, Shelby</td>
