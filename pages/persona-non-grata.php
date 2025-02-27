@@ -695,7 +695,7 @@
 <tr>
 <td width="204">Beaver, Aaron J.</td>
 <td width="211">Entire WL Purdue Campus</td>
-<td width="76">2/19/26</td>
+<td width="76">2/26/30</td>
 </tr>
 <tr>
 <td width="204">Berliner, Aaron J.</td>
