@@ -958,7 +958,7 @@
 <td style="font-weight: 400;" width="149">2/16/25 12:22 AM</td>
 <td style="font-weight: 400;" width="149">2/16/25 12:44 AM</td>
 <td style="font-weight: 400;" width="193">Aspire Apts</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Minor Consumption</td>

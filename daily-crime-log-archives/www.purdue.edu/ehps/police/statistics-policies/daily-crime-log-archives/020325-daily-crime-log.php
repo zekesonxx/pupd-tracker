@@ -686,7 +686,7 @@
 <td style="font-weight: 400;" width="149">2/7/25 2:03 AM</td>
 <td style="font-weight: 400;" width="149">2/7/25 2:22 AM</td>
 <td style="font-weight: 400;" width="193">Shreve Hall</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 </tbody>
 </table>

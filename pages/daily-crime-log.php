@@ -667,7 +667,50 @@
   
     	<section class="content__group">
   					<h3>Thursday, February 27, 2025</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="182">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Trespass</td>
+<td style="font-weight: 400;" width="150">2025PU00283</td>
+<td style="font-weight: 400;" width="149">2/26/25 5:00 PM</td>
+<td style="font-weight: 400;" width="149">2/26/25 5:05 PM</td>
+<td style="font-weight: 400;" width="193">Gates Rd/ Nimitz Dr</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00284</td>
+<td style="font-weight: 400;" width="149">2/26/25 3:30 PM</td>
+<td style="font-weight: 400;" width="149">2/26/25 7:27 PM</td>
+<td style="font-weight: 400;" width="193">CoRec</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="182">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2025PU00285</td>
+<td style="font-weight: 400;" width="149">2/26/25 11:12 PM</td>
+<td style="font-weight: 400;" width="149">2/26/25 11:39 PM</td>
+<td style="font-weight: 400;" width="193">Hawkins Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Battery</td>
+<td style="font-weight: 400;">CSA</td>
+<td style="font-weight: 400;">2/13/25 Unknown Time</td>
+<td style="font-weight: 400;">2/26/25 1:39 PM</td>
+<td style="font-weight: 400;">Alpha Gamma Rho</td>
+<td style="font-weight: 400;">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -942,7 +985,7 @@
 <td style="font-weight: 400;" width="149">2/23/25 12:52 AM</td>
 <td style="font-weight: 400;" width="149">2/23/25 2:24 AM</td>
 <td style="font-weight: 400;" width="193">Wiley Hall</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="186">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="182">Intimidation</td>
