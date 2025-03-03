@@ -1058,11 +1058,6 @@
 <td width="76">5/20/25</td>
 </tr>
 <tr>
-<td width="204">Pacheco-Kilaz, Duncan</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">2/19/26</td>
-</tr>
-<tr>
 <td width="204">Palma, Joshua M.</td>
 <td width="211">All University Residences and Dining Courts</td>
 <td width="76">2/17/26</td>
