@@ -392,6 +392,11 @@
         
                                                             
         
+        <li role="none"><a href="daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
+                                                    
+        
+                                                            
+        
         <li role="none"><a href="drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                     
         
@@ -681,7 +686,138 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, March 11, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="104%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="213">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2025PU00355</td>
+<td style="font-weight: 400;" width="149">3/8/25 2:33 AM</td>
+<td style="font-weight: 400;" width="149">3/10/25 9:48 AM</td>
+<td style="font-weight: 400;" width="193">Harrison Hall</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="150">2025PU00356</td>
+<td style="font-weight: 400;" width="149">3/10/25 9:00 AM</td>
+<td style="font-weight: 400;" width="149">3/10/25 12:21 PM</td>
+<td style="font-weight: 400;" width="193">1300 Blk Beering Dr</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Fraud</td>
+<td style="font-weight: 400;" width="150">2025PU00357</td>
+<td style="font-weight: 400;" width="149">3/7/25 3:00 PM</td>
+<td style="font-weight: 400;" width="149">3/7/25 3:00 PM</td>
+<td style="font-weight: 400;" width="193">Unknown On Campus Location</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2025PU00359</td>
+<td style="font-weight: 400;" width="149">3/10/25 2:21 PM</td>
+<td style="font-weight: 400;" width="149">3/10/25 2:21 PM</td>
+<td style="font-weight: 400;" width="193">N Russell St/ Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Theft-Bike</td>
+<td style="font-weight: 400;" width="150">2025PU00360</td>
+<td style="font-weight: 400;" width="149">10/20/24 12:00 PM</td>
+<td style="font-weight: 400;" width="149">3/10/25 5:05 PM</td>
+<td style="font-weight: 400;" width="193">300 Blk Centennial Mall Dr</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Theft-Bike</td>
+<td style="font-weight: 400;" width="150">2025PU00362</td>
+<td style="font-weight: 400;" width="149">2/28/25 5:30 PM</td>
+<td style="font-weight: 400;" width="149">3/10/25 7:48 PM</td>
+<td style="font-weight: 400;" width="193">Owen Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">2025PU00363</td>
+<td style="font-weight: 400;" width="149">3/10/25 9:03 PM</td>
+<td style="font-weight: 400;" width="149">3/10/25 9:52 PM</td>
+<td style="font-weight: 400;" width="193">Northwestern Ave/ Dodge St</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Theft/ Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2025PU00364</td>
+<td style="font-weight: 400;" width="149">3/10/25 10:27 PM</td>
+<td style="font-weight: 400;" width="149">3/10/25 10:47 PM</td>
+<td style="font-weight: 400;" width="193">100 Blk Foundry Dr</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Criminal Mischief</td>
+<td style="font-weight: 400;" width="150">2025PU00365</td>
+<td style="font-weight: 400;" width="149">3/10/25 10:30 PM</td>
+<td style="font-weight: 400;" width="149">3/11/25 12:40 AM</td>
+<td style="font-weight: 400;" width="193">Tarkington Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Driving While Suspended</td>
+<td style="font-weight: 400;" width="150">2025PU00367</td>
+<td style="font-weight: 400;" width="149">3/11/25 4:29 AM</td>
+<td style="font-weight: 400;" width="149">3/11/25 4:40 AM</td>
+<td style="font-weight: 400;" width="193">Mitch Daniels Blvd/ Grant St</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-036354</td>
+<td style="font-weight: 400;" width="149">3/8/25 8:22 PM</td>
+<td style="font-weight: 400;" width="149">3/8/25 8:22 PM</td>
+<td style="font-weight: 400;" width="193">Mitch Daniels Blvd/Airport Rd</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-036355</td>
+<td style="font-weight: 400;" width="149">3/8/25 8:26 PM</td>
+<td style="font-weight: 400;" width="149">3/8/25 8:26 PM</td>
+<td style="font-weight: 400;" width="193">1500 Blk Aviation Dr</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-036462</td>
+<td style="font-weight: 400;" width="149">3/9/25 12:04 AM</td>
+<td style="font-weight: 400;" width="149">3/9/25 12:04 AM</td>
+<td style="font-weight: 400;" width="193">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-036476</td>
+<td style="font-weight: 400;" width="149">3/9/25 12:32 AM</td>
+<td style="font-weight: 400;" width="149">3/9/25 12:32 AM</td>
+<td style="font-weight: 400;" width="193">Owen Hall</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-036761</td>
+<td style="font-weight: 400;" width="149">3/9/25 5:43 PM</td>
+<td style="font-weight: 400;" width="149">3/9/25 5:43 PM</td>
+<td style="font-weight: 400;" width="193">S River Rd/US HWY 231 S</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1268,7 +1404,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>March 10, 2025</span></em></p>
+        <p><em>Last modified: <span>March 11, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
