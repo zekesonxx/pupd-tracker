@@ -392,6 +392,11 @@
         
                                                             
         
+        <li role="none"><a href="daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
+                                                    
+        
+                                                            
+        
         <li role="none"><a href="drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                     
         
@@ -654,7 +659,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Monday, March 10, 2025</h3>
+  					<h3>Updated Thursday, March 13, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1243,6 +1248,11 @@
 <td width="76">2/12/26</td>
 </tr>
 <tr>
+<td width="204">Wheeler, Scott J.</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">3/12/30</td>
+</tr>
+<tr>
 <td width="204">Wineinger, Reece</td>
 <td width="211">All Residence Halls and Dining Courts</td>
 <td width="76">2/24/26</td>
@@ -1777,7 +1787,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>March 10, 2025</span></em></p>
+        <p><em>Last modified: <span>March 13, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
