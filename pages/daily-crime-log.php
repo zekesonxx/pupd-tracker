@@ -686,7 +686,90 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, March 18, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="213">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Harassment</td>
+<td style="font-weight: 400;" width="150">2025PU00400</td>
+<td style="font-weight: 400;" width="149">3/17/25 9:29 AM</td>
+<td style="font-weight: 400;" width="149">3/17/25 9:40 AM</td>
+<td style="font-weight: 400;" width="193">PUPD</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Trespassing</td>
+<td style="font-weight: 400;" width="150">2025PU00402</td>
+<td style="font-weight: 400;" width="149">3/17/25 2:01 PM</td>
+<td style="font-weight: 400;" width="149">3/17/25 2:20 PM</td>
+<td style="font-weight: 400;" width="193">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-039966</td>
+<td style="font-weight: 400;" width="149">3/14/25 10:28 PM</td>
+<td style="font-weight: 400;" width="149">3/14/25 10:28 PM</td>
+<td style="font-weight: 400;" width="193">Wood St Parking Garage</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Operating Without Ever Receiving a License</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-040246</td>
+<td style="font-weight: 400;" width="149">3/15/25 11:23 AM</td>
+<td style="font-weight: 400;" width="149">3/15/25 11:23 AM</td>
+<td style="font-weight: 400;" width="193">Lindberg Rd/Kestral Blvd</td>
+<td style="font-weight: 400;" width="186">Documented 2025WL00557</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Operating While Intoxicated/Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-040456</td>
+<td style="font-weight: 400;" width="149">3/15/25 8:38 PM</td>
+<td style="font-weight: 400;" width="149">3/15/25 8:38 PM</td>
+<td style="font-weight: 400;" width="193">1000 Blk W Stadium Ave</td>
+<td style="font-weight: 400;" width="186">Documented 2025WL00566</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-040510</td>
+<td style="font-weight: 400;" width="149">3/15/25 10:27 PM</td>
+<td style="font-weight: 400;" width="149">3/15/25 10:27 PM</td>
+<td style="font-weight: 400;" width="193">Grant St Parking Garage</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-040579</td>
+<td style="font-weight: 400;" width="149">3/16/25 1:00 AM</td>
+<td style="font-weight: 400;" width="149">3/16/25 1:00 AM</td>
+<td style="font-weight: 400;" width="193">Wood St Parking Garage</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Driving While Suspended</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-040958</td>
+<td style="font-weight: 400;" width="149">3/16/25 10:23 PM</td>
+<td style="font-weight: 400;" width="149">3/16/25 10:23 PM</td>
+<td style="font-weight: 400;" width="193">W Stadium Ave/N Grant St</td>
+<td style="font-weight: 400;" width="186">Documented 2025WL00569</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Operating Without Ever Receiving a License</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-041261</td>
+<td style="font-weight: 400;" width="149">3/17/25 3:32 PM</td>
+<td style="font-weight: 400;" width="149">3/17/25 3:32 PM</td>
+<td style="font-weight: 400;" width="193">Northwestern Ave/W Stadium Ave</td>
+<td style="font-weight: 400;" width="186">Documented 2025WL00572</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1257,7 +1340,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>March 17, 2025</span></em></p>
+        <p><em>Last modified: <span>March 18, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
