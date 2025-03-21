@@ -616,6 +616,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log - West Lafayette</h2>
 <ul>
+<li><a href="031725-daily-crime-log.php" title="031725 Daily Crime Log">Week of March 17, 2025</a></li>
 <li><a href="031025-daily-crime-log.php" title="031025 Daily Crime Log">Week of March 10, 2025</a></li>
 <li><a href="030325-daily-crime-log.php" title="030325 Daily Crime Log">Week of March 3, 2025</a></li>
 <li><a href="022425-daily-crime-log.php" title="022425 Daily Crime Log">Week of February 24, 2025</a></li>
@@ -1116,7 +1117,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>March 14, 2025</span></em></p>
+        <p><em>Last modified: <span>March 21, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
