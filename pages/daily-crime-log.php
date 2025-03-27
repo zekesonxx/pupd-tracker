@@ -672,7 +672,58 @@
   
     	<section class="content__group">
   					<h3>Thursday, March 27, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="213">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="150">2025PU00432</td>
+<td style="font-weight: 400;" width="149">3/25/25 9:00 PM</td>
+<td style="font-weight: 400;" width="149">3/26/25 2:11 PM</td>
+<td style="font-weight: 400;" width="193">CoRec</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Burglary</td>
+<td style="font-weight: 400;" width="150">2025PU00433</td>
+<td style="font-weight: 400;" width="149">3/11/25 8:00 AM</td>
+<td style="font-weight: 400;" width="149">3/26/25 2:49 PM</td>
+<td style="font-weight: 400;" width="193">Agriculture Administration Building</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-045869</td>
+<td style="font-weight: 400;" width="149">3/26/25 11:37 AM</td>
+<td style="font-weight: 400;" width="149">3/26/25 11:37 AM</td>
+<td style="font-weight: 400;" width="193">N University/2nd St</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-046095</td>
+<td style="font-weight: 400;" width="149">3/26/25 5:51 PM</td>
+<td style="font-weight: 400;" width="149">3/26/25 5:51 PM</td>
+<td style="font-weight: 400;" width="193">Wood St Parking Garage</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Burglary</td>
+<td style="font-weight: 400;" width="150">CSA</td>
+<td style="font-weight: 400;" width="149">3/24/2025 Unknown Time</td>
+<td style="font-weight: 400;" width="149">3/26/25 11:30 PM</td>
+<td style="font-weight: 400;" width="193">Owen Hall</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1308,7 +1359,7 @@ Nothing to report.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>March 26, 2025</span></em></p>
+        <p><em>Last modified: <span>March 27, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
