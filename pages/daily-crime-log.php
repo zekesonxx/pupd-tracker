@@ -686,7 +686,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, April 1, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="213">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="150">2025PU00471</td>
+<td style="font-weight: 400;" width="149">3/31/25 7:40 PM</td>
+<td style="font-weight: 400;" width="149">3/31/25 7:40 PM</td>
+<td style="font-weight: 400;" width="193">1300 Blk Beering Dr</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Trespass</td>
+<td style="font-weight: 400;">CAD# 2025-047497</td>
+<td style="font-weight: 400;">3/29/25 3:12 AM</td>
+<td style="font-weight: 400;">3/29/25 3:12 AM</td>
+<td style="font-weight: 400;">300 Blk McCormick Rd</td>
+<td style="font-weight: 400;">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-047942</td>
+<td style="font-weight: 400;" width="149">3/29/25 11:51 PM</td>
+<td style="font-weight: 400;" width="149">3/29/25 11:51 PM</td>
+<td style="font-weight: 400;">Wood St Parking Garage</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Reckless Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-048152</td>
+<td style="font-weight: 400;" width="149">3/30/25 12:05 PM</td>
+<td style="font-weight: 400;" width="149">3/20/25 12:05 PM</td>
+<td style="font-weight: 400;" width="193">US HWY 231 S/W State St</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Drunk Driver</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-048816</td>
+<td style="font-weight: 400;" width="149">3/31/25 2:30 PM</td>
+<td style="font-weight: 400;" width="149">3/31/25 2:30 PM</td>
+<td style="font-weight: 400;" width="193">Lindberg Rd/Northwestern Ave</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1353,7 +1404,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>March 31, 2025</span></em></p>
+        <p><em>Last modified: <span>April 1, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         

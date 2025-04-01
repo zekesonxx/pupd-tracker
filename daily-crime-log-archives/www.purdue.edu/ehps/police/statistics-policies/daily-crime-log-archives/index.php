@@ -623,12 +623,7 @@
 <li><a href="022425-daily-crime-log.php" title="022425 Daily Crime Log">Week of February 24, 2025</a></li>
 <li><a href="021725-daily-crime-log.php" title="021725 WL Daily Crime Log">Week of February 17, 2025</a></li>
 <li><a href="021025-daily-crime-log.php" title="021025 Daily Crime Log">Week of February 10, 2025</a></li>
-<li><a href="020325-daily-crime-log.php" title="020325 Daily Crime Log">Week of February 3, 2025</a></li>
-<li><a href="012725-daily-crime-log.php" title="012725 Daily Crime Log">Week of January 27, 2025</a></li>
-<li><a href="012025-daily-crime-log.php" title="012025 Daily Crime Log">Week of January 20, 2025</a></li>
-<li><a href="011325-daily-crime-log.php" title="011325 Daily Crime Log">Week of January 13, 2025</a></li>
-<li><a href="010625-daily-crime-log.php" title="010625 Daily Crime Log">Week of January 6, 2025</a></li>
-<li><a href="123024-daily-crime-log.php" title="123024 Daily Crime Log">Week of December 30, 2024</a><a href="2024-archive/120224-daily-crime-log.php" title="120224 Daily Crime Log"></a><a href="2024-archive/102824-daily-crime-log.php" title="102824 Daily Crime Log"></a><a href="2024-archive/093024-daily-crime-log.php" title="093024 Daily Crime Log"></a><a href="2024-archive/090224-daily-crime-log.php" title="090224 Daily Crime Log"></a><a href="2024-archive/072924-daily-crime-log.php" title="072624 WL Daily Crime Log"></a><a href="2024-archive/070124-daily-crime-log.php" title="070124 Daily Crime Log"></a><a href="2024-archive/060324-daily-crime-log.php" title="060324 Daily Crime Log"></a><a href="2024-archive/042924-daily-crime-log.php" title="042924 Daily Crime Log"></a><a href="2024-archive/040124-daily-crime-log.php" title="040124 Daily Crime Log"></a></li>
+<li><a href="020325-daily-crime-log.php" title="020325 Daily Crime Log">Week of February 3, 2025</a><a href="2025-archive/123024-daily-crime-log.php" title="123024 Daily Crime Log"></a><a href="2024-archive/120224-daily-crime-log.php" title="120224 Daily Crime Log"></a><a href="2024-archive/102824-daily-crime-log.php" title="102824 Daily Crime Log"></a><a href="2024-archive/093024-daily-crime-log.php" title="093024 Daily Crime Log"></a><a href="2024-archive/090224-daily-crime-log.php" title="090224 Daily Crime Log"></a><a href="2024-archive/072924-daily-crime-log.php" title="072624 WL Daily Crime Log"></a><a href="2024-archive/070124-daily-crime-log.php" title="070124 Daily Crime Log"></a><a href="2024-archive/060324-daily-crime-log.php" title="060324 Daily Crime Log"></a><a href="2024-archive/042924-daily-crime-log.php" title="042924 Daily Crime Log"></a><a href="2024-archive/040124-daily-crime-log.php" title="040124 Daily Crime Log"></a></li>
 </ul>
 		</section>
 	
@@ -1118,7 +1113,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>March 28, 2025</span></em></p>
+        <p><em>Last modified: <span>April 1, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
