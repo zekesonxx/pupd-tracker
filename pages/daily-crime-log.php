@@ -693,7 +693,90 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, April 7, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="213">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00486</td>
+<td style="font-weight: 400;" width="149">4/3/25 4:00 PM</td>
+<td style="font-weight: 400;" width="149">4/4/25 6:04 PM</td>
+<td style="font-weight: 400;" width="193">Black Cultural Center</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Theft-EMPV</td>
+<td style="font-weight: 400;" width="150">2025PU00490</td>
+<td style="font-weight: 400;" width="149">4/1/25 12:00 PM</td>
+<td style="font-weight: 400;" width="149">4/5/25 6:17 PM</td>
+<td style="font-weight: 400;" width="193">Flex Lab</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Minor Consumption</td>
+<td style="font-weight: 400;" width="150">2025PU00491</td>
+<td style="font-weight: 400;" width="149">4/6/25 3:15 AM</td>
+<td style="font-weight: 400;" width="149">4/6/25 3:50 AM</td>
+<td style="font-weight: 400;" width="193">Meredith South</td>
+<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Residential Entry/ Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00491</td>
+<td style="font-weight: 400;" width="149">4/6/25 3:15 AM</td>
+<td style="font-weight: 400;" width="149">4/6/25 3:50 AM</td>
+<td style="font-weight: 400;" width="193">Meredith South</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Burglary</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-051152</td>
+<td style="font-weight: 400;" width="149">4/4/25 2:49 PM</td>
+<td style="font-weight: 400;" width="149">4/4/25 2:49 PM</td>
+<td style="font-weight: 400;" width="193">Kappa Sigma</td>
+<td style="font-weight: 400;" width="186">Documented 2025WL00748</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="150">2 Disciplinary Refferals</td>
+<td style="font-weight: 400;">3/28/25 9:45 PM</td>
+<td style="font-weight: 400;">3/28/25 10:39 PM</td>
+<td style="font-weight: 400;">Meredith South</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="150">13 Disciplinary Referrals</td>
+<td style="font-weight: 400;">3/28/25 10:45 PM</td>
+<td style="font-weight: 400;">3/29/25 12:37 PM</td>
+<td style="font-weight: 400;">Honors College</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="150">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">3/30/25 2:15 PM</td>
+<td style="font-weight: 400;">3/30/25 3:04 PM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="150">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">3/30/25 6:30 PM</td>
+<td style="font-weight: 400;">3/30/25 7:55 PM</td>
+<td style="font-weight: 400;">Cary Quad</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1190,7 +1273,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>April 4, 2025</span></em></p>
+        <p><em>Last modified: <span>April 7, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
