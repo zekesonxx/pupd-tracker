@@ -665,7 +665,67 @@
   
     	<section class="content__group">
   					<h3>Friday, April 11, 2025</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="213">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="213">Battery-Simple</td>
+<td width="150">2025PU00509</td>
+<td width="149">4/10/25 12:00 PM</td>
+<td width="149">4/10/25 8:43 PM</td>
+<td width="193">Krach Leadership Center</td>
+<td width="186">Under Investigation</td>
+</tr>
+<tr>
+<td width="213">Hit &amp; Run</td>
+<td width="150">2025PU00511</td>
+<td width="149">4/10/25 7:49 PM</td>
+<td width="149">4/10/25 9:40 PM</td>
+<td width="193">CoRec</td>
+<td width="186">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="213">Criminal Mischief</td>
+<td width="150">2025PU00512</td>
+<td width="149">4/10/25 1:36 AM</td>
+<td width="149">4/11/25 9:36 AM</td>
+<td width="193">Krach Leadership Center</td>
+<td width="186">Under Investigation</td>
+</tr>
+<tr>
+<td width="213">Reckless Driver</td>
+<td width="150">CAD# 2025-054020</td>
+<td width="149">4/9/25 4:11 PM</td>
+<td width="149">4/9/25 4:11 PM</td>
+<td width="193">US HWY 231 S/S River Rd</td>
+<td width="186">Nothing Further</td>
+</tr>
+<tr>
+<td width="213">Reckless Driver</td>
+<td width="150">CAD# 2025-054037</td>
+<td width="149">4/9/25 4:45 PM</td>
+<td width="149">4/9/25 4:45 PM</td>
+<td width="193">US HWY 231 N/Cherry Ln</td>
+<td width="186">Nothing Further</td>
+</tr>
+<tr>
+<td width="213">Stalking</td>
+<td width="150">CSA</td>
+<td width="149">02/2025 Unknown Time</td>
+<td width="149">4/10/25 11:00 AM</td>
+<td width="193">On-Campus Housing</td>
+<td width="186">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+<p>&#160;</p>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1418,7 +1478,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>April 10, 2025</span></em></p>
+        <p><em>Last modified: <span>April 11, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
