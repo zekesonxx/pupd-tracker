@@ -672,89 +672,89 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, April 17, 2025</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="213">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="213">Criminal Mischief</td>
-<td style="font-weight: 400;" width="150">2025PU00533</td>
-<td style="font-weight: 400;" width="149">3/4/25 1:13 AM</td>
-<td style="font-weight: 400;" width="149">4/15/25 8:49 AM</td>
-<td style="font-weight: 400;" width="193">Grant St Garage</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="213">Theft</td>
-<td style="font-weight: 400;" width="150">2025PU00535</td>
-<td style="font-weight: 400;" width="149">4/4/25 9:36 AM</td>
-<td style="font-weight: 400;" width="149">4/15/25 2:17 PM</td>
-<td style="font-weight: 400;" width="193">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="213">Theft-Bike</td>
-<td style="font-weight: 400;" width="150">2025PU00536</td>
-<td style="font-weight: 400;" width="149">4/15/25 11:30 AM</td>
-<td style="font-weight: 400;" width="149">4/15/25 2:22 PM</td>
-<td style="font-weight: 400;" width="193">Wiley Dining Court</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="213">Threats</td>
-<td style="font-weight: 400;" width="150">2025PU00538</td>
-<td style="font-weight: 400;" width="149">4/14/25 3:00 PM</td>
-<td style="font-weight: 400;" width="149">4/15/25 3:25 PM</td>
-<td style="font-weight: 400;" width="193">Mackey Arena</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="213">Fraud</td>
-<td style="font-weight: 400;" width="150">2025PU00539</td>
-<td style="font-weight: 400;" width="149">2/20/25 8:00 AM</td>
-<td style="font-weight: 400;" width="149">4/15/25 5:04 PM</td>
-<td style="font-weight: 400;" width="193">Meredith South</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="213">Theft</td>
-<td style="font-weight: 400;" width="150">2025PU00540</td>
-<td style="font-weight: 400;" width="149">4/15/25 12:30 PM</td>
-<td style="font-weight: 400;" width="149">4/15/25 6:56 PM</td>
-<td style="font-weight: 400;" width="193">Aspire Apts</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="213">Reckless Driver</td>
-<td style="font-weight: 400;" width="150">CAD# 2025-057112</td>
-<td style="font-weight: 400;" width="149">4/14/25 8:51 PM</td>
-<td style="font-weight: 400;" width="149">4/14/25 8:51 PM</td>
-<td style="font-weight: 400;" width="193">Pickett Park</td>
-<td style="font-weight: 400;" width="186">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="213">Hazing</td>
-<td style="font-weight: 400;" width="150">Unknown</td>
-<td style="font-weight: 400;" width="149">2024-2025</td>
-<td style="font-weight: 400;" width="149">4/11/25 10:00 AM</td>
-<td style="font-weight: 400;" width="193">Unknown Location</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
   					<h3>Wednesday, April 16, 2025</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle; width: 117.267px;">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle; width: 118.1px;">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle; width: 105.2px;">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle; width: 96.45px;">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle; width: 125.417px;">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle; width: 126.567px;">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400; width: 117.267px;">Criminal Mischief</td>
+<td style="font-weight: 400; width: 118.1px;">2025PU00533</td>
+<td style="font-weight: 400; width: 105.2px;">3/4/25 1:13 AM</td>
+<td style="font-weight: 400; width: 96.45px;">4/15/25 8:49 AM</td>
+<td style="font-weight: 400; width: 125.417px;">Grant St Garage</td>
+<td style="font-weight: 400; width: 126.567px;">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400; width: 117.267px;">Theft</td>
+<td style="font-weight: 400; width: 118.1px;">2025PU00535</td>
+<td style="font-weight: 400; width: 105.2px;">4/4/25 9:36 AM</td>
+<td style="font-weight: 400; width: 96.45px;">4/15/25 2:17 PM</td>
+<td style="font-weight: 400; width: 125.417px;">McCutcheon Hall</td>
+<td style="font-weight: 400; width: 126.567px;">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400; width: 117.267px;">Theft-Bike</td>
+<td style="font-weight: 400; width: 118.1px;">2025PU00536</td>
+<td style="font-weight: 400; width: 105.2px;">4/15/25 11:30 AM</td>
+<td style="font-weight: 400; width: 96.45px;">4/15/25 2:22 PM</td>
+<td style="font-weight: 400; width: 125.417px;">Wiley Dining Court</td>
+<td style="font-weight: 400; width: 126.567px;">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400; width: 117.267px;">Threats</td>
+<td style="font-weight: 400; width: 118.1px;">2025PU00538</td>
+<td style="font-weight: 400; width: 105.2px;">4/14/25 3:00 PM</td>
+<td style="font-weight: 400; width: 96.45px;">4/15/25 3:25 PM</td>
+<td style="font-weight: 400; width: 125.417px;">Mackey Arena</td>
+<td style="font-weight: 400; width: 126.567px;">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400; width: 117.267px;">Fraud</td>
+<td style="font-weight: 400; width: 118.1px;">2025PU00539</td>
+<td style="font-weight: 400; width: 105.2px;">2/20/25 8:00 AM</td>
+<td style="font-weight: 400; width: 96.45px;">4/15/25 5:04 PM</td>
+<td style="font-weight: 400; width: 125.417px;">Meredith South</td>
+<td style="font-weight: 400; width: 126.567px;">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400; width: 117.267px;">Theft</td>
+<td style="font-weight: 400; width: 118.1px;">2025PU00540</td>
+<td style="font-weight: 400; width: 105.2px;">4/15/25 12:30 PM</td>
+<td style="font-weight: 400; width: 96.45px;">4/15/25 6:56 PM</td>
+<td style="font-weight: 400; width: 125.417px;">Aspire Apts</td>
+<td style="font-weight: 400; width: 126.567px;">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400; width: 117.267px;">Reckless Driver</td>
+<td style="font-weight: 400; width: 118.1px;">CAD# 2025-057112</td>
+<td style="font-weight: 400; width: 105.2px;">4/14/25 8:51 PM</td>
+<td style="font-weight: 400; width: 96.45px;">4/14/25 8:51 PM</td>
+<td style="font-weight: 400; width: 125.417px;">Pickett Park</td>
+<td style="font-weight: 400; width: 126.567px;">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400; width: 117.267px;">Hazing</td>
+<td style="font-weight: 400; width: 118.1px;">Unknown</td>
+<td style="font-weight: 400; width: 105.2px;">2024-2025</td>
+<td style="font-weight: 400; width: 96.45px;">4/11/25 10:00 AM</td>
+<td style="font-weight: 400; width: 125.417px;">Unknown Location</td>
+<td style="font-weight: 400; width: 126.567px;">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
