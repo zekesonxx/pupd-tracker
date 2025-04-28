@@ -946,9 +946,9 @@
 <p>Daily crime logs containing the most recent 60 days are maintained by the department&#8217;s records unit for public inspection upon request and are posted on the University Police Department&#8217;s website. An archive of log information for the previous seven years is maintained and made available upon request within two business days.</p>
 <h3><strong><a id="IV"></a>IV. Gathering Crime Statistics &#8212; University Police&#160;</strong></h3>
 <h4>Campus Security Authorities</h4>
-<p>University Police are responsible for gathering the crime statistics that must be reported in the Annual Security Report (See item 13 under Contents of Annual Reports). University Police develop maintain and follow a written procedure for gathering the statistics, which includes safeguards to prevent double counting.&#160;&#160;&#160;</p>
+<p>University Police are responsible for gathering the crime statistics that must be reported in the Annual Security Report (See item 14 under Contents of Annual Reports). University Police develop maintain and follow a written procedure for gathering the statistics, which includes safeguards to prevent double counting.&#160;&#160;&#160;</p>
 <h4>Local Police&#160;Agencies</h4>
-<p>University Police are responsible for making good faith efforts to gather crime statistics from local police agencies, which must be reported in the Annual Security Report (See item 13 under Contents of Annual Reports). Any such efforts will be documented in writing.</p>
+<p>University Police are responsible for making good faith efforts to gather crime statistics from local police agencies, which must be reported in the Annual Security Report (See item 14 under Contents of Annual Reports). Any such efforts will be documented in writing.</p>
 <h3><strong><a id="V"></a>V. Daily Fire Log&#160;&#160;&#160;&#160;&#160;</strong></h3>
 <p>The Purdue Fire Department (West Lafayette) and the Chiefs of Police (Regional Campuses) make, keep and maintain a daily fire log, written in a form that can be easily understood, recording all fires that occurred in a Campus student housing facility. The log must include the nature, date reported, date and time of the fire, and general location of each fire.</p>
 <p>Fires are recorded in the daily fire log within two business days of the report of the fire to the Purdue Fire Department (West Lafayette) or University Police department (Regional Campuses), and any new information about a log entry is recorded within two business days after the information becomes available to the Purdue Fire Department (West Lafayette) or the University Police&#160;Department (Regional Campuses).<br/>Daily fire log entries for the most recent 60-day period must be available for public inspection during normal business hours. Logs older than 60 days must be made available within two business days of a request for public inspection.</p>
@@ -1459,7 +1459,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>April 25, 2025</span></em></p>
+        <p><em>Last modified: <span>April 28, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
