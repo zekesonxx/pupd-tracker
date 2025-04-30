@@ -678,7 +678,7 @@
 <li>Policies for making Timely Warning reports to members of the Campus community regarding the occurrence of crimes described in item 14 below;</li>
 <li>Policies for preparing the annual disclosure of crime statistics;&#160;</li>
 <li>A list of the titles of each person or organization to whom students and employees should report the criminal offenses described in item 14 below for the purpose of making Timely Warning reports and the annual statistical disclosure; and&#160;</li>
-<li>A disclosure of whether the university has any policies or procedures that allow victims or witnesses to report crimes on a voluntary, confidential basis for inclusion in the annual disclosure of crime statistics, and, if so, a description of those policies and procedures.</li>
+<li>A disclosure of whether the University has any policies or procedures that allow victims or witnesses to report crimes on a voluntary, confidential basis for inclusion in the annual disclosure of crime statistics, and, if so, a description of those policies and procedures.</li>
 </ol>
 </li>
 <li>Campus Security and Access Policies: A statement of current policies concerning security and access to Campus facilities, including Campus residences, and security considerations used in the maintenance of Campus facilities.</li>
@@ -691,28 +691,28 @@
 </li>
 <li>Security Programs Offered to Students and Employees: A description of the type and frequency of programs designed to inform students and employees about Campus security procedures and practices and to encourage students and employees to be responsible for their own security and the security of others.</li>
 <li>Crime Prevention Programs: A description of programs designed to inform students and employees about the prevention of crimes.</li>
-<li>Monitoring Criminal Activity at Off-Campus Student Organizations: A statement of policy concerning the monitoring and recording through local police agencies of criminal activity at off-Campus student organizations that are recognized by the university and that are engaged in by students attending the university, including those student organizations with Non-Campus Buildings or Property.</li>
+<li>Monitoring Criminal Activity at Off-Campus Student Organizations: A statement of policy concerning the monitoring and recording through local police agencies of criminal activity at off-Campus student organizations that are recognized by the University and that are engaged in by students attending the University, including those student organizations with Non-Campus Buildings or Property.</li>
 <li>Alcohol and Drug Policies: A statement of policy regarding:&#160;&#160;&#160;
 <ol style="list-style-type: upper-alpha;">
 <li>The possession, use and sale of alcoholic beverages and enforcement of Indiana underage drinking laws;</li>
 <li>The possession, use and sale of illegal drugs and enforcement of Federal and Indiana drug laws;&#160;&#160;&#160;</li>
 <li>A description of any drug or alcohol abuse education programs as required under Section 120(a) through (d) of the Higher Education Act (otherwise known as the Drug-Free Schools and Communities Act of 1989); and</li>
-<li>A description of the university&#8217;s Substance-Free Campus and Workplace policy (IV.A.9).</li>
+<li>A description of the University&#8217;s Substance-Free Campus and Workplace policy (IV.A.9).</li>
 </ol>
 </li>
 <li>Dating Violence, Domestic Violence, Sexual Assault and Stalking Programs and Procedures: A statement of policy regarding Campus dating violence, domestic violence, sexual assault and stalking programs designed to prevent such acts, including:&#160;
 <ol style="list-style-type: upper-alpha;">
 <li>A description of primary prevention and awareness programs for all incoming students and new employees, which must include:
 <ol>
-<li>A statement that the university prohibits the crimes of dating violence, domestic violence, sexual assault and stalking;</li>
+<li>A statement that the University prohibits the crimes of dating violence, domestic violence, sexual assault and stalking;</li>
 <li>The definition of &#8220;dating violence,&#8221; &#8220;domestic violence,&#8221; &#8220;sexual assault&#8221; and &#8220;stalking&#8221; in the state of Indiana;</li>
 <li>A statement that Indiana law does not define &#8220;consent&#8221; in reference to sexual activity;</li>
 <li>A description of safe and positive options for bystander intervention;</li>
 <li>Information on risk reduction;</li>
 <li>Procedures victims should follow if a crime of dating violence, domestic violence, sexual assault or stalking has occurred (and information outlined in section 8.B below);</li>
-<li>Information about how the university protects the confidentiality of victims and other necessary parties;</li>
-<li>A statement that the university provides any individual who reports as having been the victim of dating violence, domestic violence, sexual assault or stalking, regardless of location, a written explanation of the individual&#8217;s rights and options; and</li>
-<li>A description of the procedures for university disciplinary action in cases of alleged dating violence, domestic violence, sexual assault and stalking.&#160;</li>
+<li>Information about how the University protects the confidentiality of victims and other necessary parties;</li>
+<li>A statement that the University provides any individual who reports as having been the victim of dating violence, domestic violence, sexual assault or stalking, regardless of location, a written explanation of the individual&#8217;s rights and options; and</li>
+<li>A description of the procedures for University disciplinary action in cases of alleged dating violence, domestic violence, sexual assault and stalking.&#160;</li>
 </ol>
 </li>
 <li>Procedures victims should follow if a crime of dating violence, domestic violence, sexual assault or stalking has occurred, including written information about:&#160;&#160;&#160;
@@ -726,32 +726,32 @@
 <li>Decline to notify such authorities.</li>
 </ol>
 </li>
-<li>The rights of victims for orders of protection issued by a criminal or civil court and the university&#8217;s responsibilities for orders of no-contact directives issued by the university.</li>
+<li>The rights of victims for orders of protection issued by a criminal or civil court and the University&#8217;s responsibilities for orders of no-contact directives issued by the University.</li>
 </ol>
 </li>
-<li>Information about how the university protects the confidentiality of victims and other necessary parties, including how the university:
+<li>Information about how the University protects the confidentiality of victims and other necessary parties, including how the University:
 <ol>
 <li>Completes publicly available recordkeeping, for purposes of Clery Act reporting and disclosure, without the inclusion of identifying information about the victim; and&#160;</li>
-<li>Maintains as confidential any accommodations or protective measures provided to the victim, to the extent that maintaining such confidentiality would not impair the ability of the university to provide such accommodations or protective measures.&#160;</li>
+<li>Maintains as confidential any accommodations or protective measures provided to the victim, to the extent that maintaining such confidentiality would not impair the ability of the University to provide such accommodations or protective measures.&#160;</li>
 </ol>
 </li>
-<li>A statement that the university provides written notification to victims of crimes covered by the Violence Against Women Act (VAWA) about options for, and available assistance in, changing academic, living, transportation, and working situations. The university must make such&#160;accommodations requested by the victim if they are reasonably available, regardless of whether the victim chooses to report the crime to University Police or local law enforcement.</li>
+<li>A statement that the University provides written notification to victims of crimes covered by the Violence Against Women Act (VAWA) about options for, and available assistance in, changing academic, living, transportation, and working situations. The University must make such&#160;accommodations requested by the victim if they are reasonably available, regardless of whether the victim chooses to report the crime to University Police or local law enforcement.</li>
 <li>Procedures for Campus disciplinary action in cases of alleged dating violence, domestic violence, sexual assault and stalking, which must include:
 <ol>
-<li>A description of each type of disciplinary proceeding used by the university; the steps, anticipated timelines and decision-making process for each type of disciplinary proceeding; and how the university determines which type of proceeding to use based on the circumstances of an allegation of dating violence, domestic violence, sexual assault or stalking;</li>
+<li>A description of each type of disciplinary proceeding used by the University; the steps, anticipated timelines and decision-making process for each type of disciplinary proceeding; and how the University determines which type of proceeding to use based on the circumstances of an allegation of dating violence, domestic violence, sexual assault or stalking;</li>
 <li>A description of the standard of evidence that is used in disciplinary proceedings involving allegations of dating violence, domestic violence, sexual assault or stalking;</li>
-<li>A list of all possible sanctions the university may impose following the results of a disciplinary proceeding for allegations of dating violence, domestic violence, sexual assault or stalking;&#160;&#160;&#160;</li>
-<li>A description of the range of protective measures that the university may offer following an allegation of dating violence, domestic violence, sexual assault or stalking;</li>
+<li>A list of all possible sanctions the University may impose following the results of a disciplinary proceeding for allegations of dating violence, domestic violence, sexual assault or stalking;&#160;&#160;&#160;</li>
+<li>A description of the range of protective measures that the University may offer following an allegation of dating violence, domestic violence, sexual assault or stalking;</li>
 <li>A statement that disciplinary proceedings:&#160;&#160;&#160;
 <ol style="list-style-type: lower-alpha;">
 <li>Include a prompt, fair and impartial process from the initial investigation to the final result;&#160;&#160;</li>
 <li>Are conducted by officials who, at a minimum, receive annual training on the issues related to dating violence, domestic violence, sexual assault and stalking and on how to conduct an investigation and hearing process that protects the safety of victims and promotes accountability;</li>
 <li>Provide the complainant and respondent with the same opportunities to have others present during any disciplinary proceeding, including the opportunity to be accompanied to any related meeting or proceeding by the advisor of their choice;</li>
-<li>Do not limit the choice of advisor or presence for either the complainant or respondent in any meeting or disciplinary proceeding; however, the university may establish restrictions regarding the extent to which the advisor may participate in proceedings provided that such restrictions apply equally to both parties; and</li>
+<li>Do not limit the choice of advisor or presence for either the complainant or respondent in any meeting or disciplinary proceeding; however, the University may establish restrictions regarding the extent to which the advisor may participate in proceedings provided that such restrictions apply equally to both parties; and</li>
 <li>Require simultaneous notification, in writing, to both the complainant and the respondent of:
 <ol style="list-style-type: lower-roman;">
 <li>The result of any disciplinary proceeding arising from an allegation of dating violence, domestic violence, sexual assault or stalking;</li>
-<li>The university&#8217;s procedures for the complainant and respondent to appeal the result of the disciplinary proceeding, if appeals are provided;</li>
+<li>The University&#8217;s procedures for the complainant and respondent to appeal the result of the disciplinary proceeding, if appeals are provided;</li>
 <li>Any change to the result; and</li>
 <li>When such&#160;results become final.</li>
 </ol>
@@ -764,16 +764,16 @@
 </li>
 <li>Stop Campus Hazing Act Programs and Procedures.
 <ol style="list-style-type: upper-alpha;">
-<li>A statement of current policies related to Hazing as defined by the university. The policy statement must include:
+<li>A statement of current policies related to Hazing as defined by the University. The policy statement must include:
 <ol>
-<li>The university definition of Hazing</li>
+<li>The University definition of Hazing</li>
 <li>How to report incidents of Hazing</li>
 <li>The process used to investigate incidents of Hazing</li>
 <li>Information on applicable state laws on Hazing</li>
 <li>A statement of current policy regarding Hazing prevention and awareness programs which includes a description of research-informed Campus wide prevention programs designed to reach students, staff and faculty</li>
 </ol>
 </li>
-<li>Campus Hazing Transparency Report which summarizes findings concerning any established or recognized student organization found to be in violation of the university&#8217;s Standards of Conduct relating to Hazing as defined by the university in the Hazing policies.
+<li>Campus Hazing Transparency Report which summarizes findings concerning any established or recognized student organization found to be in violation of the University&#8217;s Standards of Conduct relating to Hazing as defined by the University in the Hazing policies.
 <ol>
 <li>Distinct from Annual Security Report (ASR) and does not need to be included within ASR</li>
 <li><span class="TextRun Highlight SCXW71059517 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US">Must include:</span>
@@ -788,15 +788,15 @@
 <li>Date notice was provided to organization of outcome</li>
 </ol>
 </li>
-<li>May include other information as determined by the university to be necessary or reported as required by state law.</li>
+<li>May include other information as determined by the University to be necessary or reported as required by state law.</li>
 <li>Cannot include personally identifiable information (PII)</li>
-<li>Does not require university to include outcomes related to unrecognized student organizations</li>
+<li>Does not require University to include outcomes related to unrecognized student organizations</li>
 </ol>
 </li>
 <li>University public website must include:
 <ol>
 <li>Statement notifying the public of the annual availability of Hazing statistics, including a link to the Annual Security Report</li>
-<li>Information about university policies related to Hazing and applicable local, state or tribal laws on Hazing</li>
+<li>Information about University policies related to Hazing and applicable local, state or tribal laws on Hazing</li>
 <li>Information required for the Campus Hazing Transparency Report</li>
 </ol>
 </li>
@@ -805,8 +805,8 @@
 <li>Sex and Violent Offender Registry: A statement advising the Campus community of the availability and location of the Indiana Sheriff&#8217;s Sex and Violent Offender Registry.</li>
 <li>Emergency Response and Evacuation Procedures: A statement of policy regarding emergency response and evacuation procedures. This statement must include:&#160;
 <ol style="list-style-type: upper-alpha;">
-<li>The procedures the university uses to immediately notify the Campus community upon the confirmation of a significant emergency or dangerous situation involving an immediate threat to the health or safety of students or employees occurring on Campus;</li>
-<li>A description of the process the university uses to:
+<li>The procedures the University uses to immediately notify the Campus community upon the confirmation of a significant emergency or dangerous situation involving an immediate threat to the health or safety of students or employees occurring on Campus;</li>
+<li>A description of the process the University uses to:
 <ol>
 <li>Confirm that there is a significant emergency or dangerous situation on Campus;</li>
 <li>Determine the appropriate segment or segments of the Campus community to receive a notification;&#160;&#160;</li>
@@ -814,10 +814,10 @@
 <li>Initiate the notification system.&#160;</li>
 </ol>
 </li>
-<li>A statement that the university determines, without delay, and taking into account the safety of the community, the content of the notification and initiates the notification system, unless issuing a notification will, in the professional judgment of responsible authorities, compromise efforts to assist a victim or to contain, respond to, or otherwise mitigate the emergency;</li>
+<li>A statement that the University determines, without delay, and taking into account the safety of the community, the content of the notification and initiates the notification system, unless issuing a notification will, in the professional judgment of responsible authorities, compromise efforts to assist a victim or to contain, respond to, or otherwise mitigate the emergency;</li>
 <li>A list of the titles of each person(s) or organization(s) responsible for carrying out the actions described in paragraph 11.B above;</li>
-<li>The university&#8217;s procedures for disseminating emergency information to the larger community; and</li>
-<li>The university&#8217;s procedures to Test the emergency response and evacuation procedures on at least an annual basis, including:&#160;
+<li>The University&#8217;s procedures for disseminating emergency information to the larger community; and</li>
+<li>The University&#8217;s procedures to Test the emergency response and evacuation procedures on at least an annual basis, including:&#160;
 <ol>
 <li>Tests that may be announced or unannounced;</li>
 <li>Publicizing its emergency response and evacuation procedures in conjunction with at least one Test per calendar year; and</li>
@@ -826,7 +826,7 @@
 </li>
 </ol>
 </li>
-<li>Timely Warning Procedures: A statement of the university&#8217;s Timely Warning procedures, including:
+<li>Timely Warning Procedures: A statement of the University&#8217;s Timely Warning procedures, including:
 <ol style="list-style-type: upper-alpha;">
 <li>The circumstances for which a warning is issued;</li>
 <li>The individual or office responsible for issuing the warning; and</li>
@@ -837,13 +837,13 @@
 <ol style="list-style-type: upper-alpha;">
 <li>Indicate a list of titles of each person or organization to which students, employees or other individuals should report that a student has been missing for 24 hours;</li>
 <li>Require that any missing student report must be referred immediately to the University Police;&#160;&#160;</li>
-<li>Provide that each student living in a Campus student housing facility may identify a contact person(s) the university may notify if the student is determined missing by the University Police;&#160;</li>
-<li>Advise students that their contact information is registered confidentially, that this information is accessible only to authorized university officials, and that it may not be disclosed, except to law enforcement personnel in furtherance of a missing person investigation;</li>
-<li>Advise students that if they are under 18 years of age and not emancipated, the university must notify a custodial parent or guardian within 24 hours of the determination that the student is missing, in addition to any additional contact person designated by the student; and&#160;</li>
-<li>Advise students that unless a local law enforcement agency was the entity that made the determination that a student is missing, the university notifies the local law enforcement agency within 24 hours of the determination that the student is missing.</li>
+<li>Provide that each student living in a Campus student housing facility may identify a contact person(s) the University may notify if the student is determined missing by the University Police;&#160;</li>
+<li>Advise students that their contact information is registered confidentially, that this information is accessible only to authorized University officials, and that it may not be disclosed, except to law enforcement personnel in furtherance of a missing person investigation;</li>
+<li>Advise students that if they are under 18 years of age and not emancipated, the University must notify a custodial parent or guardian within 24 hours of the determination that the student is missing, in addition to any additional contact person designated by the student; and&#160;</li>
+<li>Advise students that unless a local law enforcement agency was the entity that made the determination that a student is missing, the University notifies the local law enforcement agency within 24 hours of the determination that the student is missing.</li>
 </ol>
 </li>
-<li>Crime Statistics: Each Annual Security and Fire Safety Report includes crime statistics for the most recent calendar year and the two immediately preceding calendar years.<br/><br/>The university must report statistics for which data are available concerning&#160;the occurrence on Campus, in dormitories or other residential facilities for students on Campus, in or on Non-Campus Buildings or Property, and on Public Property of the following criminal offenses reported to University Police, Campus Security Authorities or relevant local police agencies:
+<li>Crime Statistics: Each Annual Security and Fire Safety Report includes crime statistics for the most recent calendar year and the two immediately preceding calendar years.<br/><br/>The University must report statistics for which data are available concerning&#160;the occurrence on Campus, in dormitories or other residential facilities for students on Campus, in or on Non-Campus Buildings or Property, and on Public Property of the following criminal offenses reported to University Police, Campus Security Authorities or relevant local police agencies:
 <ol style="list-style-type: upper-alpha;">
 <li>Criminal homicide: murder, non-negligent and negligent manslaughter;</li>
 <li>Sex offenses;</li>
@@ -872,24 +872,24 @@
 <ol style="list-style-type: upper-alpha;">
 <li>Reports of Stalking are reported for the calendar year in which they were first reported to a Campus Security Authority.&#160;&#160;</li>
 <li>If a Stalking course of conduct continues in a subsequent year, it must also be recorded in the subsequent year.&#160;</li>
-<li>Finally, if Stalking behavior occurs after an official intervention or warning from law enforcement or from the university, a Stalking report must be counted as a new and distinct incident in the statistics.</li>
+<li>Finally, if Stalking behavior occurs after an official intervention or warning from law enforcement or from the University, a Stalking report must be counted as a new and distinct incident in the statistics.</li>
 </ol>
 </li>
 <li>Fire Safety Policies and Procedures: Each Annual Fire Safety Report for a Campus with on-Campus student housing must include the following fire safety policy information:&#160;
 <ol style="list-style-type: upper-alpha;">
 <li>A description of each Campus student housing facility fire safety system;</li>
 <li>The number of fire drills held during the previous calendar year;</li>
-<li>The university&#8217;s policies or rules on portable electrical appliances, smoking, and open flames in a student housing facility;</li>
-<li>The university&#8217;s procedures for student housing evacuation in the case of a fire;</li>
+<li>The University&#8217;s policies or rules on portable electrical appliances, smoking, and open flames in a student housing facility;</li>
+<li>The University&#8217;s procedures for student housing evacuation in the case of a fire;</li>
 <li>The policies regarding fire safety education and training programs provided to the students and employees, including a description of the procedures that students and employees should follow in the case of a fire;</li>
 <li>A list of the titles of each person or organization to which students and employees should report that a fire occurred.</li>
 <li>Plans for future improvements in fire safety, if known as of the date of the Annual Security and Fire Safety Report.</li>
 </ol>
 </li>
-<li>Fire Statistics: Each Annual Fire Safety Report includes fire safety statistics for each Campus student housing facility for the most recent calendar year and the two immediately preceding calendar years. The university must report statistics concerning:
+<li>Fire Statistics: Each Annual Fire Safety Report includes fire safety statistics for each Campus student housing facility for the most recent calendar year and the two immediately preceding calendar years. The University must report statistics concerning:
 <ol style="list-style-type: upper-alpha;">
 <li>The number of fires and the cause of each fire;</li>
-<li>The number of individuals who received Fire-related Injuries that resulted in treatment at a medical facility, including at any health center overseen by the university;</li>
+<li>The number of individuals who received Fire-related Injuries that resulted in treatment at a medical facility, including at any health center overseen by the University;</li>
 <li>The number of Fire-related Deaths; and</li>
 <li>The value of property damage caused by a fire.</li>
 </ol>
@@ -910,7 +910,7 @@
 <li>Twitter,</li>
 <li>Desktop pop-up alerts,</li>
 <li>Alert beacons,</li>
-<li>Email with a university domain,</li>
+<li>Email with a University domain,</li>
 <li>Digital signs,</li>
 <li>Purdue Campus website home page,</li>
 <li>Purdue Campus status page,</li>
@@ -918,7 +918,7 @@
 <li>Boiler TV Emergency Alert System, and/or</li>
 <li>Local media.</li>
 </ol>
-<p>If there is an immediate threat to the health or safety of students or employees occurring on Campus, the university follows its emergency notification procedures. If&#160;emergency notification procedures are executed, a Timely Warning is not required based on the same circumstances; however, adequate follow-up information is provided to the Campus community as needed.</p>
+<p>If there is an immediate threat to the health or safety of students or employees occurring on Campus, the University follows its Emergency Notification procedures. If Emergency Notification procedures are executed, a Timely Warning is not required based on the same circumstances; however, adequate follow-up information is provided to the Campus community as needed.</p>
 <p><strong><a id="III"></a>III. Daily Crime Log&#160; <br/></strong></p>
 <p>University Police create, maintain and preserve a daily log, written in a form that can be easily understood, that records any crime or alleged crime that occurred within the Clery Act reportable geography or the University Police Department&#8217;s patrol jurisdiction. The log includes the following information:</p>
 <ol>
@@ -946,7 +946,7 @@
 <p>Daily crime logs containing the most recent 60 days are maintained by the department&#8217;s records unit for public inspection upon request and are posted on the University Police Department&#8217;s website. An archive of log information for the previous seven years is maintained and made available upon request within two business days.</p>
 <h3><strong><a id="IV"></a>IV. Gathering Crime Statistics &#8212; University Police&#160;</strong></h3>
 <h4>Campus Security Authorities</h4>
-<p>University Police are responsible for gathering the crime statistics that must be reported in the Annual Security Report (See item 14 under Contents of Annual Reports). University Police develop maintain and follow a written procedure for gathering the statistics, which includes safeguards to prevent double counting.&#160;&#160;&#160;</p>
+<p>University Police are responsible for gathering the crime statistics that must be reported in the Annual Security Report (See item 14 under Contents of Annual Reports). University Police develop, maintain, and follow a written procedure for gathering the statistics, which includes safeguards to prevent double counting.&#160;&#160;&#160;</p>
 <h4>Local Police&#160;Agencies</h4>
 <p>University Police are responsible for making good faith efforts to gather crime statistics from local police agencies, which must be reported in the Annual Security Report (See item 14 under Contents of Annual Reports). Any such efforts will be documented in writing.</p>
 <h3><strong><a id="V"></a>V. Daily Fire Log&#160;&#160;&#160;&#160;&#160;</strong></h3>
@@ -1459,7 +1459,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>April 29, 2025</span></em></p>
+        <p><em>Last modified: <span>April 30, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
