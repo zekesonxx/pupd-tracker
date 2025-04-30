@@ -667,7 +667,7 @@
 <p>Effective date: May 1, 2025</p>
 <h3><strong><a id="I"></a>I. Annual Security and Fire Safety Report&#160;<br/></strong></h3>
 <h4>Current Students and Employees</h4>
-<p>The Chiefs of Police (for the purposes of these procedures, this title refers to the individual with that title or with responsibilities that align with that title on the West Lafayette, Fort Wayne and Northwest campuses), or their designees, distribute, by October 1 of each year,&#160;an Annual Security and Fire Safety Report to all current students and employees of their respective Campuses. The Link to the report is distributed to each individual via electronic mail and made available for viewing on the Campus&#8217;s University Police Department website.</p>
+<p>The Chiefs of Police (for the purposes of these procedures, this title refers to the individual with that title or with responsibilities that align with that title on the West Lafayette, Fort Wayne and Northwest Campuses), or their designees, distribute, by October 1 of each year,&#160;an Annual Security and Fire Safety Report to all current students and employees of their respective Campuses. The link to the report is distributed to each individual via electronic mail and made available for viewing on the Campus&#8217;s University Police Department website.</p>
 <h4>Prospective Students and Employees</h4>
 <p>Notice of the Annual Security and Fire Safety Report&#8217;s availability, including a description of the report's contents,&#160;and the opportunity to request a copy of the report is provided to Prospective Students and Prospective Employees. The report is provided upon request to all Prospective Students and Employees and is available for viewing on the University Police Department website.</p>
 <h4>Contents of the Annual Report</h4>
@@ -675,9 +675,9 @@
 <ol>
 <li>Campus Policies Regarding Criminal Actions and Emergencies: A statement of current Campus policies regarding procedures and facilities for students and others to report criminal actions or other emergencies occurring on Campus and policies concerning the Campus&#8217;s response to such reports, including:&#160;
 <ol style="list-style-type: upper-alpha;">
-<li>Policies for making timely warning reports to members of the Campus community regarding the occurrence of crimes described in item 14 below;</li>
+<li>Policies for making Timely Warning reports to members of the Campus community regarding the occurrence of crimes described in item 14 below;</li>
 <li>Policies for preparing the annual disclosure of crime statistics;&#160;</li>
-<li>A list of the titles of each person or organization to whom students and employees should report the criminal offenses described in item 14 below for the purpose of making timely warning reports and the annual statistical disclosure; and&#160;</li>
+<li>A list of the titles of each person or organization to whom students and employees should report the criminal offenses described in item 14 below for the purpose of making Timely Warning reports and the annual statistical disclosure; and&#160;</li>
 <li>A disclosure of whether the university has any policies or procedures that allow victims or witnesses to report crimes on a voluntary, confidential basis for inclusion in the annual disclosure of crime statistics, and, if so, a description of those policies and procedures.</li>
 </ol>
 </li>
@@ -689,7 +689,7 @@
 <li>Procedures, if any, that encourage professional and/or pastoral counselors, if and when they deem it appropriate, to inform the individuals they are counseling of any procedures to report crimes on a voluntary, confidential basis for inclusion in the annual disclosure of crime statistics.&#160;</li>
 </ol>
 </li>
-<li>Security Programs Offered to Students and Employees: A description of the type and frequency of programs designed to inform students and employees about campus security procedures and practices and to encourage students and employees to be responsible for their own security and the security of others.</li>
+<li>Security Programs Offered to Students and Employees: A description of the type and frequency of programs designed to inform students and employees about Campus security procedures and practices and to encourage students and employees to be responsible for their own security and the security of others.</li>
 <li>Crime Prevention Programs: A description of programs designed to inform students and employees about the prevention of crimes.</li>
 <li>Monitoring Criminal Activity at Off-Campus Student Organizations: A statement of policy concerning the monitoring and recording through local police agencies of criminal activity at off-Campus student organizations that are recognized by the university and that are engaged in by students attending the university, including those student organizations with Non-Campus Buildings or Property.</li>
 <li>Alcohol and Drug Policies: A statement of policy regarding:&#160;&#160;&#160;
@@ -762,7 +762,7 @@
 </li>
 </ol>
 </li>
-<li>Stop Campus Hazing Act Programs and Procedures
+<li>Stop Campus Hazing Act Programs and Procedures.
 <ol style="list-style-type: upper-alpha;">
 <li>A statement of current policies related to Hazing as defined by the university. The policy statement must include:
 <ol>
@@ -770,12 +770,12 @@
 <li>How to report incidents of Hazing</li>
 <li>The process used to investigate incidents of Hazing</li>
 <li>Information on applicable state laws on Hazing</li>
-<li>A statement of current policy regarding hazing prevention and awareness programs which includes a description of research-informed campus wide prevention programs designed to reach students, staff and faculty</li>
+<li>A statement of current policy regarding Hazing prevention and awareness programs which includes a description of research-informed Campus wide prevention programs designed to reach students, staff and faculty</li>
 </ol>
 </li>
 <li>Campus Hazing Transparency Report which summarizes findings concerning any established or recognized student organization found to be in violation of the university&#8217;s Standards of Conduct relating to Hazing as defined by the university in the Hazing policies.
 <ol>
-<li>Distinct from Annual Security Report (ASR) and does not need to be included with in ASR</li>
+<li>Distinct from Annual Security Report (ASR) and does not need to be included within ASR</li>
 <li><span class="TextRun Highlight SCXW71059517 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US">Must include:</span>
 <ol style="list-style-type: lower-alpha;">
 <li><span class="TextRun Highlight SCXW71059517 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US">Name of organization</span></li>
@@ -815,7 +815,7 @@
 </ol>
 </li>
 <li>A statement that the university determines, without delay, and taking into account the safety of the community, the content of the notification and initiates the notification system, unless issuing a notification will, in the professional judgment of responsible authorities, compromise efforts to assist a victim or to contain, respond to, or otherwise mitigate the emergency;</li>
-<li>A list of the titles of each person(s) or organization(s) responsible for carrying out the actions described in paragraph 10.B above;</li>
+<li>A list of the titles of each person(s) or organization(s) responsible for carrying out the actions described in paragraph 11.B above;</li>
 <li>The university&#8217;s procedures for disseminating emergency information to the larger community; and</li>
 <li>The university&#8217;s procedures to Test the emergency response and evacuation procedures on at least an annual basis, including:&#160;
 <ol>
@@ -826,7 +826,7 @@
 </li>
 </ol>
 </li>
-<li>Timely Warning Procedures: A statement of the university&#8217;s timely warning procedures, including:
+<li>Timely Warning Procedures: A statement of the university&#8217;s Timely Warning procedures, including:
 <ol style="list-style-type: upper-alpha;">
 <li>The circumstances for which a warning is issued;</li>
 <li>The individual or office responsible for issuing the warning; and</li>
@@ -843,7 +843,7 @@
 <li>Advise students that unless a local law enforcement agency was the entity that made the determination that a student is missing, the university notifies the local law enforcement agency within 24 hours of the determination that the student is missing.</li>
 </ol>
 </li>
-<li>Crime Statistics: Each Annual Security and Fire Safety Report includes crime statistics for the most recent calendar year and the two immediately preceding calendar years.<br/><br/>The university must report statistics for which data are available concerning&#160;the occurrence on Campus, in dormitories or other residential facilities for students on campus, in or on Non-Campus Buildings or Property, and on Public Property of the following criminal offenses reported to University Police, Campus Security Authorities or relevant local police agencies:
+<li>Crime Statistics: Each Annual Security and Fire Safety Report includes crime statistics for the most recent calendar year and the two immediately preceding calendar years.<br/><br/>The university must report statistics for which data are available concerning&#160;the occurrence on Campus, in dormitories or other residential facilities for students on Campus, in or on Non-Campus Buildings or Property, and on Public Property of the following criminal offenses reported to University Police, Campus Security Authorities or relevant local police agencies:
 <ol style="list-style-type: upper-alpha;">
 <li>Criminal homicide: murder, non-negligent and negligent manslaughter;</li>
 <li>Sex offenses;</li>
@@ -860,7 +860,7 @@
 <li>The crimes (a) through (g) above, in which the evidence suggests the victim was intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity, disability, gender identity or national origin of the victim that was reported to University Police or local police agencies;&#160;&#160;&#160;</li>
 <li>The crimes of larceny-theft, simple assault, intimidation and destruction/damage/vandalism of property in which the evidence suggests the victim was intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity, disability, gender identity or national origin of the victim; and&#160;&#160;&#160;</li>
 <li>Crimes involving bodily injury to any person in which the evidence suggests the victim was intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity, disability, gender identity or national origin of the victim.</li>
-<li>The crimes described in paragraphs (L), (M) and (N) above are reported by category of prejudice.</li>
+<li>The crimes described in paragraphs (M), (N) and (O) above are reported by category of prejudice.</li>
 <li>The statistics in this section are reported according to the location of the crime as follows:</li>
 <li>On Campus,</li>
 <li>In or on a Non-Campus Building or Property,</li>
@@ -896,13 +896,13 @@
 </li>
 </ol>
 <p><strong><a id="II"></a>II. Timely Warning to the Campus Community<br/></strong></p>
-<p>To enhance the safety of the Campus community, the Chiefs of Police, or their designees, issue timely warnings to the Campus community regarding crimes that are:&#160;&#160;&#160;&#160;</p>
+<p>To enhance the safety of the Campus community, the Chiefs of Police, or their designees, issue Timely Warnings to the Campus community regarding crimes that are:&#160;&#160;&#160;&#160;</p>
 <ol>
 <li>Listed under item 14 in the section on Contents of Annual Reports;</li>
 <li>Reported to University Police, a Campus Security Authority or relevant local police agencies; and</li>
 <li>Considered by the Campus&#8217;s Chief of Police, or designee, to be a threat to students and employees.</li>
 </ol>
-<p>The decision whether to issue a timely warning to the Campus community must be based upon the facts surrounding the crime including, but not limited to, the nature of the crime, the continuing danger to the Campus community, the possible risk of compromising law enforcement efforts and the Clery Act reportable geography. Timely warnings are issued through a variety of methods determined on a case-by-case basis, which include:&#160;&#160;&#160;&#160;</p>
+<p>The decision whether to issue a Timely Warning to the Campus community must be based upon the facts surrounding the crime including, but not limited to, the nature of the crime, the continuing danger to the Campus community, the possible risk of compromising law enforcement efforts and the Clery Act reportable geography. Timely Warnings are issued through a variety of methods determined on a case-by-case basis, which include:&#160;&#160;&#160;&#160;</p>
 <ol>
 <li>All hazards outdoor sirens,</li>
 <li>Fire alarms,</li>
@@ -911,14 +911,14 @@
 <li>Desktop pop-up alerts,</li>
 <li>Alert beacons,</li>
 <li>Email with a university domain,</li>
-<li>Digital signs</li>
-<li>Purdue Campus website home page</li>
+<li>Digital signs,</li>
+<li>Purdue Campus website home page,</li>
 <li>Purdue Campus status page,</li>
 <li><em>Purdue Today </em>publication,</li>
 <li>Boiler TV Emergency Alert System, and/or</li>
-<li>Local media</li>
+<li>Local media.</li>
 </ol>
-<p>If there is an immediate threat to the health or safety of students or employees occurring on Campus, the university follows its emergency notification procedures. If&#160;emergency notification procedures are executed, a timely warning is not required based on the same circumstances; however, adequate follow-up information is provided to the Campus community as needed.</p>
+<p>If there is an immediate threat to the health or safety of students or employees occurring on Campus, the university follows its emergency notification procedures. If&#160;emergency notification procedures are executed, a Timely Warning is not required based on the same circumstances; however, adequate follow-up information is provided to the Campus community as needed.</p>
 <p><strong><a id="III"></a>III. Daily Crime Log&#160; <br/></strong></p>
 <p>University Police create, maintain and preserve a daily log, written in a form that can be easily understood, that records any crime or alleged crime that occurred within the Clery Act reportable geography or the University Police Department&#8217;s patrol jurisdiction. The log includes the following information:</p>
 <ol>
@@ -926,7 +926,7 @@
 <li>The case report number,</li>
 <li>The date and time the crime was to have occurred,</li>
 <li>The date and time the crime was reported,</li>
-<li>The general location of each crime or alleged crime and</li>
+<li>The general location of each crime or alleged crime, and</li>
 <li>The disposition of the complaint, if known.</li>
 </ol>
 <p>The daily crime log is required to include all reported crimes, additions and changes in disposition within 60 days of the original report and to be posted within two business days of the University Police receiving the report.</p>
@@ -952,20 +952,20 @@
 <h3><strong><a id="V"></a>V. Daily Fire Log&#160;&#160;&#160;&#160;&#160;</strong></h3>
 <p>The Purdue Fire Department (West Lafayette) and the Chiefs of Police (Regional Campuses) make, keep and maintain a daily fire log, written in a form that can be easily understood, recording all fires that occurred in a Campus student housing facility. The log must include the nature, date reported, date and time of the fire, and general location of each fire.</p>
 <p>Fires are recorded in the daily fire log within two business days of the report of the fire to the Purdue Fire Department (West Lafayette) or University Police department (Regional Campuses), and any new information about a log entry is recorded within two business days after the information becomes available to the Purdue Fire Department (West Lafayette) or the University Police&#160;Department (Regional Campuses).<br/>Daily fire log entries for the most recent 60-day period must be available for public inspection during normal business hours. Logs older than 60 days must be made available within two business days of a request for public inspection.</p>
-<p>Indianapolis campus and Separate Campuses with on-Campus student housing: The West Lafayette Campus Fire Chief, or their designee, makes, keeps and maintains a daily fire log, written in a form that can be easily understood, recording all fires that occur in the student housing facility of the Campus. The daily fire log must include the nature of the fire, date reported, date and time of the fire, and general location of each fire. The Fire log is maintained in a published location on each Campus and made available upon request.</p>
+<p>Indianapolis Campus and Separate Campuses with on-Campus student housing: The West Lafayette Campus Fire Chief, or their designee, makes, keeps and maintains a daily fire log, written in a form that can be easily understood, recording all fires that occur in the student housing facility of the Campus. The daily fire log must include the nature of the fire, date reported, date and time of the fire, and general location of each fire. The Fire log is maintained in a published location on each Campus and made available upon request.</p>
 <h3><strong><a id="VI"></a>VI. Annual Report to the Department of Education</strong></h3>
 <p>The Chiefs of Police, or their designees, submit the Annual Security Report and, as applicable, Annual Fire Safety Report for the crime statistics listed under item 14 of the Contents of Annual Reports section and the fire statistics listed under item 17 of the same section for their respective Campuses to the U.S. Secretary of Education.</p>
 <h3><strong><a id="VII"></a>VII. Questions</strong></h3>
 <p>Questions regarding these procedures may be directed to the Senior Clery Compliance Administrator.</p>
 <h3><strong><a id="VIII"></a>VIII. History and Updates</strong></h3>
-<p>May 1, 2025: Procedure updated to include Stop Campus Hazing Act and the Indianapolis campus.</p>
+<p>May 1, 2025: Procedure updated to include Stop Campus Hazing Act and the Indianapolis Campus.</p>
 <p>September 1, 2024: Procedures updated throughout to align with changes in regulations.</p>
 <div class="diff-row_blockEnd__qqRFv" id="text-diff-output-xgdmffw-text-diff-line-221">
 <div class="diff-row_container__M0Hd1 diff-row_start__phKAH diff-row_end__yuk6z">
 <div class="diff-row_row__4lLb4">
 <div class="diff-line-side side-right diff-row_innerContent___0Ohp diff-row_side__BgANW">
 <div class="diff-row_sideInner__NFqIo">
-<p class="diff-row-content_content__KNwGC diff-row-content_inserted__Beonj diff-row-content_start__yH8GM diff-row-content_end__2Rfrq">January 29, 2015: These Operating Procedures were revised and separated from the related policy on Campus Security and Crime Statistics (IV.A.2). Revisions include the expansion of section I.C.8 to include information about dating violence, domestic violence, stalking and related programs and procedures, as well as information on timely warning procedures.</p>
+<p class="diff-row-content_content__KNwGC diff-row-content_inserted__Beonj diff-row-content_start__yH8GM diff-row-content_end__2Rfrq">January 29, 2015: These Operating Procedures were revised and separated from the related policy on Campus Security and Crime Statistics (IV.A.2). Revisions include the expansion of section I.C.8 to include information about dating violence, domestic violence, stalking and related programs and procedures, as well as information on Timely Warning procedures.</p>
 </div>
 </div>
 </div>
@@ -1459,7 +1459,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>April 28, 2025</span></em></p>
+        <p><em>Last modified: <span>April 29, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
