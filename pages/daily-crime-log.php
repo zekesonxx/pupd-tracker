@@ -672,7 +672,74 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, May 1, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="213">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="150">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Harassment</td>
+<td style="font-weight: 400;" width="150">2025PU00642</td>
+<td style="font-weight: 400;" width="149">4/20/25 6:15 PM</td>
+<td style="font-weight: 400;" width="149">4/30/25 2:47 PM</td>
+<td style="font-weight: 400;" width="193">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="186">Closed</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00643</td>
+<td style="font-weight: 400;" width="149">4/26/25 6:00 PM</td>
+<td style="font-weight: 400;" width="149">4/30/25 3:03 PM</td>
+<td style="font-weight: 400;" width="193">Wiley Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Drug Law Violation</td>
+<td style="font-weight: 400;" width="150">2025PU00645</td>
+<td style="font-weight: 400;" width="149">4/30/25 5:41 PM</td>
+<td style="font-weight: 400;" width="149">4/30/25 6:03 PM</td>
+<td style="font-weight: 400;" width="193">Wiley Hall</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Driving While Suspended</td>
+<td style="font-weight: 400;" width="150">2025PU00646</td>
+<td style="font-weight: 400;" width="149">4/30/25 6:56 PM</td>
+<td style="font-weight: 400;" width="149">4/30/25 7:09 PM</td>
+<td style="font-weight: 400;" width="193">Mitch Daniels Blvd/ Grant St</td>
+<td style="font-weight: 400;" width="186">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Theft</td>
+<td style="font-weight: 400;" width="150">2025PU00647</td>
+<td style="font-weight: 400;" width="149">4/30/25 11:30 AM</td>
+<td style="font-weight: 400;" width="149">4/30/25 10:08 PM</td>
+<td style="font-weight: 400;" width="193">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Sexual Assault</td>
+<td style="font-weight: 400;" width="150">CAD# 2025-062667</td>
+<td style="font-weight: 400;" width="149">4/24/25 3:43 PM</td>
+<td style="font-weight: 400;" width="149">4/24/25 3:43 PM</td>
+<td style="font-weight: 400;" width="193">100 Blk Littleton St</td>
+<td style="font-weight: 400;" width="186">Documented in 2025WL00941</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Hazing</td>
+<td style="font-weight: 400;" width="150">Unknown</td>
+<td style="font-weight: 400;" width="149">4/28/25 12:00 PM</td>
+<td style="font-weight: 400;" width="149">4/30/25 9:30 AM</td>
+<td style="font-weight: 400;" width="193">Memorial Mall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -711,7 +778,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="149">4/28/25 1:30 PM</td>
 <td style="font-weight: 400;" width="149">4/29/25 3:59 PM</td>
 <td style="font-weight: 400;" width="193">Purdue Memorial Union</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
+<td style="font-weight: 400;" width="186">Unfounded</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="213">Theft-EMPV</td>
@@ -1487,7 +1554,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>April 30, 2025</span></em></p>
+        <p><em>Last modified: <span>May 1, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
