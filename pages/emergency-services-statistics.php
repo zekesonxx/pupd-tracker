@@ -590,453 +590,453 @@
     	<section class="content__group">
   					<table width="100%">
 <tbody>
-<tr>
-<th scope="col" style="text-align: left;" width="237">
+<tr style="height: 62px;">
+<th scope="col" style="text-align: left; height: 62px;" width="237">
 <h2>Emergency Services Statistics</h2>
 </th>
-<th scope="col" style="text-align: left;" width="53">
-<h2>2021</h2>
-</th>
-<th scope="col" style="text-align: left;" width="53">
+<th scope="col" style="text-align: left; height: 62px;" width="53">
 <h2>2022</h2>
 </th>
-<th scope="col" style="text-align: left;" width="53">
+<th scope="col" style="text-align: left; height: 62px;" width="53">
 <h2>2023</h2>
 </th>
+<th scope="col" style="text-align: left; height: 62px;" width="53">
+<h2>2024</h2>
+</th>
 </tr>
-<tr>
-<td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">EMS Calls for Service</td>
+<td style="height: 2.36667px;">1519</td>
+<td style="height: 2.36667px;">1437</td>
+<td style="height: 2.36667px;">1396</td>
+</tr>
+<tr style="height: 54px;">
+<td style="height: 54px;">
 <h3>Fires</h3>
 </td>
-<td>&#160;</td>
-<td>&#160;</td>
-<td>&#160;</td>
+<td style="height: 54px;">&#160;</td>
+<td style="height: 54px;">&#160;</td>
+<td style="height: 54px;">&#160;</td>
 </tr>
-<tr>
-<td width="237">Fire Other&#160;</td>
-<td>1</td>
-<td>4</td>
-<td>6</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Fire Other&#160;</td>
+<td style="height: 18px;">4</td>
+<td style="height: 18px;">6</td>
+<td style="height: 18px;">6</td>
 </tr>
-<tr>
-<td width="237">Structure Fire&#160;</td>
-<td>20</td>
-<td>9</td>
-<td>17</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Structure Fire&#160;</td>
+<td style="height: 18px;">9</td>
+<td style="height: 18px;">17</td>
+<td style="height: 18px;">27</td>
 </tr>
-<tr>
-<td width="237">Fire In Mobile Property Used As A Fixed Structure&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Fire In Mobile Property Used as a Fixed Structure&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">Mobile Property (Vehicle) Fire&#160;</td>
-<td>2</td>
-<td>1</td>
-<td>3</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Mobile Property (Vehicle) Fire&#160;</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">1</td>
 </tr>
-<tr>
-<td width="237">Natural Vegetation Fire&#160;</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Natural Vegetation Fire&#160;</td>
+<td style="height: 18px;">2</td>
+<td style="height: 18px;">2</td>
+<td style="height: 18px;">4</td>
 </tr>
-<tr>
-<td width="237">Outside Rubbish Fire&#160;</td>
-<td>0</td>
-<td>3</td>
-<td>3</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Outside Rubbish Fire&#160;</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">7</td>
 </tr>
-<tr>
-<td width="237">Special Outside Fire&#160;</td>
-<td>3</td>
-<td>2</td>
-<td>3</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Special Outside Fire&#160;</td>
+<td style="height: 18px;">2</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">1</td>
 </tr>
-<tr>
-<td width="237">Cultivated Vegetation, Crop Fire&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Cultivated Vegetation, Crop Fire&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">
+<tr style="height: 54px;">
+<td style="height: 54px;" width="237">
 <h3>Overpressure Rupture, Explosion, Overheat&#160;&#160;</h3>
 </td>
-<td width="53">&#160;</td>
-<td width="53">&#160;</td>
-<td width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
 </tr>
-<tr>
-<td width="237">Overpressure Rupture, Explosion, Overheat &#8211; Other&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Overpressure Rupture, Explosion, Overheat &#8211; Other&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">2</td>
 </tr>
-<tr>
-<td width="237">Overpressure Rupture From Steam (no Ensuing Fire)&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Overpressure Rupture From Steam (No Ensuing Fire)&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">1</td>
 </tr>
-<tr>
-<td width="237">Overpressure Rupture From Air or Gas &#8211; No Fire&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Overpressure Rupture From Air or Gas &#8211; No Fire&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">1</td>
 </tr>
-<tr>
-<td width="237">Overpressure Rupture, Chemical Reaction &#8211; No Fire&#160;</td>
-<td>0</td>
-<td>3</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Overpressure Rupture, Chemical Reaction &#8211; No Fire&#160;</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">Explosion &#8211; No Fire&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Explosion &#8211; No Fire&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">1</td>
 </tr>
-<tr>
-<td width="237">Excessive Heat, Scorch Burns With No Ignition&#160;</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Excessive Heat, Scorch Burns with No Ignition&#160;</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">2</td>
 </tr>
-<tr>
-<td width="237">
-<h3>Rescue &amp; EMS</h3>
+<tr style="height: 54px;">
+<td style="height: 54px;" width="237">
+<h3>Rescue and EMS</h3>
 </td>
-<td width="53">&#160;</td>
-<td width="53">&#160;</td>
-<td width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
 </tr>
-<tr>
-<td width="237">Rescue, Emergency Medical Call (EMS) &#8211; Other</td>
-<td>8</td>
-<td>12</td>
-<td>8</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Rescue, Emergency Medical Call (EMS) &#8211; Other</td>
+<td style="height: 18px;">12</td>
+<td style="height: 18px;">8</td>
+<td style="height: 18px;">10</td>
 </tr>
-<tr>
-<td width="237">EMS Response</td>
-<td>1603</td>
-<td>1519</td>
-<td>1437</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Assist EMS</td>
+<td style="height: 18px;">142</td>
+<td style="height: 18px;">282</td>
+<td style="height: 18px;">296</td>
 </tr>
-<tr>
-<td width="237">Assist EMS</td>
-<td>113</td>
-<td>142</td>
-<td>282</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Emergency Medical Service (EMS) Incident</td>
+<td style="height: 18px;">38</td>
+<td style="height: 18px;">45</td>
+<td style="height: 18px;">35</td>
 </tr>
-<tr>
-<td width="237">Emergency Medical Service (EMS) Incident</td>
-<td>35</td>
-<td>38</td>
-<td>45</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Lock-in Group</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">Lock-in Group</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Search for Lost Person&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">Search For Lost Person&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Extrication, Rescue&#160;</td>
+<td style="height: 18px;">89</td>
+<td style="height: 18px;">81</td>
+<td style="height: 18px;">74</td>
 </tr>
-<tr>
-<td width="237">Extrication, Rescue&#160;</td>
-<td>69</td>
-<td>89</td>
-<td>81</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Water or Ice-Related Rescue&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">Water or Ice-related Rescue&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Electrical Rescue&#160;</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">Electrical Rescue&#160;</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Rescue or EMS Standby&#160;</td>
+<td style="height: 18px;">26</td>
+<td style="height: 18px;">60</td>
+<td style="height: 18px;">87</td>
 </tr>
-<tr>
-<td width="237">Rescue or EMS Standby&#160;</td>
-<td>31</td>
-<td>26</td>
-<td>60</td>
-</tr>
-<tr>
-<td width="237">
+<tr style="height: 54px;">
+<td style="height: 54px;" width="237">
 <h3>Hazardous Condition</h3>
 </td>
-<td width="53">&#160;</td>
-<td width="53">&#160;</td>
-<td width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
 </tr>
-<tr>
-<td width="237">Flammable Gas or Liquid Condition &#8211;&#160;&#160;</td>
-<td>3</td>
-<td>3</td>
-<td>2</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Flammable Gas or Liquid Condition&#160;</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">2</td>
+<td style="height: 18px;">2</td>
 </tr>
-<tr>
-<td width="237">Combustible/Flammable Spills &amp; Leaks&#160;</td>
-<td>37</td>
-<td>49</td>
-<td>46</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Combustible/Flammable Spills and Leaks&#160;</td>
+<td style="height: 18px;">49</td>
+<td style="height: 18px;">46</td>
+<td style="height: 18px;">55</td>
 </tr>
-<tr>
-<td width="237">Chemical Release, Reaction, or Toxic Condition&#160;</td>
-<td>10</td>
-<td>8</td>
-<td>8</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Chemical Release, Reaction, Toxic Condition&#160;</td>
+<td style="height: 18px;">8</td>
+<td style="height: 18px;">8</td>
+<td style="height: 18px;">16</td>
 </tr>
-<tr>
-<td width="237">Radioactive Condition&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Radioactive Condition&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">1</td>
 </tr>
-<tr>
-<td width="237">Electrical Wiring/Equipment Problem&#160;</td>
-<td>8</td>
-<td>14</td>
-<td>14</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Electrical Wiring/Equipment Problem&#160;</td>
+<td style="height: 18px;">14</td>
+<td style="height: 18px;">14</td>
+<td style="height: 18px;">9</td>
 </tr>
-<tr>
-<td width="237">Biological Hazard&#160;</td>
-<td>0</td>
-<td>2</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Biological Hazard&#160;</td>
+<td style="height: 18px;">2</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">Accident, Potential Accident&#160;</td>
-<td>117</td>
-<td>127</td>
-<td>106</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Accident, Potential Accident&#160;</td>
+<td style="height: 18px;">127</td>
+<td style="height: 18px;">106</td>
+<td style="height: 18px;">96</td>
 </tr>
-<tr>
-<td width="237">Explosive, Bomb Removal&#160;</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Explosive, Bomb Removal&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">Attempted Burning, Illegal Action&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Attempted Burning, Illegal Action&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">
+<tr style="height: 54px;">
+<td style="height: 54px;" width="237">
 <h3>Service Calls</h3>
 </td>
-<td width="53">&#160;</td>
-<td width="53">&#160;</td>
-<td width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
 </tr>
-<tr>
-<td width="237">Service Call &#8211; Other&#160;</td>
-<td>7</td>
-<td>21</td>
-<td>33</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Service Call &#8211; Other&#160;</td>
+<td style="height: 18px;">21</td>
+<td style="height: 18px;">33</td>
+<td style="height: 18px;">40</td>
 </tr>
-<tr>
-<td width="237">Person In Distress&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Person In Distress&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">1</td>
 </tr>
-<tr>
-<td width="237">Water Problem&#160;</td>
-<td>82</td>
-<td>126</td>
-<td>92</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Water Problem&#160;</td>
+<td style="height: 18px;">126</td>
+<td style="height: 18px;">92</td>
+<td style="height: 18px;">93</td>
 </tr>
-<tr>
-<td width="237">Animal Problem or Rescue&#160;</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Animal Problem or Rescue&#160;</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">2</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">Public Service Assistance&#160;</td>
-<td>259</td>
-<td>194</td>
-<td>220</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Public Service Assistance&#160;</td>
+<td style="height: 18px;">194</td>
+<td style="height: 18px;">220</td>
+<td style="height: 18px;">225</td>
 </tr>
-<tr>
-<td width="237">Unauthorized Burning&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Unauthorized Burning&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">Cover Assignment, Standby At Fire Station, Move-up&#160;</td>
-<td>15</td>
-<td>5</td>
-<td>15</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Cover Assignment, Standby At Fire Station, Move-up&#160;</td>
+<td style="height: 18px;">5</td>
+<td style="height: 18px;">15</td>
+<td style="height: 18px;">20</td>
 </tr>
-<tr>
-<td width="237">Other-Uncategorized</td>
-<td>20</td>
-<td>13</td>
-<td>6</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Other &#8211; Uncategorized</td>
+<td style="height: 18px;">13</td>
+<td style="height: 18px;">6</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">
-<h3>Canceled/ Good Intent</h3>
+<tr style="height: 54px;">
+<td style="height: 54px;" width="237">
+<h3>Canceled/Good Intent</h3>
 </td>
-<td width="53">&#160;</td>
-<td width="53">&#160;</td>
-<td width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
 </tr>
-<tr>
-<td width="237">Good Intent Call &#8211; Other&#160;</td>
-<td>0</td>
-<td>1</td>
-<td>3</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Good Intent Call &#8211; Other&#160;</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">3</td>
 </tr>
-<tr>
-<td width="237">Dispatched And Cancelled En Route&#160;</td>
-<td>14</td>
-<td>6</td>
-<td>26</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Dispatched and Cancelled En Route&#160;</td>
+<td style="height: 18px;">6</td>
+<td style="height: 18px;">26</td>
+<td style="height: 18px;">22</td>
 </tr>
-<tr>
-<td width="237">Wrong Location, No Emergency Found&#160;</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Wrong Location, No Emergency Found&#160;</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">Controlled Burning&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Controlled Burning&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">1</td>
 </tr>
-<tr>
-<td width="237">Vicinity Alarm&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Vicinity Alarm&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">Steam &#8211; Other Gas Mistaken For Smoke&#160;</td>
-<td>17</td>
-<td>22</td>
-<td>45</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Steam &#8211; Other Gas Mistaken for Smoke&#160;</td>
+<td style="height: 18px;">22</td>
+<td style="height: 18px;">45</td>
+<td style="height: 18px;">29</td>
 </tr>
-<tr>
-<td width="237">EMS Call Where Party Has Been Transported&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>3</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">EMS Call Where Party Has Been Transported&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">3</td>
 </tr>
-<tr>
-<td width="237">Hazmat Release Investigation W/No Hazmat&#160;</td>
-<td>11</td>
-<td>8</td>
-<td>6</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Hazmat Release Investigation with No Hazmat&#160;</td>
+<td style="height: 18px;">8</td>
+<td style="height: 18px;">6</td>
+<td style="height: 18px;">6</td>
 </tr>
-<tr>
-<td width="237">
+<tr style="height: 54px;">
+<td style="height: 54px;" width="237">
 <h3>False Alarm/ False Call</h3>
 </td>
-<td width="53">&#160;</td>
-<td width="53">&#160;</td>
-<td width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
 </tr>
-<tr>
-<td width="237">False Alarm And False Call &#8211; Other&#160;</td>
-<td>6</td>
-<td>6</td>
-<td>13</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">False Alarm And False Call &#8211; Other&#160;</td>
+<td style="height: 18px;">6</td>
+<td style="height: 18px;">13</td>
+<td style="height: 18px;">15</td>
 </tr>
-<tr>
-<td width="237">Malicious, Mischievous False Alarm&#160;</td>
-<td>4</td>
-<td>10</td>
-<td>18</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Malicious, Mischievous False Alarm&#160;</td>
+<td style="height: 18px;">10</td>
+<td style="height: 18px;">18</td>
+<td style="height: 18px;">10</td>
 </tr>
-<tr>
-<td width="237">Bomb Scare&#160;</td>
-<td>0</td>
-<td>3</td>
-<td>1</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Bomb Scare&#160;</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">System or Detector Malfunction&#160;</td>
-<td>244</td>
-<td>241</td>
-<td>232</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">System or Detector Malfunction&#160;</td>
+<td style="height: 18px;">241</td>
+<td style="height: 18px;">232</td>
+<td style="height: 18px;">279</td>
 </tr>
-<tr>
-<td width="237">Unintentional System/Detector Operation &#8211; No Fire</td>
-<td>125</td>
-<td>156</td>
-<td>163</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Unintentional System/Detector Operation &#8211; No Fire</td>
+<td style="height: 18px;">156</td>
+<td style="height: 18px;">163</td>
+<td style="height: 18px;">193</td>
 </tr>
-<tr>
-<td width="237">Biohazard Scare&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Biohazard Scare&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
 </tr>
-<tr>
-<td width="237">
+<tr style="height: 54px;">
+<td style="height: 54px;" width="237">
 <h3>Severe Weather&#160;&#160;</h3>
 </td>
-<td width="53">&#160;</td>
-<td width="53">&#160;</td>
-<td width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
 </tr>
-<tr>
-<td width="237">Severe Weather &amp; Natural Disaster&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Severe Weather, Natural Disaster&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">1</td>
 </tr>
-<tr>
-<td width="237">
+<tr style="height: 54px;">
+<td style="height: 54px;" width="237">
 <h3>Special Incident&#160;</h3>
 </td>
-<td width="53">&#160;</td>
-<td width="53">&#160;</td>
-<td width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
+<td style="height: 54px;" width="53">&#160;</td>
 </tr>
-<tr>
-<td width="237">Special Type Of Incident&#160;</td>
-<td>2</td>
-<td>0</td>
-<td>2</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Special Type of Incident&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">2</td>
+<td style="height: 18px;">6</td>
 </tr>
-<tr>
-<td width="237">Citizen Complaint&#160;</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<tr style="height: 18px;">
+<td style="height: 18px;" width="237">Citizen Complaint&#160;</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">0</td>
+<td style="height: 18px;">1</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<tr style="height: 10px;">
+<td style="height: 10px;"></td>
+<td style="height: 10px;"></td>
+<td style="height: 10px;"></td>
+<td style="height: 10px;"></td>
 </tr>
-<tr>
-<td>
+<tr style="height: 54px;">
+<td style="height: 54px;">
 <h3>Total Calls for Service</h3>
 </td>
-<td><strong>2872</strong></td>
-<td><strong>2870</strong></td>
-<td><strong>3008</strong></td>
+<td style="height: 54px;"><strong>2870</strong></td>
+<td style="height: 54px;"><strong>3008</strong></td>
+<td style="height: 54px;"><strong>3075</strong></td>
 </tr>
 </tbody>
 </table>
@@ -1525,10 +1525,12 @@
             
     
 
+
 <section class="footer__contact">
     <article class="footer__contact--list">
+        <p><em>Last modified: <span>May 6, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
-		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2024 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:fire@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Fire Department</a></p>
+		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:fire@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Fire Department</a></p>
         
                                  
         
@@ -1539,13 +1541,15 @@
         
             
                      <p>Contact <a href="../contact/index.php">Purdue University Fire Department</a> for accessibility issues with this page | <a href="https://www.purdue.edu/disabilityresources/">Accessibility Resources</a> | <a href="../contact/index.php">Contact Us</a> | <a href="https://collegescorecard.ed.gov/school/fields/?243780-Purdue-University-Main-Campus" target="_blank">DOE Degree Scorecards</a></p>
-    </article>
+            </article>
 </section>
 
 
 		</footer>
 		
-		<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
+		<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/all.js"></script>
+<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/v4-shims.js"></script>
+<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
 		
 
             
