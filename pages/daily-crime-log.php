@@ -672,14 +672,92 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, May 8, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="213">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="173">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Fraud</td>
+<td style="font-weight: 400;" width="173">2025PU00688</td>
+<td style="font-weight: 400;" width="149">5/7/25 2:13 PM</td>
+<td style="font-weight: 400;" width="149">5/7/25 2:23 PM</td>
+<td style="font-weight: 400;" width="193">Wiley Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Criminal Mischief/ False Informing</td>
+<td style="font-weight: 400;" width="173">2025PU00691</td>
+<td style="font-weight: 400;" width="149">5/8/25 1:04 AM</td>
+<td style="font-weight: 400;" width="149">5/8/25 2:58 AM</td>
+<td style="font-weight: 400;" width="193">Meredith Hall</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Drug Law Violation</td>
+<td style="font-weight: 400;" width="173">CAD# 2025-070194</td>
+<td style="font-weight: 400;" width="149">5/7/25 2:54 PM</td>
+<td style="font-weight: 400;" width="149">5/7/25 2:54 PM</td>
+<td style="font-weight: 400;" width="193">Wabash Landing</td>
+<td style="font-weight: 400;" width="186">Documented 2025WL01058</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
   					<h3>Wednesday, May 7, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="213">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="173">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="213">Theft-Bike</td>
+<td width="173">2025PU00678</td>
+<td width="149">4/25/25 10:30 AM</td>
+<td width="149">5/12/25 12:47 AM</td>
+<td width="193">Elliott Hall</td>
+<td width="186">Under Investigation</td>
+</tr>
+<tr>
+<td width="213">Theft</td>
+<td width="173">2025PU00679</td>
+<td width="149">5/5/25 5:18 PM</td>
+<td width="149">5/6/25 3:28 PM</td>
+<td width="193">Meredith Hall</td>
+<td width="186">Under Investigation</td>
+</tr>
+<tr>
+<td>Theft</td>
+<td>2025PU00683</td>
+<td>5/6/25 7:00 PM</td>
+<td>5/6/25 9:08 PM</td>
+<td>CoRec</td>
+<td>Under Investigation</td>
+</tr>
+<tr>
+<td>Drug Law Violation</td>
+<td>2025PU00684</td>
+<td>5/7/25 12:03 AM</td>
+<td>5/7/25 12:41 AM</td>
+<td>Horticulture Park</td>
+<td>Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -710,7 +788,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="149">2024 Unknown Date</td>
 <td style="font-weight: 400;" width="149">5/5/25 3:39 PM</td>
 <td style="font-weight: 400;" width="193">Purdue Graduate Student Center</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
+<td style="font-weight: 400;" width="186">Unfounded</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="213">Theft</td>
@@ -1468,7 +1546,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>May 6, 2025</span></em></p>
+        <p><em>Last modified: <span>May 8, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
