@@ -672,7 +672,98 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, May 22, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="213">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="173">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="193">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Theft</td>
+<td style="font-weight: 400;" width="173">2025PU00752</td>
+<td style="font-weight: 400;" width="149">5/19/25 6:00 PM</td>
+<td style="font-weight: 400;" width="149">5/21/25 11:49 AM</td>
+<td style="font-weight: 400;" width="193">Grant Street Garage</td>
+<td style="font-weight: 400;" width="186">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Reckless Driver</td>
+<td style="font-weight: 400;" width="173">CAD# 2025-078568</td>
+<td style="font-weight: 400;" width="149">5/21/25 3:46 PM</td>
+<td style="font-weight: 400;" width="149">5/21/25 3:56 PM</td>
+<td style="font-weight: 400;" width="193">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="213">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="173">CAD# 2025-078572</td>
+<td style="font-weight: 400;" width="149">5/21/25 3:54 PM</td>
+<td style="font-weight: 400;" width="149">5/21/25 3:54 PM</td>
+<td style="font-weight: 400;" width="193">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="186">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">5 Disciplinary Referral</td>
+<td style="font-weight: 400;">5/1/25 10:30 PM</td>
+<td style="font-weight: 400;">5/1/25 10:54 PM</td>
+<td style="font-weight: 400;">Honors Residence Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">5/2/25 11:45 PM</td>
+<td style="font-weight: 400;">5/3/25 12:27 AM</td>
+<td style="font-weight: 400;">Wiley Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">5/6/25 10:15 AM</td>
+<td style="font-weight: 400;">5/6/25 10:42 AM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">5/11/25 9:15 AM</td>
+<td style="font-weight: 400;">5/11/25 10:23 AM</td>
+<td style="font-weight: 400;">Frieda Parker Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">5/11/25 2:00 PM</td>
+<td style="font-weight: 400;">5/11/25 2:32 PM</td>
+<td style="font-weight: 400;">333 Grant Street Apts</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">5/11/25 2:45 PM</td>
+<td style="font-weight: 400;">5/11/25 3:14 PM</td>
+<td style="font-weight: 400;">Aspire Apts</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">3 Disciplinary Referral</td>
+<td style="font-weight: 400;">5/11/25 3:30 PM</td>
+<td style="font-weight: 400;">5/11/25 3:49 PM</td>
+<td style="font-weight: 400;">HUB Apts</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -737,7 +828,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="149">5/19/25 12:00 PM</td>
 <td style="font-weight: 400;" width="149">5/19/25 2:57 PM</td>
 <td style="font-weight: 400;" width="193">500 Blk W Williams St</td>
-<td style="font-weight: 400;" width="186">Under Investigation</td>
+<td style="font-weight: 400;" width="186">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="213">Resisting Law Enforcement</td>
@@ -1311,7 +1402,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>May 21, 2025</span></em></p>
+        <p><em>Last modified: <span>May 22, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
