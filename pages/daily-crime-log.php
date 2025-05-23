@@ -693,7 +693,7 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, May 26, 2025</h3>
-Will be posted soon.
+Memorial Day.
 		</section>
 	
           <div class="clearfix"></div>
