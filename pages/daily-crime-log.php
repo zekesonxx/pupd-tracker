@@ -679,7 +679,34 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, May 28, 2025</h3>
-Nothing to report.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="147">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="186">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="169">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="147">CAD# 2025-079719</td>
+<td width="149">5/23/25 9:13 PM</td>
+<td width="149">5/23/25 9:13 PM</td>
+<td width="186">Grant St Parking Garage</td>
+<td width="169">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="147">CAD# 2025-080309</td>
+<td width="149">5/25/25 12:07 AM</td>
+<td width="149">5/25/25 12:07 AM</td>
+<td width="186">Wood St Parking Garage</td>
+<td width="169">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
