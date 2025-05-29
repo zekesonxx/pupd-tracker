@@ -808,6 +808,11 @@
 <td width="76">9/18/25</td>
 </tr>
 <tr>
+<td width="204">Crone, Jesse</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">5/29/30</td>
+</tr>
+<tr>
 <td width="204">C., J. (Juvenile)</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">11/7/26</td>
