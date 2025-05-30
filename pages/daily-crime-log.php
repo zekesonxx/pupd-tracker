@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			052625 WL Daily Crime Log - 
+			060225 WL Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -664,109 +664,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, May 30, 2025</h3>
+  					<h3>Friday, June 6, 2025</h3>
 Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, May 29, 2025</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="147">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="169">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Traffic Violation</td>
-<td style="font-weight: 400;" width="147">2025PU00772</td>
-<td style="font-weight: 400;" width="149">5/28/25 10:08 PM</td>
-<td style="font-weight: 400;" width="149">5/28/25 10:22 PM</td>
-<td style="font-weight: 400;" width="186">US 231/ W State St</td>
-<td style="font-weight: 400;" width="169">Arrest Made</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, June 5, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, May 28, 2025</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="147">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="186">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="169">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="171">Reckless Driver</td>
-<td width="147">CAD# 2025-079719</td>
-<td width="149">5/23/25 9:13 PM</td>
-<td width="149">5/23/25 9:13 PM</td>
-<td width="186">Grant St Parking Garage</td>
-<td width="169">Nothing Further</td>
-</tr>
-<tr>
-<td width="171">Reckless Driver</td>
-<td width="147">CAD# 2025-080309</td>
-<td width="149">5/25/25 12:07 AM</td>
-<td width="149">5/25/25 12:07 AM</td>
-<td width="186">Wood St Parking Garage</td>
-<td width="169">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, June 4, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday, May 27, 2025</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="213">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="173">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="232">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="186">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="213">Resisting Law Enforcement/ Minor Consumption</td>
-<td style="font-weight: 400;" width="173">2025PU00763</td>
-<td style="font-weight: 400;" width="149">5/25/25 1:55 AM</td>
-<td style="font-weight: 400;" width="149">5/25/25 3:08 AM</td>
-<td style="font-weight: 400;" width="232">600 Blk Mitch Daniels Blvd</td>
-<td style="font-weight: 400;" width="186">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="213">Theft-EMPV</td>
-<td style="font-weight: 400;" width="173">2025PU00765</td>
-<td style="font-weight: 400;" width="149">5/26/25 4:18 PM</td>
-<td style="font-weight: 400;" width="149">5/26/25 8:53 PM</td>
-<td style="font-weight: 400;" width="232">Armstrong Hall</td>
-<td style="font-weight: 400;" width="186">Arrest Made</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday, June 3, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, May 26, 2025</h3>
-Memorial Day.
+  					<h3>Monday, June 2, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
@@ -1263,7 +1190,7 @@ Memorial Day.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>May 29, 2025</span></em></p>
+        <p><em>Last modified: <span>May 30, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
