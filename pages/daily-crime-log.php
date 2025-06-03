@@ -686,7 +686,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, June 3, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2025PU00789</td>
+<td style="font-weight: 400;" width="148">5/30/25 7:20 PM</td>
+<td style="font-weight: 400;" width="148">6/2/25 4:59 PM</td>
+<td style="font-weight: 400;" width="201">Mechanical Engineering</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2025PU00790</td>
+<td style="font-weight: 400;" width="148">6/2/25 6:45 PM</td>
+<td style="font-weight: 400;" width="148">6/2/25 8:13 PM</td>
+<td style="font-weight: 400;" width="201">CoRec</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-083360</td>
+<td style="font-weight: 400;" width="148">5/30/25 11:04 PM</td>
+<td style="font-weight: 400;" width="148">5/30/25 11:04 PM</td>
+<td style="font-weight: 400;" width="201">Airport Rd/US HWY 231 S</td>
+<td style="font-weight: 400;" width="189">Documented 2025TC01608</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-084383</td>
+<td style="font-weight: 400;" width="148">6/2/25 3:32 AM</td>
+<td style="font-weight: 400;" width="148">6/2/25 3:32 AM</td>
+<td style="font-weight: 400;" width="201">N Grant St/W State St</td>
+<td style="font-weight: 400;" width="189">Documented 2025WL01279</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">7 Disciplinary Referrals</td>
+<td style="font-weight: 400;">5/20/25 2:00 PM</td>
+<td style="font-weight: 400;">5/21/25 10:30 AM</td>
+<td style="font-weight: 400;">Aspire Apts.</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1257,7 +1308,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>June 2, 2025</span></em></p>
+        <p><em>Last modified: <span>June 3, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
