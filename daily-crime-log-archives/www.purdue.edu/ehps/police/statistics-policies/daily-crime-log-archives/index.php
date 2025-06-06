@@ -616,6 +616,7 @@
     	<section class="content__group">
   					<h2>Archived Daily Crime Log - West Lafayette</h2>
 <ul>
+<li><a href="060225-daily-crime-log.php" title="060225 Daily Crime Log">Week of June 2, 2025</a></li>
 <li><a href="052625-daily-crime-log.php" title="052625 Daily Crime Log">Week of May 26, 2025</a></li>
 <li><a href="051925-daily-crime-log.php" title="051925 Daily Crime Log">Week of May 19, 2025</a></li>
 <li><a href="051225-daily-crime-log.php" title="051225 Daily Crime Log">Week of May 12, 2025</a></li>
@@ -624,7 +625,7 @@
 <li><a href="042125-daily-crime-log.php" title="042125 Daily Crime Log">Week of April 21, 2025</a></li>
 <li><a href="041425-daily-crime-log.php" title="041425 Daily Crime Log">Week of April 14, 2025</a></li>
 <li><a href="040725-daily-crime-log.php" title="040725 WL Daily Crime Log">Week of April 7, 2025</a></li>
-<li><a href="033125-daily-crime-log.php" title="033125 Daily Crime Log">Week of March 31, 2025</a><a href="030325-daily-crime-log.php" title="030325 Daily Crime Log"></a><a href="2025-archive/020325-daily-crime-log.php" title="020325 Daily Crime Log"></a><a href="2025-archive/123024-daily-crime-log.php" title="123024 Daily Crime Log"></a><a href="2024-archive/120224-daily-crime-log.php" title="120224 Daily Crime Log"></a><a href="2024-archive/102824-daily-crime-log.php" title="102824 Daily Crime Log"></a><a href="2024-archive/093024-daily-crime-log.php" title="093024 Daily Crime Log"></a><a href="2024-archive/090224-daily-crime-log.php" title="090224 Daily Crime Log"></a><a href="2024-archive/072924-daily-crime-log.php" title="072624 WL Daily Crime Log"></a><a href="2024-archive/070124-daily-crime-log.php" title="070124 Daily Crime Log"></a><a href="2024-archive/060324-daily-crime-log.php" title="060324 Daily Crime Log"></a><a href="2024-archive/042924-daily-crime-log.php" title="042924 Daily Crime Log"></a><a href="2024-archive/040124-daily-crime-log.php" title="040124 Daily Crime Log"></a></li>
+<li><a href="033125-daily-crime-log.php" title="033125 Daily Crime Log">Week of March 31, 2025</a><a href="2025-archive/030325-daily-crime-log.php" title="030325 Daily Crime Log"></a><a href="2025-archive/020325-daily-crime-log.php" title="020325 Daily Crime Log"></a><a href="2025-archive/123024-daily-crime-log.php" title="123024 Daily Crime Log"></a><a href="2024-archive/120224-daily-crime-log.php" title="120224 Daily Crime Log"></a><a href="2024-archive/102824-daily-crime-log.php" title="102824 Daily Crime Log"></a><a href="2024-archive/093024-daily-crime-log.php" title="093024 Daily Crime Log"></a><a href="2024-archive/090224-daily-crime-log.php" title="090224 Daily Crime Log"></a><a href="2024-archive/072924-daily-crime-log.php" title="072624 WL Daily Crime Log"></a><a href="2024-archive/070124-daily-crime-log.php" title="070124 Daily Crime Log"></a><a href="2024-archive/060324-daily-crime-log.php" title="060324 Daily Crime Log"></a><a href="2024-archive/042924-daily-crime-log.php" title="042924 Daily Crime Log"></a><a href="2024-archive/040124-daily-crime-log.php" title="040124 Daily Crime Log"></a></li>
 </ul>
 		</section>
 	
@@ -1114,7 +1115,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>May 30, 2025</span></em></p>
+        <p><em>Last modified: <span>June 6, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
