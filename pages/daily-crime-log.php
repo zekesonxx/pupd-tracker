@@ -686,7 +686,66 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, June 24, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Animal Neglect</td>
+<td style="font-weight: 400;" width="172">2025PU00833</td>
+<td style="font-weight: 400;" width="148">6/23/25 10:40 AM</td>
+<td style="font-weight: 400;" width="148">6/23/25 12:16 PM</td>
+<td style="font-weight: 400;" width="201">700 Blk Ahlers Dr</td>
+<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2025PU00834</td>
+<td style="font-weight: 400;" width="148">6/22/25 1:00 PM</td>
+<td style="font-weight: 400;" width="148">6/23/25 2:47 PM</td>
+<td style="font-weight: 400;" width="201">Agronomy Farm</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="172">2025PU00836</td>
+<td style="font-weight: 400;" width="148">6/21/25 5:00 PM</td>
+<td style="font-weight: 400;" width="148">6/23/25 4:49 PM</td>
+<td style="font-weight: 400;" width="201">Hampton Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-094440</td>
+<td style="font-weight: 400;" width="148">6/20/25 9:06 PM</td>
+<td style="font-weight: 400;" width="148">6/20/25 9:06 PM</td>
+<td style="font-weight: 400;" width="201">Continuum</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating w/out Financial Responsibility</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-094538</td>
+<td style="font-weight: 400;" width="148">6/21/25 1:09 AM</td>
+<td style="font-weight: 400;" width="148">6/21/25 1:09 AM</td>
+<td style="font-weight: 400;" width="201">S River Rd/US HWY 231 S</td>
+<td style="font-weight: 400;" width="189">Documented 2025WL01453</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-095462</td>
+<td style="font-weight: 400;" width="148">6/22/25 10:44 PM</td>
+<td style="font-weight: 400;" width="148">6/22/25 10:44 PM</td>
+<td style="font-weight: 400;" width="201">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1249,7 +1308,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>June 23, 2025</span></em></p>
+        <p><em>Last modified: <span>June 24, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
