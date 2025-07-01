@@ -681,7 +681,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, July 1, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">False Informing</td>
+<td style="font-weight: 400;" width="172">2025PU00846</td>
+<td style="font-weight: 400;" width="148">7/1/25 12:57 AM</td>
+<td style="font-weight: 400;" width="148">7/1/25 2:15 AM</td>
+<td style="font-weight: 400;" width="201">Honors College North</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2025PU00847</td>
+<td style="font-weight: 400;" width="148">7/1/25 2:35 AM</td>
+<td style="font-weight: 400;" width="148">7/1/25 2:54 AM</td>
+<td style="font-weight: 400;" width="201">Wood St Garage</td>
+<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated/Minor Consumption</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-098658</td>
+<td style="font-weight: 400;" width="148">6/28/25 3:13 AM</td>
+<td style="font-weight: 400;" width="148">6/28/25 3:13 AM</td>
+<td style="font-weight: 400;" width="201">S River Rd/Ahlers Dr</td>
+<td style="font-weight: 400;" width="189">Documented 2025WL01504</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-098904</td>
+<td style="font-weight: 400;" width="148">6/28/25 3:15 PM</td>
+<td style="font-weight: 400;" width="148">6/28/25 3:15 PM</td>
+<td style="font-weight: 400;" width="201">Neil Armstrong Hall</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-099774</td>
+<td style="font-weight: 400;" width="148">6/30/25 10:37 AM</td>
+<td style="font-weight: 400;" width="148">6/30/25 10:37 AM</td>
+<td style="font-weight: 400;" width="201">N River Rd/E State St</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1212,7 +1263,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>June 30, 2025</span></em></p>
+        <p><em>Last modified: <span>July 1, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
