@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Monday, July 7, 2025</h3>
+  					<h3>Updated Tuesday, July 8, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1101,11 +1101,6 @@
 <td width="204">Ruiz, Gabriel</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">10/16/25</td>
-</tr>
-<tr>
-<td width="204">Ryan, Shawn J.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">7/8/25</td>
 </tr>
 <tr>
 <td width="204">S., K. (Juvenile)</td>
