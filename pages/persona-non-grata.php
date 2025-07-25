@@ -973,6 +973,11 @@
 <td width="76">2/14/26</td>
 </tr>
 <tr>
+<td width="204">Lalani, Sinan</td>
+<td width="211">All Residence Halls and Dining Courts</td>
+<td width="76">7/25/26</td>
+</tr>
+<tr>
 <td width="204">Landrum, Nicholas W.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">10/23/29</td>
