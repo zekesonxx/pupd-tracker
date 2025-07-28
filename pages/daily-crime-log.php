@@ -626,6 +626,11 @@
                 
     
     <li role="none"><a href="weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
+                                                                            
+        
+                
+    
+    <li role="none"><a href="072125-indy-daily-crime-log.php" role="menuitem">Indianapolis Daily Crime Log</a></li>
                             </ul>
 </nav>
 
@@ -693,7 +698,74 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, July 28, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2025PU00901</td>
+<td style="font-weight: 400;" width="148">7/21/25 10:54 AM</td>
+<td style="font-weight: 400;" width="148">7/22/25 10:29 AM</td>
+<td style="font-weight: 400;" width="201">700 Blk Agriculture Mall Dr</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Voyeurism</td>
+<td style="font-weight: 400;" width="172">2025PU00903</td>
+<td style="font-weight: 400;" width="148">7/22/25 5:50 PM</td>
+<td style="font-weight: 400;" width="148">7/23/25 12:53 AM</td>
+<td style="font-weight: 400;" width="201">Earhart Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving While Suspended</td>
+<td style="font-weight: 400;" width="172">2025PU00911</td>
+<td style="font-weight: 400;" width="148">7/25/25 9:09 AM</td>
+<td style="font-weight: 400;" width="148">7/25/25 9:29 AM</td>
+<td style="font-weight: 400;" width="201">Airport Rd/ Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving While Suspended</td>
+<td style="font-weight: 400;" width="172">2025PU00913</td>
+<td style="font-weight: 400;" width="148">7/26/25 1:15 AM</td>
+<td style="font-weight: 400;" width="148">7/26/25 1:45 AM</td>
+<td style="font-weight: 400;" width="201">US 231 Hwy/ Airport Rd</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="172">2025PU00914</td>
+<td style="font-weight: 400;" width="148">7/26/25 3:05 AM</td>
+<td style="font-weight: 400;" width="148">7/26/25 3:29 AM</td>
+<td style="font-weight: 400;" width="201">1700 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2025PU00915</td>
+<td style="font-weight: 400;" width="148">7/26/25 4:39 AM</td>
+<td style="font-weight: 400;" width="148">7/26/25 5:29 AM</td>
+<td style="font-weight: 400;" width="201">Harrison Hall</td>
+<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Aggravated Battery</td>
+<td style="font-weight: 400;" width="172">2025PU00921</td>
+<td style="font-weight: 400;" width="148">7/27/25 6:34 PM</td>
+<td style="font-weight: 400;" width="148">7/27/25 6:50 PM</td>
+<td style="font-weight: 400;" width="201">1400 Blk 3rd St</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1190,7 +1262,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>July 25, 2025</span></em></p>
+        <p><em>Last modified: <span>July 28, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
