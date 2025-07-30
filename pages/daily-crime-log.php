@@ -684,7 +684,34 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, July 30, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2025PU00926</td>
+<td width="148">7/29/25 2:03 PM</td>
+<td width="148">7/29/25 2:35 PM</td>
+<td width="201">Agricultural Admin Building</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Operating w/out Ever Receiving a License</td>
+<td width="172">CAD# 2025-114185</td>
+<td width="148">7/28/25 8:33 PM</td>
+<td width="148">7/28/25 8:33 PM</td>
+<td width="201">Lindberg Rd/McCormick Rd</td>
+<td width="189">Documented 2025WL01752</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -707,7 +734,7 @@ Will be posted soon.
 <td width="148">7/28/25 10:25 AM</td>
 <td width="148">7/28/25 10:43 AM</td>
 <td width="201">Honors College</td>
-<td width="189">Under Investigation</td>
+<td width="189">Arrest Made</td>
 </tr>
 <tr>
 <td width="171">Theft-EMPV</td>
@@ -715,7 +742,7 @@ Will be posted soon.
 <td width="148">7/27/25 4:59 PM</td>
 <td width="148">7/28/25 5:14 PM</td>
 <td width="201">Winifred Parker Hall</td>
-<td width="189">Under Investigation</td>
+<td width="189">Arrest Made</td>
 </tr>
 <tr>
 <td width="171">Theft</td>
@@ -1337,7 +1364,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>July 29, 2025</span></em></p>
+        <p><em>Last modified: <span>July 30, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
