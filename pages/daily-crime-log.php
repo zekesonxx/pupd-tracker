@@ -626,11 +626,6 @@
                 
     
     <li role="none"><a href="weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
-                                                                            
-        
-                
-    
-    <li role="none"><a href="072125-indy-daily-crime-log.php" role="menuitem">Indianapolis Daily Crime Log</a></li>
                             </ul>
 </nav>
 
