@@ -686,7 +686,74 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, August 5, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2025PU00938</td>
+<td width="148">7/31/25 5:00 PM</td>
+<td width="148">8/4/25 11:52 AM</td>
+<td width="201">Bailey Hall</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="172">2025PU00940</td>
+<td width="148">8/5/25 2:40 AM</td>
+<td width="148">8/5/25 3:39 AM</td>
+<td width="201">Northwestern Ave/W Stadium Ave</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="172">CAD# 2025-116701</td>
+<td width="148">8/2/25 4:01 PM</td>
+<td width="148">8/2/25 4:01 PM</td>
+<td width="201">W Stadium Ave/N Grant St</td>
+<td width="189">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="172">CAD# 2025-117018</td>
+<td width="148">8/3/25 9:59 AM</td>
+<td width="148">8/3/25 9:59 AM</td>
+<td width="201">N River Rd/E State St</td>
+<td width="189">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Operating While Intoxicated/Drug Law Violation</td>
+<td width="172">CAD# 2025-117403</td>
+<td width="148">8/4/25 12:59 AM</td>
+<td width="148">8/4/25 12:59 AM</td>
+<td width="201">S River Rd/US HWY 231 S</td>
+<td width="189">Documented 2025WL01807</td>
+</tr>
+<tr>
+<td width="171">Liquor Law Violation</td>
+<td width="172">1 Disciplinary Referral</td>
+<td width="148">7/15/25 1:30 PM</td>
+<td width="148">7/16/25 2:35 PM</td>
+<td width="201">Aspire Apts.</td>
+<td width="189">Judicial Review</td>
+</tr>
+<tr>
+<td width="171">Liquor Law Violation</td>
+<td width="172">4 Disciplinary Referrals</td>
+<td width="148">7/26/25 2:00 AM</td>
+<td width="148">7/26/25 5:23 PM</td>
+<td width="201">Harrison Hall</td>
+<td width="189">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1217,7 +1284,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>August 4, 2025</span></em></p>
+        <p><em>Last modified: <span>August 5, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
