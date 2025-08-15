@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			081125 WL Daily Crime Log - 
+			081825 WL Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -664,133 +664,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, August 15, 2025</h3>
+  					<h3>Friday, August 22, 2025</h3>
 Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, August 14, 2025</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Battery</td>
-<td style="font-weight: 400;" width="172">2025PU00959</td>
-<td style="font-weight: 400;" width="148">8/13/25 9:57 AM</td>
-<td style="font-weight: 400;" width="148">8/13/25 10:33 AM</td>
-<td style="font-weight: 400;" width="201">CoRec</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, August 21, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, August 13, 2025</h3>
-Nothing to report.
+  					<h3>Wednesday, August 20, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday, August 12, 2025</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2025PU00957</td>
-<td style="font-weight: 400;" width="148">8/11/25 11:30 AM</td>
-<td style="font-weight: 400;" width="148">8/11/25 5:43 PM</td>
-<td style="font-weight: 400;" width="201">Ford Dining Court</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Reckless Driver</td>
-<td style="font-weight: 400;" width="172">CAD# 2025-121027</td>
-<td style="font-weight: 400;" width="148">8/11/25 4:34 AM</td>
-<td style="font-weight: 400;" width="148">8/11/25 4:34 AM</td>
-<td style="font-weight: 400;" width="201">US HWY 231 S/Airport Rd</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday, August 19, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, August 11, 2025</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Simple Battery</td>
-<td style="font-weight: 400;" width="172">2025PU00947</td>
-<td style="font-weight: 400;" width="148">8/8/25 3:55 AM</td>
-<td style="font-weight: 400;" width="148">8/8/25 5:13 AM</td>
-<td style="font-weight: 400;" width="201">PMU Hotel</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Driving While Suspended</td>
-<td style="font-weight: 400;" width="172">2025PU00949</td>
-<td style="font-weight: 400;" width="148">8/8/25 2:25 PM</td>
-<td style="font-weight: 400;" width="148">8/8/25 2:51 PM</td>
-<td style="font-weight: 400;" width="201">Marsteller St/ Mitch Daniels Blvd</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation</td>
-<td style="font-weight: 400;" width="172">2025PU00951</td>
-<td style="font-weight: 400;" width="148">8/9/25 1:41 AM</td>
-<td style="font-weight: 400;" width="148">8/9/25 2:18 AM</td>
-<td style="font-weight: 400;" width="201">US 231 Hwy/ Cherry Ln</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Driving While Suspended</td>
-<td style="font-weight: 400;" width="172">2025PU00954</td>
-<td style="font-weight: 400;" width="148">8/9/25 11:06 PM</td>
-<td style="font-weight: 400;" width="148">8/9/25 11:13 PM</td>
-<td style="font-weight: 400;" width="201">US 231 Hwy/ S River Rd</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation</td>
-<td style="font-weight: 400;" width="172">2025PU00956</td>
-<td style="font-weight: 400;" width="148">8/10/25 12:31 PM</td>
-<td style="font-weight: 400;" width="148">8/10/25 12:59 PM</td>
-<td style="font-weight: 400;" width="201">1200 Blk Cherry Ln</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Monday, August 18, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
@@ -1287,7 +1190,7 @@ Nothing to report.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>August 14, 2025</span></em></p>
+        <p><em>Last modified: <span>August 15, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
