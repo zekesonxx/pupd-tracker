@@ -1203,7 +1203,7 @@
 <td width="76">5/4/26</td>
 </tr>
 <tr>
-<td width="204">T., D. (Juvenile</td>
+<td width="204">T., D. (Juvenile)</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">8/18/26</td>
 </tr>
