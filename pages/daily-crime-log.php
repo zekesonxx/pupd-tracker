@@ -686,7 +686,162 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, September 2, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2025PU01032</td>
+<td width="148">8/29/25 11:30 AM</td>
+<td width="148">8/29/25 2:17 PM</td>
+<td width="201">Physics Building</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="172">2025PU01035</td>
+<td width="148">8/29/25 5:00 PM</td>
+<td width="148">8/30/25 12:25 AM</td>
+<td width="201">Wiley Hall</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2025PU01036</td>
+<td width="148">8/30/25 1:49 AM</td>
+<td width="148">8/30/25 2:13 AM</td>
+<td width="201">Hawkins Hall</td>
+<td width="189">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption/Drug Law Violation</td>
+<td width="172">2025PU01038</td>
+<td width="148">8/30/25 3:27 AM</td>
+<td width="148">8/30/25 3:41 AM</td>
+<td width="201">Cary Quadrangle</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2025PU01039</td>
+<td width="148">8/30/25 12:23 PM</td>
+<td width="148">8/30/25 12:40 PM</td>
+<td width="201">W Stadium Ave/ N Martin Jischke Dr</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2025PU01040</td>
+<td width="148">8/29/25 6:00 PM</td>
+<td width="148">8/30/25 5:49 PM</td>
+<td width="201">Aspire Apartments</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Trespassing</td>
+<td width="172">2025PU01041</td>
+<td width="148">8/30/25 6:15 PM</td>
+<td width="148">8/30/25 7:15 PM</td>
+<td width="201">Rawls Hall</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="172">2025PU01044</td>
+<td width="148">8/30/25 7:00 PM</td>
+<td width="148">8/30/25 11:31 PM</td>
+<td width="201">Wilmeth Active Learning Center</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Blackmail</td>
+<td width="172">2025PU01045</td>
+<td width="148">8/30/25 8:00 PM</td>
+<td width="148">8/30/25 11:34 PM</td>
+<td width="201">Tarkington Hall</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2025PU01046</td>
+<td width="148">8/31/25 2:17 AM</td>
+<td width="148">8/31/25 2:48 AM</td>
+<td width="201">Hawkins Hall</td>
+<td width="189">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="172">2025PU01048</td>
+<td width="148">8/28/25 12:00 PM</td>
+<td width="148">8/31/25 9:35 PM</td>
+<td width="201">Shreve Hall</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="172">2025PU01049</td>
+<td width="148">8/27/25 6:00 PM</td>
+<td width="148">9/1/25 10:50 AM</td>
+<td width="201">3rd and West</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="172">2025PU01050</td>
+<td width="148">9/1/25 4:39 PM</td>
+<td width="148">9/1/25 9:04 PM</td>
+<td width="201">Cary Quadrangle</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Hit &amp; Run</td>
+<td width="172">2025PU01051</td>
+<td width="148">9/1/25 3:15 PM</td>
+<td width="148">9/1/25 9:57 PM</td>
+<td width="201">N University St/ W Stadium Ave</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation/ False Informing</td>
+<td width="172">2025PU01052</td>
+<td width="148">9/1/25 11:03 PM</td>
+<td width="148">9/1/25 11:24 PM</td>
+<td width="201">US 231/ Ahlers Dr</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Domestic Battery (Simple)/ Trespass/Interfer in Reporting of Crime/Residential Entry</td>
+<td width="172">2025PU01053</td>
+<td width="148">9/2/25 12:05 AM</td>
+<td width="148">9/2/25 12:39 AM</td>
+<td width="201">Aspire Apartments</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2025PU01054</td>
+<td width="148">9/2/25 1:28 AM</td>
+<td width="148">9/2/25 1:55 AM</td>
+<td width="201">Honors College North</td>
+<td width="189">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td width="171">Criminal Mischief</td>
+<td width="172">CSA</td>
+<td width="148">8/31/25 1:00 AM</td>
+<td width="148">8/31/25 2:00 AM</td>
+<td width="201">Aspire Apartments</td>
+<td width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1190,7 +1345,7 @@ Labor Day.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>August 29, 2025</span></em></p>
+        <p><em>Last modified: <span>September 2, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
