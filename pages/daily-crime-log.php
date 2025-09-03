@@ -679,7 +679,146 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, September 3, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2025PU01055</td>
+<td style="font-weight: 400;" width="148">8/30/25 12:04 AM</td>
+<td style="font-weight: 400;" width="148">9/2/25 4:24 PM</td>
+<td style="font-weight: 400;" width="201">Beering Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2025PU01056</td>
+<td style="font-weight: 400;" width="148">8/25/25 6:19 PM</td>
+<td style="font-weight: 400;" width="148">9/2/25 6:32 PM</td>
+<td style="font-weight: 400;" width="201">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2025PU01057</td>
+<td style="font-weight: 400;" width="148">9/2/25 3:50 PM</td>
+<td style="font-weight: 400;" width="148">9/2/25 7:14 PM</td>
+<td style="font-weight: 400;" width="201">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2025PU01058</td>
+<td style="font-weight: 400;" width="148">8/29/25 6:00 PM</td>
+<td style="font-weight: 400;" width="148">9/2/25 7:25 PM</td>
+<td style="font-weight: 400;" width="201">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="172">2025PU01060</td>
+<td style="font-weight: 400;" width="148">9/1/25 9:00 PM</td>
+<td style="font-weight: 400;" width="148">9/2/25 9:08 PM</td>
+<td style="font-weight: 400;" width="201">Aspire Apartments</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-131872</td>
+<td style="font-weight: 400;" width="148">8/29/25 11:42 PM</td>
+<td style="font-weight: 400;" width="148">8/29/25 11:42 PM</td>
+<td style="font-weight: 400;" width="201">N University St/3rd St</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drunk Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-132330</td>
+<td style="font-weight: 400;" width="148">8/30/25 7:20 PM</td>
+<td style="font-weight: 400;" width="148">8/30/25 7:20 PM</td>
+<td style="font-weight: 400;" width="201">Ross Ade Dr</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-132701</td>
+<td style="font-weight: 400;" width="148">8/31/25 1:11 PM</td>
+<td style="font-weight: 400;" width="148">8/31/25 1:11 PM</td>
+<td style="font-weight: 400;" width="201">US HWY 231 S/Airport Rd</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referrals</td>
+<td style="font-weight: 400;">8/15/25 5:30 PM</td>
+<td style="font-weight: 400;">8/15/25 5:57 PM</td>
+<td style="font-weight: 400;">Winifred Parker Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">3 Disciplinary Referrals</td>
+<td style="font-weight: 400;">8/23/25 11:45 PM</td>
+<td style="font-weight: 400;">8/23/25 12:29 AM</td>
+<td style="font-weight: 400;">Earhart Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">5 Disciplinary Referrals</td>
+<td style="font-weight: 400;">8/24/25 12:30 AM</td>
+<td style="font-weight: 400;">8/24/25 1:28 AM</td>
+<td style="font-weight: 400;">Wiley Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referrals</td>
+<td style="font-weight: 400;">8/28/25 8:00 PM</td>
+<td style="font-weight: 400;">8/28/25 8:59 PM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">5 Disciplinary Referrals</td>
+<td style="font-weight: 400;">8/29/25 11:30 PM</td>
+<td style="font-weight: 400;">8/30/25 12:26 AM</td>
+<td style="font-weight: 400;">Earhart Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">3 Disciplinary Referrals</td>
+<td style="font-weight: 400;">8/30/25 12:15 AM</td>
+<td style="font-weight: 400;">8/30/25 12:56 AM</td>
+<td style="font-weight: 400;">Tarkington Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">6 Disciplinary Referrals</td>
+<td style="font-weight: 400;">8/30/25 1:15 AM</td>
+<td style="font-weight: 400;">8/30/25 2:59 AM</td>
+<td style="font-weight: 400;">Tarkington Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">3 Disciplinary Referrals</td>
+<td style="font-weight: 400;">8/30/25 11:00 PM</td>
+<td style="font-weight: 400;">8/30/25 11:52 PM</td>
+<td style="font-weight: 400;">Cary Quad</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -790,7 +929,7 @@ Will be posted soon.
 <td width="148">8/27/25 6:00 PM</td>
 <td width="148">9/1/25 10:50 AM</td>
 <td width="201">3rd and West</td>
-<td width="189">Under Investigation</td>
+<td width="189">Unfounded</td>
 </tr>
 <tr>
 <td width="171">Drug Law Violation</td>
@@ -1345,7 +1484,7 @@ Labor Day.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>September 2, 2025</span></em></p>
+        <p><em>Last modified: <span>September 3, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
