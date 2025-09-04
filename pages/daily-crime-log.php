@@ -672,7 +672,66 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, September 4, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Criminal Mischief/Theft-Bike</td>
+<td width="172">2025PU01062</td>
+<td width="148">9/2/25 9:00 PM</td>
+<td width="148">9/3/25 9:18 AM</td>
+<td width="201">Wiley Hall</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2025PU01063</td>
+<td width="148">9/2/25 1:30 PM</td>
+<td width="148">9/3/25 11:11 AM</td>
+<td width="201">CoRec</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="172">2025PU01066</td>
+<td width="148">9/2/25 6:00 PM</td>
+<td width="148">9/3/25 6:48 PM</td>
+<td width="201">Shreve Hall</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-EMPV</td>
+<td width="172">2025PU01067</td>
+<td width="148">8/29/25 5:00 PM</td>
+<td width="148">9/3/25 8:44 PM</td>
+<td width="201">Wood St Parking Garage</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Criminal Mischief</td>
+<td width="172">2025PU01069</td>
+<td width="148">9/3/25 4:00 AM</td>
+<td width="148">9/4/25 2:54 AM</td>
+<td width="201">Lilly Hall</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">CAD# 2025-134355</td>
+<td width="148">9/3/25 1:40 PM</td>
+<td width="148">9/3/25 1:40 PM</td>
+<td width="201">CoRec</td>
+<td width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -857,7 +916,7 @@ Will be posted soon.
 <td width="148">8/30/25 1:49 AM</td>
 <td width="148">8/30/25 2:13 AM</td>
 <td width="201">Hawkins Hall</td>
-<td width="189">Pending Prosecutor Review</td>
+<td width="189">Closed</td>
 </tr>
 <tr>
 <td width="171">Minor Consumption/Drug Law Violation</td>
@@ -1484,7 +1543,7 @@ Labor Day.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>September 3, 2025</span></em></p>
+        <p><em>Last modified: <span>September 4, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
