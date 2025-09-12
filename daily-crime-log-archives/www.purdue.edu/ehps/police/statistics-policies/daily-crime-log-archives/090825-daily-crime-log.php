@@ -994,54 +994,6 @@
 <td style="font-weight: 400;" width="201">Marwood</td>
 <td style="font-weight: 400;" width="189">Nothing Further</td>
 </tr>
-<tr>
-<td width="171"></td>
-<td width="172"></td>
-<td width="148"></td>
-<td width="148"></td>
-<td width="201"></td>
-<td width="189"></td>
-</tr>
-<tr>
-<td width="171">Updated:</td>
-<td width="172"></td>
-<td width="148"></td>
-<td width="148"></td>
-<td width="201"></td>
-<td width="189"></td>
-</tr>
-<tr>
-<td width="171">Drug Law Violation/ False Informing</td>
-<td width="172">2025PU01052</td>
-<td width="148">9/1/25 11:03 PM</td>
-<td width="148">9/1/25 11:24 PM</td>
-<td width="201">US 231/ Ahlers Dr</td>
-<td width="189">Closed</td>
-</tr>
-<tr>
-<td width="171">Residential Entry/ Minor Consumption</td>
-<td width="172">2025PU01092</td>
-<td width="148">9/6/25 3:46 AM</td>
-<td width="148">9/6/25 4:31 AM</td>
-<td width="201">Earhart Hall</td>
-<td width="189">Closed</td>
-</tr>
-<tr>
-<td width="171">Minor Consumption</td>
-<td width="172">2025PU01100</td>
-<td width="148">9/6/25 6:37 PM</td>
-<td width="148">9/6/25 7:22 PM</td>
-<td width="201">CoRec</td>
-<td width="189">Closed</td>
-</tr>
-<tr>
-<td width="171">Minor Consumption</td>
-<td width="172">2025PU01105</td>
-<td width="148">9/6/25 8:45 PM</td>
-<td width="148">9/6/25 9:01 PM</td>
-<td width="201">Tarkington Hall</td>
-<td width="189">Closed</td>
-</tr>
 </tbody>
 </table>
 		</section>
