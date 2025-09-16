@@ -681,7 +681,154 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, September 16, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="172">2025PU01174</td>
+<td style="font-weight: 400;" width="148">9/9/25 9:09 AM</td>
+<td style="font-weight: 400;" width="148">9/15/25 6:53 AM</td>
+<td style="font-weight: 400;" width="201">Steely 410</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Voyeurism</td>
+<td style="font-weight: 400;" width="172">2025PU01175</td>
+<td style="font-weight: 400;" width="148">9/13/25 6:30 PM</td>
+<td style="font-weight: 400;" width="148">9/15/25 8:58 AM</td>
+<td style="font-weight: 400;" width="201">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2025PU01176</td>
+<td style="font-weight: 400;" width="148">9/12/25 4:23 PM</td>
+<td style="font-weight: 400;" width="148">9/15/25 9:36 AM</td>
+<td style="font-weight: 400;" width="201">Physical Facilities</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">2025PU01178</td>
+<td style="font-weight: 400;" width="148">9/11/25 11:00 AM</td>
+<td style="font-weight: 400;" width="148">9/15/25 12:39 PM</td>
+<td style="font-weight: 400;" width="201">N Lot</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="172">2025PU01179</td>
+<td style="font-weight: 400;" width="148">9/15/25 9:30 AM</td>
+<td style="font-weight: 400;" width="148">9/15/25 4:30 PM</td>
+<td style="font-weight: 400;" width="201">Electrical Engineering</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud/ Intimidation</td>
+<td style="font-weight: 400;" width="172">2025PU01180</td>
+<td style="font-weight: 400;" width="148">9/11/25 6:00 PM</td>
+<td style="font-weight: 400;" width="148">9/15/25 6:51 PM</td>
+<td style="font-weight: 400;" width="201">Shreve Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Blackmail</td>
+<td style="font-weight: 400;" width="172">2025PU01181</td>
+<td style="font-weight: 400;" width="148">9/14/25 6:00 PM</td>
+<td style="font-weight: 400;" width="148">9/15/25 7:32 PM</td>
+<td style="font-weight: 400;" width="201">Owen Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Harassment</td>
+<td style="font-weight: 400;" width="172">2025PU01182</td>
+<td style="font-weight: 400;" width="148">9/9/25 3:00 PM</td>
+<td style="font-weight: 400;" width="148">9/15/25 8:18 PM</td>
+<td style="font-weight: 400;" width="201">Hawkins Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Blackmail</td>
+<td style="font-weight: 400;" width="172">2025PU01184</td>
+<td style="font-weight: 400;" width="148">9/15/25 12:36 AM</td>
+<td style="font-weight: 400;" width="148">9/16/25 2:34 AM</td>
+<td style="font-weight: 400;" width="201">Wiley Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Trespass</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-139735</td>
+<td style="font-weight: 400;" width="148">9/12/25 11:22 PM</td>
+<td style="font-weight: 400;" width="148">9/12/25 11:22 PM</td>
+<td style="font-weight: 400;" width="201">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-139854</td>
+<td style="font-weight: 400;" width="148">9/13/25 3:36 AM</td>
+<td style="font-weight: 400;" width="148">9/13/25 3:36 AM</td>
+<td style="font-weight: 400;" width="201">Northwestern Ave/W Stadium Ave</td>
+<td style="font-weight: 400;" width="189">Documented 2025WL02182</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-140099</td>
+<td style="font-weight: 400;" width="148">9/13/25 4:02 PM</td>
+<td style="font-weight: 400;" width="148">9/13/25 4:02 PM</td>
+<td style="font-weight: 400;" width="201">W Williams St/S Grant St</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-140337</td>
+<td style="font-weight: 400;" width="148">9/14/25 12:17 AM</td>
+<td style="font-weight: 400;" width="148">9/14/25 12:17 AM</td>
+<td style="font-weight: 400;" width="201">W Stadium Ave/Northwestern Ave</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-140688</td>
+<td style="font-weight: 400;" width="148">9/14/25 5:37 PM</td>
+<td style="font-weight: 400;" width="148">9/14/25 5:37 PM</td>
+<td style="font-weight: 400;" width="201">US HWY 231 S/Airport Rd</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-140761</td>
+<td style="font-weight: 400;" width="148">9/14/25 8:52 PM</td>
+<td style="font-weight: 400;" width="148">9/14/25 8:52 PM</td>
+<td style="font-weight: 400;" width="201">Cary Quad South</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Stalking</td>
+<td style="font-weight: 400;" width="172">CSA</td>
+<td style="font-weight: 400;" width="148">Unknown</td>
+<td style="font-weight: 400;" width="148">9/11/25 8:14 PM</td>
+<td style="font-weight: 400;" width="201">500 Blk Stadium Mall Dr</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Sexual Assault</td>
+<td style="font-weight: 400;" width="172">CSA</td>
+<td style="font-weight: 400;" width="148">Unknown Time in 2023</td>
+<td style="font-weight: 400;" width="148">9/15/25 2:00 PM</td>
+<td style="font-weight: 400;" width="201">On-Campus Housing</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1316,7 +1463,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>September 15, 2025</span></em></p>
+        <p><em>Last modified: <span>September 16, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
