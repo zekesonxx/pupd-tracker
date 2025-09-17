@@ -674,7 +674,210 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, September 17, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2025PU01185</td>
+<td style="font-weight: 400;" width="148">9/16/25 8:45 AM</td>
+<td style="font-weight: 400;" width="148">9/16/25 9:04 AM</td>
+<td style="font-weight: 400;" width="201">Wood St Garage</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Harassment</td>
+<td style="font-weight: 400;" width="172">2025PU01186</td>
+<td style="font-weight: 400;" width="148">9/15/25 11:48 AM</td>
+<td style="font-weight: 400;" width="148">9/16/25 1:25 PM</td>
+<td style="font-weight: 400;" width="201">Meredith South</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Domestic</td>
+<td style="font-weight: 400;" width="172">2025PU01187</td>
+<td style="font-weight: 400;" width="148">9/16/25 12:47 PM</td>
+<td style="font-weight: 400;" width="148">9/16/25 2:05 PM</td>
+<td style="font-weight: 400;" width="201">CoRec</td>
+<td style="font-weight: 400;" width="189">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">2025PU01188</td>
+<td style="font-weight: 400;" width="148">9/16/25 1:36 PM</td>
+<td style="font-weight: 400;" width="148">9/16/25 2:10 PM</td>
+<td style="font-weight: 400;" width="201">Christian Student Center</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">2025PU01190</td>
+<td style="font-weight: 400;" width="148">9/16/25 3:20 PM</td>
+<td style="font-weight: 400;" width="148">9/16/25 3:41 PM</td>
+<td style="font-weight: 400;" width="201">Windsor Dining Court</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2025PU01192</td>
+<td style="font-weight: 400;" width="148">9/16/25 5:00 PM</td>
+<td style="font-weight: 400;" width="148">9/16/25 7:27 PM</td>
+<td style="font-weight: 400;" width="201">Memorial Mall Dr</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving Never Receiving License</td>
+<td style="font-weight: 400;" width="172">2025PU01193</td>
+<td style="font-weight: 400;" width="148">9/16/25 9:38 PM</td>
+<td style="font-weight: 400;" width="148">9/16/25 10:07 PM</td>
+<td style="font-weight: 400;" width="201">Russell St/ Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2025PU01194</td>
+<td style="font-weight: 400;" width="148">9/15/25 9:00 PM</td>
+<td style="font-weight: 400;" width="148">9/16/25 10:19 PM</td>
+<td style="font-weight: 400;" width="201">Armstrong Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-141259</td>
+<td style="font-weight: 400;" width="148">9/15/25 4:29 PM</td>
+<td style="font-weight: 400;" width="148">9/15/25 4:29 PM</td>
+<td style="font-weight: 400;" width="201">E State St/N River Rd</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Road Rage</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-141273</td>
+<td style="font-weight: 400;" width="148">9/15/25 4:51 PM</td>
+<td style="font-weight: 400;" width="148">9/15/25 4:51 PM</td>
+<td style="font-weight: 400;" width="201">E State St/N River Rd</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Burglary</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-141393</td>
+<td style="font-weight: 400;" width="148">9/15/25 10:03 PM</td>
+<td style="font-weight: 400;" width="148">9/15/25 10:03 PM</td>
+<td style="font-weight: 400;" width="201">Materials Management &amp; Distrib.</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">8 Disciplinary Referrals</td>
+<td style="font-weight: 400;">9/5/25 11:45 PM</td>
+<td style="font-weight: 400;">9/6/25 1:12 AM</td>
+<td style="font-weight: 400;">Tarkington Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplianry Referral</td>
+<td style="font-weight: 400;">9/6/25 10:00 PM</td>
+<td style="font-weight: 400;">9/6/25 10:34 PM</td>
+<td style="font-weight: 400;">Hilltop Apts.</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">10 Disciplinary Referrals</td>
+<td style="font-weight: 400;">9/12/25 12:00 AM</td>
+<td style="font-weight: 400;">9/12/25 1:20 AM</td>
+<td style="font-weight: 400;">Hillenbrand Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">4 Disciplinary Referrals</td>
+<td style="font-weight: 400;">9/12/25 10:15 PM</td>
+<td style="font-weight: 400;">9/12/25 10:56 PM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referrals</td>
+<td style="font-weight: 400;">9/13/25 12:00 AM</td>
+<td style="font-weight: 400;">9/13/25 1:23 AM</td>
+<td style="font-weight: 400;">Winifred Parker Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplianry Referral</td>
+<td style="font-weight: 400;">9/13/25 12:45 AM</td>
+<td style="font-weight: 400;">9/13/25 1:35 AM</td>
+<td style="font-weight: 400;">Winifred Parker Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">7 Disciplinary Referrals</td>
+<td style="font-weight: 400;">9/13/25 1:30 AM</td>
+<td style="font-weight: 400;">9/13/25 2:14 AM</td>
+<td style="font-weight: 400;">Tarkington Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">7 Disciplinary Referrals</td>
+<td style="font-weight: 400;">9/13/25 1:30 AM</td>
+<td style="font-weight: 400;">9/13/25 2:58 AM</td>
+<td style="font-weight: 400;">Aspire Apt.</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">6 Disciplinary Referrals</td>
+<td style="font-weight: 400;">9/13/25 4:15 PM</td>
+<td style="font-weight: 400;">9/13/25 4:55 PM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">10 Disciplinary Referrals</td>
+<td style="font-weight: 400;">9/13/25 11:15 PM</td>
+<td style="font-weight: 400;">9/13/25 11:55 PM</td>
+<td style="font-weight: 400;">Tarkington Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">4 Disciplinary Referrals</td>
+<td style="font-weight: 400;">9/14/25 12:00 AM</td>
+<td style="font-weight: 400;">9/14/25 1:31 AM</td>
+<td style="font-weight: 400;">Aspire Apt.</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">18 Disciplinary Referrals</td>
+<td style="font-weight: 400;">9/14/25 12:30 AM</td>
+<td style="font-weight: 400;">9/14/25 2:15 AM</td>
+<td style="font-weight: 400;">Aspire Apt.</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">9/14/25 2:45 AM</td>
+<td style="font-weight: 400;">9/14/25 3:05 AM</td>
+<td style="font-weight: 400;">Hawkins Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1463,7 +1666,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>September 16, 2025</span></em></p>
+        <p><em>Last modified: <span>September 17, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
