@@ -654,7 +654,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Wednesday, September 17, 2025</h3>
+  					<h3>Updated Thursday, September 18, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -716,11 +716,6 @@
 <td width="204">Billingsley, Casey L.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">7/30/26</td>
-</tr>
-<tr>
-<td width="204">Bittenbender, Robert</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">9/18/25</td>
 </tr>
 <tr>
 <td width="204">Bopp, Cameron A.</td>
@@ -801,11 +796,6 @@
 <td width="204">Cooper, Braydyn</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">3/29/26</td>
-</tr>
-<tr>
-<td width="204">Cosby, Amanda</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">9/18/25</td>
 </tr>
 <tr>
 <td width="204">C., J. (Juvenile)</td>
@@ -981,11 +971,6 @@
 <td width="204">Martin, Clifford R.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">7/4/26</td>
-</tr>
-<tr>
-<td width="204">McGirt, Larry</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">9/18/25</td>
 </tr>
 <tr>
 <td width="204">McNair, Lucas</td>
@@ -1178,11 +1163,6 @@
 <td width="76">8/29/28</td>
 </tr>
 <tr>
-<td width="204">Stephens, Jason E.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">9/18/25</td>
-</tr>
-<tr>
 <td width="204">Stidham, Jacob I.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">12/13/26</td>
@@ -1236,11 +1216,6 @@
 <td width="204">Torres-Valle, Luis A.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/3/29</td>
-</tr>
-<tr>
-<td width="204">Vanness, Scott B.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">9/18/25</td>
 </tr>
 <tr>
 <td width="204">Vondersaar, Coleton</td>
