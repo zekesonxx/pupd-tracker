@@ -1079,7 +1079,7 @@
 </tr>
 <tr>
 <td width="204">Prabhu, Samhita</td>
-<td width="211">Entire WL Purdue Campus</td>
+<td width="211">Windsor Residence &amp; Dining Hall</td>
 <td width="76">9/29/26</td>
 </tr>
 <tr>
