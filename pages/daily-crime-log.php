@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			092925 WL Daily Crime Log - 
+			100625 WL Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -664,360 +664,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, October 3, 2025</h3>
+  					<h3>Friday, October 10, 2025</h3>
 Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, October 2, 2025</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2025PU01297</td>
-<td style="font-weight: 400;" width="148">9/29/25 10:00 PM</td>
-<td style="font-weight: 400;" width="148">10/1/25 11:03 AM</td>
-<td style="font-weight: 400;" width="201">3rd &amp; West</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="172">2025PU01298</td>
-<td style="font-weight: 400;" width="148">10/1/25 1:45 PM</td>
-<td style="font-weight: 400;" width="148">10/1/25 2:14 PM</td>
-<td style="font-weight: 400;" width="201">N Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Bomb Threat/ False Informing</td>
-<td style="font-weight: 400;" width="172">2025PU01299</td>
-<td style="font-weight: 400;" width="148">9/30/25 10:27 AM</td>
-<td style="font-weight: 400;" width="148">10/1/25 4:21 PM</td>
-<td style="font-weight: 400;" width="201">Unspecified Campus Location</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Fraud</td>
-<td style="font-weight: 400;" width="172">2025PU01300</td>
-<td style="font-weight: 400;" width="148">9/30/25 6:35 PM</td>
-<td style="font-weight: 400;" width="148">10/2/25 2:18 AM</td>
-<td style="font-weight: 400;" width="201">Earhart Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">CSA</td>
-<td style="font-weight: 400;" width="148">Unknown Fall 2025</td>
-<td style="font-weight: 400;" width="148">9/30/25 11:00 PM</td>
-<td style="font-weight: 400;" width="201">Owen Hall</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, October 9, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, October 1, 2025</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Driving Never Receiving License</td>
-<td style="font-weight: 400;" width="172">2025PU01289</td>
-<td style="font-weight: 400;" width="148">9/30/25 7:50 AM</td>
-<td style="font-weight: 400;" width="148">9/30/25 8:17 AM</td>
-<td style="font-weight: 400;" width="201">N University St/ 5th St</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Criminal Mischief</td>
-<td style="font-weight: 400;" width="172">2025PU01290</td>
-<td style="font-weight: 400;" width="148">9/29/25 10:29 AM</td>
-<td style="font-weight: 400;" width="148">9/30/25 10:43 AM</td>
-<td style="font-weight: 400;" width="201">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, October 8, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday, September 30, 2025</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft-Bike</td>
-<td style="font-weight: 400;" width="172">2025PU01286</td>
-<td style="font-weight: 400;" width="148">9/29/25 2:54 PM</td>
-<td style="font-weight: 400;" width="148">9/29/25 3:16 PM</td>
-<td style="font-weight: 400;" width="201">Wiley Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft-Bike</td>
-<td style="font-weight: 400;" width="172">2025PU01287</td>
-<td style="font-weight: 400;" width="148">9/25/25 5:00 PM</td>
-<td style="font-weight: 400;" width="148">9/29/25 7:09 PM</td>
-<td style="font-weight: 400;" width="201">Convergence Center</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2025PU01288</td>
-<td style="font-weight: 400;" width="148">9/29/25 9:37 PM</td>
-<td style="font-weight: 400;" width="148">9/29/25 10:29 PM</td>
-<td style="font-weight: 400;" width="201">Hawkins Hall</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation</td>
-<td style="font-weight: 400;" width="172">CAD# 2025-147491</td>
-<td style="font-weight: 400;" width="148">9/26/25 7:21 PM</td>
-<td style="font-weight: 400;" width="148">9/26/25 7:21 PM</td>
-<td style="font-weight: 400;" width="201">Hawkins Hall</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation</td>
-<td style="font-weight: 400;" width="172">CAD# 2025-147505</td>
-<td style="font-weight: 400;" width="148">9/26/25 8:22 PM</td>
-<td style="font-weight: 400;" width="148">9/26/25 8:22 PM</td>
-<td style="font-weight: 400;" width="201">Hawkins Hall</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="172">CAD# 2025-147517</td>
-<td style="font-weight: 400;" width="148">9/26/25 8:50 PM</td>
-<td style="font-weight: 400;" width="148">9/26/25 8:50 PM</td>
-<td style="font-weight: 400;" width="201">S River Rd/Ahlers Dr</td>
-<td style="font-weight: 400;" width="189">Documented 2025WL02301</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Operating w/out Ever Receiving a License</td>
-<td style="font-weight: 400;" width="172">CAD# 2025-147817</td>
-<td style="font-weight: 400;" width="148">9/27/25 12:13 PM</td>
-<td style="font-weight: 400;" width="148">9/27/25 12:13 PM</td>
-<td style="font-weight: 400;" width="201">US HWY 231 N/Cherry Ln</td>
-<td style="font-weight: 400;" width="189">Documented 2025WL02307</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Reckless Driver</td>
-<td style="font-weight: 400;" width="172">CAD# 2025-148864</td>
-<td style="font-weight: 400;" width="148">9/29/25 12:10 PM</td>
-<td style="font-weight: 400;" width="148">9/29/25 12:10 PM</td>
-<td style="font-weight: 400;" width="201">E State St/N River Rd</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Stalking</td>
-<td style="font-weight: 400;" width="172">CSA</td>
-<td style="font-weight: 400;" width="148">9/27/2025 Unknown Time</td>
-<td style="font-weight: 400;" width="148">9/29/25 11:00 AM</td>
-<td style="font-weight: 400;" width="201">200 Blk S Grant St</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Criminal Mischief</td>
-<td style="font-weight: 400;" width="172">CSA</td>
-<td style="font-weight: 400;" width="148">9/25/2025 Unknown Time</td>
-<td style="font-weight: 400;" width="148">9/29/25 10:30 PM</td>
-<td style="font-weight: 400;" width="201">Hawkins Hall</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday, October 7, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, September 29, 2025</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2025PU01262</td>
-<td style="font-weight: 400;" width="148">9/26/25 6:00 AM</td>
-<td style="font-weight: 400;" width="148">9/26/25 11:05 AM</td>
-<td style="font-weight: 400;" width="201">1300 Blk 3rd St</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2025PU01265</td>
-<td style="font-weight: 400;" width="148">9/26/25 7:20 PM</td>
-<td style="font-weight: 400;" width="148">9/26/25 8:59 PM</td>
-<td style="font-weight: 400;" width="201">CoRec</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2025PU01267</td>
-<td style="font-weight: 400;" width="148">9/26/25 11:59 PM</td>
-<td style="font-weight: 400;" width="148">9/27/25 12:34 AM</td>
-<td style="font-weight: 400;" width="201">Meredith South</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Blackmail</td>
-<td style="font-weight: 400;" width="172">2025PU01269</td>
-<td style="font-weight: 400;" width="148">9/27/25 12:00 AM</td>
-<td style="font-weight: 400;" width="148">9/27/25 9:01 AM</td>
-<td style="font-weight: 400;" width="201">Tarkington Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2025PU01270</td>
-<td style="font-weight: 400;" width="148">9/27/25 12:40 PM</td>
-<td style="font-weight: 400;" width="148">9/27/25 2:41 PM</td>
-<td style="font-weight: 400;" width="201">Hawkins Hall</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2025PU01272</td>
-<td style="font-weight: 400;" width="148">9/26/25 1:00 AM</td>
-<td style="font-weight: 400;" width="148">9/27/25 3:52 PM</td>
-<td style="font-weight: 400;" width="201">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Drug Law Violations</td>
-<td style="font-weight: 400;" width="172">2025PU01273</td>
-<td style="font-weight: 400;" width="148">9/27/25 10:22 PM</td>
-<td style="font-weight: 400;" width="148">9/27/25 11:37 PM</td>
-<td style="font-weight: 400;" width="201">N Russell St/ 1st St</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2025PU01274</td>
-<td style="font-weight: 400;" width="148">9/28/25 12:10 AM</td>
-<td style="font-weight: 400;" width="148">9/28/25 12:33 AM</td>
-<td style="font-weight: 400;" width="201">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="189">Closed</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2025PU01275</td>
-<td style="font-weight: 400;" width="148">9/28/25 1:37 AM</td>
-<td style="font-weight: 400;" width="148">9/28/25 1:56 AM</td>
-<td style="font-weight: 400;" width="201">Wiley Hall</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">False Informing</td>
-<td style="font-weight: 400;" width="172">2025PU01276</td>
-<td style="font-weight: 400;" width="148">9/28/25 1:51 AM</td>
-<td style="font-weight: 400;" width="148">9/28/25 2:05 AM</td>
-<td style="font-weight: 400;" width="201">Winifred Parker Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2025PU01278</td>
-<td style="font-weight: 400;" width="148">9/28/25 3:39 AM</td>
-<td style="font-weight: 400;" width="148">9/28/25 3:52 AM</td>
-<td style="font-weight: 400;" width="201">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Reckless Driving</td>
-<td style="font-weight: 400;" width="172">2025PU01279</td>
-<td style="font-weight: 400;" width="148">9/28/25 8:26 AM</td>
-<td style="font-weight: 400;" width="148">9/28/25 8:43 AM</td>
-<td style="font-weight: 400;" width="201">1600 Blk Mitch Daniels Blvd</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Battery (Simple)</td>
-<td style="font-weight: 400;" width="172">2025PU01280</td>
-<td style="font-weight: 400;" width="148">9/28/25 1:35 AM</td>
-<td style="font-weight: 400;" width="148">9/28/25 10:16 AM</td>
-<td style="font-weight: 400;" width="201">Hawkins Hall</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="172">2025PU01281</td>
-<td style="font-weight: 400;" width="148">9/27/25 2:35 PM</td>
-<td style="font-weight: 400;" width="148">9/28/25 2:54 PM</td>
-<td style="font-weight: 400;" width="201">000 Blk N Russell St</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Fraud</td>
-<td style="font-weight: 400;" width="172">CAD# 2025-146739</td>
-<td style="font-weight: 400;" width="148">9/25/25 3:46 PM</td>
-<td style="font-weight: 400;" width="148">9/25/25 3:46 PM</td>
-<td style="font-weight: 400;" width="201">Provenance Apts</td>
-<td style="font-weight: 400;" width="189">Documented 2025WL02287</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Reckless Driver</td>
-<td style="font-weight: 400;" width="172">CAD# 2025-147129</td>
-<td style="font-weight: 400;" width="148">9/26/25 7:58 AM</td>
-<td style="font-weight: 400;" width="148">9/26/25 7:58 AM</td>
-<td style="font-weight: 400;" width="201">S Grant St/Mitch Daniels Blvd</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">CAD# 2025-147201</td>
-<td style="font-weight: 400;" width="148">9/26/25 9:59 AM</td>
-<td style="font-weight: 400;" width="148">9/26/25 9:59 AM</td>
-<td style="font-weight: 400;" width="201">Class of 1950 Lecture Hall</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">CAD# 2025-147254</td>
-<td style="font-weight: 400;" width="148">9/26/25 11:16 AM</td>
-<td style="font-weight: 400;" width="148">9/26/25 11:46 AM</td>
-<td style="font-weight: 400;" width="201">Flex Lab</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Monday, October 6, 2025</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
@@ -1514,7 +1190,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>October 2, 2025</span></em></p>
+        <p><em>Last modified: <span>October 3, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
