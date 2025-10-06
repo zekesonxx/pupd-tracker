@@ -920,7 +920,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="189">Nothing Further</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Burlgary</td>
+<td style="font-weight: 400;" width="171">Burglary</td>
 <td style="font-weight: 400;" width="172">CSA</td>
 <td style="font-weight: 400;" width="148">Unknown Date 6-10:30 PM</td>
 <td style="font-weight: 400;" width="148">Unknown Date 11:00 AM</td>
