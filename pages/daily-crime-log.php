@@ -752,7 +752,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Aggrevated Battery/ Minor Consumption/ Resisting Law Enforcement</td>
+<td style="font-weight: 400;" width="171">Aggravated Battery/ Minor Consumption/ Resisting Law Enforcement</td>
 <td style="font-weight: 400;" width="172">2025PU01318</td>
 <td style="font-weight: 400;" width="148">10/3/25 11:30 PM</td>
 <td style="font-weight: 400;" width="148">10/4/25 12:44 AM</td>
