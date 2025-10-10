@@ -1229,7 +1229,7 @@
 </tr>
 <tr>
 <td width="204">Webster, Benjamin</td>
-<td width="211">Entire WL Purdue Campus</td>
+<td width="211">Hillenbrand Residence Hall &amp; Dining Court</td>
 <td width="76">10/4/26</td>
 </tr>
 <tr>
