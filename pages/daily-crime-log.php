@@ -686,7 +686,42 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, October 14, 2025</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">CAD# 2025-155623</td>
+<td width="148">10/10/25 9:27 AM</td>
+<td width="148">10/10/25 9:27 AM</td>
+<td width="201">Wilmeth Active Learning Center</td>
+<td width="189">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">CAD# 2025-155847</td>
+<td width="148">10/10/25 4:28 PM</td>
+<td width="148">10/10/25 4:28 PM</td>
+<td width="201">Gemini&#160;</td>
+<td width="189">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">CAD# 2025-155935</td>
+<td width="148">10/10/25 7:16 PM</td>
+<td width="148">10/10/25 7:16 PM</td>
+<td width="201">Triangle Fraternity</td>
+<td width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1305,7 +1340,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>October 13, 2025</span></em></p>
+        <p><em>Last modified: <span>October 14, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
