@@ -928,7 +928,7 @@
 <td style="font-weight: 400;" width="148">10/3/25 9:26 PM</td>
 <td style="font-weight: 400;" width="148">10/3/25 10:18 PM</td>
 <td style="font-weight: 400;" width="201">Aspire Apts</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
@@ -936,7 +936,7 @@
 <td style="font-weight: 400;" width="148">10/3/25 11:04 PM</td>
 <td style="font-weight: 400;" width="148">10/3/25 11:42 PM</td>
 <td style="font-weight: 400;" width="201">Tarkington Hall</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Aggravated Battery/ Minor Consumption/ Resisting Law Enforcement</td>
@@ -952,7 +952,7 @@
 <td style="font-weight: 400;" width="148">10/4/25 12:26 AM</td>
 <td style="font-weight: 400;" width="148">10/4/25 12:56 AM</td>
 <td style="font-weight: 400;" width="201">Cary Quadrangle</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
@@ -960,7 +960,7 @@
 <td style="font-weight: 400;" width="148">10/4/25 12:56 AM</td>
 <td style="font-weight: 400;" width="148">10/4/25 1:13 AM</td>
 <td style="font-weight: 400;" width="201">Shreve Hall</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
@@ -1016,7 +1016,7 @@
 <td style="font-weight: 400;" width="148">10/4/25 11:32 PM</td>
 <td style="font-weight: 400;" width="148">10/5/25 12:09 AM</td>
 <td style="font-weight: 400;" width="201">Meredith Hall</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
@@ -1024,7 +1024,7 @@
 <td style="font-weight: 400;" width="148">10/5/25 12:50 AM</td>
 <td style="font-weight: 400;" width="148">10/5/25 1:05 AM</td>
 <td style="font-weight: 400;" width="201">Wiley Hall</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
@@ -1064,7 +1064,7 @@
 <td style="font-weight: 400;" width="148">10/5/25 9:34 PM</td>
 <td style="font-weight: 400;" width="148">10/5/25 9:57 PM</td>
 <td style="font-weight: 400;" width="201">Mitch Daniels Blvd/ US 231</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Drug Law Violation</td>
@@ -1612,7 +1612,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>October 10, 2025</span></em></p>
+        <p><em>Last modified: <span>October 15, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
