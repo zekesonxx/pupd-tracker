@@ -741,52 +741,52 @@
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+<th scope="col" width="171">Nature</th>
+<th scope="col" width="172">Case Number</th>
+<th scope="col" width="148">Date/Time Occurred</th>
+<th scope="col" width="148">Date/Time Reported</th>
+<th scope="col" width="201">General Location</th>
+<th scope="col" width="189">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2025PU01359</td>
-<td style="font-weight: 400;" width="148">9/13/25 12:06 PM</td>
-<td style="font-weight: 400;" width="148">10/8/25 1:19 PM</td>
-<td style="font-weight: 400;" width="201">Meredith Hall</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
+<td width="171">Theft</td>
+<td width="172">2025PU01359</td>
+<td width="148">9/13/25 12:06 PM</td>
+<td width="148">10/8/25 1:19 PM</td>
+<td width="201">Meredith Hall</td>
+<td width="189">Arrest Made</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2025PU01363</td>
-<td style="font-weight: 400;" width="148">10/8/25 5:45 PM</td>
-<td style="font-weight: 400;" width="148">10/8/25 7:32 PM</td>
-<td style="font-weight: 400;" width="201">CoRec</td>
-<td style="font-weight: 400;" width="189">Unfounded</td>
+<td width="171">Theft</td>
+<td width="172">2025PU01363</td>
+<td width="148">10/8/25 5:45 PM</td>
+<td width="148">10/8/25 7:32 PM</td>
+<td width="201">CoRec</td>
+<td width="189">Unfounded</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="172">2025PU01364</td>
-<td style="font-weight: 400;" width="148">10/8/25 6:39 PM</td>
-<td style="font-weight: 400;" width="148">10/8/25 7:32 PM</td>
-<td style="font-weight: 400;" width="201">Smith Hall</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+<td width="171">Hit &amp; Run</td>
+<td width="172">2025PU01364</td>
+<td width="148">10/8/25 6:39 PM</td>
+<td width="148">10/8/25 7:32 PM</td>
+<td width="201">Smith Hall</td>
+<td width="189">Pending Prosecutor Review</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Driving Never Receiving License</td>
-<td style="font-weight: 400;" width="172">2025PU01365</td>
-<td style="font-weight: 400;" width="148">10/8/25 10:43 PM</td>
-<td style="font-weight: 400;" width="148">10/8/25 11:34 PM</td>
-<td style="font-weight: 400;" width="201">Mitch Daniels Blvd/ S University St</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+<td width="171">Driving Never Receiving License</td>
+<td width="172">2025PU01365</td>
+<td width="148">10/8/25 10:43 PM</td>
+<td width="148">10/8/25 11:34 PM</td>
+<td width="201">Mitch Daniels Blvd/ S University St</td>
+<td width="189">Pending Prosecutor Review</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Reckless Driver</td>
-<td style="font-weight: 400;" width="172">CAD# 2025-154211</td>
-<td style="font-weight: 400;" width="148">10/7/25 11:06 PM</td>
-<td style="font-weight: 400;" width="148">10/7/25 11:06 PM</td>
-<td style="font-weight: 400;" width="201">US HWY 231 S/S River Rd</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
+<td width="171">Reckless Driver</td>
+<td width="172">CAD# 2025-154211</td>
+<td width="148">10/7/25 11:06 PM</td>
+<td width="148">10/7/25 11:06 PM</td>
+<td width="201">US HWY 231 S/S River Rd</td>
+<td width="189">Nothing Further</td>
 </tr>
 </tbody>
 </table>
@@ -799,20 +799,20 @@
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+<th scope="col" width="171">Nature</th>
+<th scope="col" width="172">Case Number</th>
+<th scope="col" width="148">Date/Time Occurred</th>
+<th scope="col" width="148">Date/Time Reported</th>
+<th scope="col" width="201">General Location</th>
+<th scope="col" width="189">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Driving Never Receiving</td>
-<td style="font-weight: 400;" width="172">2025PU01358</td>
-<td style="font-weight: 400;" width="148">10/7/25 8:22 PM</td>
-<td style="font-weight: 400;" width="148">10/7/25 9:21 PM</td>
-<td style="font-weight: 400;" width="201">Wood St Garage</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
+<td width="171">Driving Never Receiving</td>
+<td width="172">2025PU01358</td>
+<td width="148">10/7/25 8:22 PM</td>
+<td width="148">10/7/25 9:21 PM</td>
+<td width="201">Wood St Garage</td>
+<td width="189">Arrest Made</td>
 </tr>
 </tbody>
 </table>
@@ -825,52 +825,52 @@
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+<th scope="col" width="171">Nature</th>
+<th scope="col" width="172">Case Number</th>
+<th scope="col" width="148">Date/Time Occurred</th>
+<th scope="col" width="148">Date/Time Reported</th>
+<th scope="col" width="201">General Location</th>
+<th scope="col" width="189">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft-Bike</td>
-<td style="font-weight: 400;" width="172">2025PU01348</td>
-<td style="font-weight: 400;" width="148">10/5/25 5:00 PM</td>
-<td style="font-weight: 400;" width="148">10/6/25 9:04 AM</td>
-<td style="font-weight: 400;" width="201">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td width="171">Theft-Bike</td>
+<td width="172">2025PU01348</td>
+<td width="148">10/5/25 5:00 PM</td>
+<td width="148">10/6/25 9:04 AM</td>
+<td width="201">McCutcheon Hall</td>
+<td width="189">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft-EMPV</td>
-<td style="font-weight: 400;" width="172">2025PU01349</td>
-<td style="font-weight: 400;" width="148">10/4/25 10:00 AM</td>
-<td style="font-weight: 400;" width="148">10/6/25 9:23 AM</td>
-<td style="font-weight: 400;" width="201">3rd &amp; West</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td width="171">Theft-EMPV</td>
+<td width="172">2025PU01349</td>
+<td width="148">10/4/25 10:00 AM</td>
+<td width="148">10/6/25 9:23 AM</td>
+<td width="201">3rd &amp; West</td>
+<td width="189">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Criminal Mischief</td>
-<td style="font-weight: 400;" width="172">2025PU01351</td>
-<td style="font-weight: 400;" width="148">10/6/25 12:26 PM</td>
-<td style="font-weight: 400;" width="148">10/6/25 12:40 PM</td>
-<td style="font-weight: 400;" width="201">Wood St Garage</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td width="171">Criminal Mischief</td>
+<td width="172">2025PU01351</td>
+<td width="148">10/6/25 12:26 PM</td>
+<td width="148">10/6/25 12:40 PM</td>
+<td width="201">Wood St Garage</td>
+<td width="189">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft-EMPV</td>
-<td style="font-weight: 400;" width="172">2025PU01353</td>
-<td style="font-weight: 400;" width="148">10/5/25 9:00 PM</td>
-<td style="font-weight: 400;" width="148">10/6/25 1:42 PM</td>
-<td style="font-weight: 400;" width="201">3rd &amp; West</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td width="171">Theft-EMPV</td>
+<td width="172">2025PU01353</td>
+<td width="148">10/5/25 9:00 PM</td>
+<td width="148">10/6/25 1:42 PM</td>
+<td width="201">3rd &amp; West</td>
+<td width="189">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="172">2025PU01355</td>
-<td style="font-weight: 400;" width="148">10/6/25 6:00 PM</td>
-<td style="font-weight: 400;" width="148">10/6/25 6:11 PM</td>
-<td style="font-weight: 400;" width="201">100 Blk Memorial Mall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td width="171">Hit &amp; Run</td>
+<td width="172">2025PU01355</td>
+<td width="148">10/6/25 6:00 PM</td>
+<td width="148">10/6/25 6:11 PM</td>
+<td width="201">100 Blk Memorial Mall</td>
+<td width="189">Under Investigation</td>
 </tr>
 </tbody>
 </table>
@@ -883,236 +883,236 @@
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+<th scope="col" width="171">Nature</th>
+<th scope="col" width="172">Case Number</th>
+<th scope="col" width="148">Date/Time Occurred</th>
+<th scope="col" width="148">Date/Time Reported</th>
+<th scope="col" width="201">General Location</th>
+<th scope="col" width="189">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft-Bike</td>
-<td style="font-weight: 400;" width="172">2025PU01307</td>
-<td style="font-weight: 400;" width="148">11/10/24 1:00 PM</td>
-<td style="font-weight: 400;" width="148">10/3/25 6:37 AM</td>
-<td style="font-weight: 400;" width="201">Stewart Center</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td width="171">Theft-Bike</td>
+<td width="172">2025PU01307</td>
+<td width="148">11/10/24 1:00 PM</td>
+<td width="148">10/3/25 6:37 AM</td>
+<td width="201">Stewart Center</td>
+<td width="189">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Criminal Mischief</td>
-<td style="font-weight: 400;" width="172">2025PU01308</td>
-<td style="font-weight: 400;" width="148">10/3/25 8:01 AM</td>
-<td style="font-weight: 400;" width="148">10/3/25 8:15 AM</td>
-<td style="font-weight: 400;" width="201">Matthews Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td width="171">Criminal Mischief</td>
+<td width="172">2025PU01308</td>
+<td width="148">10/3/25 8:01 AM</td>
+<td width="148">10/3/25 8:15 AM</td>
+<td width="201">Matthews Hall</td>
+<td width="189">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Criminal Mischief</td>
-<td style="font-weight: 400;" width="172">2025PU01309</td>
-<td style="font-weight: 400;" width="148">10/3/25 8:17 AM</td>
-<td style="font-weight: 400;" width="148">10/3/25 8:18 AM</td>
-<td style="font-weight: 400;" width="201">Haas Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td width="171">Criminal Mischief</td>
+<td width="172">2025PU01309</td>
+<td width="148">10/3/25 8:17 AM</td>
+<td width="148">10/3/25 8:18 AM</td>
+<td width="201">Haas Hall</td>
+<td width="189">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft-Bike</td>
-<td style="font-weight: 400;" width="172">2025PU01313</td>
-<td style="font-weight: 400;" width="148">10/1/25 9:30 AM</td>
-<td style="font-weight: 400;" width="148">10/3/25 6:09 PM</td>
-<td style="font-weight: 400;" width="201">Physics Building</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td width="171">Theft-Bike</td>
+<td width="172">2025PU01313</td>
+<td width="148">10/1/25 9:30 AM</td>
+<td width="148">10/3/25 6:09 PM</td>
+<td width="201">Physics Building</td>
+<td width="189">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation</td>
-<td style="font-weight: 400;" width="172">2025PU01315</td>
-<td style="font-weight: 400;" width="148">10/3/25 9:26 PM</td>
-<td style="font-weight: 400;" width="148">10/3/25 10:18 PM</td>
-<td style="font-weight: 400;" width="201">Aspire Apts</td>
-<td style="font-weight: 400;" width="189">Closed</td>
+<td width="171">Drug Law Violation</td>
+<td width="172">2025PU01315</td>
+<td width="148">10/3/25 9:26 PM</td>
+<td width="148">10/3/25 10:18 PM</td>
+<td width="201">Aspire Apts</td>
+<td width="189">Closed</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2025PU01317</td>
-<td style="font-weight: 400;" width="148">10/3/25 11:04 PM</td>
-<td style="font-weight: 400;" width="148">10/3/25 11:42 PM</td>
-<td style="font-weight: 400;" width="201">Tarkington Hall</td>
-<td style="font-weight: 400;" width="189">Closed</td>
+<td width="171">Minor Consumption</td>
+<td width="172">2025PU01317</td>
+<td width="148">10/3/25 11:04 PM</td>
+<td width="148">10/3/25 11:42 PM</td>
+<td width="201">Tarkington Hall</td>
+<td width="189">Closed</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Aggravated Battery/ Minor Consumption/ Resisting Law Enforcement</td>
-<td style="font-weight: 400;" width="172">2025PU01318</td>
-<td style="font-weight: 400;" width="148">10/3/25 11:30 PM</td>
-<td style="font-weight: 400;" width="148">10/4/25 12:44 AM</td>
-<td style="font-weight: 400;" width="201">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
+<td width="171">Aggravated Battery/ Minor Consumption/ Resisting Law Enforcement</td>
+<td width="172">2025PU01318</td>
+<td width="148">10/3/25 11:30 PM</td>
+<td width="148">10/4/25 12:44 AM</td>
+<td width="201">Hillenbrand Hall</td>
+<td width="189">Arrest Made</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2025PU01319</td>
-<td style="font-weight: 400;" width="148">10/4/25 12:26 AM</td>
-<td style="font-weight: 400;" width="148">10/4/25 12:56 AM</td>
-<td style="font-weight: 400;" width="201">Cary Quadrangle</td>
-<td style="font-weight: 400;" width="189">Closed</td>
+<td width="171">Minor Consumption</td>
+<td width="172">2025PU01319</td>
+<td width="148">10/4/25 12:26 AM</td>
+<td width="148">10/4/25 12:56 AM</td>
+<td width="201">Cary Quadrangle</td>
+<td width="189">Closed</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2025PU01320</td>
-<td style="font-weight: 400;" width="148">10/4/25 12:56 AM</td>
-<td style="font-weight: 400;" width="148">10/4/25 1:13 AM</td>
-<td style="font-weight: 400;" width="201">Shreve Hall</td>
-<td style="font-weight: 400;" width="189">Closed</td>
+<td width="171">Minor Consumption</td>
+<td width="172">2025PU01320</td>
+<td width="148">10/4/25 12:56 AM</td>
+<td width="148">10/4/25 1:13 AM</td>
+<td width="201">Shreve Hall</td>
+<td width="189">Closed</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="172">2025PU01322</td>
-<td style="font-weight: 400;" width="148">10/4/25 2:43 AM</td>
-<td style="font-weight: 400;" width="148">10/4/25 3:11 AM</td>
-<td style="font-weight: 400;" width="201">Wood St Garage</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
+<td width="171">Operating While Intoxicated</td>
+<td width="172">2025PU01322</td>
+<td width="148">10/4/25 2:43 AM</td>
+<td width="148">10/4/25 3:11 AM</td>
+<td width="201">Wood St Garage</td>
+<td width="189">Arrest Made</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="172">2025PU01323</td>
-<td style="font-weight: 400;" width="148">10/4/25 1:40 AM</td>
-<td style="font-weight: 400;" width="148">10/4/25 8:46 AM</td>
-<td style="font-weight: 400;" width="201">Grant St Garage</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+<td width="171">Hit &amp; Run</td>
+<td width="172">2025PU01323</td>
+<td width="148">10/4/25 1:40 AM</td>
+<td width="148">10/4/25 8:46 AM</td>
+<td width="201">Grant St Garage</td>
+<td width="189">Pending Prosecutor Review</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Criminal Mischief</td>
-<td style="font-weight: 400;" width="172">2025PU01325</td>
-<td style="font-weight: 400;" width="148">10/3/25 8:00 PM</td>
-<td style="font-weight: 400;" width="148">10/4/25 2:13 PM</td>
-<td style="font-weight: 400;" width="201">Pao Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td width="171">Criminal Mischief</td>
+<td width="172">2025PU01325</td>
+<td width="148">10/3/25 8:00 PM</td>
+<td width="148">10/4/25 2:13 PM</td>
+<td width="201">Pao Hall</td>
+<td width="189">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="172">2025PU01326</td>
-<td style="font-weight: 400;" width="148">10/4/25 4:15 PM</td>
-<td style="font-weight: 400;" width="148">10/4/25 5:23 PM</td>
-<td style="font-weight: 400;" width="201">McCormick Rd/ W Stadium Ave</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
+<td width="171">Hit &amp; Run</td>
+<td width="172">2025PU01326</td>
+<td width="148">10/4/25 4:15 PM</td>
+<td width="148">10/4/25 5:23 PM</td>
+<td width="201">McCormick Rd/ W Stadium Ave</td>
+<td width="189">Arrest Made</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2025PU01327</td>
-<td style="font-weight: 400;" width="148">10/4/25 2:30 PM</td>
-<td style="font-weight: 400;" width="148">10/4/25 6:16 PM</td>
-<td style="font-weight: 400;" width="201">CoRec</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td width="171">Theft</td>
+<td width="172">2025PU01327</td>
+<td width="148">10/4/25 2:30 PM</td>
+<td width="148">10/4/25 6:16 PM</td>
+<td width="201">CoRec</td>
+<td width="189">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2025PU01331</td>
-<td style="font-weight: 400;" width="148">10/4/25 1:00 PM</td>
-<td style="font-weight: 400;" width="148">10/4/25 8:21 PM</td>
-<td style="font-weight: 400;" width="201">Windsor Dining Court</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td width="171">Theft</td>
+<td width="172">2025PU01331</td>
+<td width="148">10/4/25 1:00 PM</td>
+<td width="148">10/4/25 8:21 PM</td>
+<td width="201">Windsor Dining Court</td>
+<td width="189">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2025PU01335</td>
-<td style="font-weight: 400;" width="148">10/4/25 11:32 PM</td>
-<td style="font-weight: 400;" width="148">10/5/25 12:09 AM</td>
-<td style="font-weight: 400;" width="201">Meredith Hall</td>
-<td style="font-weight: 400;" width="189">Closed</td>
+<td width="171">Minor Consumption</td>
+<td width="172">2025PU01335</td>
+<td width="148">10/4/25 11:32 PM</td>
+<td width="148">10/5/25 12:09 AM</td>
+<td width="201">Meredith Hall</td>
+<td width="189">Closed</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2025PU01337</td>
-<td style="font-weight: 400;" width="148">10/5/25 12:50 AM</td>
-<td style="font-weight: 400;" width="148">10/5/25 1:05 AM</td>
-<td style="font-weight: 400;" width="201">Wiley Hall</td>
-<td style="font-weight: 400;" width="189">Closed</td>
+<td width="171">Minor Consumption</td>
+<td width="172">2025PU01337</td>
+<td width="148">10/5/25 12:50 AM</td>
+<td width="148">10/5/25 1:05 AM</td>
+<td width="201">Wiley Hall</td>
+<td width="189">Closed</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="172">2025PU01340</td>
-<td style="font-weight: 400;" width="148">10/5/25 3:09 AM</td>
-<td style="font-weight: 400;" width="148">10/5/25 3:30 AM</td>
-<td style="font-weight: 400;" width="201">Mitch Daniels Blvd/ Provenance Blvd</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
+<td width="171">Operating While Intoxicated</td>
+<td width="172">2025PU01340</td>
+<td width="148">10/5/25 3:09 AM</td>
+<td width="148">10/5/25 3:30 AM</td>
+<td width="201">Mitch Daniels Blvd/ Provenance Blvd</td>
+<td width="189">Arrest Made</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2025PU01341</td>
-<td style="font-weight: 400;" width="148">10/5/25 3:34 AM</td>
-<td style="font-weight: 400;" width="148">10/5/25 4:00 AM</td>
-<td style="font-weight: 400;" width="201">Mitch Daniels Blvd/ Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+<td width="171">Minor Consumption</td>
+<td width="172">2025PU01341</td>
+<td width="148">10/5/25 3:34 AM</td>
+<td width="148">10/5/25 4:00 AM</td>
+<td width="201">Mitch Daniels Blvd/ Martin Jischke Dr</td>
+<td width="189">Pending Prosecutor Review</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft/ Criminal Mischief</td>
-<td style="font-weight: 400;" width="172">2025PU01343</td>
-<td style="font-weight: 400;" width="148">10/4/25 10:00 PM</td>
-<td style="font-weight: 400;" width="148">10/5/25 11:02 AM</td>
-<td style="font-weight: 400;" width="201">Grant St Garage</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td width="171">Theft/ Criminal Mischief</td>
+<td width="172">2025PU01343</td>
+<td width="148">10/4/25 10:00 PM</td>
+<td width="148">10/5/25 11:02 AM</td>
+<td width="201">Grant St Garage</td>
+<td width="189">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft-Bike</td>
-<td style="font-weight: 400;" width="172">2025PU01344</td>
-<td style="font-weight: 400;" width="148">10/3/25 1:00 AM</td>
-<td style="font-weight: 400;" width="148">10/5/25 2:01 PM</td>
-<td style="font-weight: 400;" width="201">Tarkington Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td width="171">Theft-Bike</td>
+<td width="172">2025PU01344</td>
+<td width="148">10/3/25 1:00 AM</td>
+<td width="148">10/5/25 2:01 PM</td>
+<td width="201">Tarkington Hall</td>
+<td width="189">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation</td>
-<td style="font-weight: 400;" width="172">2025PU01346</td>
-<td style="font-weight: 400;" width="148">10/5/25 9:34 PM</td>
-<td style="font-weight: 400;" width="148">10/5/25 9:57 PM</td>
-<td style="font-weight: 400;" width="201">Mitch Daniels Blvd/ US 231</td>
-<td style="font-weight: 400;" width="189">Closed</td>
+<td width="171">Drug Law Violation</td>
+<td width="172">2025PU01346</td>
+<td width="148">10/5/25 9:34 PM</td>
+<td width="148">10/5/25 9:57 PM</td>
+<td width="201">Mitch Daniels Blvd/ US 231</td>
+<td width="189">Closed</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation</td>
-<td style="font-weight: 400;" width="172">2025PU01347</td>
-<td style="font-weight: 400;" width="148">10/5/25 11:49 PM</td>
-<td style="font-weight: 400;" width="148">10/6/25 12:08 AM</td>
-<td style="font-weight: 400;" width="201">US HWY 231 S/Airport Rd</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
+<td width="171">Drug Law Violation</td>
+<td width="172">2025PU01347</td>
+<td width="148">10/5/25 11:49 PM</td>
+<td width="148">10/6/25 12:08 AM</td>
+<td width="201">US HWY 231 S/Airport Rd</td>
+<td width="189">Arrest Made</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Sexual Battery</td>
-<td style="font-weight: 400;" width="172">CAD# 2025-151704</td>
-<td style="font-weight: 400;" width="148">10/3/25 11:09 PM</td>
-<td style="font-weight: 400;" width="148">10/3/25 11:09 PM</td>
-<td style="font-weight: 400;" width="201">100 Blk Villageway Ln</td>
-<td style="font-weight: 400;" width="189">Documented 2025WL02361</td>
+<td width="171">Sexual Battery</td>
+<td width="172">CAD# 2025-151704</td>
+<td width="148">10/3/25 11:09 PM</td>
+<td width="148">10/3/25 11:09 PM</td>
+<td width="201">100 Blk Villageway Ln</td>
+<td width="189">Documented 2025WL02361</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Reckless Driver</td>
-<td style="font-weight: 400;" width="172">CAD# 2025-151984</td>
-<td style="font-weight: 400;" width="148">10/4/25 12:10 PM</td>
-<td style="font-weight: 400;" width="148">10/4/25 12:10 PM</td>
-<td style="font-weight: 400;" width="201">McCormick Rd/Mitch Daniels Blvd</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
+<td width="171">Reckless Driver</td>
+<td width="172">CAD# 2025-151984</td>
+<td width="148">10/4/25 12:10 PM</td>
+<td width="148">10/4/25 12:10 PM</td>
+<td width="201">McCormick Rd/Mitch Daniels Blvd</td>
+<td width="189">Nothing Further</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Reckless Driver</td>
-<td style="font-weight: 400;" width="172">CAD# 2025-152515</td>
-<td style="font-weight: 400;" width="148">10/5/25 5:51 AM</td>
-<td style="font-weight: 400;" width="148">10/5/25 5:51 AM</td>
-<td style="font-weight: 400;" width="201">US HWY 231 S/Airport Rd</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
+<td width="171">Reckless Driver</td>
+<td width="172">CAD# 2025-152515</td>
+<td width="148">10/5/25 5:51 AM</td>
+<td width="148">10/5/25 5:51 AM</td>
+<td width="201">US HWY 231 S/Airport Rd</td>
+<td width="189">Nothing Further</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Hazing</td>
-<td style="font-weight: 400;" width="172">CSA</td>
-<td style="font-weight: 400;" width="148">Unknown</td>
-<td style="font-weight: 400;" width="148">10/3/25 1:03 PM</td>
-<td style="font-weight: 400;" width="201">Marwood Cooperative</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
+<td width="171">Hazing</td>
+<td width="172">CSA</td>
+<td width="148">Unknown</td>
+<td width="148">10/3/25 1:03 PM</td>
+<td width="201">Marwood Cooperative</td>
+<td width="189">Judicial Review</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Burglary</td>
-<td style="font-weight: 400;" width="172">CSA</td>
-<td style="font-weight: 400;" width="148">Unknown Date 6-10:30 PM</td>
-<td style="font-weight: 400;" width="148">Unknown Date 11:00 AM</td>
-<td style="font-weight: 400;" width="201">Wiley Hall</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
+<td width="171">Burglary</td>
+<td width="172">CSA</td>
+<td width="148">Unknown Date 6-10:30 PM</td>
+<td width="148">Unknown Date 11:00 AM</td>
+<td width="201">Wiley Hall</td>
+<td width="189">Nothing Further</td>
 </tr>
 </tbody>
 </table>
@@ -1612,7 +1612,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>October 17, 2025</span></em></p>
+        <p><em>Last modified: <span>October 20, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
