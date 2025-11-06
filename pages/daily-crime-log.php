@@ -672,7 +672,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, November 6, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2025PU01568</td>
+<td width="148">10/29/25 8:40 PM</td>
+<td width="148">11/5/25 10:50 PM</td>
+<td width="201">CoRec</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="172">2025PU01569</td>
+<td width="148">11/6/25 1:48 AM</td>
+<td width="148">11/6/25 2:25 AM</td>
+<td width="201">3rd St/McCormick Rd</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Driving While Suspended</td>
+<td width="172">CAD# 2025-169964</td>
+<td width="148">11/4/25 3:25 PM</td>
+<td width="148">11/4/25 3:25 PM</td>
+<td width="201">Northwestern Ave/N Grant St</td>
+<td width="189">Documented 2025WL02622</td>
+</tr>
+<tr>
+<td width="171">Arson</td>
+<td width="172">CSA</td>
+<td width="148">11/5/25 01:00 AM-12:00 PM</td>
+<td width="148">11/5/25 12:00 PM</td>
+<td width="201">On-Campus Housing</td>
+<td width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -947,7 +990,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="148">11/1/25 12:43 AM</td>
 <td style="font-weight: 400;" width="148">11/1/25 1:36 AM</td>
 <td style="font-weight: 400;" width="201">Shreve Hall</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
@@ -1599,7 +1642,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>November 5, 2025</span></em></p>
+        <p><em>Last modified: <span>November 6, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
