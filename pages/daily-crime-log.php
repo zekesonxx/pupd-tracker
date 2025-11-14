@@ -665,7 +665,42 @@
   
     	<section class="content__group">
   					<h3>Friday, November 14, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Operating While Intoxicated/ Public Intoxication/ Hit &amp; Run</td>
+<td width="172">2025PU01629</td>
+<td width="148">11/13/25 1:13 PM</td>
+<td width="148">11/13/25 2:32 PM</td>
+<td width="201">Purdue Airport</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Operating While Intoxicated</td>
+<td width="172">2025PU01631</td>
+<td width="148">11/14/25 12:52 AM</td>
+<td width="148">11/14/25 1:42 AM</td>
+<td width="201">600 N Russell St</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2025PU01633</td>
+<td width="148">11/14/25 3:39 AM</td>
+<td width="148">11/14/25 3:56 AM</td>
+<td width="201">Tarkington Hall</td>
+<td width="189">Pending Prosevutor Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -696,7 +731,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="148">11/4/25 5:59 PM</td>
 <td style="font-weight: 400;" width="148">11/12/25 5:00 PM</td>
 <td style="font-weight: 400;" width="201">Bechtel Center</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Unfounded</td>
 </tr>
 </tbody>
 </table>
@@ -966,7 +1001,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="148">11/9/25 9:30 AM</td>
 <td style="font-weight: 400;" width="148">11/9/25 12:21 PM</td>
 <td style="font-weight: 400;" width="201">Hawkins Hall</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>
@@ -1514,7 +1549,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>November 13, 2025</span></em></p>
+        <p><em>Last modified: <span>November 14, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
