@@ -659,7 +659,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Monday, November 17, 2025</h3>
+  					<h3>Updated Thursday, November 20, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1238,6 +1238,11 @@
 <td width="76">1/27/26</td>
 </tr>
 <tr>
+<td width="204">Wang, Rui</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">11/19/26</td>
+</tr>
+<tr>
 <td width="204">Watkins, Matthew A.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">2/12/26</td>
@@ -1316,9 +1321,9 @@
 
 
  <div class="footer__resources__column">
-        <h3><button aria-controls="sect1" aria-disabled="true" aria-expanded="true" class="accordion__heading accordion__heading--footer" id="accordion1id">Communication<i aria-hidden="true" class="fas fa-plus accordion__icon accordion__icon__plus"></i><i aria-hidden="true" class="fas fa-minus accordion__icon accordion__icon__minus"></i></button></h3>
+        <h3><button aria-controls="sect1" aria-disabled="true" aria-expanded="true" class="accordion__heading accordion__heading--footer" id="accordion1id">Explore<i aria-hidden="true" class="fas fa-plus accordion__icon accordion__icon__plus"></i><i aria-hidden="true" class="fas fa-minus accordion__icon accordion__icon__minus"></i></button></h3>
     <ul aria-labelledby="accordion1id" class="accordion__content--footer" id="sect1" role="list">
-                                       
+                                                       
                  
                 
         
@@ -1328,20 +1333,10 @@
         
         
             
-                            
-                <li role="listitem"><a href="https://one.purdue.edu">OneCampus Portal</a></li>
-                                
-                                 
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/campus-map/">Campus Map</a></li>
         
-                        
-                                            
-            
-        
-        
-                
-                            
-                <li role="listitem"><a href="https://purdue.brightspace.com" rel="noopener" target="_blank">Brightspace</a></li>
-                                
+                                                
                                  
         
                         
@@ -1350,9 +1345,10 @@
         
         
             
-                            
-                <li role="listitem"><a href="https://www.purdue.edu/boilerconnect/">BoilerConnect</a></li>
-                                
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/home/careers/">Careers</a></li>
+        
+                                                
                                  
         
                         
@@ -1361,9 +1357,10 @@
         
         
             
-                            
-                <li role="listitem"><a href="https://portal.office.com/">Office 365</a></li>
-                                
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/hr/CHL/">Center for Healthy Living</a></li>
+        
+                                                
                                  
         
                         
@@ -1372,9 +1369,10 @@
         
         
             
-                            
-                <li role="listitem"><a href="https://outlook.office.com/">Outlook</a></li>
-                                
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/home/colleges_schools">Colleges and Schools</a></li>
+        
+                                                
                                  
         
                         
@@ -1383,8 +1381,45 @@
         
         
             
-                            
-                <li role="listitem"><a href="https://mypurdue.purdue.edu">myPurdue</a></li>
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/directory/">Directory</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/home/commercialization/">Entrepreneurship and Commercialization</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/hr/">Human Resources</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.lib.purdue.edu/">Libraries</a></li>
+        
         
         </ul>
 </div>
@@ -1398,9 +1433,9 @@
 
 
  <div class="footer__resources__column">
-        <h3><button aria-controls="sect2" aria-disabled="true" aria-expanded="true" class="accordion__heading accordion__heading--footer" id="accordion2id">Campus<i aria-hidden="true" class="fas fa-plus accordion__icon accordion__icon__plus"></i><i aria-hidden="true" class="fas fa-minus accordion__icon accordion__icon__minus"></i></button></h3>
+        <h3><button aria-controls="sect2" aria-disabled="true" aria-expanded="true" class="accordion__heading accordion__heading--footer" id="accordion2id">Information<i aria-hidden="true" class="fas fa-plus accordion__icon accordion__icon__plus"></i><i aria-hidden="true" class="fas fa-minus accordion__icon accordion__icon__minus"></i></button></h3>
     <ul aria-labelledby="accordion2id" class="accordion__content--footer" id="sect2" role="list">
-                                       
+                                                       
                  
                 
         
@@ -1410,9 +1445,10 @@
         
         
             
-                            
-                <li role="listitem"><a href="https://www.purdue.edu/purdue/faculty_staff/index.php">Faculty and Staff</a></li>
-                                
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/vpec/">Ethics and Compliance</a></li>
+        
+                                                
                                  
         
                         
@@ -1421,9 +1457,10 @@
         
         
             
-                            
-                <li role="listitem"><a href="https://www.purdue.edu/hr/">Human Resources</a></li>
-                                
+                                    
+                        <li role="listitem"><a href="https://events.purdue.edu/">Events</a></li>
+        
+                                                
                                  
         
                         
@@ -1432,9 +1469,10 @@
         
         
             
-                            
-                <li role="listitem"><a href="https://www.purdue.edu/purdue/careers/index.php">Careers</a></li>
-                                
+                                    
+                        <li role="listitem"><a href="https://giving.purdue.edu/west-lafayette/?appealcode=21008">Give</a></li>
+        
+                                                
                                  
         
                         
@@ -1443,9 +1481,10 @@
         
         
             
-                            
-                <li role="listitem"><a href="https://www.purdue.edu/purdue/about/colleges_schools.php">Colleges and Schools</a></li>
-                                
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/surplus/lost-and-found/Index.html">Lost and Found</a></li>
+        
+                                                
                                  
         
                         
@@ -1454,9 +1493,10 @@
         
         
             
-                            
-                <li role="listitem"><a href="https://www.purdue.edu/directory/">Directory</a></li>
-                                
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/engagement/">Office of Engagement</a></li>
+        
+                                                
                                  
         
                         
@@ -1465,8 +1505,23 @@
         
         
             
-                            
-                <li role="listitem"><a href="https://www.purdue.edu/campus-map/">Campus Map</a></li>
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/president/">President</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/treasurer/finance/bursar-office/tuition/tuition-calculator/">Tuition Calculator</a></li>
+        
+                        <li aria-hidden="true" role="listitem" style="visibility: hidden"><a>&nbsp;</a></li>
+        
         
         </ul>
 </div>
@@ -1480,38 +1535,56 @@
             
                 
          <div class="footer__resources__column">
-        <h3><button aria-controls="sect3" aria-disabled="true" aria-expanded="true" class="accordion__heading accordion__heading--footer" id="accordion3id">Information<i aria-hidden="true" class="fas fa-plus accordion__icon accordion__icon__plus"></i><i aria-hidden="true" class="fas fa-minus accordion__icon accordion__icon__minus"></i></button></h3>
+        <h3><button aria-controls="sect3" aria-disabled="true" aria-expanded="true" class="accordion__heading accordion__heading--footer" id="accordion3id">Resources<i aria-hidden="true" class="fas fa-plus accordion__icon accordion__icon__plus"></i><i aria-hidden="true" class="fas fa-minus accordion__icon accordion__icon__minus"></i></button></h3>
     <ul aria-labelledby="accordion3id" class="accordion__content--footer" id="sect3" role="list">
-                                       
+                                                       
         
                             
-                                
-                <li role="listitem"><a href="https://www.purdue.edu/newsroom/purduetoday/">Purdue Today</a></li>
-                                
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/boilerconnect/">BoilerConnect</a></li>
+        
+                                                
         
                             
-                                
-                <li role="listitem"><a href="https://events.purdue.edu/">Events</a></li>
-                                
+                                        
+                        <li role="listitem"><a href="https://purdue.brightspace.com/">Brightspace</a></li>
+        
+                                                
         
                             
-                                
-                <li role="listitem"><a href="https://www.lib.purdue.edu/">Libraries</a></li>
-                                
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/home/current-students/">Current Students</a></li>
+        
+                                                
         
                             
-                                
-                <li role="listitem"><a href="https://www.purdue.edu/physicalfacilities/construction/">Construction</a></li>
-                                
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/home/faculty-staff/">Faculty and Staff</a></li>
+        
+                                                
         
                             
-                                
-                <li role="listitem"><a href="https://www.purdue.edu/treasurer/finance/bursar-office/tuition/tuition-calculator/">Tuition Calculator</a></li>
-                                
+                                        
+                        <li role="listitem"><a href="https://mypurdue.purdue.edu/">myPurdue</a></li>
+        
+                                                
         
                             
-                                
-                <li role="listitem"><a href="https://www.purdue.edu/hr/CHL/">Center for Healthy Living</a></li>
+                                        
+                        <li role="listitem"><a href="https://portal.office.com/">Office 365</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://one.purdue.edu/">OneCampus Portal</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://outlook.office.com/">Outlook</a></li>
+        
         
         </ul>
 </div>
@@ -1525,38 +1598,56 @@
             
                 
          <div class="footer__resources__column">
-        <h3><button aria-controls="sect4" aria-disabled="true" aria-expanded="true" class="accordion__heading accordion__heading--footer" id="accordion4id">People<i aria-hidden="true" class="fas fa-plus accordion__icon accordion__icon__plus"></i><i aria-hidden="true" class="fas fa-minus accordion__icon accordion__icon__minus"></i></button></h3>
+        <h3><button aria-controls="sect4" aria-disabled="true" aria-expanded="true" class="accordion__heading accordion__heading--footer" id="accordion4id">Communication<i aria-hidden="true" class="fas fa-plus accordion__icon accordion__icon__plus"></i><i aria-hidden="true" class="fas fa-minus accordion__icon accordion__icon__minus"></i></button></h3>
     <ul aria-labelledby="accordion4id" class="accordion__content--footer" id="sect4" role="list">
-                                       
+                                                       
         
                             
-                                
-                <li role="listitem"><a href="https://www.purdue.edu/hotline/">Purdue Hotline</a></li>
-                                
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/ehps/police/statistics-policies/security-reports.php">Annual Security Report</a></li>
+        
+                                                
         
                             
-                                
-                <li role="listitem"><a href="https://www.purdue.edu/diversity-inclusion/">Diversity and Inclusion</a></li>
-                                
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/physicalfacilities/construction/">Construction</a></li>
+        
+                                                
         
                             
-                                
-                <li role="listitem"><a href="https://www.purdue.edu/ethics/">Ethics and Compliance</a></li>
-                                
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/emergency/">Emergency</a></li>
+        
+                                                
         
                             
-                                
-                <li role="listitem"><a href="https://it.purdue.edu/">Information Technology</a></li>
-                                
+                                        
+                        <li role="listitem"><a href="https://it.purdue.edu/">Information Technology</a></li>
+        
+                                                
         
                             
-                                
-                <li role="listitem"><a href="https://www.purdue.edu/ehps/police/statistics-policies/security-reports.php">Annual Security Report</a></li>
-                                
+                                        
+                        <li role="listitem"><a href="https://marcom.purdue.edu/">Marketing and Communications</a></li>
+        
+                                                
         
                             
-                                
-                <li role="listitem"><a href="https://www.purdue.edu/ehps/police/timely-warnings/">Timely Warnings</a></li>
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/newsroom/">Purdue News</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/hotline/">Purdue Hotline</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/ehps/police/timely-warnings/">Timely Warnings</a></li>
+        
         
         </ul>
 </div>
@@ -1782,7 +1873,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>November 17, 2025</span></em></p>
+        <p><em>Last modified: <span>November 20, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
