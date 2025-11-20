@@ -672,7 +672,82 @@
   
     	<section class="content__group">
   					<h3>Thursday, November 20, 2025</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Battery</td>
+<td style="font-weight: 400;" width="172">2025PU01679</td>
+<td style="font-weight: 400;" width="148">11/18/25 8:00 AM</td>
+<td style="font-weight: 400;" width="148">11/19/25 9:30 AM</td>
+<td style="font-weight: 400;" width="201">Shreve Hall</td>
+<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">2025PU01680</td>
+<td style="font-weight: 400;" width="148">11/19/25 12:15 PM</td>
+<td style="font-weight: 400;" width="148">11/19/25 3:27 PM</td>
+<td style="font-weight: 400;" width="201">1200 Blk W Stadium Ave</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Intimidation</td>
+<td style="font-weight: 400;" width="172">2025PU01681</td>
+<td style="font-weight: 400;" width="148">11/19/25 3:00 PM</td>
+<td style="font-weight: 400;" width="148">11/19/25 5:23 PM</td>
+<td style="font-weight: 400;" width="201">Center for Healthy Living</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="172">2025PU01684</td>
+<td style="font-weight: 400;" width="148">11/17/25 11:59 PM</td>
+<td style="font-weight: 400;" width="148">11/19/25 7:38 PM</td>
+<td style="font-weight: 400;" width="201">Aspire Apts</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Theft</td>
+<td style="font-weight: 400;">CAD# 2025-177848</td>
+<td style="font-weight: 400;">11/18/25 9:20 AM</td>
+<td style="font-weight: 400;">11/18/25 9:20 AM</td>
+<td style="font-weight: 400;">Rawls Hall</td>
+<td style="font-weight: 400;">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-177944</td>
+<td style="font-weight: 400;" width="148">11/18/25 12:05 PM</td>
+<td style="font-weight: 400;" width="148">11/18/25 12:05 PM</td>
+<td style="font-weight: 400;" width="201">Cherry Ln/Northwestern Ave</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Sexual Assault</td>
+<td style="font-weight: 400;">CSA</td>
+<td style="font-weight: 400;">11/19/25 Unknown Time</td>
+<td style="font-weight: 400;">11/19/25 1:00 PM</td>
+<td style="font-weight: 400;">Unknown Campus Location</td>
+<td style="font-weight: 400;">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Rape</td>
+<td style="font-weight: 400;">CSA</td>
+<td style="font-weight: 400;">11/19/25 2:00 AM</td>
+<td style="font-weight: 400;">11/20/25 12:56 AM</td>
+<td style="font-weight: 400;">1400 Blk 3rd St</td>
+<td style="font-weight: 400;">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -857,7 +932,7 @@
 <td style="font-weight: 400;" width="148">11/16/25 8:45 PM</td>
 <td style="font-weight: 400;" width="148">11/17/25 7:56 PM</td>
 <td style="font-weight: 400;" width="201">Winifred Parker Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
@@ -1741,7 +1816,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>November 19, 2025</span></em></p>
+        <p><em>Last modified: <span>November 20, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
