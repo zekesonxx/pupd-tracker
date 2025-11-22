@@ -665,14 +665,14 @@
   
     	<section class="content__group">
   					<h3>Friday, November 28, 2025</h3>
-<p>Will be posted soon.</p>
+<p>Thanksgiving Break.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
   					<h3>Thursday, November 27, 2025</h3>
-Will be posted soon.
+Thanksgiving Day.
 		</section>
 	
           <div class="clearfix"></div>
