@@ -1243,6 +1243,11 @@
 <td width="76">9/3/29</td>
 </tr>
 <tr>
+<td width="204">Tran, Jacob</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">11/26/26</td>
+</tr>
+<tr>
 <td width="204">Veach, Nathaniel</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">10/22/26</td>
