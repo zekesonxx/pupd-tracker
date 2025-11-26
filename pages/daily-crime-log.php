@@ -679,7 +679,114 @@ Thanksgiving Day.
   
     	<section class="content__group">
   					<h3>Wednesday, November 26, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving While Suspended</td>
+<td style="font-weight: 400;" width="172">2025PU01721</td>
+<td style="font-weight: 400;" width="148">11/25/25 1:43 PM</td>
+<td style="font-weight: 400;" width="148">11/25/25 2:01 PM</td>
+<td style="font-weight: 400;" width="201">Sheetz St/ Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="172">2025PU01723</td>
+<td style="font-weight: 400;" width="148">11/25/25 12:00 PM</td>
+<td style="font-weight: 400;" width="148">11/26/25 4:35 AM</td>
+<td style="font-weight: 400;" width="201">Purdue Menorial Union</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-181850</td>
+<td style="font-weight: 400;" width="148">11/25/25 7:27 AM</td>
+<td style="font-weight: 400;" width="148">11/25/25 7:27 AM</td>
+<td style="font-weight: 400;" width="201">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">3 Disciplinary Referrals</td>
+<td style="font-weight: 400;">11/1/25 2:15 AM</td>
+<td style="font-weight: 400;">11/1/25 3:15 AM</td>
+<td style="font-weight: 400;">Wiley Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">7 Disciplinary Referrals</td>
+<td style="font-weight: 400;">11/1/25 3:30 AM</td>
+<td style="font-weight: 400;">11/1/25 5:04 AM</td>
+<td style="font-weight: 400;">Wiley Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">9 Disciplinary Referrals</td>
+<td style="font-weight: 400;">11/1/25 10:40 PM</td>
+<td style="font-weight: 400;">11/1/25 11:22 PM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;">4 Disciplinary Referrals</td>
+<td style="font-weight: 400;">11/3/25 11:30 PM</td>
+<td style="font-weight: 400;">11/4/25 12:26 AM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">3 Disciplinary Referrals</td>
+<td style="font-weight: 400;">11/7/25 11:45 PM</td>
+<td style="font-weight: 400;">11/9/25 1:32 AM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">11/8/25 6:30 PM</td>
+<td style="font-weight: 400;">11/8/25 8:12 PM</td>
+<td style="font-weight: 400;">Hillenbrand Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">3 Disciplinary Referrals</td>
+<td style="font-weight: 400;">11/14/25 9:00 AM</td>
+<td style="font-weight: 400;">11/14/25 2:45 PM</td>
+<td style="font-weight: 400;">Hilltop Apts.</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">8 Disciplinary Referrals</td>
+<td style="font-weight: 400;">11/15/25 12:15 AM</td>
+<td style="font-weight: 400;">11/15/25 1:39 AM</td>
+<td style="font-weight: 400;">3rd and West</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referrals</td>
+<td style="font-weight: 400;">11/15/25 3:00 PM</td>
+<td style="font-weight: 400;">11/15/25 5:20 PM</td>
+<td style="font-weight: 400;">Owen Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1458,7 +1565,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>November 25, 2025</span></em></p>
+        <p><em>Last modified: <span>November 26, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
