@@ -693,7 +693,98 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, December 1, 2025</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Blackmail</td>
+<td style="font-weight: 400;" width="172">2025PU01724</td>
+<td style="font-weight: 400;" width="148">11/26/25 3:30 PM</td>
+<td style="font-weight: 400;" width="148">11/27/25 2:09 PM</td>
+<td style="font-weight: 400;" width="201">Shreve Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving Never Receiving License</td>
+<td style="font-weight: 400;" width="172">2025PU01726</td>
+<td style="font-weight: 400;" width="148">11/27/25 10:47 PM</td>
+<td style="font-weight: 400;" width="148">11/27/25 11:27 PM</td>
+<td style="font-weight: 400;" width="201">Mitch Daniels Blvd/ Marsteller St</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2025PU01729</td>
+<td style="font-weight: 400;" width="148">11/28/25 8:30 PM</td>
+<td style="font-weight: 400;" width="148">11/28/25 8:49 PM</td>
+<td style="font-weight: 400;" width="201">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2025PU01730</td>
+<td style="font-weight: 400;" width="148">11/28/25 8:55 PM</td>
+<td style="font-weight: 400;" width="148">11/28/25 8:55 PM</td>
+<td style="font-weight: 400;" width="201">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Battery</td>
+<td style="font-weight: 400;" width="172">2025PU01731</td>
+<td style="font-weight: 400;" width="148">11/28/25 9:00 PM</td>
+<td style="font-weight: 400;" width="148">11/28/25 9:10 PM</td>
+<td style="font-weight: 400;" width="201">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2025PU01733</td>
+<td style="font-weight: 400;" width="148">11/20/25 7:00 PM</td>
+<td style="font-weight: 400;" width="148">11/29/25 1:16 PM</td>
+<td style="font-weight: 400;" width="201">Krannert Center</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2025PU01736</td>
+<td style="font-weight: 400;" width="148">11/28/25 11:16 PM</td>
+<td style="font-weight: 400;" width="148">11/30/25 11:13 AM</td>
+<td style="font-weight: 400;" width="201">Meredith South</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2025PU01737</td>
+<td style="font-weight: 400;" width="148">11/30/25 5:34 PM</td>
+<td style="font-weight: 400;" width="148">11/30/25 6:23 PM</td>
+<td style="font-weight: 400;" width="201">Meredith South</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud</td>
+<td style="font-weight: 400;" width="172">2025PU01738</td>
+<td style="font-weight: 400;" width="148">11/30/25 6:50 PM</td>
+<td style="font-weight: 400;" width="148">11/30/25 7:17 PM</td>
+<td style="font-weight: 400;" width="201">3rd &amp; West</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">2025PU01739</td>
+<td style="font-weight: 400;" width="148">11/30/25 10:31 PM</td>
+<td style="font-weight: 400;" width="148">11/30/25 10:58 PM</td>
+<td style="font-weight: 400;" width="201">Ahlers Dr/ S River Rd</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1276,7 +1367,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>November 26, 2025</span></em></p>
+        <p><em>Last modified: <span>December 1, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
