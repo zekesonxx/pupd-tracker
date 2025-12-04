@@ -596,22 +596,7 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                                                                                                
-        
-                
-    
-    <li role="none"><a href="102025-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
-                                                                            
-        
-                
-    
-    <li role="none"><a href="110325-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
-                                                                            
-        
-                
-    
-    <li role="none"><a href="111725-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
-                            </ul>
+                                            </ul>
 </nav>
 
 
@@ -740,7 +725,7 @@
 <td style="font-weight: 400;" width="148">10/29/25 8:00 PM</td>
 <td style="font-weight: 400;" width="148">10/29/25 11:06 PM</td>
 <td style="font-weight: 400;" width="201">Honors College North</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Reckless Driver</td>
@@ -832,7 +817,7 @@
 <td style="font-weight: 400;" width="148">10/27/25 6:08 PM</td>
 <td style="font-weight: 400;" width="148">10/27/25 7:53 PM</td>
 <td style="font-weight: 400;" width="201">CoRec</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Liquor Law Violation</td>
@@ -930,7 +915,7 @@
 <td style="font-weight: 400;" width="148">10/25/25 1:39 AM</td>
 <td style="font-weight: 400;" width="148">10/25/25 2:06 AM</td>
 <td style="font-weight: 400;" width="201">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption/ Public Intoxication</td>
@@ -1002,7 +987,7 @@
 <td style="font-weight: 400;" width="148">10/26/25 1:41 AM</td>
 <td style="font-weight: 400;" width="148">10/26/25 2:11 AM</td>
 <td style="font-weight: 400;" width="201">Earhart Hall</td>
-<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
@@ -1628,7 +1613,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>November 24, 2025</span></em></p>
+        <p><em>Last modified: <span>December 4, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
