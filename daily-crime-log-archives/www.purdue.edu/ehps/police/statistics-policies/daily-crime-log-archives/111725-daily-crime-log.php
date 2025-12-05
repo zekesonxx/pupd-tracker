@@ -596,7 +596,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">Daily Crime Log</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="120125-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
@@ -1235,7 +1240,7 @@
 <td style="font-weight: 400;" width="148">11/16/25 11:20 PM</td>
 <td style="font-weight: 400;" width="148">11/17/25 12:03 AM</td>
 <td style="font-weight: 400;" width="201">US 231/ Airport Rd</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft-EMPV</td>
@@ -1869,7 +1874,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>December 4, 2025</span></em></p>
+        <p><em>Last modified: <span>December 5, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
