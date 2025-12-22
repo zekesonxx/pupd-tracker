@@ -693,7 +693,74 @@
   
     	<section class="content__group">
   					<h3>Monday, December 22, 2025</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">2025PU01830</td>
+<td style="font-weight: 400;" width="148">12/19/25 10:00 AM</td>
+<td style="font-weight: 400;" width="148">12/19/25 10:13 AM</td>
+<td style="font-weight: 400;" width="201">Grant St Garage</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud</td>
+<td style="font-weight: 400;" width="172">2025PU01831</td>
+<td style="font-weight: 400;" width="148">12/11/25 12:00 PM</td>
+<td style="font-weight: 400;" width="148">12/19/25 4:10 PM</td>
+<td style="font-weight: 400;" width="201">Material Management and Distribution Center</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2025PU01832</td>
+<td style="font-weight: 400;" width="148">12/20/25 12:09 AM</td>
+<td style="font-weight: 400;" width="148">12/20/25 12:21 AM</td>
+<td style="font-weight: 400;" width="201">Mitch Daniels Blvd/ Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving Never Receiving License</td>
+<td style="font-weight: 400;" width="172">2025PU01834</td>
+<td style="font-weight: 400;" width="148">12/20/25 9:35 AM</td>
+<td style="font-weight: 400;" width="148">12/20/25 9:49 AM</td>
+<td style="font-weight: 400;" width="201">Mitch Daniels Blvd/ Provenance Blvd</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2025PU01837</td>
+<td style="font-weight: 400;" width="148">12/9/25 12:00 PM</td>
+<td style="font-weight: 400;" width="148">12/20/25 1:47 PM</td>
+<td style="font-weight: 400;" width="201">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2025PU01838</td>
+<td style="font-weight: 400;" width="148">12/17/25 3:00 PM</td>
+<td style="font-weight: 400;" width="148">12/20/25 1:04 PM</td>
+<td style="font-weight: 400;" width="201">Hilltop Apts</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-195032</td>
+<td style="font-weight: 400;" width="148">12/18/25 7:20 PM</td>
+<td style="font-weight: 400;" width="148">12/18/25 7:20 PM</td>
+<td style="font-weight: 400;" width="201">Honors College</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1276,7 +1343,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>December 19, 2025</span></em></p>
+        <p><em>Last modified: <span>December 22, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
