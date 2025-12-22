@@ -659,18 +659,13 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Friday, December 12, 2025</h3>
+  					<h3>Updated Monday, December 22, 2025</h3>
 <table width="100%">
 <tbody>
 <tr>
 <th scope="col" width="204">Name</th>
 <th scope="col" width="211">Location Where Valid</th>
 <th scope="col" width="76">Expiration Date</th>
-</tr>
-<tr>
-<td width="204">Abdel-Haleem, Ayman M.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">1/4/26</td>
 </tr>
 <tr>
 <td width="204">Arroyo, Paolo N.</td>
@@ -716,11 +711,6 @@
 <td width="204">Bopp, Cameron A.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">7/11/29</td>
-</tr>
-<tr>
-<td width="204">Brown, Antonie</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">1/2/26</td>
 </tr>
 <tr>
 <td width="204">Butler, Robert</td>
@@ -1021,6 +1011,11 @@
 <td width="204">Myers, Grant E.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">7/11/29</td>
+</tr>
+<tr>
+<td width="204">N., A. (Juvenile)</td>
+<td width="211">Armstrong Hall</td>
+<td width="76">12/22/26</td>
 </tr>
 <tr>
 <td width="204">O'Brien, Hunter A.</td>
@@ -1878,7 +1873,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>December 11, 2025</span></em></p>
+        <p><em>Last modified: <span>December 22, 2025</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2025 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
