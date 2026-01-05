@@ -693,7 +693,51 @@
   
     	<section class="content__group">
   					<h3>Monday, January 5, 2026</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Vehicle (Attempted)/ Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2025PU01852</td>
+<td style="font-weight: 400;" width="148">12/23/25 8:30 PM</td>
+<td style="font-weight: 400;" width="148">12/23/25 10:04 PM</td>
+<td style="font-weight: 400;" width="201">Wood St Garage</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">2025PU01857</td>
+<td style="font-weight: 400;" width="148">12/31/25 11:38 AM</td>
+<td style="font-weight: 400;" width="148">12/31/25 12:24 PM</td>
+<td style="font-weight: 400;" width="201">Mitch Daniels Blvd/ US 231</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">2025PU01858</td>
+<td style="font-weight: 400;" width="148">12/31/25 10:09 PM</td>
+<td style="font-weight: 400;" width="148">12/31/25 10:29 PM</td>
+<td style="font-weight: 400;" width="201">Cherry Ln/ US 231</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">2026PU00002</td>
+<td style="font-weight: 400;" width="148">1/1/26 11:29 PM</td>
+<td style="font-weight: 400;" width="148">1/1/26 11:57 PM</td>
+<td style="font-weight: 400;" width="201">Mitch Daniels Blvd/ Marsteller St</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+</tbody>
+</table>
+<p>.</p>
 		</section>
 	
           <div class="clearfix"></div>
