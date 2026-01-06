@@ -686,7 +686,122 @@
   
     	<section class="content__group">
   					<h3>Tuesday, January 6, 2026</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00005</td>
+<td style="font-weight: 400;" width="148">12/31/25 3:29 PM</td>
+<td style="font-weight: 400;" width="148">1/6/26 1:01 AM</td>
+<td style="font-weight: 400;" width="201">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driving</td>
+<td style="font-weight: 400;" width="172">CAD# 2025-000822</td>
+<td style="font-weight: 400;" width="148">1/2/26 9:44 PM</td>
+<td style="font-weight: 400;" width="148">1/2/26 9:44 PM</td>
+<td style="font-weight: 400;" width="201">Wood St Garage</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">2 Disciplinary Referrals</td>
+<td style="font-weight: 400;" width="148">12/5/25 10:00 PM</td>
+<td style="font-weight: 400;" width="148">12/5/25 10:56 PM</td>
+<td style="font-weight: 400;" width="201">Wiley Hall</td>
+<td style="font-weight: 400;" width="189">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">4 Disciplinary Referrals</td>
+<td style="font-weight: 400;" width="148">12/5/25 10:15 PM</td>
+<td style="font-weight: 400;" width="148">12/5/25 11:40 PM</td>
+<td style="font-weight: 400;" width="201">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="189">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">7 Disciplinary Referrals</td>
+<td style="font-weight: 400;" width="148">12/5/25 10:35 PM</td>
+<td style="font-weight: 400;" width="148">12/6/25 12:02 AM</td>
+<td style="font-weight: 400;" width="201">Owen Hall</td>
+<td style="font-weight: 400;" width="189">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">6 Disciplinary Referrals</td>
+<td style="font-weight: 400;" width="148">12/5/25 10:50 PM</td>
+<td style="font-weight: 400;" width="148">12/5/25 11:40 PM</td>
+<td style="font-weight: 400;" width="201">Owen Hall</td>
+<td style="font-weight: 400;" width="189">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">6 Disciplinary Referrals</td>
+<td style="font-weight: 400;" width="148">12/5/25 11:30 PM</td>
+<td style="font-weight: 400;" width="148">12/6/25 12:27 AM</td>
+<td style="font-weight: 400;" width="201">Tarkington Hall</td>
+<td style="font-weight: 400;" width="189">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">2 Disciplinary Referrals</td>
+<td style="font-weight: 400;" width="148">12/6/25 1:00 AM</td>
+<td style="font-weight: 400;" width="148">12/6/25 1:57 AM</td>
+<td style="font-weight: 400;" width="201">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="189">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="148">12/6/25 2:15 AM</td>
+<td style="font-weight: 400;" width="148">12/6/25 3:06 AM</td>
+<td style="font-weight: 400;" width="201">Wiley Hall</td>
+<td style="font-weight: 400;" width="189">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="148">12/6/25 2:40 AM</td>
+<td style="font-weight: 400;" width="148">12/6/25 3:52 AM</td>
+<td style="font-weight: 400;" width="201">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="189">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">4 Disciplinary Referrals</td>
+<td style="font-weight: 400;" width="148">12/7/25 12:15 AM</td>
+<td style="font-weight: 400;" width="148">12/7/25 12:53 AM</td>
+<td style="font-weight: 400;" width="201">Owen Hall</td>
+<td style="font-weight: 400;" width="189">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="148">12/7/25 10:30 PM</td>
+<td style="font-weight: 400;" width="148">12/8/25 12:10 AM</td>
+<td style="font-weight: 400;" width="201">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="189">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">3 Disciplinary Referrals</td>
+<td style="font-weight: 400;" width="148">12/14/25 9:30 PM</td>
+<td style="font-weight: 400;" width="148">12/14/25 10:11 PM</td>
+<td style="font-weight: 400;" width="201">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="189">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1320,7 +1435,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>January 5, 2026</span></em></p>
+        <p><em>Last modified: <span>January 6, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
