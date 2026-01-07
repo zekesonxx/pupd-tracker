@@ -624,12 +624,7 @@
 <li><a href="112425-daily-crime-log.php" title="112425 Daily Crime Log">Week of November 24, 2025</a></li>
 <li><a href="111725-daily-crime-log.php" title="111725 Daily Crime Log">Week of November 17, 2025</a></li>
 <li><a href="111025-daily-crime-log.php" title="111025 Daily Crime Log">Week of November 10, 2025</a></li>
-<li><a href="110325-daily-crime-log.php" title="111025 Daily Crime Log">Week of November 3, 2025</a></li>
-<li><a href="102725-daily-crime-log.php" title="102725 Daily Crime Log">Week of October 27, 2025</a></li>
-<li><a href="102025-daily-crime-log.php" title="102025 Daily Crime Log">Week of October 20, 2025</a></li>
-<li><a href="101325-daily-crime-log.php" title="101325 Daily Crime Log">Week of October 13, 2025</a></li>
-<li><a href="100625-daily-crime-log.php" title="100625 Daily Crime Log">Week of October 6, 2025</a></li>
-<li><a href="092925-daily-crime-log.php" title="092925 Daily Crime Log">Week of September 29, 2025</a></li>
+<li><a href="110325-daily-crime-log.php" title="111025 Daily Crime Log">Week of November 3, 2025</a><a href="2025-archive/092925-daily-crime-log.php" title="092925 Daily Crime Log"></a></li>
 </ul>
 		</section>
 	
@@ -1205,7 +1200,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>January 5, 2026</span></em></p>
+        <p><em>Last modified: <span>January 7, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
