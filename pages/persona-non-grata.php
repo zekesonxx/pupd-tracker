@@ -659,7 +659,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Thursday, January 8, 2026</h3>
+  					<h3>Updated Friday, January 9, 2026</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -941,11 +941,6 @@
 <td width="204">Johnson, Dennis R.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/28/30</td>
-</tr>
-<tr>
-<td width="204">Jung, Isaac J.</td>
-<td width="211">Frieda and Winifred Parker Halls</td>
-<td width="76">1/9/26</td>
 </tr>
 <tr>
 <td width="204">Kaechele, Alexander W.</td>
