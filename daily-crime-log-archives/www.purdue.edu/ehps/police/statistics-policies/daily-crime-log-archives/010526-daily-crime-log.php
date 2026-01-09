@@ -666,6 +666,14 @@
 <td style="font-weight: 400;" width="201">Nelson Hall</td>
 <td style="font-weight: 400;" width="189">Under Investigation</td>
 </tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">CSA</td>
+<td style="font-weight: 400;" width="148">1/7/26 9:46 PM</td>
+<td style="font-weight: 400;" width="148">1/7/26 10:07 PM</td>
+<td style="font-weight: 400;" width="201">Elliott Hall of Music</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
 </tbody>
 </table>
 		</section>
