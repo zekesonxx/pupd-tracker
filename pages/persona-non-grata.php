@@ -659,7 +659,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Friday, January 9, 2026</h3>
+  					<h3>Updated Monday, January 12, 2026</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -941,11 +941,6 @@
 <td width="204">Johnson, Dennis R.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/28/30</td>
-</tr>
-<tr>
-<td width="204">Kaechele, Alexander W.</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">1/6/27</td>
 </tr>
 <tr>
 <td width="204">Khichi, Ali A.</td>
@@ -1893,7 +1888,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>January 8, 2026</span></em></p>
+        <p><em>Last modified: <span>January 12, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
