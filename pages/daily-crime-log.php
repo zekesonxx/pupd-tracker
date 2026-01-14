@@ -679,7 +679,58 @@
   
     	<section class="content__group">
   					<h3>Wednesday, January 14, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00037</td>
+<td style="font-weight: 400;" width="148">12/15/25 4:49 PM</td>
+<td style="font-weight: 400;" width="148">1/13/26 4:52 PM</td>
+<td style="font-weight: 400;" width="201">Phi Gamma Delta</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-005709</td>
+<td style="font-weight: 400;" width="148">1/12/26 4:08 PM</td>
+<td style="font-weight: 400;" width="148">1/12/26 4:08 PM</td>
+<td style="font-weight: 400;" width="201">US HWY 231 S/Airport Rd</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-006023</td>
+<td style="font-weight: 400;" width="148">1/13/26 1:58 AM</td>
+<td style="font-weight: 400;" width="148">1/13/26 1:58 AM</td>
+<td style="font-weight: 400;" width="201">Cary Quad East</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-006207</td>
+<td style="font-weight: 400;" width="148">1/13/26 11:48 AM</td>
+<td style="font-weight: 400;" width="148">1/13/26 11:48 AM</td>
+<td style="font-weight: 400;" width="201">Mitch Daniels Blvd/Marsteller St</td>
+<td style="font-weight: 400;" width="189">Documented in 2026WL00087</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Stalking</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-006293</td>
+<td style="font-weight: 400;" width="148">1/13/26 2:23 PM</td>
+<td style="font-weight: 400;" width="148">1/13/26 2:23 PM</td>
+<td style="font-weight: 400;" width="201">Lilly Hall</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1403,7 +1454,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>January 13, 2026</span></em></p>
+        <p><em>Last modified: <span>January 14, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
