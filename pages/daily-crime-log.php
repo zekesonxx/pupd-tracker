@@ -693,7 +693,7 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, January 19, 2026</h3>
-<p>Will be posted soon..</p>
+<p>Martin Luther King Jr. Day.</p>
 		</section>
 	
           <div class="clearfix"></div>
