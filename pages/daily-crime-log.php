@@ -686,7 +686,130 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, January 20, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU00050</td>
+<td style="font-weight: 400;" width="148">1/15/26 7:30 PM</td>
+<td style="font-weight: 400;" width="148">1/16/26 9:39 AM</td>
+<td style="font-weight: 400;" width="201">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Burglary</td>
+<td style="font-weight: 400;" width="172">2026PU00053</td>
+<td style="font-weight: 400;" width="148">12/12/25 10:15 PM</td>
+<td style="font-weight: 400;" width="148">1/16/26 8:11 PM</td>
+<td style="font-weight: 400;" width="201">Math Building</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU00054</td>
+<td style="font-weight: 400;" width="148">1/16/26 11:34 PM</td>
+<td style="font-weight: 400;" width="148">1/16/26 11:50 PM</td>
+<td style="font-weight: 400;" width="201">Meredith South</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violations</td>
+<td style="font-weight: 400;" width="172">2026PU00058</td>
+<td style="font-weight: 400;" width="148">1/17/26 8:09 PM</td>
+<td style="font-weight: 400;" width="148">1/17/26 8:40 PM</td>
+<td style="font-weight: 400;" width="201">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU00059</td>
+<td style="font-weight: 400;" width="148">1/17/26 7:45 PM</td>
+<td style="font-weight: 400;" width="148">1/17/26 10:39 PM</td>
+<td style="font-weight: 400;" width="201">Shreve Hall</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU00060</td>
+<td style="font-weight: 400;" width="148">1/17/26 10:00 PM</td>
+<td style="font-weight: 400;" width="148">1/18/26 1:52 AM</td>
+<td style="font-weight: 400;" width="201">Meredith South</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU00062</td>
+<td style="font-weight: 400;" width="148">1/17/26 11:57 PM</td>
+<td style="font-weight: 400;" width="148">1/18/26 2:06 AM</td>
+<td style="font-weight: 400;" width="201">Earhart Hall</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU00063</td>
+<td style="font-weight: 400;" width="148">1/18/26 2:10 AM</td>
+<td style="font-weight: 400;" width="148">1/18/26 2:31 AM</td>
+<td style="font-weight: 400;" width="201">Meredith Hall</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU00065</td>
+<td style="font-weight: 400;" width="148">1/18/26 4:38 AM</td>
+<td style="font-weight: 400;" width="148">1/18/26 4:58 AM</td>
+<td style="font-weight: 400;" width="201">Earhart Hall</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU00067</td>
+<td style="font-weight: 400;" width="148">1/18/26 10:17 PM</td>
+<td style="font-weight: 400;" width="148">1/18/26 10:46 PM</td>
+<td style="font-weight: 400;" width="201">Harrison Hall</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU00068</td>
+<td style="font-weight: 400;" width="148">1/18/26 10:00 AM</td>
+<td style="font-weight: 400;" width="148">1/19/26 2:23 AM</td>
+<td style="font-weight: 400;" width="201">Honors College South</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU00069</td>
+<td style="font-weight: 400;" width="148">11/15/25 12:00 PM</td>
+<td style="font-weight: 400;" width="148">1/19/26 1:18 PM</td>
+<td style="font-weight: 400;" width="201">Stewart Center</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Vehicle</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-008001</td>
+<td style="font-weight: 400;" width="148">1/16/26 11:04 AM</td>
+<td style="font-weight: 400;" width="148">1/16/26 11:04 AM</td>
+<td style="font-weight: 400;" width="201">Phi Kappa Psi</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Sexual Assault</td>
+<td style="font-weight: 400;" width="172">CSA</td>
+<td style="font-weight: 400;" width="148">10/1/25 12:00 AM</td>
+<td style="font-weight: 400;" width="148">1/16/26 3:00 PM</td>
+<td style="font-weight: 400;" width="201">400 Blk W Wood St</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1276,7 +1399,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>January 16, 2026</span></em></p>
+        <p><em>Last modified: <span>January 20, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
