@@ -659,7 +659,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Tuesday, January 20, 2026</h3>
+  					<h3>Updated Wednesday, January 21, 2026</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -1158,6 +1158,11 @@
 <td width="76">3/25/27</td>
 </tr>
 <tr>
+<td width="204">S., J. (Juvenile)</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">1/20/31</td>
+</tr>
+<tr>
 <td width="204">Seats, Ricky T.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/28/29</td>
@@ -1166,11 +1171,6 @@
 <td width="204">Sherman, Sheron E.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">6/17/29</td>
-</tr>
-<tr>
-<td width="204">Simpkins, AnnMarie</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">1/21/26</td>
 </tr>
 <tr>
 <td width="204">Skiles, Mark A.</td>
