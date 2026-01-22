@@ -672,7 +672,50 @@
   
     	<section class="content__group">
   					<h3>Thursday, January 22, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition</th>
+</tr>
+<tr>
+<td width="171">Harassment</td>
+<td width="172">2026PU00066</td>
+<td width="148">1/18/26 7:26 PM</td>
+<td width="148">1/18/26 8:14 PM</td>
+<td width="201">Animal Holding Facility</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="172">2026PU00078</td>
+<td width="148">1/22/26 3:13 AM</td>
+<td width="148">1/22/26 3:38 AM</td>
+<td width="201">Purdue West</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Public Intoxication</td>
+<td width="172">CAD# 2026-007796</td>
+<td width="148">1/16/26 2:05 AM</td>
+<td width="148">1/16/26 2:05 AM</td>
+<td width="201">Northwestern Ave/Lindberg Rd</td>
+<td width="189">Documented in 2026WL00109</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="172">CAD# 2026-010484</td>
+<td width="148">1/20/26 10:29 PM</td>
+<td width="148">1/20/26 10:29 PM</td>
+<td width="201">Mitch Daniels Blvd/S Grant St</td>
+<td width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -729,7 +772,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="148">1/15/26 7:30 PM</td>
 <td style="font-weight: 400;" width="148">1/16/26 9:39 AM</td>
 <td style="font-weight: 400;" width="201">Wilmeth Active Learning Center</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Burglary</td>
@@ -801,7 +844,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="148">1/18/26 10:17 PM</td>
 <td style="font-weight: 400;" width="148">1/18/26 10:46 PM</td>
 <td style="font-weight: 400;" width="201">Harrison Hall</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
@@ -1426,7 +1469,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>January 21, 2026</span></em></p>
+        <p><em>Last modified: <span>January 22, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
