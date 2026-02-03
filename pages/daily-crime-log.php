@@ -686,7 +686,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, February 3, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hazing/ Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU00122</td>
+<td style="font-weight: 400;" width="148">2/1/26 2:01 AM</td>
+<td style="font-weight: 400;" width="148">2/1/26 2:44 AM</td>
+<td style="font-weight: 400;" width="201">400 Blk Waldron St</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-016187</td>
+<td style="font-weight: 400;" width="148">1/31/26 1:23 AM</td>
+<td style="font-weight: 400;" width="148">1/31/26 1:23 AM</td>
+<td style="font-weight: 400;" width="201">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-016606</td>
+<td style="font-weight: 400;" width="148">1/31/26 9:15 PM</td>
+<td style="font-weight: 400;" width="148">1/31/26 9:15 PM</td>
+<td style="font-weight: 400;" width="201">Harrison St/S Chauncey Ave</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Road Rage</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-017058</td>
+<td style="font-weight: 400;" width="148">2/1/26 6:03 PM</td>
+<td style="font-weight: 400;" width="148">2/1/26 6:03 PM</td>
+<td style="font-weight: 400;" width="201">Northwestern Ave/N Grant St</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-017549</td>
+<td style="font-weight: 400;" width="148">2/2/26 3:02 PM</td>
+<td style="font-weight: 400;" width="148">2/2/26 3:02 PM</td>
+<td style="font-weight: 400;" width="201">Northwestern Ave/N Grant St</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1367,7 +1418,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>February 2, 2026</span></em></p>
+        <p><em>Last modified: <span>February 3, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
