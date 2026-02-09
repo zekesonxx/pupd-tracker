@@ -693,7 +693,178 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, February 9, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud</td>
+<td style="font-weight: 400;" width="172">2026PU00154</td>
+<td style="font-weight: 400;" width="148">2/6/26 10:30 AM</td>
+<td style="font-weight: 400;" width="148">2/6/26 11:32 AM</td>
+<td style="font-weight: 400;" width="201">Hawkins Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving While Suspended</td>
+<td style="font-weight: 400;" width="172">2026PU00156</td>
+<td style="font-weight: 400;" width="148">2/6/26 1:38 PM</td>
+<td style="font-weight: 400;" width="148">2/6/26 2:33 PM</td>
+<td style="font-weight: 400;" width="201">900 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00157</td>
+<td style="font-weight: 400;" width="148">2/5/26 5:37 PM</td>
+<td style="font-weight: 400;" width="148">2/6/26 4:05 PM</td>
+<td style="font-weight: 400;" width="201">CoRec</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU00158</td>
+<td style="font-weight: 400;" width="148">2/6/26 12:00 PM</td>
+<td style="font-weight: 400;" width="148">2/6/26 7:57 PM</td>
+<td style="font-weight: 400;" width="201">Academy Park</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Trespass/ Minor Consumption/ Public Intoxication</td>
+<td style="font-weight: 400;" width="172">2026PU00160</td>
+<td style="font-weight: 400;" width="148">2/7/26 1:00 AM</td>
+<td style="font-weight: 400;" width="148">2/7/26 1:05 AM</td>
+<td style="font-weight: 400;" width="201">Wade Power Plant</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00162</td>
+<td style="font-weight: 400;" width="148">2/7/26 7:27 PM</td>
+<td style="font-weight: 400;" width="148">2/7/26 7:53 PM</td>
+<td style="font-weight: 400;" width="201">Hawkins Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU00163</td>
+<td style="font-weight: 400;" width="148">2/8/26 12:02 AM</td>
+<td style="font-weight: 400;" width="148">2/8/26 12:18 AM</td>
+<td style="font-weight: 400;" width="201">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Battery/ Minor Consumption/ Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU00164</td>
+<td style="font-weight: 400;" width="148">2/8/26 1:26 AM</td>
+<td style="font-weight: 400;" width="148">2/8/26 1:48 AM</td>
+<td style="font-weight: 400;" width="201">Acacia House</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">2026PU00167</td>
+<td style="font-weight: 400;" width="148">2/7/26 10:00 PM</td>
+<td style="font-weight: 400;" width="148">2/8/26 12:15 PM</td>
+<td style="font-weight: 400;" width="201">Aspire Apts.</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-019526</td>
+<td style="font-weight: 400;" width="148">2/5/26 10:50 PM</td>
+<td style="font-weight: 400;" width="148">2/5/26 10:50 PM</td>
+<td style="font-weight: 400;" width="201">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-019830</td>
+<td style="font-weight: 400;" width="148">2/6/26 1:31 PM</td>
+<td style="font-weight: 400;" width="148">2/6/26 1:31 PM</td>
+<td style="font-weight: 400;" width="201">W Stadium Ave/N Russell St</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referrals</td>
+<td style="font-weight: 400;">1/18/26 10:15 PM</td>
+<td style="font-weight: 400;">1/18/26 11:51 PM</td>
+<td style="font-weight: 400;">Harrison Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">1/21/26 11:47 PM</td>
+<td style="font-weight: 400;">1/22/26 11:31 AM</td>
+<td style="font-weight: 400;">Wiley Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">3 Disciplinary Referrals</td>
+<td style="font-weight: 400;">1/23/26 1:30 PM</td>
+<td style="font-weight: 400;">1/23/26 4:18 PM</td>
+<td style="font-weight: 400;">3rd and West apts.</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">3 Disciplinary Referrals</td>
+<td style="font-weight: 400;">1/24/26 3:00 AM</td>
+<td style="font-weight: 400;">1/24/26 3:03 AM</td>
+<td style="font-weight: 400;">Tarkington Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">1/26/26 8:30 PM</td>
+<td style="font-weight: 400;">1/26/26 11:48 PM</td>
+<td style="font-weight: 400;">Wiley Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">1/26/26 10:30 PM</td>
+<td style="font-weight: 400;">1/26/26 11:38 PM</td>
+<td style="font-weight: 400;">Wiley Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Drug Law Violation</td>
+<td style="font-weight: 400;">2 Disciplinary Referrals</td>
+<td style="font-weight: 400;">1/26/26 10:30 PM</td>
+<td style="font-weight: 400;">1/26/26 11:38 PM</td>
+<td style="font-weight: 400;">Wiley Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">6 Disciplinary Referrals</td>
+<td style="font-weight: 400;">1/27/26 8:30 PM</td>
+<td style="font-weight: 400;">1/27/26 9:24 PM</td>
+<td style="font-weight: 400;">Winifred Parker Hall</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;">Liquor Law Violation</td>
+<td style="font-weight: 400;">1 Disciplinary Referral</td>
+<td style="font-weight: 400;">1/27/26 9:00 PM</td>
+<td style="font-weight: 400;">1/27/26 11:44 PM</td>
+<td style="font-weight: 400;">Aspire Apts.</td>
+<td style="font-weight: 400;">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1276,7 +1447,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>February 6, 2026</span></em></p>
+        <p><em>Last modified: <span>February 9, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
