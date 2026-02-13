@@ -659,7 +659,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Thursday, February 12, 2026</h3>
+  					<h3>Updated Friday, February 13, 2026</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -961,11 +961,6 @@
 <td width="204">Johnson, Dennis R.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/28/30</td>
-</tr>
-<tr>
-<td width="204">Khichi, Ali A.</td>
-<td width="211">All Residence Halls and Dining Courts</td>
-<td width="76">2/14/26</td>
 </tr>
 <tr>
 <td width="204">Kichukov, Nicholas</td>
