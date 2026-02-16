@@ -413,11 +413,6 @@
                                                             
         
         <li role="none"><a href="weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
-                                                    
-        
-                                                            
-        
-        <li role="none"><a href="daily-crime-log1.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
                                             </ul>
                                             </li>
             
@@ -631,11 +626,6 @@
                 
     
     <li role="none"><a href="weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
-                                                                            
-        
-                
-    
-    <li role="none"><a href="daily-crime-log1.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
                             </ul>
 </nav>
 
@@ -703,7 +693,122 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, February 16, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;">2026PU00196</td>
+<td style="font-weight: 400;">1/26/26 1:46 AM</td>
+<td style="font-weight: 400;">2/13/26 9:25 AM</td>
+<td style="font-weight: 400;">Honors College North</td>
+<td style="font-weight: 400;">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00197</td>
+<td style="font-weight: 400;" width="148">2/3/26 10:00 AM</td>
+<td style="font-weight: 400;" width="148">2/13/26 11:30 AM</td>
+<td style="font-weight: 400;" width="201">Owen Hall</td>
+<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00198</td>
+<td style="font-weight: 400;" width="148">2/12/26 3:03 PM</td>
+<td style="font-weight: 400;" width="148">2/13/26 3:24 PM</td>
+<td style="font-weight: 400;" width="201">Earhart Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="172">2026PU00199</td>
+<td style="font-weight: 400;" width="148">2/14/26 12:20 AM</td>
+<td style="font-weight: 400;" width="148">2/14/26 1:21 AM</td>
+<td style="font-weight: 400;" width="201">US 231/ S River Rd</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">2026PU00200</td>
+<td style="font-weight: 400;" width="148">2/14/26 10:47 PM</td>
+<td style="font-weight: 400;" width="148">2/14/26 11:23 PM</td>
+<td style="font-weight: 400;" width="201">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving Never Receiving License</td>
+<td style="font-weight: 400;" width="172">2026PU00201</td>
+<td style="font-weight: 400;" width="148">2/14/26 10:59 PM</td>
+<td style="font-weight: 400;" width="148">2/14/26 11:47 PM</td>
+<td style="font-weight: 400;" width="201">US 231/ S Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU00202</td>
+<td style="font-weight: 400;" width="148">2/15/26 12:35 AM</td>
+<td style="font-weight: 400;" width="148">2/15/26 12:53 AM</td>
+<td style="font-weight: 400;" width="201">Owen Hall</td>
+<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation/ Driving While Suspended</td>
+<td style="font-weight: 400;">2026PU00204</td>
+<td style="font-weight: 400;">2/15/26 6:52 PM</td>
+<td style="font-weight: 400;">2/15/26 7:16 PM</td>
+<td style="font-weight: 400;">Northwestern Ave/ Northridge Dr</td>
+<td style="font-weight: 400;">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-023631</td>
+<td style="font-weight: 400;" width="148">2/13/26 3:23 PM</td>
+<td style="font-weight: 400;" width="148">2/13/26 3:23 PM</td>
+<td style="font-weight: 400;" width="201">Tarkington Hall</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving While Suspended</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-023674</td>
+<td style="font-weight: 400;" width="148">2/13/26 4:59 PM</td>
+<td style="font-weight: 400;" width="148">2/13/26 4:59 PM</td>
+<td style="font-weight: 400;" width="201">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="189">Documented in 2026WL00334</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-023763</td>
+<td style="font-weight: 400;" width="148">2/13/26 8:25 PM</td>
+<td style="font-weight: 400;" width="148">2/13/26 8:25 PM</td>
+<td style="font-weight: 400;" width="201">3rd &amp; West</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving While Suspended</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-024036</td>
+<td style="font-weight: 400;" width="148">2/14/26 11:12 AM</td>
+<td style="font-weight: 400;" width="148">2/14/26 11:12 AM</td>
+<td style="font-weight: 400;" width="201">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="189">Documented in 2026WL00341</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving While Suspended</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-024066</td>
+<td style="font-weight: 400;" width="148">2/14/26 12:10 PM</td>
+<td style="font-weight: 400;" width="148">2/14/26 12:10 PM</td>
+<td style="font-weight: 400;" width="201">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="189">Documented in 2026WL00343</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1286,7 +1391,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>February 13, 2026</span></em></p>
+        <p><em>Last modified: <span>February 16, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
