@@ -686,7 +686,66 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, February 17, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="225">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td>2026PU00205</td>
+<td>2/16/26 9:12 AM</td>
+<td>2/16/26 10:41 AM</td>
+<td>CoRec</td>
+<td>Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Hit &amp; Run</td>
+<td width="172">2026PU00206</td>
+<td width="148">2/12/26 5:45 PM</td>
+<td width="148">2/16/26 11:05 AM</td>
+<td width="225">4th St/N University St</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Hit &amp; Run</td>
+<td width="172">2026PU00209</td>
+<td width="148">2/16/26 8:57 PM</td>
+<td width="148">2/16/26 9:40 PM</td>
+<td width="225">N Martin Jischke Dr/Mitch Daniels Blvd</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Operating Without Ever Receiving a License</td>
+<td width="172">2026PU00210</td>
+<td width="148">2/17/26 1:48 AM</td>
+<td width="148">2/17/26 2:03 AM</td>
+<td width="225">Cherry Ln/US HWY 231 N</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="172">CAD# 2026-024719</td>
+<td width="148">2/15/26 5:45 PM</td>
+<td width="148">2/15/26 5:45 PM</td>
+<td width="225">500 Blk Northwestern Ave</td>
+<td width="189">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="172">CAD# 2026-024900</td>
+<td width="148">2/16/26 12:17 AM</td>
+<td width="148">2/16/26 12:17 AM</td>
+<td width="225">Meredith South Hall</td>
+<td width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1391,7 +1450,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>February 16, 2026</span></em></p>
+        <p><em>Last modified: <span>February 17, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         

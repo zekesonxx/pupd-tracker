@@ -413,11 +413,6 @@
                                                             
         
         <li role="none"><a href="../weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
-                                                    
-        
-                                                            
-        
-        <li role="none"><a href="../daily-crime-log1.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
                                             </ul>
                                             </li>
             
