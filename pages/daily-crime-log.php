@@ -672,7 +672,50 @@
   
     	<section class="content__group">
   					<h3>Thursday, February 19, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud/ Intimidation</td>
+<td style="font-weight: 400;">2026PU00215</td>
+<td style="font-weight: 400;">2/18/26 6:46 PM</td>
+<td style="font-weight: 400;">2/18/26 7:16 PM</td>
+<td style="font-weight: 400;">Meredith South</td>
+<td style="font-weight: 400;">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Battery</td>
+<td style="font-weight: 400;" width="172">2026PU00217</td>
+<td style="font-weight: 400;" width="148">2/18/26 10:30 PM</td>
+<td style="font-weight: 400;" width="148">2/18/26 11:59 PM</td>
+<td style="font-weight: 400;" width="204">Wiley Hall</td>
+<td style="font-weight: 400;" width="189">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU00218</td>
+<td style="font-weight: 400;" width="148">2/18/26 11:57 PM</td>
+<td style="font-weight: 400;" width="148">2/19/26 12:22 AM</td>
+<td style="font-weight: 400;" width="204">Harrison Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">2026PU00219</td>
+<td style="font-weight: 400;" width="148">2/19/26 12:11 AM</td>
+<td style="font-weight: 400;" width="148">2/19/26 12:33 AM</td>
+<td style="font-weight: 400;" width="204">Purdue West</td>
+<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1485,7 +1528,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>February 18, 2026</span></em></p>
+        <p><em>Last modified: <span>February 19, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
