@@ -672,7 +672,58 @@
   
     	<section class="content__group">
   					<h3>Thursday, March 5, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2026PU00298</td>
+<td width="148">3/3/26 8:15 PM</td>
+<td width="148">3/4/26 10:08 AM</td>
+<td width="204">CoRec</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-EMPV</td>
+<td width="172">2026PU00299</td>
+<td width="148">3/4/26 3:21 PM</td>
+<td width="148">3/4/26 3:41 PM</td>
+<td width="204">Wetherill Building</td>
+<td width="189">Unfounded</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2026PU00300</td>
+<td width="148">2/28/26 4:00 PM</td>
+<td width="148">3/4/26 4:57 PM</td>
+<td width="204">Honors College North</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Burlgary</td>
+<td width="172">CAD# 2026-033923</td>
+<td width="148">3/4/26 9:20 AM</td>
+<td width="148">3/4/26 9:20 AM</td>
+<td width="204">Harrison Hall</td>
+<td width="189">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Criminal Mischief</td>
+<td width="172">CAD# 2026-034090</td>
+<td width="148">3/4/26 2:24 PM</td>
+<td width="148">3/4/26 2:24 PM</td>
+<td width="204">Provenance Apts</td>
+<td width="189">Documented in 2026WL00484</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1437,7 +1488,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>March 4, 2026</span></em></p>
+        <p><em>Last modified: <span>March 5, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
