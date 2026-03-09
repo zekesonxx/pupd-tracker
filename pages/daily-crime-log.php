@@ -693,7 +693,90 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, March 9, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Trespassing</td>
+<td style="font-weight: 400;" width="172">2026PU00313</td>
+<td style="font-weight: 400;" width="148">3/6/26 11:58 AM</td>
+<td style="font-weight: 400;" width="148">3/6/26 12:09 PM</td>
+<td style="font-weight: 400;" width="204">Ross Ade Stadium</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00314</td>
+<td style="font-weight: 400;" width="148">3/2/26 2:36 PM</td>
+<td style="font-weight: 400;" width="148">3/6/26 2:44 PM</td>
+<td style="font-weight: 400;" width="204">Meredith South</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00315</td>
+<td style="font-weight: 400;" width="148">3/5/26 9:04 AM</td>
+<td style="font-weight: 400;" width="148">3/6/26 3:51 PM</td>
+<td style="font-weight: 400;" width="204">Owen Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">2026PU00317</td>
+<td style="font-weight: 400;" width="148">3/6/26 6:44 PM</td>
+<td style="font-weight: 400;" width="148">3/6/26 7:03 PM</td>
+<td style="font-weight: 400;" width="204">100 Blk Waldron St</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00318</td>
+<td style="font-weight: 400;" width="148">3/4/26 9:30 PM</td>
+<td style="font-weight: 400;" width="148">3/6/26 10:32 PM</td>
+<td style="font-weight: 400;" width="204">Earhart Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud</td>
+<td style="font-weight: 400;" width="172">2026PU00322</td>
+<td style="font-weight: 400;" width="148">3/7/26 3:15 PM</td>
+<td style="font-weight: 400;" width="148">3/7/26 4:23 PM</td>
+<td style="font-weight: 400;" width="204">Aspire Apts</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00326</td>
+<td style="font-weight: 400;" width="148">3/7/26 10:37 PM</td>
+<td style="font-weight: 400;" width="148">3/8/26 12:05 AM</td>
+<td style="font-weight: 400;" width="204">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Blackmail</td>
+<td style="font-weight: 400;" width="172">2026PU00328</td>
+<td style="font-weight: 400;" width="148">3/8/26 9:02 PM</td>
+<td style="font-weight: 400;" width="148">3/8/26 9:13 PM</td>
+<td style="font-weight: 400;" width="204">First St Towers</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-035345</td>
+<td style="font-weight: 400;" width="148">3/6/26 4:42 PM</td>
+<td style="font-weight: 400;" width="148">3/6/26 4:42 PM</td>
+<td style="font-weight: 400;" width="204">Cary Quad South</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1276,7 +1359,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>March 6, 2026</span></em></p>
+        <p><em>Last modified: <span>March 9, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
