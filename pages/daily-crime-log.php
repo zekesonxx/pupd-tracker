@@ -672,7 +672,66 @@
   
     	<section class="content__group">
   					<h3>Thursday, March 12, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00336</td>
+<td style="font-weight: 400;" width="148">3/10/26 3:58 PM</td>
+<td style="font-weight: 400;" width="148">3/11/26 1:30 PM</td>
+<td style="font-weight: 400;" width="204">Shreve Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00337</td>
+<td style="font-weight: 400;" width="148">3/7/26 11:01 AM</td>
+<td style="font-weight: 400;" width="148">3/11/26 4:33 PM</td>
+<td style="font-weight: 400;" width="204">Aspire Apts</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud</td>
+<td style="font-weight: 400;" width="172">2026PU00339</td>
+<td style="font-weight: 400;" width="148">2/13/26 12:00 PM</td>
+<td style="font-weight: 400;" width="148">3/11/26 5:24 PM</td>
+<td style="font-weight: 400;" width="204">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">2026PU00341</td>
+<td style="font-weight: 400;" width="148">3/12/26 12:18 AM</td>
+<td style="font-weight: 400;" width="148">3/12/26 12:54 AM</td>
+<td style="font-weight: 400;" width="204">Marsteller St/ Agriculture Mall Dr</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU00343</td>
+<td style="font-weight: 400;" width="148">3/12/26 1:30 AM</td>
+<td style="font-weight: 400;" width="148">3/12/26 1:51 AM</td>
+<td style="font-weight: 400;" width="204">Hilltop Apts</td>
+<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-038021</td>
+<td style="font-weight: 400;" width="148">3/10/26 10:08 PM</td>
+<td style="font-weight: 400;" width="148">3/10/26 10:08 PM</td>
+<td style="font-weight: 400;" width="204">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1549,7 +1608,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>March 11, 2026</span></em></p>
+        <p><em>Last modified: <span>March 12, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
