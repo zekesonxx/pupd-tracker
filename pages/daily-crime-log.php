@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			030926 Daily Crime Log - 
+			031626 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -664,368 +664,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, March 13, 2026</h3>
+  					<h3>Friday, March 20, 2026</h3>
 <p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, March 12, 2026</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2026PU00336</td>
-<td style="font-weight: 400;" width="148">3/10/26 3:58 PM</td>
-<td style="font-weight: 400;" width="148">3/11/26 1:30 PM</td>
-<td style="font-weight: 400;" width="204">Shreve Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2026PU00337</td>
-<td style="font-weight: 400;" width="148">3/7/26 11:01 AM</td>
-<td style="font-weight: 400;" width="148">3/11/26 4:33 PM</td>
-<td style="font-weight: 400;" width="204">Aspire Apts</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Fraud</td>
-<td style="font-weight: 400;" width="172">2026PU00339</td>
-<td style="font-weight: 400;" width="148">2/13/26 12:00 PM</td>
-<td style="font-weight: 400;" width="148">3/11/26 5:24 PM</td>
-<td style="font-weight: 400;" width="204">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation</td>
-<td style="font-weight: 400;" width="172">2026PU00341</td>
-<td style="font-weight: 400;" width="148">3/12/26 12:18 AM</td>
-<td style="font-weight: 400;" width="148">3/12/26 12:54 AM</td>
-<td style="font-weight: 400;" width="204">Marsteller St/ Agriculture Mall Dr</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2026PU00343</td>
-<td style="font-weight: 400;" width="148">3/12/26 1:30 AM</td>
-<td style="font-weight: 400;" width="148">3/12/26 1:51 AM</td>
-<td style="font-weight: 400;" width="204">Hilltop Apts</td>
-<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation</td>
-<td style="font-weight: 400;" width="172">CAD# 2026-038021</td>
-<td style="font-weight: 400;" width="148">3/10/26 10:08 PM</td>
-<td style="font-weight: 400;" width="148">3/10/26 10:08 PM</td>
-<td style="font-weight: 400;" width="204">Frieda Parker Hall</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, March 19, 2026</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, March 11, 2026</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Reckless Driver</td>
-<td style="font-weight: 400;" width="172">CAD# 2026-037265</td>
-<td style="font-weight: 400;" width="148">3/9/26 6:10 PM</td>
-<td style="font-weight: 400;" width="148">3/9/26 6:10 PM</td>
-<td style="font-weight: 400;" width="204">US HWY 231 S/Airport Rd</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="172">5 Disciplinary Referrals</td>
-<td style="font-weight: 400;" width="148">2/1/26 12:00 AM</td>
-<td style="font-weight: 400;" width="148">2/1/26 12:53 AM</td>
-<td style="font-weight: 400;" width="204">Shreve Hall</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="172">16 Disciplinary Referrals</td>
-<td style="font-weight: 400;" width="148">2/7/26 10:25 PM</td>
-<td style="font-weight: 400;" width="148">2/7/26 11:43 PM</td>
-<td style="font-weight: 400;" width="204">Honors College</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
-<td style="font-weight: 400;" width="148">2/9/26 3:30 AM</td>
-<td style="font-weight: 400;" width="148">2/9/26 4:18 AM</td>
-<td style="font-weight: 400;" width="204">Tarkington Hall</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="172">3 Disciplinary Referrals</td>
-<td style="font-weight: 400;" width="148">2/13/26 12:10 AM</td>
-<td style="font-weight: 400;" width="148">2/13/26 1:26 AM</td>
-<td style="font-weight: 400;" width="204">Aspire Apts.</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="172">3 Disciplinary Referrals</td>
-<td style="font-weight: 400;" width="148">2/13/26 8:30 PM</td>
-<td style="font-weight: 400;" width="148">2/13/26 11:27 PM</td>
-<td style="font-weight: 400;" width="204">Aspire Apts.</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="172">3 Disciplinary Referrals</td>
-<td style="font-weight: 400;" width="148">2/13/26 8:30 PM</td>
-<td style="font-weight: 400;" width="148">2/13/26 11:11 PM</td>
-<td style="font-weight: 400;" width="204">Aspire Apts.</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="172">6 Disciplinary Referrals</td>
-<td style="font-weight: 400;" width="148">2/13/26 10:15 PM</td>
-<td style="font-weight: 400;" width="148">2/13/26 10:42 PM</td>
-<td style="font-weight: 400;" width="204">Owen Hall</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation</td>
-<td style="font-weight: 400;" width="172">2 Disciplinary Referrals</td>
-<td style="font-weight: 400;" width="148">2/14/26 11:10 PM</td>
-<td style="font-weight: 400;" width="148">2/16/26 2:33 PM</td>
-<td style="font-weight: 400;" width="204">McCutcheon Parking Garage</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
-<td style="font-weight: 400;" width="148">2/15/26 12:35 AM</td>
-<td style="font-weight: 400;" width="148">2/15/26 1:16 AM</td>
-<td style="font-weight: 400;" width="204">Owen Hall</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="172">3 Disciplinary Referrals</td>
-<td style="font-weight: 400;" width="148">2/16/26 3:15 PM</td>
-<td style="font-weight: 400;" width="148">2/16/26 3:29 PM</td>
-<td style="font-weight: 400;" width="204">3rd and West Apts.</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="172">4 Disciplinary Referrals</td>
-<td style="font-weight: 400;" width="148">2/20/26 12:15 AM</td>
-<td style="font-weight: 400;" width="148">2/21/26 1:10 AM</td>
-<td style="font-weight: 400;" width="204">Wiley Hall</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="172">7 Disciplinary Referrals</td>
-<td style="font-weight: 400;" width="148">2/21/23 8:05 PM</td>
-<td style="font-weight: 400;" width="148">2/21/26 9:15 PM</td>
-<td style="font-weight: 400;" width="204">Shreve Hall</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation</td>
-<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
-<td style="font-weight: 400;" width="148">2/22/26 3:49 AM</td>
-<td style="font-weight: 400;" width="148">2/23/26 4:26 PM</td>
-<td style="font-weight: 400;" width="204">Aspire Apts.</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
-<td style="font-weight: 400;" width="148">2/22/26 3:49 AM</td>
-<td style="font-weight: 400;" width="148">2/23/26 4:26 PM</td>
-<td style="font-weight: 400;" width="204">Aspire Apts.</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
-<td style="font-weight: 400;" width="148">2/25/26 7:00 PM</td>
-<td style="font-weight: 400;" width="148">2/25/26 8:50 PM</td>
-<td style="font-weight: 400;" width="204">Windsor Hall</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
-<td style="font-weight: 400;" width="148">2/27/26 10:15 AM</td>
-<td style="font-weight: 400;" width="148">2/28/26 2:40 AM</td>
-<td style="font-weight: 400;" width="204">Wiley Hall</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
-<td style="font-weight: 400;" width="148">2/28/26 12:10 AM</td>
-<td style="font-weight: 400;" width="148">2/28/26 1:09 AM</td>
-<td style="font-weight: 400;" width="204">Honors College</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Liquor Law Violation</td>
-<td style="font-weight: 400;" width="172">2 Disciplinary Referrals</td>
-<td style="font-weight: 400;" width="148">2/28/26 1:30 AM</td>
-<td style="font-weight: 400;" width="148">2/28/26 2:28 AM</td>
-<td style="font-weight: 400;" width="204">Wiley Hall</td>
-<td style="font-weight: 400;" width="189">Judicial Review</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, March 18, 2026</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday, March 10, 2026</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation</td>
-<td style="font-weight: 400;" width="172">CAD# 2026-035653</td>
-<td style="font-weight: 400;" width="148">3/7/26 1:06 AM</td>
-<td style="font-weight: 400;" width="148">3/7/26 1:06 AM</td>
-<td style="font-weight: 400;" width="204">Pi Kappa Phi</td>
-<td style="font-weight: 400;" width="189">Documented in 2026WL00508</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Criminal Mischief</td>
-<td style="font-weight: 400;" width="172">CAD# 2026-036537</td>
-<td style="font-weight: 400;" width="148">3/8/26 2:05 PM</td>
-<td style="font-weight: 400;" width="148">3/8/26 2:05 PM</td>
-<td style="font-weight: 400;" width="204">Delta Tau Delta</td>
-<td style="font-weight: 400;" width="189">Documented in 2026WL00523</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday, March 17, 2026</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, March 9, 2026</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Trespassing</td>
-<td style="font-weight: 400;" width="172">2026PU00313</td>
-<td style="font-weight: 400;" width="148">3/6/26 11:58 AM</td>
-<td style="font-weight: 400;" width="148">3/6/26 12:09 PM</td>
-<td style="font-weight: 400;" width="204">Ross Ade Stadium</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2026PU00314</td>
-<td style="font-weight: 400;" width="148">3/2/26 2:36 PM</td>
-<td style="font-weight: 400;" width="148">3/6/26 2:44 PM</td>
-<td style="font-weight: 400;" width="204">Meredith South</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2026PU00315</td>
-<td style="font-weight: 400;" width="148">3/5/26 9:04 AM</td>
-<td style="font-weight: 400;" width="148">3/6/26 3:51 PM</td>
-<td style="font-weight: 400;" width="204">Owen Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="172">2026PU00317</td>
-<td style="font-weight: 400;" width="148">3/6/26 6:44 PM</td>
-<td style="font-weight: 400;" width="148">3/6/26 7:03 PM</td>
-<td style="font-weight: 400;" width="204">100 Blk Waldron St</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2026PU00318</td>
-<td style="font-weight: 400;" width="148">3/4/26 9:30 PM</td>
-<td style="font-weight: 400;" width="148">3/6/26 10:32 PM</td>
-<td style="font-weight: 400;" width="204">Earhart Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Fraud</td>
-<td style="font-weight: 400;" width="172">2026PU00322</td>
-<td style="font-weight: 400;" width="148">3/7/26 3:15 PM</td>
-<td style="font-weight: 400;" width="148">3/7/26 4:23 PM</td>
-<td style="font-weight: 400;" width="204">Aspire Apts</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2026PU00326</td>
-<td style="font-weight: 400;" width="148">3/7/26 10:37 PM</td>
-<td style="font-weight: 400;" width="148">3/8/26 12:05 AM</td>
-<td style="font-weight: 400;" width="204">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Blackmail</td>
-<td style="font-weight: 400;" width="172">2026PU00328</td>
-<td style="font-weight: 400;" width="148">3/8/26 9:02 PM</td>
-<td style="font-weight: 400;" width="148">3/8/26 9:13 PM</td>
-<td style="font-weight: 400;" width="204">First St Towers</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">CAD# 2026-035345</td>
-<td style="font-weight: 400;" width="148">3/6/26 4:42 PM</td>
-<td style="font-weight: 400;" width="148">3/6/26 4:42 PM</td>
-<td style="font-weight: 400;" width="204">Cary Quad South</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Monday, March 16, 2026</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
@@ -1608,7 +1276,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>March 12, 2026</span></em></p>
+        <p><em>Last modified: <span>March 13, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
