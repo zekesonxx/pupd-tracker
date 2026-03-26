@@ -672,7 +672,58 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Thursday, March 26, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; width: 171px; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<td style="font-weight: 400;" width="172">Case Number</td>
+<td style="font-weight: 400;" width="148">Date/Time Occurred</td>
+<td style="font-weight: 400;" width="148">Date/Time Reported</td>
+<td style="font-weight: 400;" width="204">General Location</td>
+<td style="font-weight: 400;" width="189">Disposition&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Stalking</td>
+<td style="font-weight: 400;" width="172">2026PU00386</td>
+<td style="font-weight: 400;" width="148">3/1/26 12:00 AM</td>
+<td style="font-weight: 400;" width="148">3/24/26 3:54 PM</td>
+<td style="font-weight: 400;" width="204">WL Purdue Campus</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU00387</td>
+<td style="font-weight: 400;" width="148">3/13/26 5:00 PM</td>
+<td style="font-weight: 400;" width="148">3/25/26 3:20 PM</td>
+<td style="font-weight: 400;" width="204">Hilltop Apts</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">2026PU00392</td>
+<td style="font-weight: 400;" width="148">3/24/26 4:45 PM</td>
+<td style="font-weight: 400;" width="148">3/26/26 2:29 AM</td>
+<td style="font-weight: 400;" width="204">Grant St Garage</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Public Intoxication/ Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU00393</td>
+<td style="font-weight: 400;" width="148">3/26/26 3:14 AM</td>
+<td style="font-weight: 400;" width="148">3/26/26 3:31 AM</td>
+<td style="font-weight: 400;" width="204">Rawls Hall</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-045925</td>
+<td style="font-weight: 400;" width="148">3/24/26 11:15 PM</td>
+<td style="font-weight: 400;" width="148">3/24/26 11:15 PM</td>
+<td style="font-weight: 400;" width="204">Horticulture Park</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1429,7 +1480,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>March 25, 2026</span></em></p>
+        <p><em>Last modified: <span>March 26, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
