@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			032326 Daily Crime Log - 
+			033026 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -664,240 +664,36 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, March 27, 2026</h3>
+  					<h3>Friday, April, 2026</h3>
 Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, March 26, 2026</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; width: 171px; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<td style="font-weight: 400;" width="172">Case Number</td>
-<td style="font-weight: 400;" width="148">Date/Time Occurred</td>
-<td style="font-weight: 400;" width="148">Date/Time Reported</td>
-<td style="font-weight: 400;" width="204">General Location</td>
-<td style="font-weight: 400;" width="189">Disposition&#160;</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Stalking</td>
-<td style="font-weight: 400;" width="172">2026PU00386</td>
-<td style="font-weight: 400;" width="148">3/1/26 12:00 AM</td>
-<td style="font-weight: 400;" width="148">3/24/26 3:54 PM</td>
-<td style="font-weight: 400;" width="204">WL Purdue Campus</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft-Bike</td>
-<td style="font-weight: 400;" width="172">2026PU00387</td>
-<td style="font-weight: 400;" width="148">3/13/26 5:00 PM</td>
-<td style="font-weight: 400;" width="148">3/25/26 3:20 PM</td>
-<td style="font-weight: 400;" width="204">Hilltop Apts</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="172">2026PU00392</td>
-<td style="font-weight: 400;" width="148">3/24/26 4:45 PM</td>
-<td style="font-weight: 400;" width="148">3/26/26 2:29 AM</td>
-<td style="font-weight: 400;" width="204">Grant St Garage</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Public Intoxication/ Criminal Mischief</td>
-<td style="font-weight: 400;" width="172">2026PU00393</td>
-<td style="font-weight: 400;" width="148">3/26/26 3:14 AM</td>
-<td style="font-weight: 400;" width="148">3/26/26 3:31 AM</td>
-<td style="font-weight: 400;" width="204">Rawls Hall</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation</td>
-<td style="font-weight: 400;" width="172">CAD# 2026-045925</td>
-<td style="font-weight: 400;" width="148">3/24/26 11:15 PM</td>
-<td style="font-weight: 400;" width="148">3/24/26 11:15 PM</td>
-<td style="font-weight: 400;" width="204">Horticulture Park</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, April 2, 2026</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, March 25, 2026</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Domestic Battery</td>
-<td style="font-weight: 400;" width="172">2026PU00382</td>
-<td style="font-weight: 400;" width="148">3/24/26 6:00 AM</td>
-<td style="font-weight: 400;" width="148">3/24/26 7:30 AM</td>
-<td style="font-weight: 400;" width="204">200 Blk Waldron St</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">CAD# 2026-045540</td>
-<td style="font-weight: 400;" width="148">3/24/26 10:11 AM</td>
-<td style="font-weight: 400;" width="148">3/24/26 10:11 AM</td>
-<td style="font-weight: 400;" width="204">Hilltop Apts</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Reckless Driver</td>
-<td style="font-weight: 400;" width="172">CAD# 2026-045665</td>
-<td style="font-weight: 400;" width="148">3/24/26 2:06 PM</td>
-<td style="font-weight: 400;" width="148">3/24/26 2:06 PM</td>
-<td style="font-weight: 400;" width="204">US HWY 231 S/Airport Rd</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Wednesday, April 1, 2026</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday, March 24, 2026</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Driving While Suspended</td>
-<td style="font-weight: 400;" width="172">2026PU00377</td>
-<td style="font-weight: 400;" width="148">3/23/26 11:18 AM</td>
-<td style="font-weight: 400;" width="148">3/23/26 11:51 AM</td>
-<td style="font-weight: 400;" width="204">W Stadium Ave/ David Ross Rd</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2026PU00379</td>
-<td style="font-weight: 400;" width="148">3/23/26 2:00 PM</td>
-<td style="font-weight: 400;" width="148">3/23/26 5:34 PM</td>
-<td style="font-weight: 400;" width="204">Hicks Library</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Harassment/ Theft/ Burglary/ Criminal Mischief</td>
-<td style="font-weight: 400;" width="172">2026PU00380</td>
-<td style="font-weight: 400;" width="148">3/23/26 10:33 PM</td>
-<td style="font-weight: 400;" width="148">3/23/26 11:47 PM</td>
-<td style="font-weight: 400;" width="204">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Operating without Ever Receiving a License</td>
-<td style="font-weight: 400;" width="172">CAD# 2026-043717</td>
-<td style="font-weight: 400;" width="148">3/20/26 9:48 PM</td>
-<td style="font-weight: 400;" width="148">3/20/26 9:48 PM</td>
-<td style="font-weight: 400;" width="204">US HWY 231 N/Cherry Ln</td>
-<td style="font-weight: 400;" width="189">Documented in 2026WL00622</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="172">CAD# 2026-045126</td>
-<td style="font-weight: 400;" width="148">3/23/26 2:22 PM</td>
-<td style="font-weight: 400;" width="148">3/23/26 2:22 PM</td>
-<td style="font-weight: 400;" width="204">Pi Kappa Phi</td>
-<td style="font-weight: 400;" width="189">Documented in 2026WL00648</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Rape</td>
-<td style="font-weight: 400;" width="172">CSA</td>
-<td style="font-weight: 400;" width="148">2/1/26 4:00 AM</td>
-<td style="font-weight: 400;" width="148">3/23/26 2:30 PM</td>
-<td style="font-weight: 400;" width="204">On-Campus Housing</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday, March 31, 2026</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, March 23, 2026</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="172">2026PU00362</td>
-<td style="font-weight: 400;" width="148">3/20/26 7:08 AM</td>
-<td style="font-weight: 400;" width="148">3/20/26 5:16 PM</td>
-<td style="font-weight: 400;" width="204">600 Blk S Russell St</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Theft-EMPV</td>
-<td style="font-weight: 400;" width="172">2026PU00363</td>
-<td style="font-weight: 400;" width="148">3/20/26 9:31 PM</td>
-<td style="font-weight: 400;" width="148">3/20/26 9:51 PM</td>
-<td style="font-weight: 400;" width="204">100 Blk N Grant St</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation/ Operating Never Receiving License</td>
-<td style="font-weight: 400;" width="172">2026PU00371</td>
-<td style="font-weight: 400;" width="148">3/21/26 11:57 PM</td>
-<td style="font-weight: 400;" width="148">3/22/26 12:33 AM</td>
-<td style="font-weight: 400;" width="204">N University St/ 3rd St</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Operating While Intoxicated/ Resisting Law Enforcement/ Minor Consumption/ Operating Never Receiving License</td>
-<td style="font-weight: 400;" width="172">2026PU00372</td>
-<td style="font-weight: 400;" width="148">3/22/26 1:57 AM</td>
-<td style="font-weight: 400;" width="148">3/22/26 2:43 AM</td>
-<td style="font-weight: 400;" width="204">Airport Rd/ US 231</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Public Intoxication</td>
-<td style="font-weight: 400;" width="172">2026PU00373</td>
-<td style="font-weight: 400;" width="148">3/22/26 2:48 PM</td>
-<td style="font-weight: 400;" width="148">3/22/26 3:14 PM</td>
-<td style="font-weight: 400;" width="204">Wood Street Garage</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Reckless Driver</td>
-<td style="font-weight: 400;" width="172">CAD# 2026-043279</td>
-<td style="font-weight: 400;" width="148">3/20/26 8:10 AM</td>
-<td style="font-weight: 400;" width="148">3/20/26 8:10 AM</td>
-<td style="font-weight: 400;" width="204">US HWY 231 S/Airport Rd</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Monday, March 30, 2026</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
@@ -1480,7 +1276,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>March 26, 2026</span></em></p>
+        <p><em>Last modified: <span>March 27, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
