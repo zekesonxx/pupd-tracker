@@ -651,6 +651,14 @@
 <th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
 </tr>
 <tr>
+<td style="font-weight: 400;" width="171">Blackmail</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-044857</td>
+<td style="font-weight: 400;" width="148">3/23/26 1:12 AM</td>
+<td style="font-weight: 400;" width="148">3/23/26 1:12 AM</td>
+<td style="font-weight: 400;" width="204">Purdue University Police Department</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
 <td style="font-weight: 400;" width="171">Reckless Driver</td>
 <td style="font-weight: 400;" width="172">CAD# 2026-046560</td>
 <td style="font-weight: 400;" width="148">3/25/26 11:19 PM</td>
