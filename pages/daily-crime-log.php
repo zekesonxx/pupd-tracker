@@ -686,7 +686,90 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, March 31, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00412</td>
+<td style="font-weight: 400;" width="148">11/30/25 12:00 AM</td>
+<td style="font-weight: 400;" width="148">3/30/26 11:43 AM</td>
+<td style="font-weight: 400;" width="204">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">2026PU00414</td>
+<td style="font-weight: 400;" width="148">3/30/26 1:17 PM</td>
+<td style="font-weight: 400;" width="148">3/30/26 1:19 PM</td>
+<td style="font-weight: 400;" width="204">Slayter Hill</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-047676</td>
+<td style="font-weight: 400;" width="148">3/27/26 6:29 PM</td>
+<td style="font-weight: 400;" width="148">3/27/26 6:29 PM</td>
+<td style="font-weight: 400;" width="204">Wood St Parking Garage</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-047685</td>
+<td style="font-weight: 400;" width="148">3/27/26 6:45 PM</td>
+<td style="font-weight: 400;" width="148">3/27/26 6:45 PM</td>
+<td style="font-weight: 400;" width="204">US HWY 231 S/Airport Rd</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drunk Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-047774</td>
+<td style="font-weight: 400;" width="148">3/27/26 9:24 PM</td>
+<td style="font-weight: 400;" width="148">3/27/26 9:24 PM</td>
+<td style="font-weight: 400;" width="204">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-047948</td>
+<td style="font-weight: 400;" width="148">3/28/26 5:39 AM</td>
+<td style="font-weight: 400;" width="148">3/28/26 5:39 AM</td>
+<td style="font-weight: 400;" width="204">N Grant St/Northwestern Ave</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-047950</td>
+<td style="font-weight: 400;" width="148">3/28/26 5:43 AM</td>
+<td style="font-weight: 400;" width="148">3/28/26 5:43 AM</td>
+<td style="font-weight: 400;" width="204">W Stadium Ave/Northwestern Ave</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Sexual Battery</td>
+<td style="font-weight: 400;" width="172">CSA</td>
+<td style="font-weight: 400;" width="148">Unknown Date Oct 2025</td>
+<td style="font-weight: 400;" width="148">3/30/26 1:30 PM</td>
+<td style="font-weight: 400;" width="204">Unknown Campus Housing</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Sexual Battery</td>
+<td style="font-weight: 400;" width="172">CSA</td>
+<td style="font-weight: 400;" width="148">Unknown Date Dec 2025</td>
+<td style="font-weight: 400;" width="148">3/30/26 1:30 PM</td>
+<td style="font-weight: 400;" width="204">Unknown Campus Housing</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1375,7 +1458,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>March 30, 2026</span></em></p>
+        <p><em>Last modified: <span>March 31, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
