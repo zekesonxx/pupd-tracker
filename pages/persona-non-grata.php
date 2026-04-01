@@ -823,6 +823,11 @@
 <td width="76">12/5/30</td>
 </tr>
 <tr>
+<td width="204">Efuntoye, Edward</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">4/1/27</td>
+</tr>
+<tr>
 <td width="204">E., C. (Juvenile)</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">12/24/26</td>
@@ -1256,6 +1261,11 @@
 <td width="204">Walton, Arion</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">1/28/31</td>
+</tr>
+<tr>
+<td width="204">Wang, Junxi</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">4/1/27</td>
 </tr>
 <tr>
 <td width="204">Webster, Benjamin</td>
