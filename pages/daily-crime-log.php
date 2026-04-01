@@ -679,7 +679,74 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, April 1, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU00417</td>
+<td style="font-weight: 400;" width="148">3/26/26 8:00 PM</td>
+<td style="font-weight: 400;" width="148">3/31/26 3:55 PM</td>
+<td style="font-weight: 400;" width="204">Northwestern Garage</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00418</td>
+<td style="font-weight: 400;" width="148">3/31/26 4:16 PM</td>
+<td style="font-weight: 400;" width="148">3/31/26 5:22 PM</td>
+<td style="font-weight: 400;" width="204">CoRec</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00419</td>
+<td style="font-weight: 400;" width="148">3/26/26 3:15 PM</td>
+<td style="font-weight: 400;" width="148">3/31/26 5:32 PM</td>
+<td style="font-weight: 400;" width="204">Honors College North</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Rape</td>
+<td style="font-weight: 400;" width="172">2026PU00420</td>
+<td style="font-weight: 400;" width="148">3/31/26 8:33 PM</td>
+<td style="font-weight: 400;" width="148">3/31/26 9:27 PM</td>
+<td style="font-weight: 400;" width="204">100 Blk N MacAarthur Dr</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Impersonate Police Officer</td>
+<td style="font-weight: 400;" width="172">2026PU00422</td>
+<td style="font-weight: 400;" width="148">3/31/26 9:58 PM</td>
+<td style="font-weight: 400;" width="148">3/31/26 10:46 PM</td>
+<td style="font-weight: 400;" width="204">Hawkins Graduate Housing</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00423</td>
+<td style="font-weight: 400;" width="148">3/31/26 11:19 AM</td>
+<td style="font-weight: 400;" width="148">3/31/26 11:58 PM</td>
+<td style="font-weight: 400;" width="204">Earhart Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-049955</td>
+<td style="font-weight: 400;" width="148">3/31/26 4:01 PM</td>
+<td style="font-weight: 400;" width="148">3/31/26 4:01 PM</td>
+<td style="font-weight: 400;" width="204">Provenance Apts</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -702,7 +769,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="148">11/30/25 12:00 AM</td>
 <td style="font-weight: 400;" width="148">3/30/26 11:43 AM</td>
 <td style="font-weight: 400;" width="204">Purdue Memorial Union</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Drug Law Violation</td>
@@ -1458,7 +1525,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>March 31, 2026</span></em></p>
+        <p><em>Last modified: <span>April 1, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
