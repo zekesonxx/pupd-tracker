@@ -724,7 +724,7 @@
 <td style="font-weight: 400;" width="148">3/26/26 8:00 PM</td>
 <td style="font-weight: 400;" width="148">3/31/26 3:55 PM</td>
 <td style="font-weight: 400;" width="204">Northwestern Garage</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>
@@ -732,7 +732,7 @@
 <td style="font-weight: 400;" width="148">3/31/26 4:16 PM</td>
 <td style="font-weight: 400;" width="148">3/31/26 5:22 PM</td>
 <td style="font-weight: 400;" width="204">CoRec</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>
@@ -740,7 +740,7 @@
 <td style="font-weight: 400;" width="148">3/26/26 3:15 PM</td>
 <td style="font-weight: 400;" width="148">3/31/26 5:32 PM</td>
 <td style="font-weight: 400;" width="204">Honors College North</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Rape</td>
@@ -1554,7 +1554,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>April 3, 2026</span></em></p>
+        <p><em>Last modified: <span>April 7, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
