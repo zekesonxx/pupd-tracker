@@ -665,7 +665,58 @@
   
     	<section class="content__group">
   					<h3>Friday, April 10, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2026PU00459</td>
+<td width="148">4/8/26 9:30 PM</td>
+<td width="148">4/9/26 9:40 AM</td>
+<td width="204">Hampton Hall</td>
+<td width="189">Unfounded</td>
+</tr>
+<tr>
+<td width="171">Hit &amp; Run</td>
+<td width="172">2026PU00460</td>
+<td width="148">4/9/26 10:22 AM</td>
+<td width="148">4/9/26 11:14 AM</td>
+<td width="204">Northwestern Parking Garage</td>
+<td width="189">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2026PU00461</td>
+<td width="148">3/22/26 5:00 PM</td>
+<td width="148">4/9/26 2:10 PM</td>
+<td width="204">Purdue Memorial Union</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2026PU00462</td>
+<td width="148">4/9/26 3:23 AM</td>
+<td width="148">4/9/26 4:53 PM</td>
+<td width="204">Neil Armstrong Hall</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Operating While Intoxicated</td>
+<td width="172">CAD# 2026-054421</td>
+<td width="148">4/8/26 4:03 PM</td>
+<td width="148">4/8/26 4:03 PM</td>
+<td width="204">US HWY 231 N/Cherry Ln</td>
+<td width="189">Documented in 2026WL00807</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1512,7 +1563,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>April 9, 2026</span></em></p>
+        <p><em>Last modified: <span>April 10, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
