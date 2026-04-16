@@ -672,7 +672,82 @@
   
     	<section class="content__group">
   					<h3>Thursday, April 16, 2026</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition</th>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="172">2026PU00494</td>
+<td width="148">4/10/26 11:00 AM</td>
+<td width="148">4/15/26 11:43 AM</td>
+<td width="204">Cary Quad Northwest</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2026PU00495</td>
+<td width="148">4/15/26 9:30 AM</td>
+<td width="148">4/15/26 11:46 AM</td>
+<td width="204">CoRec</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Driving Never Receiving License</td>
+<td width="172">2026PU00496</td>
+<td width="148">4/15/26 2:52 PM</td>
+<td width="148">4/15/26 2:52 PM</td>
+<td width="204">1100 Blk W Stadium Ave</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2026PU00498</td>
+<td width="148">4/15/26 6:00 PM</td>
+<td width="148">4/15/26 8:20 PM</td>
+<td width="204">Wetherill Chemistry</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Fraud</td>
+<td width="172">2026PU00499</td>
+<td width="148">4/15/26 4:00 PM</td>
+<td width="148">4/15/26 8:52 PM</td>
+<td width="204">Meredith South</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Battery</td>
+<td width="172">2026PU00500</td>
+<td width="148">4/15/26 9:17 PM</td>
+<td width="148">4/15/26 9:20 PM</td>
+<td width="204">1100 Blk W Stadium Ave</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Battery</td>
+<td width="172">2026PU00501</td>
+<td width="148">4/15/26 9:39 PM</td>
+<td width="148">4/15/26 9:45 PM</td>
+<td width="204">200 Blk N Martin Jischke Dr</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Criminal MIschief</td>
+<td width="172">2026PU00502</td>
+<td width="148">4/16/26 12:19 AM</td>
+<td width="148">4/16/26 12:33 AM</td>
+<td width="204">Stanley Coutler Hall</td>
+<td width="189">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -867,7 +942,7 @@
 <td style="font-weight: 400;" width="148">4/12/26 12:50 AM</td>
 <td style="font-weight: 400;" width="148">4/12/26 1:10 AM</td>
 <td style="font-weight: 400;" width="204">1200 Blk W Stadium Ave</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft-Bike</td>
@@ -1485,7 +1560,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>April 15, 2026</span></em></p>
+        <p><em>Last modified: <span>April 16, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
