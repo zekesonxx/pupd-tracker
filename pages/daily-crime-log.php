@@ -397,6 +397,11 @@
         
                                                             
         
+        <li role="none"><a href="indy-daily-crime-log.php" role="menuitem">Indianapolis Daily Crime Log</a></li>
+                                                    
+        
+                                                            
+        
         <li role="none"><a href="drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                     
         
@@ -413,6 +418,11 @@
                                                             
         
         <li role="none"><a href="weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="indianapolis-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
                                             </ul>
                                             </li>
             
@@ -488,8 +498,29 @@
         
                                                                                  
                                                         
-                            <li role="none"><a href="../timely-warnings/index.php" role="menuitem">Timely Warnings</a></li>
-                                                                
+                                            <li class="dropdown" role="none">
+                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../timely-warnings/index.php" role="menuitem">Timely Warnings<span><i class="fas fa-chevron-down"></i></span></a>
+                    <ul class="header__mainNav--dropdownOuter" role="menu">
+                                                                                                
+        
+                                                            
+        
+        <li role="none"><a href="../timely-warnings/index.php" role="menuitem">Timely Warnings</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../timely-warnings/wl-timely-warnings.php" role="menuitem">West Lafayette Timely Warnings</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../timely-warnings/indianapolis-timely-warnings.php" role="menuitem">Indianapolis Timely Warnings</a></li>
+                                            </ul>
+                                            </li>
+            
+            
+                                                                        
         
                                                                                  
                                                         
@@ -626,6 +657,11 @@
                 
     
     <li role="none"><a href="weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
+                                                                            
+        
+                
+    
+    <li role="none"><a href="indianapolis-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
                             </ul>
 </nav>
 
@@ -693,7 +729,146 @@
   
     	<section class="content__group">
   					<h3>Monday, April 20, 2026</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU00510</td>
+<td style="font-weight: 400;" width="148">4/17/26 8:09 AM</td>
+<td style="font-weight: 400;" width="148">4/17/26 8:40 AM</td>
+<td style="font-weight: 400;" width="204">Forney Hall of Chemical Engineering</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Trespassing</td>
+<td style="font-weight: 400;" width="172">2026PU00511</td>
+<td style="font-weight: 400;" width="148">4/17/26 10:12 AM</td>
+<td style="font-weight: 400;" width="148">4/17/26 10:40 AM</td>
+<td style="font-weight: 400;" width="204">Hawkins Hall</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00515</td>
+<td style="font-weight: 400;" width="148">4/15/26 10:00 AM</td>
+<td style="font-weight: 400;" width="148">4/17/26 5:27 PM</td>
+<td style="font-weight: 400;" width="204">Stewart Center</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU00516</td>
+<td style="font-weight: 400;" width="148">4/13/26 9:57 PM</td>
+<td style="font-weight: 400;" width="148">4/17/26 7:12 PM</td>
+<td style="font-weight: 400;" width="204">Class of 50 Building</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud/ Intimidation</td>
+<td style="font-weight: 400;" width="172">2026PU00517</td>
+<td style="font-weight: 400;" width="148">4/13/26 8:49 PM</td>
+<td style="font-weight: 400;" width="148">4/17/26 6:09 PM</td>
+<td style="font-weight: 400;" width="204">Tarkington Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Harassment</td>
+<td style="font-weight: 400;" width="172">2026PU00519</td>
+<td style="font-weight: 400;" width="148">4/17/26 10:13 PM</td>
+<td style="font-weight: 400;" width="148">4/17/26 10:52 PM</td>
+<td style="font-weight: 400;" width="204">Kappa Kappa Gamma</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU00521</td>
+<td style="font-weight: 400;" width="148">4/18/26 4:17 AM</td>
+<td style="font-weight: 400;" width="148">4/18/26 4:17 AM</td>
+<td style="font-weight: 400;" width="204">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU00523</td>
+<td style="font-weight: 400;" width="148">4/17/26 3:30 PM</td>
+<td style="font-weight: 400;" width="148">4/18/26 11:16 AM</td>
+<td style="font-weight: 400;" width="204">Cary Quadrangle</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU00528</td>
+<td style="font-weight: 400;" width="148">4/19/26 1:09 AM</td>
+<td style="font-weight: 400;" width="148">4/19/26 1:28 AM</td>
+<td style="font-weight: 400;" width="204">Alpha Sigma Phi</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU00529</td>
+<td style="font-weight: 400;" width="148">4/19/26 1:45 AM</td>
+<td style="font-weight: 400;" width="148">4/19/26 2:05 AM</td>
+<td style="font-weight: 400;" width="204">Shreve Hall</td>
+<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption/ Public Intoxication/ Intimidation</td>
+<td style="font-weight: 400;" width="172">2026PU00530</td>
+<td style="font-weight: 400;" width="148">4/19/26 4:07 AM</td>
+<td style="font-weight: 400;" width="148">4/19/26 4:33 AM</td>
+<td style="font-weight: 400;" width="204">3rd St/ N MacArthur Dr</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU00532</td>
+<td style="font-weight: 400;" width="148">4/19/26 1:34 PM</td>
+<td style="font-weight: 400;" width="148">4/19/26 3:32 PM</td>
+<td style="font-weight: 400;" width="204">3rd St/ N MacArthur Dr</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU00533</td>
+<td style="font-weight: 400;" width="148">4/19/26 4:07 AM</td>
+<td style="font-weight: 400;" width="148">4/19/26 3:40 PM</td>
+<td style="font-weight: 400;" width="204">3rd St/ N MacArthur Dr</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU00534</td>
+<td style="font-weight: 400;" width="148">4/19/26 4:07 AM</td>
+<td style="font-weight: 400;" width="148">4/19/26 3:42 PM</td>
+<td style="font-weight: 400;" width="204">3rd St/ N MacArthur Dr</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00535</td>
+<td style="font-weight: 400;" width="148">4/19/26 9:27 PM</td>
+<td style="font-weight: 400;" width="148">4/19/26 9:41 PM</td>
+<td style="font-weight: 400;" width="204">Honors College North</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-059463</td>
+<td style="font-weight: 400;" width="148">4/17/26 1:27 AM</td>
+<td style="font-weight: 400;" width="148">4/17/26 1:27 AM</td>
+<td style="font-weight: 400;" width="204">Mitch Daniels Blvd/S Grant St</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1276,7 +1451,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>April 17, 2026</span></em></p>
+        <p><em>Last modified: <span>April 20, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
