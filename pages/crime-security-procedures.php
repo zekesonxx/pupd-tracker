@@ -1,47 +1,1605 @@
 <!DOCTYPE html>
-<html><head>
-<meta http-equiv="Pragma" content="no-cache"/>
-<meta http-equiv="Expires" content="-1"/>
-<meta http-equiv="CacheControl" content="no-cache"/>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<link rel="shortcut icon" href="data:;base64,iVBORw0KGgo="/>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		
+		<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+		
 
+
+
+<meta content="Learn about operating procedures for gathering and reporting crime statistics." name="description"/>
+<meta content="Purdue University Police Department; Operating Procedures for Gathering and Reporting Crime Statistics; policy" name="keywords"/>
+<meta content="Purdue University Administrative Operations Communications" name="author"/>
+
+		
+		
+		
+		<title>
+			Operating Procedures for Gathering and Reporting Crime Statistics - 
+			 Police Department -  Purdue University
+		</title>
+		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
+<link href="https://www.purdue.edu/purdue/images/icon-iphone.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="https://www.purdue.edu/purdue/images/icon-ipad.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="https://www.purdue.edu/purdue/images/icon-iphone-retina.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="https://www.purdue.edu/purdue/images/icon-ipad-retina.png" rel="apple-touch-icon" sizes="152x152"/>
+		<link href="https://use.fontawesome.com/releases/v6.4.2/css/all.css" rel="stylesheet"/>
+
+<!--United sans -->
+<link href="https://www.purdue.edu/purdue/fonts/united-sans/united-sans.css" rel="stylesheet"/>
+
+<link href="https://www.purdue.edu/purdue/css/pu/content/content-2.0-2020.css" rel="stylesheet" type="text/css"/>
+
+
+		
+
+            
+        
+                                         
+		
+		    <style type="text/css">
+	    /* Any CSS placed in this text area will be placed inside of a style tag located in the head section of the page. */
+	</style>
+
+		
+		<script async="true" src="//www.purdue.edu/purdue/globals/js/modernizr-1.5.min.js" type="text/javascript"></script>
+<script src="//www.purdue.edu/purdue/js/jquery-1.10.2.min.js" type="text/javascript"></script>
+<script src="https://www.purdue.edu/assets/globals/js/google_jquery_link_tracking.js" type="text/javascript"></script>
+
+		
+
+            
+        
+                                         
+		
+		
+		
+<script src="https://www.purdue.edu/purdue/js/pGA.js" type="text/javascript"></script>
 <script type="text/javascript">
-(function(){
-window["bobcmn"] = "101110101010102000000062000000052000000062000000012496cb1a1200000096200000000200000002300000000300000000300000006/TSPD/300000008TSPD_10130000000cTSPD_101_DID300000005https3000000e008993c5290ab200068d84387963ea3a974b9a8ada8b71b0accffa34cb62b7c9f2b4795e9e7b93a9e08bd455c980a40000ceb1c2ae7adb14239ec133b16d57d250f9d4393469ab49428202cd5b04dfc14d97dfc844eeea7c1e885bf692ce92a58edd1c5934161b15853e22918f55789f9300000002TS200000000200000000";
 
-window["failureConfig"] = "524f6f70732e2e2e2e736f6d657468696e672077656e742077726f6e672e2e2e2e20796f757220737570706f72742069642069733a2025444f534c372e6368616c6c656e67652e737570706f72745f6964252e1336363434333533323730343837303031323739062f545350442f171801";window.YJa=!!window.YJa;try{(function(){(function(){var l=-1,l={ii:++l,zs:"false"[l],i:++l,_l:"false"[l],si:++l,Lli:"[object Object]"[l],Oo:(l[l]+"")[l],iL:++l,oo:"true"[l],li:++l,iI:++l,Zs:"[object Object]"[l],Z:++l,zI:++l,ZJI:++l,zJI:++l};try{l.Sl=(l.Sl=l+"")[l.iI]+(l.SJ=l.Sl[l.i])+(l.Os=(l.sJ+"")[l.i])+(!l+"")[l.iL]+(l._J=l.Sl[l.Z])+(l.sJ="true"[l.i])+(l.Zo="true"[l.si])+l.Sl[l.iI]+l._J+l.SJ+l.sJ,l.Os=l.sJ+"true"[l.iL]+l._J+l.Zo+l.sJ+l.Os,l.sJ=l.ii[l.Sl][l.Sl],l.sJ(l.sJ(l.Os+'"\\'+l.i+l.iI+l.i+l.zs+"\\"+l.li+l.ii+"("+l._J+"\\"+l.i+l.zI+
-l.i+"\\"+l.i+l.Z+l.ii+l.oo+l.SJ+l.zs+"\\"+l.li+l.ii+"\\"+l.i+l.Z+l.zI+"\\"+l.i+l.iI+l.i+"\\"+l.i+l.iI+l.Z+l.Oo+l.SJ+"\\"+l.i+l.Z+l.zI+"['\\"+l.i+l.Z+l.ii+l._l+"\\"+l.i+l.zI+l.i+"false"[l.si]+l.SJ+l._l+l.Oo+"']\\"+l.li+l.ii+"===\\"+l.li+l.ii+"'\\"+l.i+l.Z+l.iL+l._J+"\\"+l.i+l.Z+l.si+"\\"+l.i+l.iI+l.i+"\\"+l.i+l.iI+l.Z+"\\"+l.i+l.li+l.zI+"')\\"+l.li+l.ii+"{\\"+l.i+l.si+"\\"+l.i+l.i+"\\"+l.i+l.Z+l.Z+l._l+"\\"+l.i+l.Z+l.si+"\\"+l.li+l.ii+l.oo+l.Oo+"\\"+l.i+l.Z+l.Z+l.Zs+"\\"+l.i+l.zI+l.i+l.Zo+"\\"+l.i+
-l.iI+l.si+"\\"+l.i+l.iI+l.iL+"\\"+l.i+l.Z+l.ii+"\\"+l.li+l.ii+"=\\"+l.li+l.ii+"\\"+l.i+l.Z+l.zI+"\\"+l.i+l.iI+l.i+"\\"+l.i+l.iI+l.Z+l.Oo+l.SJ+"\\"+l.i+l.Z+l.zI+"['\\"+l.i+l.Z+l.ii+l._l+"\\"+l.i+l.zI+l.i+"false"[l.si]+l.SJ+l._l+l.Oo+"'].\\"+l.i+l.Z+l.si+l.oo+"\\"+l.i+l.Z+l.ii+"false"[l.si]+l._l+l.Zs+l.oo+"(/.{"+l.i+","+l.li+"}/\\"+l.i+l.li+l.zI+",\\"+l.li+l.ii+l.zs+l.Zo+"\\"+l.i+l.iI+l.Z+l.Zs+l._J+"\\"+l.i+l.iI+l.i+l.SJ+"\\"+l.i+l.iI+l.Z+"\\"+l.li+l.ii+"(\\"+l.i+l.zI+l.ii+")\\"+l.li+l.ii+"{\\"+l.i+
-l.si+"\\"+l.i+l.i+"\\"+l.i+l.i+"\\"+l.i+l.i+"\\"+l.i+l.Z+l.si+l.oo+l._J+l.Zo+"\\"+l.i+l.Z+l.si+"\\"+l.i+l.iI+l.Z+"\\"+l.li+l.ii+"(\\"+l.i+l.zI+l.ii+"\\"+l.li+l.ii+"+\\"+l.li+l.ii+"\\"+l.i+l.zI+l.ii+").\\"+l.i+l.Z+l.iL+l.Zo+l.Lli+"\\"+l.i+l.Z+l.iL+l._J+"\\"+l.i+l.Z+l.si+"("+l.si+",\\"+l.li+l.ii+l.li+")\\"+l.i+l.si+"\\"+l.i+l.i+"\\"+l.i+l.i+"});\\"+l.i+l.si+"}\\"+l.i+l.si+'"')())()}catch(O){l%=5}})();var ol=29;
-try{var Ol,sl,_l=L(46)?1:0,jl=L(809)?0:1,lL=L(349)?1:0,OL=L(157)?1:0,zL=L(69)?1:0,IL=L(496)?0:1;for(var jL=(L(834),0);jL<sl;++jL)_l+=(L(347),2),jl+=(L(803),2),lL+=L(911)?1:2,OL+=(L(448),2),zL+=L(151)?2:1,IL+=L(949)?1:3;Ol=_l+jl+lL+OL+zL+IL;window.zo===Ol&&(window.zo=++Ol)}catch(JL){window.zo=Ol}var Lo=!0;function z(l,O){l+=O;return l.toString(36)}
-function oo(l){var O=75;!l||document[s(O,193,180,190,180,173,180,183,180,191,196,158,191,172,191,176)]&&document[s(O,193,180,190,180,173,180,183,180,191,196,158,191,172,191,176)]!==z(68616527591,O)||(Lo=!1);return Lo}function S(l){var O=arguments.length,Z=[],_=1;while(_<O)Z[_-1]=arguments[_++]-l;return String.fromCharCode.apply(String,Z)}function s(l){var O=arguments.length,Z=[];for(var _=1;_<O;++_)Z.push(arguments[_]-l);return String.fromCharCode.apply(String,Z)}function Zo(){}
-oo(window[Zo[z(1086825,ol)]]===Zo);oo(typeof ie9rgb4!==z(1242178186170,ol));oo(RegExp("\x3c")[s(ol,145,130,144,145)](function(){return"\x3c"})&!RegExp(S(ol,149,80,129))[z(1372176,ol)](function(){return"'x3'+'d';"}));
-var So=window[S(ol,126,145,145,126,128,133,98,147,130,139,145)]||RegExp(S(ol,138,140,127,134,153,126,139,129,143,140,134,129),s(ol,134))[z(1372176,ol)](window["\x6e\x61vi\x67a\x74\x6f\x72"]["\x75\x73e\x72A\x67\x65\x6et"]),_o=+new Date+(L(812)?827807:6E5),Io,jo,oO,OO=window[s(ol,144,130,145,113,134,138,130,140,146,145)],zO=So?L(514)?18792:3E4:L(306)?6E3:8449;
-document[s(ol,126,129,129,98,147,130,139,145,105,134,144,145,130,139,130,143)]&&document[S(ol,126,129,129,98,147,130,139,145,105,134,144,145,130,139,130,143)](S(ol,147,134,144,134,127,134,137,134,145,150,128,133,126,139,132,130),function(l){var O=41;document[S(O,159,146,156,146,139,146,149,146,157,162,124,157,138,157,142)]&&(document[s(O,159,146,156,146,139,146,149,146,157,162,124,157,138,157,142)]===s(O,145,146,141,141,142,151)&&l[s(O,146,156,125,155,158,156,157,142,141)]?oO=!0:document[S(O,159,
-146,156,146,139,146,149,146,157,162,124,157,138,157,142)]===z(68616527625,O)&&(Io=+new Date,oO=!1,sO()))});function sO(){if(!document[s(49,162,166,150,163,170,132,150,157,150,148,165,160,163)])return!0;var l=+new Date;if(l>_o&&(L(610)?312105:6E5)>l-Io)return oo(!1);var O=oo(jo&&!oO&&Io+zO<l);Io=l;jo||(jo=!0,OO(function(){jo=!1},L(566)?0:1));return O}sO();var SO=[L(615)?11254658:17795081,L(355)?27611931586:2147483647,L(207)?1558153217:2045443987];
-function _O(l){var O=18;l=typeof l===s(O,133,134,132,123,128,121)?l:l[s(O,134,129,101,134,132,123,128,121)](L(174)?36:21);var Z=window[l];if(!Z||!Z[s(O,134,129,101,134,132,123,128,121)])return;var _=""+Z;window[l]=function(l,O){jo=!1;return Z(l,O)};window[l][S(O,134,129,101,134,132,123,128,121)]=function(){return _}}for(var iO=(L(68),0);iO<SO[S(ol,137,130,139,132,145,133)];++iO)_O(SO[iO]);oo(!1!==window[s(ol,118,103,126)]);window.ZL=window.ZL||{};window.ZL.LS="08ab0ff3d302000108d4052d106168950f8d873ed47b07844c69cf8939eae0fb06c86bf2ee85b61b68632d1c38373aa5e2410b9ccb0bf4655a2bfe0d16a393a32936f5b4fe3e646cf35a200a3030a1abf7f135213f50be6c87600b18c4254791500b97de223f44c84e629df9e905e52e9eeaa94bff49a1731ea5f5e979a63d2743ff1c5fd0a7a2ac7e90110a6abb985c94d49771b040d7d51a679ec2d94757a4e7f45825f7734602b2773e5efb4f6f4f84cb4990b5d8158df8989cb7f866c8058783361f5f4aff2aef4ecd88e9a55cec1e508b2e8309f988cb6e222c1aef95265ae382d4abbf84f15d8a04d4c5aa8edb1825a14ee0a6f2dc129a89fe149f0ac7d7c703bb32fa720d";
-function IO(l){var O=+new Date,Z;!document[S(87,200,204,188,201,208,170,188,195,188,186,203,198,201,152,195,195)]||O>_o&&(L(289)?6E5:412147)>O-Io?Z=oo(!1):(Z=oo(jo&&!oO&&Io+zO<O),Io=O,jo||(jo=!0,OO(function(){jo=!1},L(676)?0:1)));return!(arguments[l]^Z)}function L(l){return 416>l}(function(l){l||setTimeout(function(){var l=setTimeout(function(){},250);for(var Z=0;Z<=l;++Z)clearTimeout(Z)},500)})(!0);})();}catch(x){}finally{ie9rgb4=void(0);};function ie9rgb4(a,b){return a>>b>>0};
+    var mCode = '';
+    var sCodes = [];
 
-})();
+    
+    SetAnalytics(mCode,sCodes);
 
 </script>
+		
+	</head>
+	<body>
+    	<!-- Google Tag Manager (noscript) --><!-- End Google Tag Manager (noscript) --><noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-WWGMN6Z" style="display:none;visibility:hidden" title="GTM noscript" width="0"></iframe></noscript>
+		
+		<a class="nav-skipto" href="#main">Skip to main content</a>
+		
+		<header class="header container">
+			<section class="header__goldBar container">
+				<div class="header__goldBar--inner">
+					<button aria-expanded="false" aria-haspopup="true" class="header__goldBar--moButton">
+						<i class="fas fa-bars" aria-hidden="true"></i>&nbsp; Quick Links
+					</button>
+					<section class="header__goldBar--menus">
+						
 
-<script type="text/javascript" src="/TSPD/08993c5290ab2000d7065458a9e7421ba90506fae6d21107deb4104ddd56b3f00e734887b2319400?type=5"></script>
-<noscript>Please enable JavaScript to view the page content.<br/>Your support ID is: 6644353270487001279.<link rel="stylesheet" href="/TSPD/?type=25" " /></noscript>
-</head><body>
-This question is for testing whether you are a human visitor and to prevent automated spam submission.
-<br>
-<img src="data:image/png;base64,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" alt="Red dot" /> <audio id="captcha_audio" src="data:audio/mpeg;base64,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RKj5kIgbVpUg4s5HpPYua9sajVLe39aGt4zVbuO+VtIjoqsncp0Ze7LSmfr0ZFbiLs5arVaWU/qmxpojEbFNl2rV5lpf7eMmjTOXDk7rqGLhXZcdNdSgtLS7xx//1Ko1urKa3caut//jYMT/TiPSux+a0Q28dVs7mu1dr6ZlLIAaEpWvBtlh1hkJcQhsaAtJf2Nu81yQxp2qtLKatLKd40v/W//x5/K2SUlFdb2FTEFNRTMuMTAwVVVVVVVVVVVVVVVVVVVVVVVMQU1FMy4xMDBVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVX/4xDE2AAAA0gBwAAAVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV" alt="Red dot">Audio is not supported in your browser.</audio><img onclick="document.getElementById('captcha_audio').play()" src="data:image/png;base64,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" style="cursor: pointer;" /> <a href="#" id="bottle"> 
-<img src="data:image/png;base64,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" alt="bottle" class="thumbnails" /></a>
+                
 
-<br>
-<b>What code is in the image?</b>
-<input type = "text" id="ans" name = "answer" value = "" />
 
-<br>
-<button id="jar" type="button">submit</button>
+<nav class="header__goldBar__findInfoFor">
+  <button aria-expanded="false" aria-haspopup="true">
+    Find Info For
+    <span><i class="fas fa-chevron-down"></i></span>
+  </button>
+  <span>Find Info For</span>
+  <ul id="findInfoFor" role="menu">
+                              
+                 
+                
+        
+                        
+                                            
+            
+        
+        
+            
+                             <li role="none"><a href="https://www.purdue.edu/purdue/academics/index.php" role="menuitem">Academics</a></li>
+                        
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                             <li role="none"><a href="https://www.purdue.edu/purdue/admissions/index.php" role="menuitem">Admissions</a></li>
+                        
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                             <li role="none"><a href="https://www.purdue.edu/purdue/current_students/index.php" role="menuitem">Current Students</a></li>
+                        
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                             <li role="none"><a href="https://www.purdue.edu/purdue/athletics/index.php" role="menuitem">Athletics</a></li>
+                        
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                             <li role="none"><a href="https://www.purdue.edu/purdue/about/index.php" role="menuitem">About</a></li>
+                        
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                             <li role="none"><a href="https://www.purdue.edu/purdue/careers/index.php" role="menuitem">Careers</a></li>
+                        
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                             <li role="none"><a href="https://www.purdue.edu/purdue/prospective_students/index.php" role="menuitem">Prospective Students</a></li>
+                        
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                             <li role="none"><a href="https://www.purdue.edu/purdue/research/index.php" role="menuitem">Research and Partnerships</a></li>
+                        
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                             <li role="none"><a href="https://www.purdue.edu/purdue/commercialization/index.php" role="menuitem">Entrepreneurship and Commercialization</a></li>
+                        
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                             <li role="none"><a href="https://www.purdue.edu/engagement/" role="menuitem">Office of Engagement</a></li>
+          </ul>
+</nav>
 
-<br>
-<br>
-Your support ID is: 6644353270487001279 .</body></html>
+
+						
+
+                
+
+
+<nav class="header__goldBar__quickLinks">
+  <span>Quick Links</span>
+<ul role="menu">
+                
+                 
+                
+        
+                        
+                                            
+            
+        
+        
+            
+                    <li role="none"><a href="https://discover.online.purdue.edu/academics/apply.php" role="menuitem">Apply</a></li>
+            
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                    <li role="none"><a href="https://www.purdue.edu/newsroom/" role="menuitem">News</a></li>
+            
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                    <li role="none"><a href="https://www.purdue.edu/president/" role="menuitem">President</a></li>
+            
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                    <li role="none"><a href="https://purdueteamstore.com/home" role="menuitem">Shop</a></li>
+            
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                    <li role="none"><a href="https://www.purdue.edu/visit" role="menuitem">Visit</a></li>
+            
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                    <li role="none"><a href="https://www.purdue.edu/purdue/giveNow.html" role="menuitem">Give</a></li>
+            
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                    <li role="none"><a href="https://www.purdue.edu/emergency/" role="menuitem">Emergency</a></li>
+</ul>
+</nav>
+
+					</section>
+					<button aria-expanded="false" aria-haspopup="true" class="header__goldBar__search">
+						<i class="fas fa-search" aria-hidden="true"></i>
+						<span class="sr-only">Search</span>
+					</button>
+					
+<section class="header__goldBar__search--dropdown" id="searchDropdown">
+<div class="header__goldBar__search--container">
+  <div class="form-group">
+    
+    <script>
+      (function() {
+        var cx = '017690826183710227054:mjxnqnpskjk';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+      })();
+    </script>
+    <gcse:searchbox-only id="cse-search-form" resultsUrl="https://www.purdue.edu/purdue/search.php" queryParameterName="q">
+    		Loading
+    	</gcse:searchbox-only>
+    
+  </div>
+</div>
+</section>
+
+				</div>
+			</section>
+			
+			
+
+                <section class="header__signature container">
+    <section class="header__signature--inner">
+      <a aria-label="Purdue Logo" class="header__signature--logo" href="https://www.purdue.edu" id="purdueLogo">
+        <div>
+          <object aria-labelledby="purdueLogo" data="https://www.purdue.edu/purdue/images/PU-H.svg" tabindex="-1" type="image/svg+xml"></object>
+        </div>
+      </a>
+      <article class="header__signature--siteName">
+          
+                         
+                <a aria-label="Police Department" href="../index.php" id="siteName">Police Department</a>
+                               
+      </article>
+    </section>
+</section>
+			
+			
+
+<nav class="header__mainNav container">
+    <button aria-expanded="false" aria-haspopup="true" id="mainNavMo">
+      <i class="fas fa-bars" aria-hidden="true"></i>
+      Menu
+    </button>
+    <section class="header__mainNav--main">
+      <ul aria-label="Main Navigation" role="menubar">
+        <li role="none"><a href="../index.php" role="menuitem">Home</a></li>
+                                                                                    
+        
+                                                                                 
+                                                        
+                                            <li class="dropdown" role="none">
+                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../about/index.php" role="menuitem">About Us<span><i class="fas fa-chevron-down"></i></span></a>
+                    <ul class="header__mainNav--dropdownOuter" role="menu">
+                                                                                                
+        
+                                                            
+        
+        <li role="none"><a href="../about/index.php" role="menuitem">About Us</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../about/directory.php" role="menuitem">Staff Directory</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../about/careers.php" role="menuitem">Career Opportunities</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../about/internships.php" role="menuitem">Student Internships</a></li>
+                                            </ul>
+                                            </li>
+            
+            
+                                                                        
+        
+                                                                                 
+                                                        
+                                            <li class="dropdown" role="none">
+                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="index.php" role="menuitem">Statistics and Policies<span><i class="fas fa-chevron-down"></i></span></a>
+                    <ul class="header__mainNav--dropdownOuter" role="menu">
+                                                                                                
+        
+                                                            
+        
+        <li role="none"><a href="index.php" role="menuitem">Statistics and Policies</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="security-reports.php" role="menuitem">Annual Security Reports</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="indy-daily-crime-log.php" role="menuitem">Indianapolis Daily Crime Log</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="crime-security-procedures.php" role="menuitem">Operating Procedures for Gathering and Reporting Crime Statistics</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="persona-non-grata.php" role="menuitem">Persona Non Grata</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
+                                            </ul>
+                                            </li>
+            
+            
+                                                                        
+        
+                                                                                 
+                                                        
+                                            <li class="dropdown" role="none">
+                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../campus-safety-tips/index.php" role="menuitem">Campus Safety Tips<span><i class="fas fa-chevron-down"></i></span></a>
+                    <ul class="header__mainNav--dropdownOuter" role="menu">
+                                                                                                
+        
+                                                            
+        
+        <li role="none"><a href="../campus-safety-tips/index.php" role="menuitem">Campus Safety Tips</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../campus-safety-tips/sex-offender.php" role="menuitem">Indiana Sex and Violent Offender Registry</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../campus-safety-tips/victims-rights.php" role="menuitem">Notice of Victims' Rights</a></li>
+                                                    
+        
+                                                                                 
+                                                        
+                            <li role="none"><a href="../campus-safety-tips/online-safety/index.php" role="menuitem">Online Safety</a></li>
+                                                                
+        
+                                                                                 
+                                                        
+                            <li role="none"><a href="../campus-safety-tips/property-crimes/index.php" role="menuitem">Property Crimes</a></li>
+                                                                
+        
+                                                                                 
+                                                        
+                            <li role="none"><a href="../campus-safety-tips/violent-crimes/index.php" role="menuitem">Violent Crimes</a></li>
+                                                        </ul>
+                                            </li>
+            
+            
+                                                                        
+        
+                                                                                 
+                                                        
+                                            <li class="dropdown" role="none">
+                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../community-services/index.php" role="menuitem">Community Services<span><i class="fas fa-chevron-down"></i></span></a>
+                    <ul class="header__mainNav--dropdownOuter" role="menu">
+                                                                                                
+        
+                                                            
+        
+        <li role="none"><a href="../community-services/index.php" role="menuitem">Community Services</a></li>
+                                                    
+        
+                                                                                 
+                                                        
+                            <li role="none"><a href="../community-services/outreach-programs/index.php" role="menuitem">Outreach Programs</a></li>
+                                                                
+        
+                                                                                 
+                                                        
+                            <li role="none"><a href="../community-services/services/index.php" role="menuitem">Safety and Security Services</a></li>
+                                                        </ul>
+                                            </li>
+            
+            
+                                                                        
+        
+                                                                                 
+                                                        
+                                            <li class="dropdown" role="none">
+                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../timely-warnings/index.php" role="menuitem">Timely Warnings<span><i class="fas fa-chevron-down"></i></span></a>
+                    <ul class="header__mainNav--dropdownOuter" role="menu">
+                                                                                                
+        
+                                                            
+        
+        <li role="none"><a href="../timely-warnings/index.php" role="menuitem">Timely Warnings</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../timely-warnings/wl-timely-warnings.php" role="menuitem">West Lafayette Timely Warnings</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../timely-warnings/indianapolis-timely-warnings.php" role="menuitem">Indianapolis Timely Warnings</a></li>
+                                            </ul>
+                                            </li>
+            
+            
+                                                                        
+        
+                                                                                 
+                                                        
+                                            <li class="dropdown" role="none">
+                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../contact/index.php" role="menuitem">Contact Us<span><i class="fas fa-chevron-down"></i></span></a>
+                    <ul class="header__mainNav--dropdownOuter" role="menu">
+                                                                                                
+        
+                                                            
+        
+        <li role="none"><a href="../contact/index.php" role="menuitem">Contact Us</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../contact/confidential-reporting.php" role="menuitem">Confidential Reporting</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../contact/designated-offices.php" role="menuitem">Designated Campus Offices to Receive Crime Reports</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../contact/extra-patrol.php" role="menuitem">Extra Patrol Request Form</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../contact/report-crime.php" role="menuitem">How to Report a Crime</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../contact/report-theft.php" role="menuitem">Online Theft Reporting System</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../contact/contact-form.php" role="menuitem">Contact and Feedback Form</a></li>
+                                            </ul>
+                                            </li>
+            
+            
+                                                                </ul>
+    </section>
+</nav>
+
+
+
+
+
+
+
+			
+	        
+                                                                                                                                                    
+
+
+
+<nav class="content__breadcrumb">
+    <ul class="row">
+
+                    
+        
+                
+                                     
+        
+                
+             
+                            <li><a href="index.php">Statistics and Policies</a></li>
+                                
+        
+                
+                     <li>Operating Procedures for Gathering and Reporting Crime Statistics</li>
+        
+    </ul>
+</nav> 
+
+
+        
+
+			
+		</header>
+		<main id="main">
+			
+			<section class="container container--bg-white content__content">
+				<article class="row">
+					
+					<aside class="content__aside">
+						
+						
+<nav class="content__side-nav">
+        
+           
+                
+        
+                
+    <ul aria-label="Side Navigation" role="menu">
+                                     <li role="none"><a href="index.php" role="menuitem">Statistics and Policies</a></li>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="security-reports.php" role="menuitem">Annual Security Reports</a></li>
+                                                                            
+        
+                
+    
+    <li role="none"><a href="daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
+                                                                            
+        
+                
+    
+    <li role="none"><a href="indy-daily-crime-log.php" role="menuitem">Indianapolis Daily Crime Log</a></li>
+                                                                            
+        
+                
+    
+    <li role="none"><a href="drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
+                                                                            
+        
+                
+    
+    <li role="none"><a href="crime-security-procedures.php" role="menuitem">Operating Procedures for Gathering and Reporting Crime Statistics</a></li>
+                                                                            
+        
+                
+    
+    <li role="none"><a href="persona-non-grata.php" role="menuitem">Persona Non Grata</a></li>
+                                                                            
+        
+                
+    
+    <li role="none"><a href="weapons-policies.php" role="menuitem">Weapons Possession on Campus</a></li>
+                            </ul>
+</nav>
+
+
+
+
+
+
+
+						
+						
+
+                
+
+
+						
+					</aside>
+					<article class="content__main">
+						
+    
+						
+						    <h1 id="main-heading">Operating Procedures for Gathering and Reporting Crime Statistics</h1>
+
+						
+						
+  
+    	<section class="content__group">
+  					<p>These procedures supplement the policy on <a href="http://www.purdue.edu/policies/facilities-safety/iva2.html" rel="noopener" target="_blank" title="Campus Security and Crime Statistics (IV.A.2)">Campus Security and Crime Statistics (IV.A.2)</a>. Please refer to the policy for contact information and applicable definitions.</p>
+<ul>
+<li><a href="#I">I. Annual Security and Fire Safety Report</a></li>
+<li><a href="#II">II. Timely Warning to the Campus Community</a></li>
+<li><a href="#III">III. Daily Crime Log</a></li>
+<li><a href="#IV">IV. Gathering Crime Statistics &#8212; University Police</a></li>
+<li><a href="#V">V. Daily Fire Log</a></li>
+<li><a href="#VI">VI. Annual Report to the Department of Education</a></li>
+<li><a href="#VII">VII. Questions</a></li>
+<li><a href="#VIII">VIII. History and Updates</a></li>
+</ul>
+<p>Effective date: May 1, 2025</p>
+<h3><strong><a id="I"></a>I. Annual Security and Fire Safety Report&#160;<br/></strong></h3>
+<h4>Current Students and Employees</h4>
+<p>The Chiefs of Police (for the purposes of these procedures, this title refers to the individual with that title or with responsibilities that align with that title on the West Lafayette, Fort Wayne and Northwest Campuses), or their designees, distribute, by October 1 of each year,&#160;an Annual Security and Fire Safety Report to all current students and employees of their respective Campuses. The link to the report is distributed to each individual via electronic mail and made available for viewing on the Campus&#8217;s University Police Department website.</p>
+<h4>Prospective Students and Employees</h4>
+<p>Notice of the Annual Security and Fire Safety Report&#8217;s availability, including a description of the report's contents,&#160;and the opportunity to request a copy of the report is provided to Prospective Students and Prospective Employees. The report is provided upon request to all Prospective Students and Employees and is available for viewing on the University Police Department website.</p>
+<h4>Contents of the Annual Report</h4>
+<p>The Annual Security and Fire Safety Report contains at least the following information regarding each Campus&#8217;s policies and statistics:&#160;</p>
+<ol>
+<li>Campus Policies Regarding Criminal Actions and Emergencies: A statement of current Campus policies regarding procedures and facilities for students and others to report criminal actions or other emergencies occurring on Campus and policies concerning the Campus&#8217;s response to such reports, including:&#160;
+<ol style="list-style-type: upper-alpha;">
+<li>Policies for making Timely Warning reports to members of the Campus community regarding the occurrence of crimes described in item 14 below;</li>
+<li>Policies for preparing the annual disclosure of crime statistics;&#160;</li>
+<li>A list of the titles of each person or organization to whom students and employees should report the criminal offenses described in item 14 below for the purpose of making Timely Warning reports and the annual statistical disclosure; and&#160;</li>
+<li>A disclosure of whether the University has any policies or procedures that allow victims or witnesses to report crimes on a voluntary, confidential basis for inclusion in the annual disclosure of crime statistics, and, if so, a description of those policies and procedures.</li>
+</ol>
+</li>
+<li>Campus Security and Access Policies: A statement of current policies concerning security and access to Campus facilities, including Campus residences, and security considerations used in the maintenance of Campus facilities.</li>
+<li>Campus Policies Concerning Law Enforcement: A statement of current policies concerning Campus law enforcement, including:&#160;
+<ol style="list-style-type: upper-alpha;">
+<li>The enforcement authority of Campus Police, including jurisdiction, their working relationship with Indiana and local police agencies and their authority to make lawful arrests;</li>
+<li>Policies that&#160;encourage accurate and prompt reporting of all crimes to the Campus Police and appropriate police agencies; and&#160;&#160;&#160;</li>
+<li>Procedures, if any, that encourage professional and/or pastoral counselors, if and when they deem it appropriate, to inform the individuals they are counseling of any procedures to report crimes on a voluntary, confidential basis for inclusion in the annual disclosure of crime statistics.&#160;</li>
+</ol>
+</li>
+<li>Security Programs Offered to Students and Employees: A description of the type and frequency of programs designed to inform students and employees about Campus security procedures and practices and to encourage students and employees to be responsible for their own security and the security of others.</li>
+<li>Crime Prevention Programs: A description of programs designed to inform students and employees about the prevention of crimes.</li>
+<li>Monitoring Criminal Activity at Off-Campus Student Organizations: A statement of policy concerning the monitoring and recording through local police agencies of criminal activity at off-Campus student organizations that are recognized by the University and that are engaged in by students attending the University, including those student organizations with Non-Campus Buildings or Property.</li>
+<li>Alcohol and Drug Policies: A statement of policy regarding:&#160;&#160;&#160;
+<ol style="list-style-type: upper-alpha;">
+<li>The possession, use and sale of alcoholic beverages and enforcement of Indiana underage drinking laws;</li>
+<li>The possession, use and sale of illegal drugs and enforcement of Federal and Indiana drug laws;&#160;&#160;&#160;</li>
+<li>A description of any drug or alcohol abuse education programs as required under Section 120(a) through (d) of the Higher Education Act (otherwise known as the Drug-Free Schools and Communities Act of 1989); and</li>
+<li>A description of the University&#8217;s Substance-Free Campus and Workplace policy (IV.A.9).</li>
+</ol>
+</li>
+<li>Dating Violence, Domestic Violence, Sexual Assault and Stalking Programs and Procedures: A statement of policy regarding Campus dating violence, domestic violence, sexual assault and stalking programs designed to prevent such acts, including:&#160;
+<ol style="list-style-type: upper-alpha;">
+<li>A description of primary prevention and awareness programs for all incoming students and new employees, which must include:
+<ol>
+<li>A statement that the University prohibits the crimes of dating violence, domestic violence, sexual assault and stalking;</li>
+<li>The definition of &#8220;dating violence,&#8221; &#8220;domestic violence,&#8221; &#8220;sexual assault&#8221; and &#8220;stalking&#8221; in the state of Indiana;</li>
+<li>A statement that Indiana law does not define &#8220;consent&#8221; in reference to sexual activity;</li>
+<li>A description of safe and positive options for bystander intervention;</li>
+<li>Information on risk reduction;</li>
+<li>Procedures victims should follow if a crime of dating violence, domestic violence, sexual assault or stalking has occurred (and information outlined in section 8.B below);</li>
+<li>Information about how the University protects the confidentiality of victims and other necessary parties;</li>
+<li>A statement that the University provides any individual who reports as having been the victim of dating violence, domestic violence, sexual assault or stalking, regardless of location, a written explanation of the individual&#8217;s rights and options; and</li>
+<li>A description of the procedures for University disciplinary action in cases of alleged dating violence, domestic violence, sexual assault and stalking.&#160;</li>
+</ol>
+</li>
+<li>Procedures victims should follow if a crime of dating violence, domestic violence, sexual assault or stalking has occurred, including written information about:&#160;&#160;&#160;
+<ol>
+<li>The importance of preserving evidence that may assist in proving that the alleged criminal offense occurred or may be helpful in obtaining a protection order;</li>
+<li>How and to whom the alleged offense should be reported;</li>
+<li>Options about&#160;the involvement of law enforcement and Campus authorities,&#160;including&#160;notification of the victim&#8217;s option to:
+<ol style="list-style-type: lower-alpha;">
+<li>Notify proper law enforcement authorities, including University Police and local police;</li>
+<li>Be assisted by Campus authorities in notifying law enforcement authorities if the victim so chooses; and&#160;&#160;</li>
+<li>Decline to notify such authorities.</li>
+</ol>
+</li>
+<li>The rights of victims for orders of protection issued by a criminal or civil court and the University&#8217;s responsibilities for orders of no-contact directives issued by the University.</li>
+</ol>
+</li>
+<li>Information about how the University protects the confidentiality of victims and other necessary parties, including how the University:
+<ol>
+<li>Completes publicly available recordkeeping, for purposes of Clery Act reporting and disclosure, without the inclusion of identifying information about the victim; and&#160;</li>
+<li>Maintains as confidential any accommodations or protective measures provided to the victim, to the extent that maintaining such confidentiality would not impair the ability of the University to provide such accommodations or protective measures.&#160;</li>
+</ol>
+</li>
+<li>A statement that the University provides written notification to victims of crimes covered by the Violence Against Women Act (VAWA) about options for, and available assistance in, changing academic, living, transportation, and working situations. The University must make such&#160;accommodations requested by the victim if they are reasonably available, regardless of whether the victim chooses to report the crime to University Police or local law enforcement.</li>
+<li>Procedures for Campus disciplinary action in cases of alleged dating violence, domestic violence, sexual assault and stalking, which must include:
+<ol>
+<li>A description of each type of disciplinary proceeding used by the University; the steps, anticipated timelines and decision-making process for each type of disciplinary proceeding; and how the University determines which type of proceeding to use based on the circumstances of an allegation of dating violence, domestic violence, sexual assault or stalking;</li>
+<li>A description of the standard of evidence that is used in disciplinary proceedings involving allegations of dating violence, domestic violence, sexual assault or stalking;</li>
+<li>A list of all possible sanctions the University may impose following the results of a disciplinary proceeding for allegations of dating violence, domestic violence, sexual assault or stalking;&#160;&#160;&#160;</li>
+<li>A description of the range of protective measures that the University may offer following an allegation of dating violence, domestic violence, sexual assault or stalking;</li>
+<li>A statement that disciplinary proceedings:&#160;&#160;&#160;
+<ol style="list-style-type: lower-alpha;">
+<li>Include a prompt, fair and impartial process from the initial investigation to the final result;&#160;&#160;</li>
+<li>Are conducted by officials who, at a minimum, receive annual training on the issues related to dating violence, domestic violence, sexual assault and stalking and on how to conduct an investigation and hearing process that protects the safety of victims and promotes accountability;</li>
+<li>Provide the complainant and respondent with the same opportunities to have others present during any disciplinary proceeding, including the opportunity to be accompanied to any related meeting or proceeding by the advisor of their choice;</li>
+<li>Do not limit the choice of advisor or presence for either the complainant or respondent in any meeting or disciplinary proceeding; however, the University may establish restrictions regarding the extent to which the advisor may participate in proceedings provided that such restrictions apply equally to both parties; and</li>
+<li>Require simultaneous notification, in writing, to both the complainant and the respondent of:
+<ol style="list-style-type: lower-roman;">
+<li>The result of any disciplinary proceeding arising from an allegation of dating violence, domestic violence, sexual assault or stalking;</li>
+<li>The University&#8217;s procedures for the complainant and respondent to appeal the result of the disciplinary proceeding, if appeals are provided;</li>
+<li>Any change to the result; and</li>
+<li>When such&#160;results become final.</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Stop Campus Hazing Act Programs and Procedures.
+<ol style="list-style-type: upper-alpha;">
+<li>A statement of current policies related to Hazing as defined by the University. The policy statement must include:
+<ol>
+<li>The University definition of Hazing</li>
+<li>How to report incidents of Hazing</li>
+<li>The process used to investigate incidents of Hazing</li>
+<li>Information on applicable state laws on Hazing</li>
+<li>A statement of current policy regarding Hazing prevention and awareness programs which includes a description of research-informed Campus wide prevention programs designed to reach students, staff and faculty</li>
+</ol>
+</li>
+<li>Campus Hazing Transparency Report which summarizes findings concerning any established or recognized student organization found to be in violation of the University&#8217;s Standards of Conduct relating to Hazing as defined by the University in the Hazing policies.
+<ol>
+<li>Distinct from Annual Security Report (ASR) and does not need to be included within ASR</li>
+<li><span class="TextRun Highlight SCXW71059517 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US">Must include:</span>
+<ol style="list-style-type: lower-alpha;">
+<li><span class="TextRun Highlight SCXW71059517 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US">Name of organization</span></li>
+<li><span class="TextRun Highlight SCXW71059517 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US">Date incident was alleged to have occurred</span></li>
+<li><span class="TextRun Highlight SCXW71059517 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US">Whether violation involved abuse of illegal use of alcohol or drugs</span></li>
+<li>University findings</li>
+<li>Sanctions imposed on student organization, if any</li>
+<li>Date investigation was initiated</li>
+<li>Date investigation ended with finding of Hazing violation</li>
+<li>Date notice was provided to organization of outcome</li>
+</ol>
+</li>
+<li>May include other information as determined by the University to be necessary or reported as required by state law.</li>
+<li>Cannot include personally identifiable information (PII)</li>
+<li>Does not require University to include outcomes related to unrecognized student organizations</li>
+</ol>
+</li>
+<li>University public website must include:
+<ol>
+<li>Statement notifying the public of the annual availability of Hazing statistics, including a link to the Annual Security Report</li>
+<li>Information about University policies related to Hazing and applicable local, state or tribal laws on Hazing</li>
+<li>Information required for the Campus Hazing Transparency Report</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Sex and Violent Offender Registry: A statement advising the Campus community of the availability and location of the Indiana Sheriff&#8217;s Sex and Violent Offender Registry.</li>
+<li>Emergency Response and Evacuation Procedures: A statement of policy regarding emergency response and evacuation procedures. This statement must include:&#160;
+<ol style="list-style-type: upper-alpha;">
+<li>The procedures the University uses to immediately notify the Campus community upon the confirmation of a significant emergency or dangerous situation involving an immediate threat to the health or safety of students or employees occurring on Campus;</li>
+<li>A description of the process the University uses to:
+<ol>
+<li>Confirm that there is a significant emergency or dangerous situation on Campus;</li>
+<li>Determine the appropriate segment or segments of the Campus community to receive a notification;&#160;&#160;</li>
+<li>Determine the content of the notification; and</li>
+<li>Initiate the notification system.&#160;</li>
+</ol>
+</li>
+<li>A statement that the University determines, without delay, and taking into account the safety of the community, the content of the notification and initiates the notification system, unless issuing a notification will, in the professional judgment of responsible authorities, compromise efforts to assist a victim or to contain, respond to, or otherwise mitigate the emergency;</li>
+<li>A list of the titles of each person(s) or organization(s) responsible for carrying out the actions described in paragraph 11.B above;</li>
+<li>The University&#8217;s procedures for disseminating emergency information to the larger community; and</li>
+<li>The University&#8217;s procedures to Test the emergency response and evacuation procedures on at least an annual basis, including:&#160;
+<ol>
+<li>Tests that may be announced or unannounced;</li>
+<li>Publicizing its emergency response and evacuation procedures in conjunction with at least one Test per calendar year; and</li>
+<li>Documenting, for each Test, a description of the exercise, the date, time and whether it was announced or unannounced.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Timely Warning Procedures: A statement of the University&#8217;s Timely Warning procedures, including:
+<ol style="list-style-type: upper-alpha;">
+<li>The circumstances for which a warning is issued;</li>
+<li>The individual or office responsible for issuing the warning; and</li>
+<li>The manner in which the warning is disseminated.&#160;</li>
+</ol>
+</li>
+<li>Missing Student Notification Policies and Procedures: A statement of policy regarding missing student notification procedures for students who reside in Campus student housing facilities. This statement must:&#160;
+<ol style="list-style-type: upper-alpha;">
+<li>Indicate a list of titles of each person or organization to which students, employees or other individuals should report that a student has been missing for 24 hours;</li>
+<li>Require that any missing student report must be referred immediately to the University Police;&#160;&#160;</li>
+<li>Provide that each student living in a Campus student housing facility may identify a contact person(s) the University may notify if the student is determined missing by the University Police;&#160;</li>
+<li>Advise students that their contact information is registered confidentially, that this information is accessible only to authorized University officials, and that it may not be disclosed, except to law enforcement personnel in furtherance of a missing person investigation;</li>
+<li>Advise students that if they are under 18 years of age and not emancipated, the University must notify a custodial parent or guardian within 24 hours of the determination that the student is missing, in addition to any additional contact person designated by the student; and&#160;</li>
+<li>Advise students that unless a local law enforcement agency was the entity that made the determination that a student is missing, the University notifies the local law enforcement agency within 24 hours of the determination that the student is missing.</li>
+</ol>
+</li>
+<li>Crime Statistics: Each Annual Security and Fire Safety Report includes crime statistics for the most recent calendar year and the two immediately preceding calendar years.<br/><br/>The University must report statistics for which data are available concerning&#160;the occurrence on Campus, in dormitories or other residential facilities for students on Campus, in or on Non-Campus Buildings or Property, and on Public Property of the following criminal offenses reported to University Police, Campus Security Authorities or relevant local police agencies:
+<ol style="list-style-type: upper-alpha;">
+<li>Criminal homicide: murder, non-negligent and negligent manslaughter;</li>
+<li>Sex offenses;</li>
+<li>Robbery;</li>
+<li>Aggravated&#160;assault;&#160;</li>
+<li>Burglary;</li>
+<li>Motor vehicle theft;</li>
+<li>Arson;&#160;&#160;&#160;</li>
+<li>Dating Violence;</li>
+<li>Domestic Violence;</li>
+<li>Stalking;</li>
+<li>Hazing;</li>
+<li>Arrests or persons referred for Campus disciplinary action for Liquor Law Violations, Drug-related Violations and Weapons Possession;</li>
+<li>The crimes (a) through (g) above, in which the evidence suggests the victim was intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity, disability, gender identity or national origin of the victim that was reported to University Police or local police agencies;&#160;&#160;&#160;</li>
+<li>The crimes of larceny-theft, simple assault, intimidation and destruction/damage/vandalism of property in which the evidence suggests the victim was intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity, disability, gender identity or national origin of the victim; and&#160;&#160;&#160;</li>
+<li>Crimes involving bodily injury to any person in which the evidence suggests the victim was intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity, disability, gender identity or national origin of the victim.</li>
+<li>The crimes described in paragraphs (M), (N) and (O) above are reported by category of prejudice.</li>
+<li>The statistics in this section are reported according to the location of the crime as follows:</li>
+<li>On Campus,</li>
+<li>In or on a Non-Campus Building or Property,</li>
+<li>On Public Property, and</li>
+<li>In dormitories or other residential facilities for students on Campus.</li>
+</ol>
+</li>
+<li>The statistics in this section are reported for the calendar year in which the crime was reported to a Campus Security Authority, except for reports of Stalking.
+<ol style="list-style-type: upper-alpha;">
+<li>Reports of Stalking are reported for the calendar year in which they were first reported to a Campus Security Authority.&#160;&#160;</li>
+<li>If a Stalking course of conduct continues in a subsequent year, it must also be recorded in the subsequent year.&#160;</li>
+<li>Finally, if Stalking behavior occurs after an official intervention or warning from law enforcement or from the University, a Stalking report must be counted as a new and distinct incident in the statistics.</li>
+</ol>
+</li>
+<li>Fire Safety Policies and Procedures: Each Annual Fire Safety Report for a Campus with on-Campus student housing must include the following fire safety policy information:&#160;
+<ol style="list-style-type: upper-alpha;">
+<li>A description of each Campus student housing facility fire safety system;</li>
+<li>The number of fire drills held during the previous calendar year;</li>
+<li>The University&#8217;s policies or rules on portable electrical appliances, smoking, and open flames in a student housing facility;</li>
+<li>The University&#8217;s procedures for student housing evacuation in the case of a fire;</li>
+<li>The policies regarding fire safety education and training programs provided to the students and employees, including a description of the procedures that students and employees should follow in the case of a fire;</li>
+<li>A list of the titles of each person or organization to which students and employees should report that a fire occurred.</li>
+<li>Plans for future improvements in fire safety, if known as of the date of the Annual Security and Fire Safety Report.</li>
+</ol>
+</li>
+<li>Fire Statistics: Each Annual Fire Safety Report includes fire safety statistics for each Campus student housing facility for the most recent calendar year and the two immediately preceding calendar years. The University must report statistics concerning:
+<ol style="list-style-type: upper-alpha;">
+<li>The number of fires and the cause of each fire;</li>
+<li>The number of individuals who received Fire-related Injuries that resulted in treatment at a medical facility, including at any health center overseen by the University;</li>
+<li>The number of Fire-related Deaths; and</li>
+<li>The value of property damage caused by a fire.</li>
+</ol>
+</li>
+</ol>
+<p><strong><a id="II"></a>II. Timely Warning to the Campus Community<br/></strong></p>
+<p>To enhance the safety of the Campus community, the Chiefs of Police, or their designees, issue Timely Warnings to the Campus community regarding crimes that are:&#160;&#160;&#160;&#160;</p>
+<ol>
+<li>Listed under item 14 in the section on Contents of Annual Reports;</li>
+<li>Reported to University Police, a Campus Security Authority or relevant local police agencies; and</li>
+<li>Considered by the Campus&#8217;s Chief of Police, or designee, to be a threat to students and employees.</li>
+</ol>
+<p>The decision whether to issue a Timely Warning to the Campus community must be based upon the facts surrounding the crime including, but not limited to, the nature of the crime, the continuing danger to the Campus community, the possible risk of compromising law enforcement efforts and the Clery Act reportable geography. Timely Warnings are issued through a variety of methods determined on a case-by-case basis, which include:&#160;&#160;&#160;&#160;</p>
+<ol>
+<li>All hazards outdoor sirens,</li>
+<li>Fire alarms,</li>
+<li>Text messages,</li>
+<li>Twitter,</li>
+<li>Desktop pop-up alerts,</li>
+<li>Alert beacons,</li>
+<li>Email with a University domain,</li>
+<li>Digital signs,</li>
+<li>Purdue Campus website home page,</li>
+<li>Purdue Campus status page,</li>
+<li><em>Purdue Today </em>publication,</li>
+<li>Boiler TV Emergency Alert System, and/or</li>
+<li>Local media.</li>
+</ol>
+<p>If there is an immediate threat to the health or safety of students or employees occurring on Campus, the University follows its Emergency Notification procedures. If Emergency Notification procedures are executed, a Timely Warning is not required based on the same circumstances; however, adequate follow-up information is provided to the Campus community as needed.</p>
+<p><strong><a id="III"></a>III. Daily Crime Log&#160; <br/></strong></p>
+<p>University Police create, maintain and preserve a daily log, written in a form that can be easily understood, that records any crime or alleged crime that occurred within the Clery Act reportable geography or the University Police Department&#8217;s patrol jurisdiction. The log includes the following information:</p>
+<ol>
+<li>The nature (classification/title) of the crime,</li>
+<li>The case report number,</li>
+<li>The date and time the crime was to have occurred,</li>
+<li>The date and time the crime was reported,</li>
+<li>The general location of each crime or alleged crime, and</li>
+<li>The disposition of the complaint, if known.</li>
+</ol>
+<p>The daily crime log is required to include all reported crimes, additions and changes in disposition within 60 days of the original report and to be posted within two business days of the University Police receiving the report.</p>
+<p>The only exceptions to these requirements are:</p>
+<ol>
+<li>If the disclosure is prohibited by law , or&#160;&#160;</li>
+<li>If the disclosure would jeopardize the confidentiality of the victim.</li>
+</ol>
+<p>The records unit of the University Police Department may temporarily withhold the posting of a reported crime only if there is clear and convincing evidence that the release of the information would:</p>
+<ol>
+<li>Jeopardize an ongoing investigation,</li>
+<li>Jeopardize the safety of an individual,&#160;&#160;</li>
+<li>Cause a suspect to flee or evade detection, or&#160;&#160;&#160;</li>
+<li>Result in destruction of evidence.&#160;&#160;&#160;</li>
+</ol>
+<p>The individual with responsibility for determining whether information is withheld from the log documents in writing the basis for withholding information from the log and maintains a copy of the documentation in a secure file. The withheld information must be disclosed once the adverse effects described above are no longer likely to occur.&#160;&#160;&#160;</p>
+<p>Daily crime logs containing the most recent 60 days are maintained by the department&#8217;s records unit for public inspection upon request and are posted on the University Police Department&#8217;s website. An archive of log information for the previous seven years is maintained and made available upon request within two business days.</p>
+<h3><strong><a id="IV"></a>IV. Gathering Crime Statistics &#8212; University Police&#160;</strong></h3>
+<h4>Campus Security Authorities</h4>
+<p>University Police are responsible for gathering the crime statistics that must be reported in the Annual Security Report (See item 14 under Contents of Annual Reports). University Police develop, maintain, and follow a written procedure for gathering the statistics, which includes safeguards to prevent double counting.&#160;&#160;&#160;</p>
+<h4>Local Police&#160;Agencies</h4>
+<p>University Police are responsible for making good faith efforts to gather crime statistics from local police agencies, which must be reported in the Annual Security Report (See item 14 under Contents of Annual Reports). Any such efforts will be documented in writing.</p>
+<h3><strong><a id="V"></a>V. Daily Fire Log&#160;&#160;&#160;&#160;&#160;</strong></h3>
+<p>The Purdue Fire Department (West Lafayette) and the Chiefs of Police (Regional Campuses) make, keep and maintain a daily fire log, written in a form that can be easily understood, recording all fires that occurred in a Campus student housing facility. The log must include the nature, date reported, date and time of the fire, and general location of each fire.</p>
+<p>Fires are recorded in the daily fire log within two business days of the report of the fire to the Purdue Fire Department (West Lafayette) or University Police department (Regional Campuses), and any new information about a log entry is recorded within two business days after the information becomes available to the Purdue Fire Department (West Lafayette) or the University Police&#160;Department (Regional Campuses).<br/>Daily fire log entries for the most recent 60-day period must be available for public inspection during normal business hours. Logs older than 60 days must be made available within two business days of a request for public inspection.</p>
+<p>Indianapolis Campus and Separate Campuses with on-Campus student housing: The West Lafayette Campus Fire Chief, or their designee, makes, keeps and maintains a daily fire log, written in a form that can be easily understood, recording all fires that occur in the student housing facility of the Campus. The daily fire log must include the nature of the fire, date reported, date and time of the fire, and general location of each fire. The Fire log is maintained in a published location on each Campus and made available upon request.</p>
+<h3><strong><a id="VI"></a>VI. Annual Report to the Department of Education</strong></h3>
+<p>The Chiefs of Police, or their designees, submit the Annual Security Report and, as applicable, Annual Fire Safety Report for the crime statistics listed under item 14 of the Contents of Annual Reports section and the fire statistics listed under item 17 of the same section for their respective Campuses to the U.S. Secretary of Education.</p>
+<h3><strong><a id="VII"></a>VII. Questions</strong></h3>
+<p>Questions regarding these procedures may be directed to the Senior Clery Compliance Administrator.</p>
+<h3><strong><a id="VIII"></a>VIII. History and Updates</strong></h3>
+<p>May 1, 2025: Procedure updated to include Stop Campus Hazing Act and the Indianapolis Campus.</p>
+<p>September 1, 2024: Procedures updated throughout to align with changes in regulations.</p>
+<div class="diff-row_blockEnd__qqRFv" id="text-diff-output-xgdmffw-text-diff-line-221">
+<div class="diff-row_container__M0Hd1 diff-row_start__phKAH diff-row_end__yuk6z">
+<div class="diff-row_row__4lLb4">
+<div class="diff-line-side side-right diff-row_innerContent___0Ohp diff-row_side__BgANW">
+<div class="diff-row_sideInner__NFqIo">
+<p class="diff-row-content_content__KNwGC diff-row-content_inserted__Beonj diff-row-content_start__yH8GM diff-row-content_end__2Rfrq">January 29, 2015: These Operating Procedures were revised and separated from the related policy on Campus Security and Crime Statistics (IV.A.2). Revisions include the expansion of section I.C.8 to include information about dating violence, domestic violence, stalking and related programs and procedures, as well as information on Timely Warning procedures.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+		</section>
+	
+    
+
+						
+					</article>
+				</article>
+			</section>
+		</main>
+		
+		<footer class="footer">
+			<section class="footer__resources">
+				<h2 class="sr-only">Resources</h2>
+				<article class="footer__resources__columns">
+					
+
+                
+
+
+
+
+ <div class="footer__resources__column">
+        <h3><button aria-controls="sect1" aria-disabled="true" aria-expanded="true" class="accordion__heading accordion__heading--footer" id="accordion1id">Explore<i aria-hidden="true" class="fas fa-plus accordion__icon accordion__icon__plus"></i><i aria-hidden="true" class="fas fa-minus accordion__icon accordion__icon__minus"></i></button></h3>
+    <ul aria-labelledby="accordion1id" class="accordion__content--footer" id="sect1" role="list">
+                                                       
+                 
+                
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/campus-map/">Campus Map</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/home/careers/">Careers</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/hr/CHL/">Center for Healthy Living</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/home/colleges_schools">Colleges and Schools</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/directory/">Directory</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/home/commercialization/">Entrepreneurship and Commercialization</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/hr/">Human Resources</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.lib.purdue.edu/">Libraries</a></li>
+        
+        
+        </ul>
+</div>
+    
+
+					
+
+                
+
+
+
+
+ <div class="footer__resources__column">
+        <h3><button aria-controls="sect2" aria-disabled="true" aria-expanded="true" class="accordion__heading accordion__heading--footer" id="accordion2id">Information<i aria-hidden="true" class="fas fa-plus accordion__icon accordion__icon__plus"></i><i aria-hidden="true" class="fas fa-minus accordion__icon accordion__icon__minus"></i></button></h3>
+    <ul aria-labelledby="accordion2id" class="accordion__content--footer" id="sect2" role="list">
+                                                       
+                 
+                
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/vpec/">Ethics and Compliance</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://events.purdue.edu/">Events</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://giving.purdue.edu/west-lafayette/?appealcode=21008">Give</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/surplus/lost-and-found/Index.html">Lost and Found</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/engagement/">Office of Engagement</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/president/">President</a></li>
+        
+                                                
+                                 
+        
+                        
+                                            
+            
+        
+        
+            
+                                    
+                        <li role="listitem"><a href="https://www.purdue.edu/treasurer/finance/bursar-office/tuition/tuition-calculator/">Tuition Calculator</a></li>
+        
+                        <li aria-hidden="true" role="listitem" style="visibility: hidden"><a>&nbsp;</a></li>
+        
+        
+        </ul>
+</div>
+    
+
+					
+
+                    
+
+    
+            
+                
+         <div class="footer__resources__column">
+        <h3><button aria-controls="sect3" aria-disabled="true" aria-expanded="true" class="accordion__heading accordion__heading--footer" id="accordion3id">Resources<i aria-hidden="true" class="fas fa-plus accordion__icon accordion__icon__plus"></i><i aria-hidden="true" class="fas fa-minus accordion__icon accordion__icon__minus"></i></button></h3>
+    <ul aria-labelledby="accordion3id" class="accordion__content--footer" id="sect3" role="list">
+                                                       
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/boilerconnect/">BoilerConnect</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://purdue.brightspace.com/">Brightspace</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/home/current-students/">Current Students</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/home/faculty-staff/">Faculty and Staff</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://mypurdue.purdue.edu/">myPurdue</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://portal.office.com/">Office 365</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://one.purdue.edu/">OneCampus Portal</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://outlook.office.com/">Outlook</a></li>
+        
+        
+        </ul>
+</div>
+    
+
+					
+
+                    
+
+    
+            
+                
+         <div class="footer__resources__column">
+        <h3><button aria-controls="sect4" aria-disabled="true" aria-expanded="true" class="accordion__heading accordion__heading--footer" id="accordion4id">Communication<i aria-hidden="true" class="fas fa-plus accordion__icon accordion__icon__plus"></i><i aria-hidden="true" class="fas fa-minus accordion__icon accordion__icon__minus"></i></button></h3>
+    <ul aria-labelledby="accordion4id" class="accordion__content--footer" id="sect4" role="list">
+                                                       
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/ehps/police/statistics-policies/security-reports.php">Annual Security Report</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/physicalfacilities/construction/">Construction</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/emergency/">Emergency</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://it.purdue.edu/">Information Technology</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://marcom.purdue.edu/">Marketing and Communications</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/newsroom/">Purdue News</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/hotline/">Purdue Hotline</a></li>
+        
+                                                
+        
+                            
+                                        
+                        <li role="listitem"><a href="https://www.purdue.edu/ehps/police/timely-warnings/">Timely Warnings</a></li>
+        
+        
+        </ul>
+</div>
+    
+
+					
+
+
+                 
+<div class="footer__resources__column">
+    <div class="footer__resources__column__motto">
+        
+            <svg class="horizontal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 249.7 45.3" style="enable-background:new 0 0 249.7 45.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#CFB991;}
+	.st2{fill:#9D9795;}
+</style>
+<title>Purdue University Logo</title>
+<g>
+	<path class="st0" d="M97.4,3.8L94.6,3V1h10.9c7.1,0,9.7,2.3,9.7,7.6c0,5-2.9,7.6-8.5,7.6h-4.4v8l2.8,0.8V27H94.5v-1.9l2.9-0.8V3.8z
+		 M102.3,3.8v10.1l5.2-0.4c1.3-0.6,2.6-1.4,2.6-4.6c0-2.5-0.1-5.1-4.9-5.1L102.3,3.8z"/>
+	<path class="st0" d="M155.8,16h-3.5v8.4l2.8,0.8V27h-10.7v-1.9l2.9-0.8V3.8L144.5,3V1h11.4c6.8,0,9.2,2.4,9.2,7
+		c0,3.6-1.4,5.4-4.6,6.7l4.8,9.4l3.1,1V27h-7.2L155.8,16z M152.3,3.8v9.9l5.3-0.4c1.7-0.8,2.5-2.2,2.5-4.9c0-2.9-0.9-4.7-3.9-4.7
+		L152.3,3.8z"/>
+	<path class="st0" d="M170.6,25.2l2.8-0.8V3.8L170.6,3V1h12.6c7.1,0,11.3,4.3,11.3,12.7c0,9.5-4.3,13.3-11.8,13.3h-12.1V25.2z
+		 M178.4,3.8v20.6h3.7c2.6,0,7-0.4,7-9.8c0-7.4-1.3-10.8-7-10.8L178.4,3.8z"/>
+	<path class="st0" d="M105.5,40.6c0,3.2-1.8,4.3-4.8,4.3s-4.8-1.8-4.8-4.3v-6.3l-1.4-0.4v-1.2h5.5v1.2l-1.3,0.4v6.3
+		c0,1.6,0.6,2.5,2.4,2.5c0.9,0,2.4-0.3,2.4-2.6v-6.3l-1.4-0.4v-1.2h4.8v1.2l-1.4,0.4L105.5,40.6z"/>
+	<path class="st0" d="M115.1,37.3v5.8l1.3,0.4v1.2h-4.7v-1.2l1.4-0.4v-8.3l-0.6-0.7l-0.8-0.3v-1.3h3.1l5.9,7.4v-5.8l-1.4-0.4v-1.2
+		h4.7v1.2l-1.4,0.4v10.5h-1.6L115.1,37.3z"/>
+	<path class="st0" d="M134.1,43.2l1.4,0.4v1.2h-5.6v-1.2l1.4-0.4v-8.9l-1.4-0.4v-1.2h5.6v1.2l-1.4,0.4V43.2z"/>
+	<path class="st0" d="M209,43.2l1.4,0.4v1.2h-5.6v-1.2l1.4-0.4v-8.9l-1.4-0.4v-1.2h5.6v1.2l-1.4,0.4L209,43.2z"/>
+	<path class="st0" d="M148.2,44.7h-2.6l-3.8-10.5l-1.4-0.4v-1.2h5.9v1.2l-1.4,0.4l2.6,7.5l2.6-7.5l-1.4-0.4v-1.2h4.8v1.2l-1.4,0.4
+		L148.2,44.7z"/>
+	<path class="st0" d="M159.2,34.3l-1.4-0.4v-1.2h9.5l0.1,3.7H166l-0.7-2.1h-3.2v3.4h3.1v1.7h-3.1v3.8h3.2l1-2.1h1.5l-0.2,3.7h-9.7
+		v-1.2l1.4-0.3V34.3z"/>
+	<path class="st0" d="M179.1,39.8h-1v3.4l1.4,0.4v1.2h-5.6v-1.2l1.4-0.4v-8.9l-1.4-0.4v-1.2h5.5c3.4,0,4.4,1.3,4.4,3.4
+		c0,1.3-0.3,2.6-2,3.2l2,3.9l1.7,0.5v1.1h-4.1L179.1,39.8z M178.1,34.3v4.2l1.9-0.2c0.6-0.5,1-1.3,1-2.1c0-1.2-0.3-2-1.6-2H178.1z"
+		/>
+	<path class="st0" d="M190.4,41h1.7l0.4,1.7c0.8,0.5,1.7,0.7,2.6,0.7c0.1,0,0.3,0,0.4,0c0.5-0.3,0.7-0.9,0.8-1.5
+		c0-2.8-5.8-1.6-5.8-5.7c0-1.9,1.7-3.7,4.6-3.7c1.1,0,2.3,0.3,3.3,0.8v3.2h-1.6l-0.6-2c-0.6-0.2-1.3-0.4-2-0.4c-0.1,0-0.2,0-0.3,0
+		c-0.5,0.3-0.8,0.8-0.8,1.4c0,2.4,5.7,1.6,5.7,5.6c0,2.2-2,3.8-4.6,3.8c-1.3,0-2.6-0.4-3.7-1.1L190.4,41z"/>
+	<path class="st0" d="M220,34.3h-1.6l-0.7,2.1h-1.5v-3.8h10.6v3.8h-1.5l-0.7-2.1h-1.7v8.9l1.4,0.4v1.2h-5.6v-1.2l1.4-0.4V34.3z"/>
+	<path class="st0" d="M236.2,40.1l-3.2-5.8l-1.4-0.4v-1.2h5.9v1.2l-1.4,0.4l2,3.9l2-3.9l-1.4-0.4v-1.2h4.8v1.2l-1.4,0.4l-3.2,5.8
+		v3.1l1.4,0.4v1.2h-5.6v-1.2l1.4-0.4V40.1z"/>
+	<polygon class="st0" points="241.4,19.5 239.5,24.3 231.4,24.3 231.4,15 236,15 236.6,17.6 238.6,17.6 238.6,9.7 236.6,9.7 
+		236,12.3 231.4,12.3 231.4,3.8 239.2,3.8 240.6,8.8 243.5,8.8 243.3,1 223.6,1 223.6,3 226.4,3.8 226.4,24.4 223.5,25.2 223.5,27 
+		243.7,27 244.1,19.5 	"/>
+	<path class="st0" d="M139.5,18.1c0,6.6-3.2,9.3-9.6,9.3c-5.9,0-10.2-2.4-10.2-8.7V3.8L116.8,3V1h10.6v2l-2.8,0.8v14.9
+		c0,3.8,1.7,5.4,5.9,5.4c2.9,0,5.5-1.7,5.5-5.7V3.8L133.1,3V1h9.2v2l-2.8,0.8V18.1z"/>
+	<path class="st0" d="M218.5,18.1c0,6.6-3.2,9.3-9.6,9.3c-5.9,0-10.3-2.4-10.3-8.7V3.8L195.8,3V1h10.6v2l-2.8,0.8v14.9
+		c0,3.8,1.7,5.4,5.9,5.4c2.9,0,5.5-1.7,5.5-5.7V3.8L212.2,3V1h9.2v2l-2.8,0.8V18.1z"/>
+	<path class="st1" d="M44.4,44.8L50,31.6h9.3c13.4,0,18.5-5.5,22.1-13.8c1.3-3.1,3.5-8.2,0.6-12.6c-2.9-4.4-9-4.8-13.3-4.8H19.3
+		l-7,16.3h8.9l-5,11.7h-9l-7,16.4H44.4z"/>
+	<path class="st2" d="M79.4,6.9c-1.6-2.4-5-3.5-10.8-3.5H21.3L17,13.7h8.9l-7.5,17.7h-9L5,41.7h37.4l4.4-10.3h-9.1l1.2-2.9h20.4
+		c13.1,0,16.6-5.6,19.3-12C80,13.2,81.3,9.7,79.4,6.9 M45.3,13.7h15c2.1,0,1.8,1,1.5,1.7c-0.8,1.8-2.6,2.9-4.8,2.9H43.3L45.3,13.7z"
+		/>
+	<path d="M68.7,5H22.4l-3,7.1h8.9L19.4,33h-9l-3,7.1h34l3-7.1h-9.1l2.6-6h21.4c12.3,0,15.4-5.2,17.8-11S81,5,68.7,5 M57,19.9H41
+		l3.3-7.7h16c2.8,0,4,1.5,2.9,3.9C62.2,18.4,59.8,19.9,57,19.9"/>
+	<path class="st0" d="M246.9,44.7c-1.4,0-2.6-1.2-2.6-2.6c0-1.4,1.2-2.6,2.6-2.6c1.4,0,2.6,1.2,2.6,2.6c0,0,0,0,0,0
+		C249.5,43.5,248.3,44.7,246.9,44.7z M246.9,40.1c-1.1,0-2.1,0.9-2.1,2.1c0,1.1,0.9,2.1,2.1,2.1c1.1,0,2.1-0.9,2.1-2.1
+		C249,41,248,40.1,246.9,40.1L246.9,40.1z"/>
+	<path class="st0" d="M246.6,42.3v1h-0.5v-2.4h1.1c0.5,0,0.8,0.3,0.8,0.7c0,0.2-0.1,0.5-0.4,0.6c0.1,0,0.3,0.2,0.3,0.6v0.1
+		c0,0.2,0,0.3,0,0.5h-0.5c0-0.2-0.1-0.4,0-0.5v0c0-0.3-0.1-0.4-0.5-0.4L246.6,42.3z M246.6,41.9h0.4c0.3,0,0.4-0.1,0.4-0.3
+		s-0.1-0.3-0.4-0.3h-0.4V41.9z"/>
+</g>
+</svg>
+            <svg class="vertical" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 203.8 132" style="enable-background:new 0 0 203.8 132;" xml:space="preserve">
+<style type="text/css">
+	.v-st0{fill:#CFB991;}
+	.v-st1{fill:#9D9795;}
+	.v-st2{fill:#FFFFFF;}
+</style>
+<title>Purdue University Logo</title>
+<g>
+	<path class="v-st0" d="M102.5,58.7l7.3-17.3H122c17.6,0,24.3-7.2,28.9-18.1c1.7-4,4.6-10.7,0.8-16.5S140,0.5,134.3,0.5H69.7
+		l-9.1,21.4h11.7l-6.5,15.3H54l-9.1,21.4L102.5,58.7z"/>
+	<path class="v-st1" d="M148.4,9.1c-2.1-3.1-6.5-4.6-14.1-4.6h-62L66.5,18h11.7l-9.9,23.2H56.6l-5.7,13.5h49l5.7-13.5H93.8l1.6-3.8
+		H122c17.1,0,21.7-7.4,25.3-15.7C149.2,17.3,150.8,12.7,148.4,9.1 M103.7,18h19.6c2.7,0,2.3,1.4,1.9,2.2c-1,2.3-3.4,3.8-6.3,3.8
+		h-17.8L103.7,18z"/>
+	<path d="M134.3,6.6H73.6l-4,9.4h11.7L69.7,43.3H58l-4,9.4h44.5l4-9.4H90.6l3.4-7.9h28.1c16.1,0,20.1-6.8,23.4-14.4
+		S150.4,6.5,134.3,6.6 M118.9,26H98l4.3-10.1h21c3.7,0,5.2,1.9,3.9,5.1S122.6,26,118.9,26"/>
+	<path class="v-st2" d="M4,78l-3.7-1.1v-2.6h14.3c9.3,0,12.8,3,12.8,10c0,6.6-3.8,10-11.1,10h-5.8v10.6l3.7,1.1v2.5h-14v-2.5l3.8-1.1
+		V78z M10.5,77.9v13.2l6.8-0.5c1.7-0.8,3.4-1.8,3.4-6.1c0-3.2-0.1-6.6-6.4-6.6L10.5,77.9z"/>
+	<path class="v-st2" d="M80.7,93.9H76v11l3.7,1.1v2.5h-14v-2.5l3.8-1.1V78l-3.7-1.1v-2.6h14.9c8.9,0,12.1,3.1,12.1,9.2
+		c0,4.7-1.8,7.1-6,8.8l6.3,12.3l4.1,1.3v2.5h-9.5L80.7,93.9z M76,77.9v13l6.9-0.5c2.2-1.1,3.2-2.8,3.2-6.4c0-3.8-1.2-6.1-5.1-6.1
+		L76,77.9z"/>
+	<path class="v-st2" d="M100,105.9l3.7-1V78l-3.7-1.1v-2.6h16.5c9.3,0,14.8,5.6,14.8,16.7c0,12.5-5.6,17.4-15.5,17.4H100V105.9z
+		 M110.2,77.9v27h4.9c3.4,0,9.1-0.5,9.1-12.9c0-9.7-1.7-14.1-9.1-14.1L110.2,77.9z"/>
+	<path class="v-st2" d="M14.7,126.2c0,4.1-2.4,5.7-6.3,5.7s-6.3-2.3-6.3-5.7v-8.3l-1.8-0.6v-1.6h7.3v1.6l-1.8,0.6v8.3
+		c0,2.1,0.8,3.3,3.2,3.3c1.1,0,3.1-0.4,3.1-3.4v-8.2l-1.8-0.6v-1.6h6.2v1.6l-1.8,0.5V126.2z"/>
+	<path class="v-st2" d="M27.2,121.9v7.6L29,130v1.6h-6.1V130l1.8-0.5v-10.8l-0.8-1l-1.1-0.3v-1.7h4l7.7,9.7v-7.6l-1.8-0.5v-1.6h6.1
+		v1.6l-1.8,0.5v13.8h-2.1L27.2,121.9z"/>
+	<path class="v-st2" d="M52.2,129.5L54,130v1.6h-7.3V130l1.8-0.5v-11.7l-1.8-0.5v-1.6H54v1.6l-1.8,0.5L52.2,129.5z"/>
+	<path class="v-st2" d="M150.4,129.5l1.8,0.5v1.6h-7.3V130l1.8-0.5v-11.7l-1.8-0.5v-1.6h7.3v1.6l-1.8,0.5V129.5z"/>
+	<path class="v-st2" d="M70.6,131.6h-3.4l-5-13.7l-1.8-0.6v-1.6h7.7v1.6l-1.8,0.6l3.3,9.8l3.4-9.8l-1.8-0.6v-1.6h6.2v1.6l-1.8,0.6
+		L70.6,131.6z"/>
+	<path class="v-st2" d="M85.1,117.8l-1.8-0.5v-1.6h12.5l0.1,4.9h-2l-1-2.8h-4.1v4.5h4.1v2.3h-4.1v5H93l1.3-2.8h1.9l-0.3,4.8H83.3V130
+		l1.8-0.4V117.8z"/>
+	<path class="v-st2" d="M111.1,125.1h-1.4v4.4l1.8,0.5v1.6h-7.3V130l1.8-0.5v-11.7l-1.8-0.5v-1.6h7.2c4.4,0,5.8,1.7,5.8,4.4
+		c0,1.8-0.4,3.4-2.6,4.2l2.5,5.2l2.2,0.7v1.5h-5.4L111.1,125.1z M109.8,117.8v5.6l2.5-0.2c0.8-0.7,1.3-1.7,1.2-2.8
+		c0-1.6-0.4-2.6-2-2.6H109.8z"/>
+	<path class="v-st2" d="M126,126.7h2.2l0.5,2.2c1,0.6,2.2,0.9,3.3,0.9c0.2,0,0.3,0,0.5,0c0.6-0.4,1-1.2,1-1.9c0-3.7-7.6-2.1-7.6-7.5
+		c0-2.5,2.3-4.9,6-4.9c1.5,0,3,0.4,4.3,1.1v4.2h-2.1l-0.8-2.7c-0.8-0.3-1.7-0.5-2.6-0.5c-0.1,0-0.3,0-0.4,0c-0.6,0.4-1,1.1-1,1.9
+		c0,3.2,7.5,2,7.5,7.4c0,2.9-2.6,4.9-6.1,4.9c-1.7,0-3.4-0.5-4.8-1.4L126,126.7z"/>
+	<path class="v-st2" d="M164.7,117.9h-2.1l-0.9,2.8h-2v-5h13.8v5h-1.9l-0.9-2.8h-2.2v11.6l1.8,0.5v1.6h-7.3V130l1.8-0.5V117.9z"/>
+	<path class="v-st2" d="M186,125.5l-4.2-7.6l-1.8-0.6v-1.6h7.7v1.6l-1.8,0.6l2.6,5.2l2.6-5.2l-1.8-0.6v-1.6h6.3v1.6l-1.8,0.6l-4.2,7.6
+		v4.1l1.8,0.5v1.6h-7.3V130l1.8-0.5L186,125.5z"/>
+	<polygon class="v-st2" points="192.7,98.5 190.3,104.9 179.6,104.9 179.6,92.6 185.7,92.6 186.4,96 189.1,96 189.1,85.7 186.4,85.7 
+		185.7,89 179.6,89 179.6,77.9 189.8,77.9 191.8,84.5 195.5,84.5 195.2,74.3 169.4,74.3 169.4,76.9 173.1,78 173.1,104.9 
+		169.4,105.9 169.4,108.4 195.7,108.4 196.3,98.5 	"/>
+	<path class="v-st2" d="M59.2,96.7c0,8.7-4.1,12.2-12.6,12.2c-7.8,0-13.4-3.1-13.4-11.3V78l-3.7-1.1v-2.6h13.9v2.6L39.6,78v19.6
+		c0,4.9,2.3,7.1,7.7,7.1c3.7,0,7.2-2.2,7.2-7.5V78l-3.7-1.1v-2.6h12v2.6L59.2,78V96.7z"/>
+	<path class="v-st2" d="M162.8,96.7c0,8.7-4.1,12.2-12.6,12.2c-7.8,0-13.4-3.1-13.4-11.3V78l-3.7-1.1v-2.6h13.9v2.6l-3.7,1.1v19.6
+		c0,4.9,2.3,7.1,7.7,7.1c3.7,0,7.2-2.2,7.2-7.5V78l-3.7-1.1v-2.6h12v2.6l-3.7,1.1V96.7z"/>
+	<path class="v-st2" d="M200,131.5c-1.9,0-3.4-1.5-3.4-3.4c0-1.9,1.5-3.4,3.4-3.4c1.9,0,3.4,1.5,3.4,3.4l0,0
+		C203.4,130,201.9,131.5,200,131.5z M200,125.4c-1.5,0-2.7,1.2-2.7,2.7s1.2,2.7,2.7,2.7c1.5,0,2.7-1.2,2.7-2.7l0,0
+		C202.7,126.7,201.5,125.4,200,125.4L200,125.4L200,125.4z"/>
+	<path class="v-st2" d="M199.6,128.5v1.3h-0.7v-3.2h1.4c0.7,0,1.1,0.4,1.1,0.9c0,0.3-0.2,0.6-0.5,0.7c0.2,0.1,0.4,0.2,0.4,0.8v0.2
+		c0,0.2,0,0.4,0,0.6h-0.7c-0.1-0.2-0.1-0.5-0.1-0.7v0c0-0.3-0.1-0.5-0.6-0.5L199.6,128.5z M199.6,127.9h0.6c0.4,0,0.5-0.1,0.5-0.4
+		c0-0.2-0.2-0.4-0.5-0.4h-0.6L199.6,127.9z"/>
+</g>
+</svg>
+        
+    
+    </div>
+    <div class="footer__resources__column__social">
+                                        
+                        
+                                 
+        
+                                                                                
+                                                    <a href="https://www.facebook.com/PurdueUniversity/" rel="noopener" target="_blank"><span class="sr-only">Facebook</span>
+                 <i class="fa-brands fa-square-facebook" aria-hidden="true"></i>
+                </a>
+                                
+                                 
+        
+                                                                                
+                                                    <a href="https://twitter.com/lifeatpurdue" rel="noopener" target="_blank"><span class="sr-only">Twitter</span>
+                 <i aria-hidden="true" class="fa-brands fa-square-x-twitter"></i>
+                </a>
+                                
+                                 
+        
+                                                                                
+                                                    <a href="https://www.youtube.com/user/PurdueUniversity" rel="noopener" target="_blank"><span class="sr-only">YouTube</span>
+                 <i class="fa-brands fa-square-youtube" aria-hidden="true"></i>
+                </a>
+                                
+                                 
+        
+                                                                                
+                                                    <a href="https://www.instagram.com/lifeatpurdue/" rel="noopener" target="_blank"><span class="sr-only">Instagram</span>
+                 <i class="fa-brands fa-square-instagram" aria-hidden="true"></i>
+                </a>
+                                
+                                 
+        
+                                                                                
+                                                    <a href="https://www.pinterest.com/lifeatpurdue/" rel="noopener" target="_blank"><span class="sr-only">Pinterest</span>
+                 <i class="fa-brands fa-square-pinterest" aria-hidden="true"></i>
+                </a>
+                                
+                                 
+        
+                                                                                
+                                                    <a href="https://www.snapchat.com/add/lifeatpurdue" rel="noopener" target="_blank"><span class="sr-only">Snapchat</span>
+                 <i class="fa-brands fa-square-snapchat" aria-hidden="true"></i>
+                </a>
+                                
+                                 
+        
+                                                                                
+                                                    <a href="https://www.linkedin.com/edu/purdue-university-18357" rel="noopener" target="_blank"><span class="sr-only">LinkedIn</span>
+                 <i aria-hidden="true" class="fa-brands fa-linkedin"></i>
+                </a>
+                            </div>
+</div>
+				</article>
+			</section>
+			
+
+                
+
+
+
+
+
+
+
+
+
+                
+                 
+                
+        
+                                                            
+            
+        
+        
+                
+                            
+
+
+
+                
+                                 
+        
+                                        
+                                                                    
+            
+        
+        
+            
+                
+            
+    
+
+
+<section class="footer__contact">
+    <article class="footer__contact--list">
+        <p><em>Last modified: <span>April 30, 2025</span></em></p>
+        <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
+		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
+        
+                                 
+        
+                                        
+                                                                    
+            
+        
+        
+                
+                     <p>Contact <a href="../contact/index.php" rel="noopener" target="_blank">Purdue University Police Department</a> for accessibility issues with this page | <a href="https://www.purdue.edu/disabilityresources/">Accessibility Resources</a> | <a href="../contact/index.php">Contact Us</a> | <a href="https://collegescorecard.ed.gov/school/fields/?243780-Purdue-University-Main-Campus" target="_blank">DOE Degree Scorecards</a></p>
+            </article>
+</section>
+
+
+		</footer>
+		
+		<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/all.js"></script>
+<script crossorigin="anonymous" src="https://use.fontawesome.com/releases/v6.4.2/js/v4-shims.js"></script>
+<script src="https://www.purdue.edu/purdue/js/mm/templates/main-2020.js" type="text/javascript"></script>
+		
+
+            
+        
+                                    
+                    
+		
+		
+	</body>
+</html>

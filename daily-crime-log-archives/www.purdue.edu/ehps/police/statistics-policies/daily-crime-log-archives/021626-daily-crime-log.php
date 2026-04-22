@@ -397,6 +397,11 @@
         
                                                             
         
+        <li role="none"><a href="../indy-daily-crime-log.php" role="menuitem">Indianapolis Daily Crime Log</a></li>
+                                                    
+        
+                                                            
+        
         <li role="none"><a href="../drugs-alcohol.php" role="menuitem">Drugs and Alcohol Policy</a></li>
                                                     
         
@@ -488,8 +493,29 @@
         
                                                                                  
                                                         
-                            <li role="none"><a href="../../timely-warnings/index.php" role="menuitem">Timely Warnings</a></li>
-                                                                
+                                            <li class="dropdown" role="none">
+                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../../timely-warnings/index.php" role="menuitem">Timely Warnings<span><i class="fas fa-chevron-down"></i></span></a>
+                    <ul class="header__mainNav--dropdownOuter" role="menu">
+                                                                                                
+        
+                                                            
+        
+        <li role="none"><a href="../../timely-warnings/index.php" role="menuitem">Timely Warnings</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../../timely-warnings/wl-timely-warnings.php" role="menuitem">West Lafayette Timely Warnings</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../../timely-warnings/indianapolis-timely-warnings.php" role="menuitem">Indianapolis Timely Warnings</a></li>
+                                            </ul>
+                                            </li>
+            
+            
+                                                                        
         
                                                                                  
                                                         
@@ -600,7 +626,7 @@
         
                 
     
-    <li role="none"><a href="120125-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
+    <li role="none"><a href="030926-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
                             </ul>
 </nav>
 

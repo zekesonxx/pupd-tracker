@@ -1,47 +1,605 @@
+
+
 <!DOCTYPE html>
-<html><head>
-<meta http-equiv="Pragma" content="no-cache"/>
-<meta http-equiv="Expires" content="-1"/>
-<meta http-equiv="CacheControl" content="no-cache"/>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<link rel="shortcut icon" href="data:;base64,iVBORw0KGgo="/>
+<html lang="en-US" class="is-fullheight has-global-header">
+<head>
+	<title>Campus Safety Status</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<style type="text/css">@media (min-width: 768px){
+.page-id-7 .section .container .wp-block-columns.page-layout-columns.columns .column.page-layout-sidebar {
+    flex-basis: 40% !important;
+}
+}
+.tagged-header {
+    padding: 0.675rem 1.5rem!important;
+    color: #fff!important;
+    font-family: "United Sans Condensed",Impact,"Arial Black","sans serif"!Important;
+    font-size: 1.125rem!important;
+    font-weight: 900!important;
+    line-height: 1!important;
+    border-radius: 4px!important;
+}
 
-<script type="text/javascript">
-(function(){
-window["bobcmn"] = "101110101010102000000062000000052000000062000000012496cb1a1200000096200000000200000002300000000300000000300000006/TSPD/300000008TSPD_10130000000cTSPD_101_DID300000005https3000000e008993c5290ab200049e6bd535eb820715e18f7f98b8cebc1493a049e7e4804b4bf96326ddb2cc6d708f5bce38a0a4000bffcede84909d27139ec133b16d57d25d38a917eb7241c58fe37b844ef501705cdcdf1e1ddf79974775fc77ded0c9652d2c3fcc9fb5cec23968b1bc0d0c737fa300000002TS200000000200000000";
+.purdue-home-tabs__header-text {
+    color: #fff!important;
+    font-family: acumin-pro,"Franklin Gothic",sans-serif!important;
+    font-size: 2.75rem!important;
+    font-weight: 700!important;
+    line-height: 1.1!Important;
+}
 
-window["failureConfig"] = "524f6f70732e2e2e2e736f6d657468696e672077656e742077726f6e672e2e2e2e20796f757220737570706f72742069642069733a2025444f534c372e6368616c6c656e67652e737570706f72745f6964252e1336363434333533323730343837303031353335062f545350442f171801";window.YJa=!!window.YJa;try{(function(){(function(){var l=-1,l={ii:++l,zs:"false"[l],i:++l,_l:"false"[l],si:++l,Lli:"[object Object]"[l],Oo:(l[l]+"")[l],iL:++l,oo:"true"[l],li:++l,iI:++l,Zs:"[object Object]"[l],Z:++l,zI:++l,ZJI:++l,zJI:++l};try{l.Sl=(l.Sl=l+"")[l.iI]+(l.SJ=l.Sl[l.i])+(l.Os=(l.sJ+"")[l.i])+(!l+"")[l.iL]+(l._J=l.Sl[l.Z])+(l.sJ="true"[l.i])+(l.Zo="true"[l.si])+l.Sl[l.iI]+l._J+l.SJ+l.sJ,l.Os=l.sJ+"true"[l.iL]+l._J+l.Zo+l.sJ+l.Os,l.sJ=l.ii[l.Sl][l.Sl],l.sJ(l.sJ(l.Os+'"\\'+l.i+l.iI+l.i+l.zs+"\\"+l.li+l.ii+"("+l._J+"\\"+l.i+l.zI+
-l.i+"\\"+l.i+l.Z+l.ii+l.oo+l.SJ+l.zs+"\\"+l.li+l.ii+"\\"+l.i+l.Z+l.zI+"\\"+l.i+l.iI+l.i+"\\"+l.i+l.iI+l.Z+l.Oo+l.SJ+"\\"+l.i+l.Z+l.zI+"['\\"+l.i+l.Z+l.ii+l._l+"\\"+l.i+l.zI+l.i+"false"[l.si]+l.SJ+l._l+l.Oo+"']\\"+l.li+l.ii+"===\\"+l.li+l.ii+"'\\"+l.i+l.Z+l.iL+l._J+"\\"+l.i+l.Z+l.si+"\\"+l.i+l.iI+l.i+"\\"+l.i+l.iI+l.Z+"\\"+l.i+l.li+l.zI+"')\\"+l.li+l.ii+"{\\"+l.i+l.si+"\\"+l.i+l.i+"\\"+l.i+l.Z+l.Z+l._l+"\\"+l.i+l.Z+l.si+"\\"+l.li+l.ii+l.oo+l.Oo+"\\"+l.i+l.Z+l.Z+l.Zs+"\\"+l.i+l.zI+l.i+l.Zo+"\\"+l.i+
-l.iI+l.si+"\\"+l.i+l.iI+l.iL+"\\"+l.i+l.Z+l.ii+"\\"+l.li+l.ii+"=\\"+l.li+l.ii+"\\"+l.i+l.Z+l.zI+"\\"+l.i+l.iI+l.i+"\\"+l.i+l.iI+l.Z+l.Oo+l.SJ+"\\"+l.i+l.Z+l.zI+"['\\"+l.i+l.Z+l.ii+l._l+"\\"+l.i+l.zI+l.i+"false"[l.si]+l.SJ+l._l+l.Oo+"'].\\"+l.i+l.Z+l.si+l.oo+"\\"+l.i+l.Z+l.ii+"false"[l.si]+l._l+l.Zs+l.oo+"(/.{"+l.i+","+l.li+"}/\\"+l.i+l.li+l.zI+",\\"+l.li+l.ii+l.zs+l.Zo+"\\"+l.i+l.iI+l.Z+l.Zs+l._J+"\\"+l.i+l.iI+l.i+l.SJ+"\\"+l.i+l.iI+l.Z+"\\"+l.li+l.ii+"(\\"+l.i+l.zI+l.ii+")\\"+l.li+l.ii+"{\\"+l.i+
-l.si+"\\"+l.i+l.i+"\\"+l.i+l.i+"\\"+l.i+l.i+"\\"+l.i+l.Z+l.si+l.oo+l._J+l.Zo+"\\"+l.i+l.Z+l.si+"\\"+l.i+l.iI+l.Z+"\\"+l.li+l.ii+"(\\"+l.i+l.zI+l.ii+"\\"+l.li+l.ii+"+\\"+l.li+l.ii+"\\"+l.i+l.zI+l.ii+").\\"+l.i+l.Z+l.iL+l.Zo+l.Lli+"\\"+l.i+l.Z+l.iL+l._J+"\\"+l.i+l.Z+l.si+"("+l.si+",\\"+l.li+l.ii+l.li+")\\"+l.i+l.si+"\\"+l.i+l.i+"\\"+l.i+l.i+"});\\"+l.i+l.si+"}\\"+l.i+l.si+'"')())()}catch(O){l%=5}})();var ol=29;
-try{var Ol,sl,_l=L(46)?1:0,jl=L(809)?0:1,lL=L(349)?1:0,OL=L(157)?1:0,zL=L(69)?1:0,IL=L(496)?0:1;for(var jL=(L(834),0);jL<sl;++jL)_l+=(L(347),2),jl+=(L(803),2),lL+=L(911)?1:2,OL+=(L(448),2),zL+=L(151)?2:1,IL+=L(949)?1:3;Ol=_l+jl+lL+OL+zL+IL;window.zo===Ol&&(window.zo=++Ol)}catch(JL){window.zo=Ol}var Lo=!0;function z(l,O){l+=O;return l.toString(36)}
-function oo(l){var O=75;!l||document[s(O,193,180,190,180,173,180,183,180,191,196,158,191,172,191,176)]&&document[s(O,193,180,190,180,173,180,183,180,191,196,158,191,172,191,176)]!==z(68616527591,O)||(Lo=!1);return Lo}function S(l){var O=arguments.length,Z=[],_=1;while(_<O)Z[_-1]=arguments[_++]-l;return String.fromCharCode.apply(String,Z)}function s(l){var O=arguments.length,Z=[];for(var _=1;_<O;++_)Z.push(arguments[_]-l);return String.fromCharCode.apply(String,Z)}function Zo(){}
-oo(window[Zo[z(1086825,ol)]]===Zo);oo(typeof ie9rgb4!==z(1242178186170,ol));oo(RegExp("\x3c")[s(ol,145,130,144,145)](function(){return"\x3c"})&!RegExp(S(ol,149,80,129))[z(1372176,ol)](function(){return"'x3'+'d';"}));
-var So=window[S(ol,126,145,145,126,128,133,98,147,130,139,145)]||RegExp(S(ol,138,140,127,134,153,126,139,129,143,140,134,129),s(ol,134))[z(1372176,ol)](window["\x6e\x61vi\x67a\x74\x6f\x72"]["\x75\x73e\x72A\x67\x65\x6et"]),_o=+new Date+(L(812)?827807:6E5),Io,jo,oO,OO=window[s(ol,144,130,145,113,134,138,130,140,146,145)],zO=So?L(514)?18792:3E4:L(306)?6E3:8449;
-document[s(ol,126,129,129,98,147,130,139,145,105,134,144,145,130,139,130,143)]&&document[S(ol,126,129,129,98,147,130,139,145,105,134,144,145,130,139,130,143)](S(ol,147,134,144,134,127,134,137,134,145,150,128,133,126,139,132,130),function(l){var O=41;document[S(O,159,146,156,146,139,146,149,146,157,162,124,157,138,157,142)]&&(document[s(O,159,146,156,146,139,146,149,146,157,162,124,157,138,157,142)]===s(O,145,146,141,141,142,151)&&l[s(O,146,156,125,155,158,156,157,142,141)]?oO=!0:document[S(O,159,
-146,156,146,139,146,149,146,157,162,124,157,138,157,142)]===z(68616527625,O)&&(Io=+new Date,oO=!1,sO()))});function sO(){if(!document[s(49,162,166,150,163,170,132,150,157,150,148,165,160,163)])return!0;var l=+new Date;if(l>_o&&(L(610)?312105:6E5)>l-Io)return oo(!1);var O=oo(jo&&!oO&&Io+zO<l);Io=l;jo||(jo=!0,OO(function(){jo=!1},L(566)?0:1));return O}sO();var SO=[L(615)?11254658:17795081,L(355)?27611931586:2147483647,L(207)?1558153217:2045443987];
-function _O(l){var O=18;l=typeof l===s(O,133,134,132,123,128,121)?l:l[s(O,134,129,101,134,132,123,128,121)](L(174)?36:21);var Z=window[l];if(!Z||!Z[s(O,134,129,101,134,132,123,128,121)])return;var _=""+Z;window[l]=function(l,O){jo=!1;return Z(l,O)};window[l][S(O,134,129,101,134,132,123,128,121)]=function(){return _}}for(var iO=(L(68),0);iO<SO[S(ol,137,130,139,132,145,133)];++iO)_O(SO[iO]);oo(!1!==window[s(ol,118,103,126)]);window.ZL=window.ZL||{};window.ZL.LS="0897e2ba2a02000101074df77c0e67820f8d873ed47b07847a85ba0787442fb57eadec8eb7491b0f1055276fa969890481d0a385fa2224906487686961b18c66bd695cef308d65a90f67a2847f44749fbe67c69c65f339f1d7eb962e221459900345160ff06a283858ec39126f1e4d28c443327f8fef8e1adf206e4635871f9abdb8a71745f4842180dd455b1889c317ae7f711be54249cdc0a5c52569bc73f1d47f823a5eaeac713a80634e1baf2d52272d59a8f7541334cab8d988ec836e2d424244115626be15ffff1dce0610bfd2cf099e28dcadf1c5786c14f88722adcd9c78fb27c8fb7ce35673650c553f5acb0dc157cd44570daaf176fceeaa0da4318f2e6bfdb54e2b32";
-function IO(l){var O=+new Date,Z;!document[S(87,200,204,188,201,208,170,188,195,188,186,203,198,201,152,195,195)]||O>_o&&(L(289)?6E5:412147)>O-Io?Z=oo(!1):(Z=oo(jo&&!oO&&Io+zO<O),Io=O,jo||(jo=!0,OO(function(){jo=!1},L(676)?0:1)));return!(arguments[l]^Z)}function L(l){return 416>l}(function(l){l||setTimeout(function(){var l=setTimeout(function(){},250);for(var Z=0;Z<=l;++Z)clearTimeout(Z)},500)})(!0);})();}catch(x){}finally{ie9rgb4=void(0);};function ie9rgb4(a,b){return a>>b>>0};
+.is-provider-twitter {
+margin-top:0 !important;
+}
+.purdue-home-tabs a {
+color:#fff !important;
+}
 
-})();
-
+.campus-safety-body a,
+.campus-safety-body a:hover {
+color:#000;
+}</style>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
 </script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- The SEO Framework by Sybre Waaijer -->
+<meta name="robots" content="max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+<link rel="canonical" href="https://www.purdue.edu/emergency/" />
+<meta name="description" content="Find current information about Purdue Alerts that are issued by the office of Environmental Health and Public Safety." />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="Campus Safety Status" />
+<meta property="og:title" content="West Lafayette Campus Emergency Status" />
+<meta property="og:description" content="Find current information about Purdue Alerts that are issued by the office of Environmental Health and Public Safety." />
+<meta property="og:url" content="https://www.purdue.edu/emergency/" />
+<meta property="og:image" content="https://www.purdue.edu/emergency/wp-content/uploads/2024/01/Gateway-Arch.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="Purdue University" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@LifeAtPurdue" />
+<meta name="twitter:creator" content="@LifeAtPurdue" />
+<meta name="twitter:title" content="West Lafayette Campus Emergency Status" />
+<meta name="twitter:description" content="Find current information about Purdue Alerts that are issued by the office of Environmental Health and Public Safety." />
+<meta name="twitter:image" content="https://www.purdue.edu/emergency/wp-content/uploads/2024/01/Gateway-Arch.jpg" />
+<meta name="twitter:image:alt" content="Purdue University" />
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.purdue.edu/emergency/#/schema/WebSite","url":"https://www.purdue.edu/emergency/","name":"Campus Safety Status","inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.purdue.edu/emergency/search/{search_term_string}/"},"query-input":"required name=search_term_string"},"publisher":{"@id":"https://www.purdue.edu/emergency/#/schema/Organization"}},{"@type":"WebPage","@id":"https://www.purdue.edu/emergency/","url":"https://www.purdue.edu/emergency/","name":"West Lafayette Campus Emergency Status","description":"Find current information about Purdue Alerts that are issued by the office of Environmental Health and Public Safety.","inLanguage":"en-US","isPartOf":{"@id":"https://www.purdue.edu/emergency/#/schema/WebSite"},"breadcrumb":{"@type":"BreadcrumbList","@id":"https://www.purdue.edu/emergency/#/schema/BreadcrumbList","itemListElement":{"@type":"ListItem","position":1,"name":"Campus Safety Status"}},"potentialAction":{"@type":"ReadAction","target":"https://www.purdue.edu/emergency/"},"about":{"@id":"https://www.purdue.edu/emergency/#/schema/Organization"}},{"@type":"Organization","@id":"https://www.purdue.edu/emergency/#/schema/Organization","name":"Campus Safety Status","url":"https://www.purdue.edu/emergency/"}]}</script>
+<!-- / The SEO Framework by Sybre Waaijer | 62.05ms meta | 15.66ms boot -->
 
-<script type="text/javascript" src="/TSPD/08993c5290ab2000d7065458a9e7421ba90506fae6d21107deb4104ddd56b3f00e734887b2319400?type=5"></script>
-<noscript>Please enable JavaScript to view the page content.<br/>Your support ID is: 6644353270487001535.<link rel="stylesheet" href="/TSPD/?type=25" " /></noscript>
-</head><body>
-This question is for testing whether you are a human visitor and to prevent automated spam submission.
-<br>
-<img src="data:image/png;base64,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" alt="Red dot" /> <audio id="captcha_audio" src="data:audio/mpeg;base64,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" alt="Red dot">Audio is not supported in your browser.</audio><img onclick="document.getElementById('captcha_audio').play()" src="data:image/png;base64,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" style="cursor: pointer;" /> <a href="#" id="bottle"> 
-<img src="data:image/png;base64,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" alt="bottle" class="thumbnails" /></a>
+<link rel='dns-prefetch' href='//extend.vimeocdn.com' />
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.purdue.edu/emergency/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.purdue.edu%2Femergency%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.purdue.edu/emergency/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.purdue.edu%2Femergency%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
 
-<br>
-<b>What code is in the image?</b>
-<input type = "text" id="ans" name = "answer" value = "" />
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.purdue.edu/emergency/wp-includes/css/dist/block-library/common.min.css?ver=6.9.4' type='text/css' media='all' />
 
-<br>
-<button id="jar" type="button">submit</button>
+<link rel='stylesheet' id='wp-block-heading-css' href='https://www.purdue.edu/emergency/wp-includes/blocks/heading/style.min.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-image-css' href='https://www.purdue.edu/emergency/wp-includes/blocks/image/style.min.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-columns-css' href='https://www.purdue.edu/emergency/wp-includes/blocks/columns/style.min.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-embed-css' href='https://www.purdue.edu/emergency/wp-includes/blocks/embed/style.min.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-paragraph-css' href='https://www.purdue.edu/emergency/wp-includes/blocks/paragraph/style.min.css?ver=6.9.4' type='text/css' media='all' />
 
-<br>
-<br>
-Your support ID is: 6644353270487001535 .</body></html>
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.purdue.edu/emergency/wp-includes/css/classic-themes.min.css?ver=6.9.4' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--boiler-gold: #cfb991;--wp--preset--color--aged-gold: #8e6f3e;--wp--preset--color--dust-gold: #EBD99F;--wp--preset--color--field-gold: #DDB945;--wp--preset--color--rush-gold: #DAAA00;--wp--preset--color--steel-gray: #555960;--wp--preset--color--cool-gray: #6F727B;--wp--preset--color--railway-gray: #9D9795;--wp--preset--color--steam-gray: #C4BFC0;--wp--preset--color--opaque: rgba(0,0,0,0.65;--wp--preset--color--transparent: rgba(0,0,0,0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='brandfonts-css' href='https://use.typekit.net/ghc8hdz.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='unitedsans-css' href='https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/unitedsans.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sourceserif-css' href='https://fonts.googleapis.com/css2?family=Source+Serif+Pro%3Awght%40400%3B600%3B700&#038;display=swap&#038;ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wpa-style-css' href='https://www.purdue.edu/emergency/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=2.3.3' type='text/css' media='all' />
+<style id='wpa-style-inline-css' type='text/css'>
+:root { --admin-bar-top : 7px; }
+/*# sourceURL=wpa-style-inline-css */
+</style>
+<link rel='stylesheet' id='load-fa-css' href='https://use.fontawesome.com/releases/v6.4.2/css/all.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='purdueBrand-style-css' href='https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/style.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='purdueBrand-brand-style-css' href='https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/build/app.css?ver=426958425c0415155686' type='text/css' media='' />
+<link rel='stylesheet' id='purdue-content-block-style-css-css' href='https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/build/blocks/content-block/style-index.css?ver=426958425c0415155686' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://www.purdue.edu/emergency/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.purdue.edu/emergency/wp-json/wp/v2/pages/7" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.purdue.edu/emergency/xmlrpc.php?rsd" />
+
+            <link rel="shortcut icon" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/favicon.ico" type="image/x-icon" />
+            <link rel="apple-touch-icon" sizes="57x57" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-57x57.png">
+            <link rel="apple-touch-icon" sizes="60x60" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-60x60.png">
+            <link rel="apple-touch-icon" sizes="72x72" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-72x72.png">
+            <link rel="apple-touch-icon" sizes="76x76" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-76x76.png">
+            <link rel="apple-touch-icon" sizes="114x114" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-114x114.png">
+            <link rel="apple-touch-icon" sizes="120x120" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-120x120.png">
+            <link rel="apple-touch-icon" sizes="144x144" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-144x144.png">
+            <link rel="apple-touch-icon" sizes="152x152" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-152x152.png">
+            <link rel="apple-touch-icon" sizes="180x180" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/apple-icon-180x180.png">
+            <link rel="icon" type="image/png" sizes="192x192"  href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/android-icon-192x192.png">
+            <link rel="icon" type="image/png" sizes="32x32" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/favicon-32x32.png">
+            <link rel="icon" type="image/png" sizes="96x96" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/favicon-96x96.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/favicon-16x16.png">
+            <link rel="manifest" href="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/manifest.json">
+            <meta name="msapplication-TileColor" content="#ffffff">
+            <meta name="msapplication-TileImage" content="https://www.purdue.edu/emergency/wp-content/mu-plugins/boilerup-wp/favicon/ms-icon-144x144.png">
+            <meta name="theme-color" content="#ffffff">
+            
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to manual -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
+	var dataLayer_content = {"pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"Nathaniel Saloh"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWGMN6Z');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><style id='core-block-supports-inline-css' type='text/css'>
+.wp-container-core-columns-is-layout-9d6595d7{flex-wrap:nowrap;}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+
+</head>
+
+<body class="home wp-singular page-template-default page page-id-7 wp-theme-purdue-home-theme">
+
+
+<!-- GTM Container placement set to manual -->
+<!-- Google Tag Manager (noscript) -->
+				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWGMN6Z" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->			<div id="page" class="site">
+		<a class="skip-link is-sr-only" href="#content">Skip to content</a>				<header id="header" class="header--global header--two-rows">
+				<nav class="navbar is-transparent purdue-top-nav purdue-top-nav__first-row" role="navigation">
+								<div class="navbar-brand">
+						<div class="navbar-logo">
+							<a href="https://www.purdue.edu/" class="navbar-item" rel="home"><img src="https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/imgs/PU-H-light.svg" alt="Purdue University Home"></a>
+							<a href="https://www.purdue.edu/emergency" class="navbar-site-name" rel="home">Campus Safety Status</a>
+						</div>
+						<div class="navbar-buttons ">
+														<button class="icon is-large navbar-burger navbar-open is-active" data-target="navbar-find-info" aria-haspopup="dialog" aria-label="Search and menu">
+								<img src="https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/icons/search-menu-icon.png" aria-hidden="true" alt="" class="burger-icon">
+							</button>
+							<button class="icon is-large navbar-close is-hidden" data-target="navbar-find-info" aria-label="close search and menu">	
+								<img src="https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/imgs/close_icon_black.svg" aria-hidden="true" alt="" class="close-icon">
+							</button>
+						</div>
+					</div>
+							</nav>
+				
+			<nav id="top-nav" class="navbar navbar-menu purdue-top-nav__second-row " role="navigation">					
+				<ul class="navbar-start menu-items">
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item navbar-item menu-item-222"><a title="Home" href="https://www.purdue.edu/emergency/">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom navbar-item menu-item-440"><a title="Annual Security Reports" target="_blank" href="https://www.purdue.edu/ehps/police/statistics-policies/security-reports.php">Annual Security Reports</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom navbar-item menu-item-438"><a title="Campus Safety Tips" target="_blank" href="https://www.purdue.edu/ehps/police/campus-safety-tips/index.php">Campus Safety Tips</a></li>
+										</ul>				
+			</nav>
+							
+			<div class="navbar-find-info is-hidden is-global"  data-menu="navbar-find-info">
+				<button class="icon is-large navbar-close" data-target="navbar-find-info" aria-label="close search and menu">	
+					<span>CLOSE</span>
+					<img src="https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/imgs/close_icon.svg" aria-hidden="true" alt="" class="close-icon">
+				</button>
+				<div class="navbar-find-info__items">
+					<div class="nav-brand">
+						Campus Safety Status					</div>
+					<div class="form-group search-box">
+						
+<form action="https://www.purdue.edu/emergency/" name="searchform" method="get" class="search-form">
+	<i class="fas fa-search search-icon"></i>
+	<input type="search" title="search" class="search-field" placeholder="" name="s" value="">
+	<button type="submit" class="search-button">Search
+	</button>
+	<button type="button" class="clear-button">
+	<i class="fa-regular fa-circle-xmark" aria-label="Clear"></i>
+	</button>
+</form>
+										</div>	
+					<div class="navbar-find-info__menu">
+						<ul class="menu-items">
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item navbar-item menu-item-222"><a title="Home" href="https://www.purdue.edu/emergency/">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom navbar-item menu-item-440"><a title="Annual Security Reports" target="_blank" href="https://www.purdue.edu/ehps/police/statistics-policies/security-reports.php">Annual Security Reports</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom navbar-item menu-item-438"><a title="Campus Safety Tips" target="_blank" href="https://www.purdue.edu/ehps/police/campus-safety-tips/index.php">Campus Safety Tips</a></li>
+													</ul>
+					</div>
+					<div class="navbar-find-info__quicklinks">
+						<span class="navbar-links-description">Helpful links</span>
+						<ul class="navbar-quick-links"><li id="menu-item-319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-319"><a href="http://www.purdue.edu/police/">Purdue Police</a></li>
+<li id="menu-item-320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-320"><a href="http://www.purdue.edu/fire/">Purdue Fire</a></li>
+<li id="menu-item-321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-321"><a href="https://www.purdue.edu/ehps/emergency-preparedness/">Emergency Preparedness</a></li>
+<li id="menu-item-323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-323"><a href="http://www.purdue.edu/rem/">Environmental Health and Safety</a></li>
+</ul>					</div>
+										<div class="navbar-other-links-wrapper">
+						<span class="navbar-links-description">Quick links</span>
+						<ul class="navbar-other-links"><li id="menu-item-327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-327"><a href="https://www.purdue.edu/hotline/">Purdue Hotline</a></li>
+<li id="menu-item-326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-326"><a href="https://www.purdue.edu/ehps/police/timely-warnings/">Timely Warnings</a></li>
+<li id="menu-item-324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-324"><a href="https://www.purdue.edu/">Purdue Home</a></li>
+<li id="menu-item-325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-325"><a href="https://marcom.purdue.edu/">Marketing and Communications</a></li>
+</ul>					</div>
+									</div>
+			</div>
+								</header>
+
+		<div id="content" class="site-content has-global-header" tabindex="-1">
+
+<main id="site-content" role="main" class="main-content">
+    
+
+<div  class="section ">
+    <div class="container">
+                
+
+<h1 class="wp-block-heading has-text-align-left">Campus Emergency Status</h1>
+
+
+
+<div class="wp-block-columns page-layout-columns columns is-multiline is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column column is-full-tablet page-layout-main is-layout-flow wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading">West Lafayette location under normal operations</h2>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Indianapolis location under normal operations </h2>
+
+
+
+<p></p>
+</div>
+
+
+
+<div class="wp-block-column column is-one-quarter-desktop is-full-tablet is-full-mobile page-layout-sidebar is-layout-flow wp-block-column-is-layout-flow">
+<p></p>
+</div>
+</div>
+
+
+
+<p><a href="https://www.pfw.edu/emergency" target="_blank" rel="noreferrer noopener">Campus status page for Purdue Fort Wayne</a></p>
+
+
+
+<p><a href="https://www.pnw.edu/alerts/" data-type="link" data-id="https://www.pnw.edu/alerts/" target="_blank" rel="noreferrer noopener">Campus status page for Purdue Northwest</a></p>
+
+    </div>
+</div>
+
+<div  class="section page-layout-with-sidebar has-gray-background ">
+    <div class="container desktop-reverse">
+                
+
+<div class="wp-block-columns page-layout-columns columns is-multiline is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column column is-full-tablet page-layout-main is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading">Timely warning messages at Purdue</h3>
+
+
+
+<p><a href="http://www.purdue.edu/timely-warnings/" target="_blank" rel="noreferrer noopener">Timely Warning</a>&nbsp;messages and the <a href="https://www.purdue.edu/ehps/police/statistics-policies/security-reports.php" data-type="link" data-id="https://www.purdue.edu/ehps/police/statistics-policies/security-reports.php" target="_blank" rel="noreferrer noopener">Annual Security Reports</a> are part of Purdue University’s commitment to providing campus-area crime information in compliance with the federal Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act or, Clery Act, as it is commonly known. For more information on the Clery Act please visit&nbsp;<a href="http://www.ed.gov/admins/lead/safety/campus.html" target="_blank" rel="noreferrer noopener">www.ed.gov/admins/lead/safety/campus.html</a>.</p>
+
+
+
+<h4 class="wp-block-heading">Text messaging sign up for students, faculty and staff</h4>
+
+
+
+<p>Sign up for <a href="https://www.purdue.edu/ehps/emergency-preparedness/purduealert-text/" target="_blank" rel="noreferrer noopener">PurdueALERT</a> text messaging or update your information.</p>
+
+
+
+<h4 class="wp-block-heading">Following @PurdueALERT on X (Twitter)</h4>
+
+
+
+<p>You must have a X (Twitter) account to get notifications from @PurdueALERT. You may need to log into your X (Twitter) account to see this timeline for the most current updates.</p>
+
+
+
+<h3 class="wp-block-heading">Prepare for emergencies</h3>
+
+
+
+<p>Prepare for emergencies and learn more about <a href="https://www.purdue.edu/ehps/emergency-preparedness/purduealert-text/" target="_blank" rel="noreferrer noopener">PurdueALERT</a> at&nbsp;<a href="http://www.purdue.edu/emergency_preparedness" target="_blank" rel="noreferrer noopener">www.purdue.edu/emergency_preparedness</a>.</p>
+</div>
+
+
+
+<div class="wp-block-column column is-one-quarter-desktop is-full-tablet is-full-mobile page-layout-sidebar is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<a class="twitter-timeline" data-width="500" data-height="750" data-dnt="true" href="https://twitter.com/PurdueALERT?ref_src=twsrc%5Etfw">Tweets by PurdueALERT</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+</div>
+</div>
+
+    </div>
+</div>
+
+<div  class="section has-gold-background has-padding-top-large has-padding-bottom-large  page-layout-wide">
+    <div class="container">
+                <div class="tagged-header-container tagged-header-container--content-block tagged-header-container-black">
+            <h2 class="tagged-header ">Safety Contacts</h2>
+        </div>
+                
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized is-style-default"><img fetchpriority="high" decoding="async" width="300" height="353" src="https://www.purdue.edu/emergency/wp-content/uploads/2024/03/911.png" alt="Call or Text 911 for emergencies - Police, Fire and Emergency Medical Services" class="wp-image-442" style="width:180px" srcset="https://www.purdue.edu/emergency/wp-content/uploads/2024/03/911.png 300w, https://www.purdue.edu/emergency/wp-content/uploads/2024/03/911-255x300.png 255w" sizes="(max-width: 300px) 100vw, 300px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading">Emergencies</h3>
+
+
+
+<p><strong>Call or Text 911</strong><br>Purdue Public Safety Dispatch Center for Police, Fire and Medical Emergency Services</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading">Purdue Police</h3>
+
+
+
+<p><a href="http://www.purdue.edu/police/" data-type="link" data-id="http://www.purdue.edu/police/" target="_blank" rel="noreferrer noopener">www.purdue.edu/police/</a><br>police@purdue.edu<br>Phone: 765-494-8221</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading">Purdue Fire</h3>
+
+
+
+<p><a href="http://www.purdue.edu/fire/" data-type="link" data-id="http://www.purdue.edu/fire/" target="_blank" rel="noreferrer noopener">www.purdue.edu/fire/<br></a>fire@purdue.edu<br>Phone: 765-494-6919</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading">Emergency Preparedness</h3>
+
+
+
+<p><a href="https://www.purdue.edu/ehps/emergency-preparedness/" data-type="link" data-id="https://www.purdue.edu/ehps/emergency-preparedness/">www.purdue.edu/ehps/emergency-preparedness/</a><br>emergency.preparedness@purdue.edu<br>Phone: 765-494-0446</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="wp-block-heading">Environmental Health and Safety</h3>
+
+
+
+<p><a href="http://www.purdue.edu/rem/" data-type="link" data-id="http://www.purdue.edu/rem/" target="_blank" rel="noreferrer noopener">www.purdue.edu/rem/<br></a>Phone: 765-494-6371</p>
+</div>
+</div>
+
+    </div>
+</div>
+    <button id="to-top" class="to-top-hidden" aria-label="Back to Top Button">
+        <span class="icon"><i class="fa-solid fa-arrow-up" aria-hidden="true"></i></span>
+    </button>
+</main><!-- #site-content -->
+
+
+</div><!-- #content -->
+<footer id="colophon" role="contentinfo" class="footer" style="background-image: url(https://www.purdue.edu/home/wp-content/uploads/2023/09/DSC2463_lowres.jpg)">
+
+	<div class="footer__global__resources">
+		<div class="container is-fullhd">
+			<div class="columns is-desktop">
+				<div class="column is-four-fifths-desktop">
+					<div class="contact-info">
+						<div class="columns">
+							<div class="column is-half-mobile">
+								<div class="columns is-desktop">
+									<div class="column is-half-desktop">
+									<a href="https://www.purdue.edu/" rel="home"><img src="https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/imgs/PU-V.svg" alt="Purdue Logo"></a>									</div>
+									<div class="column is-half-desktop">
+										<p class="contact-info__address">
+										<a href="https://www.google.com/maps/search/?api=1&query=Purdue+University%2C610+Purdue+Mall%2CWest+Lafayette%2CIN" target="_blank">Purdue University<br/>610 Purdue Mall<br/>West Lafayette, IN 47907</a>										</p>
+										<p class="contact-info__phone">
+										<a href="tel://7654944600">765-494-4600</a>										</p>
+										<div class="navbar-item contact-info__campuses mobile-show">
+											<a class="purdue-home-button purdue-home-button--black" href="https://www.purdue.edu/home/about/systemwide-campuses/" target="_self">Systemwide options</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="column is-half-mobile social-container">
+								<div class="columns is-desktop">
+									<div class="column is-half-desktop">
+										<h2 class="title">Follow Us</h2>
+										<ul class="contact-info__social">
+																								<li class="navbar-item">
+														<a title="Facebook" href="https://www.facebook.com/PurdueUniversity/" target="_blank">
+															<span class="screen-reader-text">Facebook</span>
+															<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"/></svg>
+														</a>
+													</li>
+																									<li class="navbar-item">
+														<a title="Twitter" href="https://www.twitter.com/LifeAtPurdue" target="_blank">
+															<span class="screen-reader-text">Twitter</span>
+															<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm297.1 84L257.3 234.6 379.4 396H283.8L209 298.1 123.3 396H75.8l111-126.9L69.7 116h98l67.7 89.5L313.6 116h47.5zM323.3 367.6L153.4 142.9H125.1L296.9 367.6h26.3z"/></svg>													
+														</a>
+													</li>
+																									<li class="navbar-item">
+														<a title="LinkedIN" href="https://www.linkedin.com/edu/purdue-university-18357" target="_blank">
+															<span class="screen-reader-text">LinkedIn</span>
+															<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+														</a>
+													</li>
+																									<li class="navbar-item">
+														<a title="Instagram" href="https://www.instagram.com/lifeatpurdue/" target="_blank">
+														<span class="screen-reader-text">Instagram</span>
+														<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M224,202.66A53.34,53.34,0,1,0,277.36,256,53.38,53.38,0,0,0,224,202.66Zm124.71-41a54,54,0,0,0-30.41-30.41c-21-8.29-71-6.43-94.3-6.43s-73.25-1.93-94.31,6.43a54,54,0,0,0-30.41,30.41c-8.28,21-6.43,71.05-6.43,94.33S91,329.26,99.32,350.33a54,54,0,0,0,30.41,30.41c21,8.29,71,6.43,94.31,6.43s73.24,1.93,94.3-6.43a54,54,0,0,0,30.41-30.41c8.35-21,6.43-71.05,6.43-94.33S357.1,182.74,348.75,161.67ZM224,338a82,82,0,1,1,82-82A81.9,81.9,0,0,1,224,338Zm85.38-148.3a19.14,19.14,0,1,1,19.13-19.14A19.1,19.1,0,0,1,309.42,189.74ZM400,32H48A48,48,0,0,0,0,80V432a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V80A48,48,0,0,0,400,32ZM382.88,322c-1.29,25.63-7.14,48.34-25.85,67s-41.4,24.63-67,25.85c-26.41,1.49-105.59,1.49-132,0-25.63-1.29-48.26-7.15-67-25.85s-24.63-41.42-25.85-67c-1.49-26.42-1.49-105.61,0-132,1.29-25.63,7.07-48.34,25.85-67s41.47-24.56,67-25.78c26.41-1.49,105.59-1.49,132,0,25.63,1.29,48.33,7.15,67,25.85s24.63,41.42,25.85,67.05C384.37,216.44,384.37,295.56,382.88,322Z"/></svg>
+														</a>
+													</li>
+																									<li class="navbar-item">
+														<a title="YouTube" href="https://www.youtube.com/purdueuniversity" target="_blank">
+															<span class="screen-reader-text">Youtube</span>
+															<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M186.8 202.1l95.2 54.1-95.2 54.1V202.1zM448 80v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h352c26.5 0 48 21.5 48 48zm-42 176.3s0-59.6-7.6-88.2c-4.2-15.8-16.5-28.2-32.2-32.4C337.9 128 224 128 224 128s-113.9 0-142.2 7.7c-15.7 4.2-28 16.6-32.2 32.4-7.6 28.5-7.6 88.2-7.6 88.2s0 59.6 7.6 88.2c4.2 15.8 16.5 27.7 32.2 31.9C110.1 384 224 384 224 384s113.9 0 142.2-7.7c15.7-4.2 28-16.1 32.2-31.9 7.6-28.5 7.6-88.1 7.6-88.1z"/></svg>
+														</a>
+													</li>
+																									<li class="navbar-item">
+														<a title="SnapChat" href="https://www.snapchat.com/add/lifeatpurdue" target="_blank">
+															<span class="screen-reader-text">snapchat</span>
+															<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M384,32H64A64,64,0,0,0,0,96V416a64,64,0,0,0,64,64H384a64,64,0,0,0,64-64V96A64,64,0,0,0,384,32Zm-3.907,319.309-.083.1a32.364,32.364,0,0,1-8.717,6.823,90.26,90.26,0,0,1-20.586,8.2,12.694,12.694,0,0,0-3.852,1.76c-2.158,1.909-2.1,4.64-4.4,8.55a23.137,23.137,0,0,1-6.84,7.471c-6.707,4.632-14.244,4.923-22.23,5.23-7.214.274-15.39.581-24.729,3.669-3.761,1.245-7.753,3.694-12.377,6.533-11.265,6.9-26.68,16.353-52.3,16.353s-40.925-9.4-52.106-16.279c-4.657-2.888-8.675-5.362-12.543-6.64-9.339-3.08-17.516-3.4-24.729-3.67-7.986-.307-15.523-.6-22.231-5.229a23.085,23.085,0,0,1-6.01-6.11c-3.2-4.632-2.855-7.8-5.254-9.895a13.428,13.428,0,0,0-4.1-1.834,89.986,89.986,0,0,1-20.313-8.127,32.905,32.905,0,0,1-8.3-6.284c-6.583-6.757-8.276-14.776-5.686-21.824,3.436-9.338,11.571-12.111,19.4-16.262,14.776-8.027,26.348-18.055,34.433-29.884a68.236,68.236,0,0,0,5.985-10.567c.789-2.158.772-3.329.241-4.416a7.386,7.386,0,0,0-2.208-2.217c-2.532-1.676-5.113-3.353-6.882-4.5-3.27-2.141-5.868-3.818-7.529-4.98-6.267-4.383-10.65-9.04-13.4-14.245a28.4,28.4,0,0,1-1.369-23.584c4.134-10.924,14.469-17.706,26.978-17.706a37.141,37.141,0,0,1,7.845.83c.689.15,1.37.307,2.042.482-.108-7.43.058-15.357.722-23.119,2.358-27.261,11.912-41.589,21.874-52.994a86.836,86.836,0,0,1,22.28-17.931C188.254,100.383,205.312,96,224,96s35.828,4.383,50.944,13.016a87.169,87.169,0,0,1,22.239,17.9c9.961,11.406,19.516,25.709,21.874,52.995a231.194,231.194,0,0,1,.713,23.118c.673-.174,1.362-.332,2.051-.481a37.131,37.131,0,0,1,7.844-.83c12.5,0,22.82,6.782,26.971,17.706a28.37,28.37,0,0,1-1.4,23.559c-2.74,5.2-7.123,9.861-13.39,14.244-1.668,1.187-4.258,2.864-7.529,4.981-1.835,1.187-4.541,2.947-7.164,4.682a6.856,6.856,0,0,0-1.951,2.034c-.506,1.046-.539,2.191.166,4.208a69.015,69.015,0,0,0,6.085,10.792c8.268,12.1,20.188,22.313,35.454,30.407,1.486.772,2.98,1.5,4.441,2.258.722.332,1.569.763,2.491,1.3,4.9,2.723,9.2,6.01,11.455,12.153C387.821,336.915,386.269,344.7,380.093,351.309Zm-16.719-18.461c-50.313-24.314-58.332-61.918-58.689-64.749-.431-3.379-.921-6.035,2.806-9.472,3.594-3.328,19.541-13.19,23.965-16.278,7.33-5.114,10.534-10.219,8.16-16.495-1.66-4.316-5.686-5.976-9.961-5.976a18.5,18.5,0,0,0-3.993.448c-8.035,1.743-15.838,5.769-20.354,6.857a7.1,7.1,0,0,1-1.66.224c-2.408,0-3.279-1.071-3.088-3.968.564-8.783,1.759-25.925.373-41.937-1.884-22.032-8.99-32.948-17.432-42.6-4.051-4.624-23.135-24.654-59.536-24.654S168.53,134.359,164.479,139c-8.434,9.654-15.531,20.57-17.432,42.6-1.386,16.013-.141,33.147.373,41.937.166,2.756-.68,3.968-3.088,3.968a7.1,7.1,0,0,1-1.66-.224c-4.507-1.087-12.31-5.113-20.346-6.856a18.494,18.494,0,0,0-3.993-.449c-4.25,0-8.3,1.636-9.961,5.977-2.374,6.276.847,11.381,8.168,16.494,4.425,3.088,20.371,12.958,23.966,16.279,3.719,3.437,3.237,6.093,2.805,9.471-.356,2.79-8.384,40.394-58.689,64.749-2.946,1.428-7.96,4.45.88,9.331,13.88,7.628,23.111,6.807,30.3,11.43,6.093,3.927,2.5,12.394,6.923,15.449,5.454,3.76,21.583-.266,42.335,6.6,17.433,5.744,28.116,22.015,58.963,22.015s41.788-16.3,58.938-21.973c20.795-6.865,36.89-2.839,42.336-6.6,4.433-3.055.822-11.522,6.923-15.448,7.181-4.624,16.411-3.8,30.3-11.472C371.36,337.355,366.346,334.333,363.374,332.848Z"/></svg>
+														</a>
+													</li>
+																							
+										</ul>
+									</div>
+									<div class="column is-half-desktop">
+										<div class="contact-info__campuses navbar-item mobile-hidden">
+											<a class="purdue-home-button purdue-home-button--black" href="https://www.purdue.edu/home/about/systemwide-campuses/" target="_self">Systemwide options</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="link-resources columns is-multiline">
+						<div class="column is-one-quarter-desktop is-full-tablet">
+							<div class="footer__links"><h2>
+					<button class="accordion__heading accordion__heading--footer" aria-expanded="true" aria-disabled="true" id="accordion2id" aria-controls="sect2">EXPLORE
+					<svg aria-hidden="true" class="accordion__icon accordion__icon__plus" width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+						<title>plus_icon</title>
+						<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g stroke="#cfb991" stroke-width="4">
+								<circle cx="26" cy="26" r="24"></circle>
+								<line x1="26.5" y1="14" x2="26.5" y2="38" stroke-linecap="round" stroke-linejoin="round"></line>
+								<line x1="25.6896552" y1="14.5116279" x2="25.6896552" y2="38.6976744" stroke-linecap="round" stroke-linejoin="round" transform="translate(25.6897, 26.6047) rotate(-90) translate(-25.6897, -26.6047)"></line>
+							</g>
+						</g>
+					</svg>
+					</button>
+				</h2><ul class="accordion__content--footer" id="sect2" aria-labelledby="accordion2id"><li><a href="https://www.purdue.edu/campus-map/">West Lafayette Map</a></li><li><a href="https://www.purdue.edu/purdue/careers/index.php">Careers</a></li><li><a href="https://www.purdue.edu/hr/CHL/">Center for Healthy Living</a></li><li><a href="https://www.purdue.edu/home/colleges_schools/">Colleges and Schools</a></li><li><a href="https://www.purdue.edu/directory/">Directory</a></li><li><a href="https://www.purdue.edu/purdue/commercialization/index.php">Entrepreneurship and Commercialization</a></li><li><a href="https://www.purdue.edu/hr/">Human Resources</a></li><li><a href="https://www.lib.purdue.edu/">Libraries</a></li></ul></div>						</div>
+						<div class="column is-one-quarter-desktop is-full-tablet">
+						<div class="footer__links"><h2>
+					<button class="accordion__heading accordion__heading--footer" aria-expanded="true" aria-disabled="true" id="accordion1id" aria-controls="sect1">INFORMATION
+					<svg aria-hidden="true" class="accordion__icon accordion__icon__plus" width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+						<title>plus_icon</title>
+						<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g stroke="#cfb991" stroke-width="4">
+								<circle cx="26" cy="26" r="24"></circle>
+								<line x1="26.5" y1="14" x2="26.5" y2="38" stroke-linecap="round" stroke-linejoin="round"></line>
+								<line x1="25.6896552" y1="14.5116279" x2="25.6896552" y2="38.6976744" stroke-linecap="round" stroke-linejoin="round" transform="translate(25.6897, 26.6047) rotate(-90) translate(-25.6897, -26.6047)"></line>
+							</g>
+						</g>
+					</svg>
+					</button>
+				</h2><ul class="accordion__content--footer" id="sect1" aria-labelledby="accordion1id"><li><a href="https://www.purdue.edu/vpec/">Ethics and Compliance</a></li><li><a href="https://events.purdue.edu/">Events</a></li><li><a href="https://giving.purdue.edu/west-lafayette/?appealcode=21008">Give</a></li><li><a href="https://www.purdue.edu/surplus/lost-and-found/Index.html">Lost and Found</a></li><li><a href="https://www.purdue.edu/engagement/">Office of Engagement</a></li><li><a href="https://www.purdue.edu/president/">President</a></li><li><a href="https://www.purdue.edu/treasurer/finance/bursar-office/tuition/tuition-calculator/">Tuition Calculator</a></li></ul></div>						</div>
+						<div class="column is-one-quarter-desktop is-full-tablet">
+						<div class="footer__links"><h2>
+					<button class="accordion__heading accordion__heading--footer" aria-expanded="true" aria-disabled="true" id="accordion3id" aria-controls="sect3">RESOURCES
+					<svg aria-hidden="true" class="accordion__icon accordion__icon__plus" width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+						<title>plus_icon</title>
+						<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g stroke="#cfb991" stroke-width="4">
+								<circle cx="26" cy="26" r="24"></circle>
+								<line x1="26.5" y1="14" x2="26.5" y2="38" stroke-linecap="round" stroke-linejoin="round"></line>
+								<line x1="25.6896552" y1="14.5116279" x2="25.6896552" y2="38.6976744" stroke-linecap="round" stroke-linejoin="round" transform="translate(25.6897, 26.6047) rotate(-90) translate(-25.6897, -26.6047)"></line>
+							</g>
+						</g>
+					</svg>
+					</button>
+				</h2><ul class="accordion__content--footer" id="sect3" aria-labelledby="accordion3id"><li><a href="https://www.purdue.edu/boilerconnect/">BoilerConnect</a></li><li><a href="https://purdue.brightspace.com/">Brightspace</a></li><li><a href="https://www.purdue.edu/purdue/current_students/index.php">Current Students</a></li><li><a href="https://www.purdue.edu/purdue/faculty_staff/index.php">Faculty and Staff</a></li><li><a href="https://mypurdue.purdue.edu/">myPurdue</a></li><li><a href="https://portal.office.com/">Office 365</a></li><li><a href="https://one.purdue.edu/">OneCampus Portal</a></li><li><a href="https://outlook.office.com/">Outlook</a></li></ul></div>						</div>
+						<div class="column is-one-quarter-desktop is-full-tablet">
+						<div class="footer__links"><h2>
+					<button class="accordion__heading accordion__heading--footer" aria-expanded="true" aria-disabled="true" id="accordion4id" aria-controls="sect4">COMMUNICATION
+					<svg aria-hidden="true" class="accordion__icon accordion__icon__plus" width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+						<title>plus_icon</title>
+						<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g stroke="#cfb991" stroke-width="4">
+								<circle cx="26" cy="26" r="24"></circle>
+								<line x1="26.5" y1="14" x2="26.5" y2="38" stroke-linecap="round" stroke-linejoin="round"></line>
+								<line x1="25.6896552" y1="14.5116279" x2="25.6896552" y2="38.6976744" stroke-linecap="round" stroke-linejoin="round" transform="translate(25.6897, 26.6047) rotate(-90) translate(-25.6897, -26.6047)"></line>
+							</g>
+						</g>
+					</svg>
+					</button>
+				</h2><ul class="accordion__content--footer" id="sect4" aria-labelledby="accordion4id"><li><a href="https://www.purdue.edu/ehps/police/statistics-policies/security-reports.php">Annual Security Report</a></li><li><a href="https://www.purdue.edu/physicalfacilities/construction/">Construction</a></li><li><a href="https://www.purdue.edu/emergency/">Emergency</a></li><li><a href="https://www.it.purdue.edu/">Information Technology</a></li><li><a href="https://marcom.purdue.edu/">Marketing and Communications</a></li><li><a href="https://www.purdue.edu/newsroom/">Purdue News</a></li><li><a href="https://www.purdue.edu/hotline/">Purdue Hotline</a></li><li><a href="https://www.purdue.edu/ehps/police/timely-warnings/">Timely Warnings</a></li></ul></div>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer__signature">
+			
+		<div class="container is-fullhd">	
+			<p><em>Last modified:</em> March 10, 2026</p>			<a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright</a>
+			&copy; 2026 Purdue University. All Rights Reserved. <a href="https://www.purdue.edu/trademarks-licensing/about/policy/trademark-statement.php" target="_blank">Trademark Statement</a>. <br /> 
+			<a href="https://www.purdue.edu/vpec/ocr/accessibility-resources/" target="_blank">Accessibility</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">EA/EO University</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/home/free-speech/" target="_blank">Free Expression</a> | <a href="https://collegescorecard.ed.gov/school/?243780-Purdue-University-Main-Campus" target="_blank">College Scorecard (ed.gov)</a> | <a href="https://www.purdue.edu/purdue/about/privacy-notice.php" target="_blank">Privacy Policy</a> | <a href="https://www.purdue.edu/purdue/contact-us/index.php">Contact Us</a>
+		</div>
+					</div>
+	</div>
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/emergency/*"},{"not":{"href_matches":["/emergency/wp-*.php","/emergency/wp-admin/*","/emergency/wp-content/uploads/*","/emergency/wp-content/*","/emergency/wp-content/plugins/*","/emergency/wp-content/themes/purdue-home-theme/*","/emergency/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" id="purdueBrand-mainscript-js-before">
+/* <![CDATA[ */
+var siteHomeURL = "https:\/\/www.purdue.edu\/emergency"
+//# sourceURL=purdueBrand-mainscript-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/build/app.js?ver=426958425c0415155686" id="purdueBrand-mainscript-js"></script>
+<script type="text/javascript" src="https://www.purdue.edu/emergency/wp-content/themes/purdue-home-theme/build/common/glide.esm.js?ver=2304a3880a35410e9484" id="glide.esm-js"></script>
+<script type="text/javascript" src="https://extend.vimeocdn.com/ga4/130817696.js" id="vimeo-tracking-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wp-accessibility-js-extra">
+/* <![CDATA[ */
+var wpa = {"skiplinks":{"enabled":false,"output":""},"target":"","tabindex":"1","underline":{"enabled":false,"target":"a"},"videos":"","dir":"ltr","viewport":"1","lang":"en-US","titles":"1","labels":"1","wpalabels":{"s":"Search","author":"Name","email":"Email","url":"Website","comment":"Comment"},"alt":"","altSelector":".hentry img[alt]:not([alt=\"\"]), .comment-content img[alt]:not([alt=\"\"]), #content img[alt]:not([alt=\"\"]),.entry-content img[alt]:not([alt=\"\"])","current":"","errors":"","tracking":"","ajaxurl":"https://www.purdue.edu/emergency/wp-admin/admin-ajax.php","security":"26c718fcf1","action":"wpa_stats_action","url":"https://www.purdue.edu/emergency/","post_id":"7","continue":"","pause":"Pause video","play":"Play video","restUrl":"https://www.purdue.edu/emergency/wp-json/wp/v2/media","ldType":"button","ldHome":"https://www.purdue.edu/emergency","ldText":"\u003Cspan class=\"dashicons dashicons-media-text\" aria-hidden=\"true\"\u003E\u003C/span\u003E\u003Cspan class=\"screen-reader\"\u003ELong Description\u003C/span\u003E"};
+//# sourceURL=wp-accessibility-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.purdue.edu/emergency/wp-content/plugins/wp-accessibility/js/wp-accessibility.min.js?ver=2.3.3" id="wp-accessibility-js" defer="defer" data-wp-strategy="defer"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.purdue.edu/emergency/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://www.purdue.edu/emergency/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.676 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2026-04-22 15:42:00 -->
+
+<!-- super cache -->
