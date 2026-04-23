@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			Persona Non Grata - 
+			West Lafayette Persona Non Grata - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -412,7 +412,7 @@
         
                                                             
         
-        <li role="none"><a href="persona-non-grata.php" role="menuitem">Persona Non Grata</a></li>
+        <li role="none"><a href="persona-non-grata.php" role="menuitem">West Lafayette Persona Non Grata</a></li>
                                                     
         
                                                             
@@ -570,7 +570,7 @@
                                 
         
                 
-                     <li>Persona Non Grata</li>
+                     <li>West Lafayette Persona Non Grata</li>
         
     </ul>
 </nav> 
@@ -625,7 +625,7 @@
         
                 
     
-    <li role="none"><a href="persona-non-grata.php" role="menuitem">Persona Non Grata</a></li>
+    <li role="none"><a href="persona-non-grata.php" role="menuitem">West Lafayette Persona Non Grata</a></li>
                                                                             
         
                 
@@ -652,14 +652,14 @@
 						
     
 						
-						    <h1 id="main-heading">Persona Non Grata</h1>
+						    <h1 id="main-heading">West Lafayette Persona Non Grata</h1>
 
 						
 						
       <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<p>All inquiries about the <a href="persona-non-grata.php">Persona Non Grata (PNG)</a> should review the <a href="https://www.purdue.edu/policies/facilities-safety/iva5.html" rel="noopener" target="_blank">online university policy</a> for&#160;additional information.</p>
+  					<p>All inquiries about the Persona Non Grata&#160;should review the <a href="https://www.purdue.edu/policies/facilities-safety/iva5.html" rel="noopener" target="_blank">online university policy</a> for&#160;additional information.</p>
 		</section>
 	
       
