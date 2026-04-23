@@ -412,7 +412,12 @@
         
                                                             
         
-        <li role="none"><a href="persona-non-grata.php" role="menuitem">Persona Non Grata</a></li>
+        <li role="none"><a href="persona-non-grata.php" role="menuitem">West Lafayette Persona Non Grata</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="indy-persona-non-grata.php" role="menuitem">Indianapolis Persona Non Grata</a></li>
                                                     
         
                                                             
@@ -625,7 +630,12 @@
         
                 
     
-    <li role="none"><a href="persona-non-grata.php" role="menuitem">Persona Non Grata</a></li>
+    <li role="none"><a href="persona-non-grata.php" role="menuitem">West Lafayette Persona Non Grata</a></li>
+                                                                            
+        
+                
+    
+    <li role="none"><a href="indy-persona-non-grata.php" role="menuitem">Indianapolis Persona Non Grata</a></li>
                                                                             
         
                 
@@ -677,7 +687,42 @@
   
     	<section class="content__group">
   					<h3>Thursday, April 23, 2026</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft/ Fraud</td>
+<td style="font-weight: 400;" width="172">2026PU00552</td>
+<td style="font-weight: 400;" width="148">4/21/26 6:30 PM</td>
+<td style="font-weight: 400;" width="148">4/22/26 10:12 AM</td>
+<td style="font-weight: 400;" width="204">Alexander Field</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU00553</td>
+<td style="font-weight: 400;" width="148">4/22/26 1:20 PM</td>
+<td style="font-weight: 400;" width="148">4/22/26 1:39 PM</td>
+<td style="font-weight: 400;" width="204">900 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00554</td>
+<td style="font-weight: 400;" width="148">4/21/26 8:15 PM</td>
+<td style="font-weight: 400;" width="148">4/22/26 2:48 PM</td>
+<td style="font-weight: 400;" width="204">Owen Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1506,7 +1551,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>April 22, 2026</span></em></p>
+        <p><em>Last modified: <span>April 23, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
