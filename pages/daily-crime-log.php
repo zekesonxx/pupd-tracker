@@ -691,7 +691,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Tuesday, April 28, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Intimidation</td>
+<td style="font-weight: 400;" width="172">2026PU00580</td>
+<td style="font-weight: 400;" width="148">4/27/26 11:21 AM</td>
+<td style="font-weight: 400;" width="148">4/27/26 12:03 PM</td>
+<td style="font-weight: 400;" width="204">Harrison Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="172">2026PU00581</td>
+<td style="font-weight: 400;" width="148">4/25/26 11:00 PM</td>
+<td style="font-weight: 400;" width="148">4/27/26 2:38 PM</td>
+<td style="font-weight: 400;" width="204">Hawkins Graduate House</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud</td>
+<td style="font-weight: 400;" width="172">2026PU00582</td>
+<td style="font-weight: 400;" width="148">4/27/26 10:08 AM</td>
+<td style="font-weight: 400;" width="148">4/27/26 6:50 PM</td>
+<td style="font-weight: 400;" width="204">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating without Ever Receiving a License</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-065170</td>
+<td style="font-weight: 400;" width="148">4/26/26 1:50 PM</td>
+<td style="font-weight: 400;" width="148">4/26/26 1:50 PM</td>
+<td style="font-weight: 400;" width="204">1300 Blk Beering Dr</td>
+<td style="font-weight: 400;" width="189">Documented in 2026WL01010</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1436,7 +1479,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>April 27, 2026</span></em></p>
+        <p><em>Last modified: <span>April 28, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
