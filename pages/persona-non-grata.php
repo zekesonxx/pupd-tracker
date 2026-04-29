@@ -664,7 +664,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Tuesday, April 28, 2026</h3>
+  					<h3>Updated Wednesday, April 29, 2026</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -786,11 +786,6 @@
 <td width="204">Clark Jr., Patrick J.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">6/10/29</td>
-</tr>
-<tr>
-<td width="204">Collins, Samantha M.</td>
-<td width="211">All Residence Halls and Dining Courts&#160;</td>
-<td width="76">4/29/26</td>
 </tr>
 <tr>
 <td width="204">C., J. (Juvenile)</td>
