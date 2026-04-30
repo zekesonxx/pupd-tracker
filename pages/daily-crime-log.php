@@ -677,7 +677,58 @@
   
     	<section class="content__group">
   					<h3>Thursday, April 30, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Impersonating a Public Official</td>
+<td style="font-weight: 400;" width="172">2026PU00586</td>
+<td style="font-weight: 400;" width="148">4/29/26 12:29 PM</td>
+<td style="font-weight: 400;" width="148">4/29/26 2:42 PM</td>
+<td style="font-weight: 400;" width="204">Harrison Street Parking Garage</td>
+<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00587</td>
+<td style="font-weight: 400;" width="148">4/28/26 12:30 PM</td>
+<td style="font-weight: 400;" width="148">4/29/26 3:34 PM</td>
+<td style="font-weight: 400;" width="204">Nelson Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Battery</td>
+<td style="font-weight: 400;" width="172">2026PU00588</td>
+<td style="font-weight: 400;" width="148">4/25/26 4:00 PM</td>
+<td style="font-weight: 400;" width="148">4/29/26 4:05 PM</td>
+<td style="font-weight: 400;" width="204">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00589</td>
+<td style="font-weight: 400;" width="148">4/29/26 6:29 PM</td>
+<td style="font-weight: 400;" width="148">4/29/26 6:41 PM</td>
+<td style="font-weight: 400;" width="204">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU00590</td>
+<td style="font-weight: 400;" width="148">4/29/26 11:37 PM</td>
+<td style="font-weight: 400;" width="148">4/30/26 1:39 AM</td>
+<td style="font-weight: 400;" width="204">Vawter Hall</td>
+<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1530,7 +1581,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>April 29, 2026</span></em></p>
+        <p><em>Last modified: <span>April 30, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
