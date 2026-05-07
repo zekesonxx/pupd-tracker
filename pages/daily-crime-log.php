@@ -677,7 +677,66 @@
   
     	<section class="content__group">
   					<h3>Thursday, May 7, 2026</h3>
-Will be posted soon.
+<table width="1032">
+<tbody>
+<tr>
+<td style="font-weight: 400;" width="171">Nature</td>
+<td style="font-weight: 400;" width="172">Case Number</td>
+<td style="font-weight: 400;" width="148">Date/Time Occurred</td>
+<td style="font-weight: 400;" width="148">Date/Time Reported</td>
+<td style="font-weight: 400;" width="204">General Location</td>
+<td style="font-weight: 400;" width="189">Disposition&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU00626</td>
+<td style="font-weight: 400;" width="148">5/3/26 4:58 PM</td>
+<td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
+<td style="font-weight: 400;" width="204">Meredith South</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU00627</td>
+<td style="font-weight: 400;" width="148">5/3/26 4:58 PM</td>
+<td style="font-weight: 400;" width="148">5/6/26 11:09 AM</td>
+<td style="font-weight: 400;" width="204">Shreve Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU00628</td>
+<td style="font-weight: 400;" width="148">5/3/26 3:57 PM</td>
+<td style="font-weight: 400;" width="148">5/6/26 11:11 AM</td>
+<td style="font-weight: 400;" width="204">Shreve Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU00629</td>
+<td style="font-weight: 400;" width="148">5/3/26 12:00 PM</td>
+<td style="font-weight: 400;" width="148">5/6/26 11:13 AM</td>
+<td style="font-weight: 400;" width="204">Pao Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU00630</td>
+<td style="font-weight: 400;" width="148">5/3/26 12:00 PM</td>
+<td style="font-weight: 400;" width="148">5/6/26 11:14 AM</td>
+<td style="font-weight: 400;" width="204">Lilly Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">CSA</td>
+<td style="font-weight: 400;" width="148">4/6/26 10:02 PM</td>
+<td style="font-weight: 400;" width="148">4/6/26 10:35 PM</td>
+<td style="font-weight: 400;" width="204">Harrison Hall</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -968,7 +1027,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="148">5/1/26 5:40 PM</td>
 <td style="font-weight: 400;" width="148">5/1/26 6:32 PM</td>
 <td style="font-weight: 400;" width="204">Tarkington Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft-EMPV</td>
@@ -976,7 +1035,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="148">1/7/26 8:00 PM</td>
 <td style="font-weight: 400;" width="148">5/1/26 7:23 PM</td>
 <td style="font-weight: 400;" width="204">Meredith Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft-EMPV</td>
@@ -984,7 +1043,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="148">4/22/26 12:00 PM</td>
 <td style="font-weight: 400;" width="148">5/1/26 9:17 PM</td>
 <td style="font-weight: 400;" width="204">Hawkins Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
@@ -1016,7 +1075,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="148">5/2/26 5:14 PM</td>
 <td style="font-weight: 400;" width="148">5/2/26 6:54 PM</td>
 <td style="font-weight: 400;" width="204">Wilmeth Active Learning Center</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft-EMPV</td>
@@ -1040,7 +1099,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="148">5/3/26 12:41 AM</td>
 <td style="font-weight: 400;" width="148">5/3/26 2:34 AM</td>
 <td style="font-weight: 400;" width="204">100 Block of Foundry Drive West Lafayette</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft-EMPV</td>
@@ -1056,7 +1115,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="148">10/15/25 8:00 PM</td>
 <td style="font-weight: 400;" width="148">5/3/26 5:28 PM</td>
 <td style="font-weight: 400;" width="204">Class of 1950</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>
@@ -1666,7 +1725,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>May 6, 2026</span></em></p>
+        <p><em>Last modified: <span>May 7, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
