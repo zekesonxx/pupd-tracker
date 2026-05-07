@@ -736,7 +736,7 @@
 </li>
 <li>Information about how the University protects the confidentiality of victims and other necessary parties, including how the University:
 <ol>
-<li>Completes publicly available recordkeeping, for purposes of Clery Act reporting and disclosure, without the inclusion of identifying information about the victim; and&#160;</li>
+<li>Completes publicly available recordkeeping, for purposes of the Jeanne Clery Campus Safety Act (Clery Act) reporting and disclosure, without the inclusion of identifying information about the victim; and&#160;</li>
 <li>Maintains as confidential any accommodations or protective measures provided to the victim, to the extent that maintaining such confidentiality would not impair the ability of the University to provide such accommodations or protective measures.&#160;</li>
 </ol>
 </li>
@@ -907,7 +907,7 @@
 <li>Reported to University Police, a Campus Security Authority or relevant local police agencies; and</li>
 <li>Considered by the Campus&#8217;s Chief of Police, or designee, to be a threat to students and employees.</li>
 </ol>
-<p>The decision whether to issue a Timely Warning to the Campus community must be based upon the facts surrounding the crime including, but not limited to, the nature of the crime, the continuing danger to the Campus community, the possible risk of compromising law enforcement efforts and the Clery Act reportable geography. Timely Warnings are issued through a variety of methods determined on a case-by-case basis, which include:&#160;&#160;&#160;&#160;</p>
+<p>The decision whether to issue a Timely Warning to the Campus community must be based upon the facts surrounding the crime including, but not limited to, the nature of the crime, the continuing danger to the Campus community, the possible risk of compromising law enforcement efforts and the&#160;Jeanne Clery Campus Safety Act (Clery Act) reportable geography. Timely Warnings are issued through a variety of methods determined on a case-by-case basis, which include:&#160;&#160;&#160;&#160;</p>
 <ol>
 <li>All hazards outdoor sirens,</li>
 <li>Fire alarms,</li>
@@ -925,7 +925,7 @@
 </ol>
 <p>If there is an immediate threat to the health or safety of students or employees occurring on Campus, the University follows its Emergency Notification procedures. If Emergency Notification procedures are executed, a Timely Warning is not required based on the same circumstances; however, adequate follow-up information is provided to the Campus community as needed.</p>
 <p><strong><a id="III"></a>III. Daily Crime Log&#160; <br/></strong></p>
-<p>University Police create, maintain and preserve a daily log, written in a form that can be easily understood, that records any crime or alleged crime that occurred within the Clery Act reportable geography or the University Police Department&#8217;s patrol jurisdiction. The log includes the following information:</p>
+<p>University Police create, maintain and preserve a daily log, written in a form that can be easily understood, that records any crime or alleged crime that occurred within the Jeanne Clery Campus Safety Act (Clery Act) reportable geography or the police department&#8217;s patrol jurisdiction. The log includes the following information:</p>
 <ol>
 <li>The nature (classification/title) of the crime,</li>
 <li>The case report number,</li>
@@ -961,7 +961,7 @@
 <h3><strong><a id="VI"></a>VI. Annual Report to the Department of Education</strong></h3>
 <p>The Chiefs of Police, or their designees, submit the Annual Security Report and, as applicable, Annual Fire Safety Report for the crime statistics listed under item 14 of the Contents of Annual Reports section and the fire statistics listed under item 17 of the same section for their respective Campuses to the U.S. Secretary of Education.</p>
 <h3><strong><a id="VII"></a>VII. Questions</strong></h3>
-<p>Questions regarding these procedures may be directed to the Senior Clery Compliance Administrator.</p>
+<p>Questions regarding these procedures may be directed to the compliance administrator.</p>
 <h3><strong><a id="VIII"></a>VIII. History and Updates</strong></h3>
 <p>May 1, 2025: Procedure updated to include Stop Campus Hazing Act and the Indianapolis Campus.</p>
 <p>September 1, 2024: Procedures updated throughout to align with changes in regulations.</p>
@@ -1550,7 +1550,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>April 30, 2025</span></em></p>
+        <p><em>Last modified: <span>May 7, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
