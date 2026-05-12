@@ -493,8 +493,29 @@
         
                                                                                  
                                                         
-                            <li role="none"><a href="../../timely-warnings/index.php" role="menuitem">Timely Warnings</a></li>
-                                                                
+                                            <li class="dropdown" role="none">
+                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-button" href="../../timely-warnings/index.php" role="menuitem">Timely Warnings<span><i class="fas fa-chevron-down"></i></span></a>
+                    <ul class="header__mainNav--dropdownOuter" role="menu">
+                                                                                                
+        
+                                                            
+        
+        <li role="none"><a href="../../timely-warnings/index.php" role="menuitem">Timely Warnings</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../../timely-warnings/wl-timely-warnings.php" role="menuitem">West Lafayette Campus</a></li>
+                                                    
+        
+                                                            
+        
+        <li role="none"><a href="../../timely-warnings/indianapolis-timely-warnings.php" role="menuitem">Purdue University in Indianapolis Campus</a></li>
+                                            </ul>
+                                            </li>
+            
+            
+                                                                        
         
                                                                                  
                                                         
@@ -669,7 +690,7 @@
 <td style="font-weight: 400;" width="148">5/6/26 4:20 PM</td>
 <td style="font-weight: 400;" width="148">5/7/26 10:20 AM</td>
 <td style="font-weight: 400;" width="204">Ford Dining Court</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -677,7 +698,7 @@
 <td style="font-weight: 400;" width="148">5/6/26 2:20 PM</td>
 <td style="font-weight: 400;" width="148">5/7/26 10:23 AM</td>
 <td style="font-weight: 400;" width="204">Hilltop Apts</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -685,7 +706,7 @@
 <td style="font-weight: 400;" width="148">5/6/26 4:20 PM</td>
 <td style="font-weight: 400;" width="148">5/7/26 10:25 AM</td>
 <td style="font-weight: 400;" width="204">Cary Quadrangle</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -693,7 +714,7 @@
 <td style="font-weight: 400;" width="148">5/6/26 4:20 PM</td>
 <td style="font-weight: 400;" width="148">5/7/26 10:28 AM</td>
 <td style="font-weight: 400;" width="204">Grant St Garage</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -701,7 +722,7 @@
 <td style="font-weight: 400;" width="148">5/3/26 4:40 PM</td>
 <td style="font-weight: 400;" width="148">5/7/26 10:29 AM</td>
 <td style="font-weight: 400;" width="204">1300 Blk 3rd St</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Bomb Threat</td>
@@ -717,7 +738,7 @@
 <td style="font-weight: 400;" width="148">5/4/26 4:30 PM</td>
 <td style="font-weight: 400;" width="148">5/7/26 10:50 AM</td>
 <td style="font-weight: 400;" width="204">Nelson Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Possession of Stolen Property</td>
@@ -741,7 +762,7 @@
 <td style="font-weight: 400;" width="148">3/24/26 5:00 PM</td>
 <td style="font-weight: 400;" width="148">5/7/26 5:15 PM</td>
 <td style="font-weight: 400;" width="204">Meredith Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
@@ -783,7 +804,9 @@
 <td style="font-weight: 400;" width="148">5/3/26 4:58 PM</td>
 <td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
 <td style="font-weight: 400;" width="204">Meredith South</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">
+<p>Pending Prosecutor Review</p>
+</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -791,7 +814,7 @@
 <td style="font-weight: 400;" width="148">5/3/26 4:58 PM</td>
 <td style="font-weight: 400;" width="148">5/6/26 11:09 AM</td>
 <td style="font-weight: 400;" width="204">Shreve Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -799,7 +822,7 @@
 <td style="font-weight: 400;" width="148">5/3/26 3:57 PM</td>
 <td style="font-weight: 400;" width="148">5/6/26 11:11 AM</td>
 <td style="font-weight: 400;" width="204">Shreve Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -807,7 +830,7 @@
 <td style="font-weight: 400;" width="148">5/3/26 12:00 PM</td>
 <td style="font-weight: 400;" width="148">5/6/26 11:13 AM</td>
 <td style="font-weight: 400;" width="204">Pao Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -815,7 +838,7 @@
 <td style="font-weight: 400;" width="148">5/3/26 12:00 PM</td>
 <td style="font-weight: 400;" width="148">5/6/26 11:14 AM</td>
 <td style="font-weight: 400;" width="204">Lilly Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -857,7 +880,7 @@
 <td style="font-weight: 400;" width="148">3/30/26 9:31 AM</td>
 <td style="font-weight: 400;" width="148">5/5/26 9:44 AM</td>
 <td style="font-weight: 400;" width="204">Pao Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>
@@ -1157,7 +1180,7 @@
 <td style="font-weight: 400;" width="148">5/2/26 6:00 AM</td>
 <td style="font-weight: 400;" width="148">5/2/26 6:16 PM</td>
 <td style="font-weight: 400;" width="204">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Pending Prosecutor Review</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Indecent Exposure</td>
@@ -1815,7 +1838,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>May 11, 2026</span></em></p>
+        <p><em>Last modified: <span>May 12, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
