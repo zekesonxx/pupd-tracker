@@ -700,7 +700,26 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, May 20, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU00692</td>
+<td style="font-weight: 400;" width="148">5/5/26 11:00 AM</td>
+<td style="font-weight: 400;" width="148">5/19/26 12:45 PM</td>
+<td style="font-weight: 400;" width="204">Elliott Hall of Music</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -731,7 +750,7 @@ Will be posted soon.
 <td width="148">5/10/26 3:30 AM</td>
 <td width="148">5/18/26 1:04 PM</td>
 <td width="204">Earhart Hall</td>
-<td width="189">Under Investigation</td>
+<td width="189">Suspended</td>
 </tr>
 <tr>
 <td width="171">Operating While Intoxicated</td>
@@ -773,7 +792,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="148">5/15/26 3:00 PM</td>
 <td style="font-weight: 400;" width="148">5/15/26 5:18 PM</td>
 <td style="font-weight: 400;" width="204">Alpha Chi Ro</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Drug Law Violation</td>
@@ -797,7 +816,7 @@ Will be posted soon.
 <td style="font-weight: 400;" width="148">5/15/26 10:00 AM</td>
 <td style="font-weight: 400;" width="148">5/17/26 2:53 PM</td>
 <td style="font-weight: 400;" width="204">First St Towers</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Driving While Suspended/ Drug Law Violation</td>
@@ -1391,7 +1410,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>May 19, 2026</span></em></p>
+        <p><em>Last modified: <span>May 20, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
