@@ -705,7 +705,64 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, June 10, 2026</h3>
-Will be posted soon.
+<style><!--
+table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+td
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl18
+	{text-align:left;
+	vertical-align:middle;
+	white-space:normal;}
+.xl20
+	{text-align:left;
+	vertical-align:middle;
+	background:#AEAAAA;
+	mso-pattern:black none;
+	white-space:normal;}
+--></style>
+<div ccp_infra_copy_id="ee65d98d-d688-4967-a914-c5b10928b8e7" ccp_infra_timestamp="1781113794588" ccp_infra_user_hash="2268918294" ccp_infra_version="3" data-ccp-timestamp="1781113794588">
+<table cellpadding="5" cellspacing="3" width="100%"><colgroup><col width="171"/><col width="172"/><col span="2" width="148"/><col width="204"/><col width="189"/></colgroup>
+<tbody>
+<tr height="20">
+<th class="xl20" height="20" scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th class="xl20" scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th class="xl20" scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th class="xl20" scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th class="xl20" scope="col" style="text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th class="xl20" scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr height="41">
+<td class="xl18" height="41" width="171">Possession of Child Pornography</td>
+<td class="xl18" width="172">2026PU00731</td>
+<td class="xl18" width="148">6/8/26 10:00 AM</td>
+<td class="xl18" width="148">6/9/26 10:30 AM</td>
+<td class="xl18" width="204">200 Blk S Martin Jischke Dr</td>
+<td class="xl18" width="189">Under Investigation</td>
+</tr>
+</tbody>
+</table>
+</div>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1348,7 +1405,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>June 9, 2026</span></em></p>
+        <p><em>Last modified: <span>June 10, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
