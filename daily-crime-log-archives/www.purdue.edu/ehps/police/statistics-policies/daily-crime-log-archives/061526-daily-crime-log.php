@@ -10,7 +10,7 @@
 
 
 
-<meta content="Review the West Lafayette campus daily crime log archive maintained by the Purdue University Police Department." name="description"/>
+<meta content="Review the West Lafayette campus daily crime log maintained by the Purdue University Police Department." name="description"/>
 <meta content="Purdue University Police Department; Daily Crime Log; Clery Act" name="keywords"/>
 <meta content="Purdue University Administrative Operations Communications" name="author"/>
 
@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			West Lafayette Campus Daily Crime Log Archive - 
+			061526 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -41,7 +41,7 @@
                                          
 		
 		    <style type="text/css">
-	    /* Any CSS placed in this text area will be placed inside of a style tag located in the head section of the page. */
+	    tr:nth-child(even){background-color:#f2f2f2}
 	</style>
 
 		
@@ -596,7 +596,7 @@
                                 
         
                 
-                     <li>West Lafayette Campus Daily Crime Log Archive</li>
+                     <li>West Lafayette Daily Crime Log</li>
         
     </ul>
 </nav> 
@@ -614,6 +614,21 @@
 					<aside class="content__aside">
 						
 						
+<nav class="content__side-nav">
+        
+           
+                
+        
+                
+    <ul aria-label="Side Navigation" role="menu">
+                                     <li role="none">Daily Crime Log</li>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="052526-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
+                            </ul>
+</nav>
 
 
 
@@ -637,24 +652,241 @@
 
 						
 						
-      <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h2>Archived Daily Crime Log - West Lafayette</h2>
-<ul>
-<li><a href="061526-daily-crime-log.php" title="061526 Daily Crime Log">Week of June 15, 2026</a></li>
-<li><a href="060826-daily-crime-log.php" title="060826 Daily Crime Log">Week of June 8, 2026</a></li>
-<li><a href="060126-daily-crime-log.php" title="060126 Daily Crime Log">Week of June 1, 2026</a></li>
-<li><a href="052526-daily-crime-log.php" title="052526 Daily Crime Log">Week of May 25, 2026</a></li>
-<li><a href="051826-daily-crime-log.php" title="051826 Daily Crime Log">Week of May 18, 2026</a></li>
-<li><a href="051126-daily-crime-log.php" title="051126 Daily Crime Log">Week of May 11, 2026</a></li>
-<li><a href="050426-daily-crime-log.php" title="050426 Daily Crime Log">Week of May 4, 2026</a></li>
-<li><a href="042726-daily-crime-log.php" title="042726 Daily Crime Log">Week of April 27, 2026</a></li>
-<li><a href="042026-daily-crime-log.php" title="042026 Daily Crime Log">Week of April 20, 2026</a></li>
-<li><a href="041326-daily-crime-log.php" title="041326 Daily Crime Log">Week of April 13, 2026</a></li>
-<li><a href="040626-daily-crime-log.php" title="040626 Daily Crime Log">Week of April 6, 2026</a></li>
-<li><a href="033026-daily-crime-log.php" title="033026 Daily Crime Log">Week of March 30, 2026</a></li>
-</ul>
+  					<p>In accordance with the Jeanne Clery Campus Safety Act (Clery Act), the Purdue University Police Department (PUPD) maintains a Daily Crime Log.</p>
+<p>The Daily Crime Log documents all crimes reported to PUPD, the date and time the crimes occurred, the date and time the crimes were reported, the general location of the crimes and an initial disposition.</p>
+<p>PUPD makes the Daily Crime Log available for public inspection during normal business hours. Daily Crime Log information older than 60 days is available within two business days of a request for public inspection. The most recent log entries are posted below.</p>
+<p>Understanding how the information in the Daily Crime Log is collected and compiled is important to developing an accurate picture of campus crime.</p>
+<p>Not all of these crimes have been reported to PUPD for the purpose of police services. Rather, many of these crimes have been reported to university employees who have identified by the Vice President for Ethics and Compliance (VPEC) as Campus Security Authorities (CSAs). CSAs are obligated by the Jeanne Clery Campus Safety Act (Clery Act) to report certain crimes to the university police department so the campus community may be notified of potential ongoing public safety issues and accurate statistics maintained. Many of these crime victims do not want immediate police intervention and may elect not to pursue a criminal investigation.</p>
+<h2>Daily Crime Log</h2>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Friday, June 19, 2026</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving Never Receiving License</td>
+<td style="font-weight: 400;" width="172">2026PU00742</td>
+<td style="font-weight: 400;" width="148">6/18/26 12:28 PM</td>
+<td style="font-weight: 400;" width="148">6/18/26 1:04 PM</td>
+<td style="font-weight: 400;" width="204">W Stadium Ave/ David Ross Rd</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="172">2026PU00746</td>
+<td style="font-weight: 400;" width="148">6/18/26 7:30 PM</td>
+<td style="font-weight: 400;" width="148">6/18/26 10:33 PM</td>
+<td style="font-weight: 400;" width="204">Discovery Learning Research Building</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating Without Ever Receiving a License</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-094025</td>
+<td style="font-weight: 400;" width="148">6/17/26 10:51 PM</td>
+<td style="font-weight: 400;" width="148">6/17/26 10:51 PM</td>
+<td style="font-weight: 400;" width="204">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="189">Documented in 2026WL01470</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Thursday, June 18, 2026</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">2026PU00741</td>
+<td style="font-weight: 400;" width="148">6/17/26 7:00 AM</td>
+<td style="font-weight: 400;" width="148">6/17/26 7:43 AM</td>
+<td style="font-weight: 400;" width="204">Honors College North</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Wednesday, June 17, 2026</h3>
+<style><!--
+table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+td
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl18
+	{text-align:left;
+	vertical-align:middle;
+	white-space:normal;}
+.xl20
+	{text-align:left;
+	vertical-align:middle;
+	background:#AEAAAA;
+	mso-pattern:black none;
+	white-space:normal;}
+--></style>
+<div ccp_infra_copy_id="ee65d98d-d688-4967-a914-c5b10928b8e7" ccp_infra_timestamp="1781113794588" ccp_infra_user_hash="2268918294" ccp_infra_version="3" data-ccp-timestamp="1781113794588">Nothing to report.</div>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Tuesday, June 16, 2026</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">2026PU00740</td>
+<td style="font-weight: 400;" width="148">6/15/26 10:03 PM</td>
+<td style="font-weight: 400;" width="148">6/15/26 10:28 PM</td>
+<td style="font-weight: 400;" width="204">Ahlers Dr/ US HWY 231</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-091376</td>
+<td style="font-weight: 400;" width="148">6/12/26 9:39 PM</td>
+<td style="font-weight: 400;" width="148">6/12/26 9:39 PM</td>
+<td style="font-weight: 400;" width="204">US HWY 231 S/ Airport Rd</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-092616</td>
+<td style="font-weight: 400;" width="148">6/15/26 11:52 AM</td>
+<td style="font-weight: 400;" width="148">6/15/26 11:52 AM</td>
+<td style="font-weight: 400;" width="204">N River Rd/ E State St</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Dating Violence</td>
+<td style="font-weight: 400;" width="172">CSA</td>
+<td style="font-weight: 400;" width="148">2024-2025 Academic Year</td>
+<td style="font-weight: 400;" width="148">6/15/26 4:50 PM</td>
+<td style="font-weight: 400;" width="204">Unknown On Campus Housing</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Monday, June 15, 2026</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">2026PU00735</td>
+<td style="font-weight: 400;" width="148">6/12/26 1:16 PM</td>
+<td style="font-weight: 400;" width="148">6/12/26 1:31 PM</td>
+<td style="font-weight: 400;" width="204">400 Blk S University St</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU00736</td>
+<td style="font-weight: 400;" width="148">5/7/26 9:00 AM</td>
+<td style="font-weight: 400;" width="148">6/12/26 2:23 PM</td>
+<td style="font-weight: 400;" width="204">Delta Upsilon</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving While Suspended</td>
+<td style="font-weight: 400;" width="172">2026PU00737</td>
+<td style="font-weight: 400;" width="148">6/12/26 8:08 PM</td>
+<td style="font-weight: 400;" width="148">6/12/26 8:49 PM</td>
+<td style="font-weight: 400;" width="204">US 231/ S River Rd</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-090662</td>
+<td style="font-weight: 400;" width="148">6/11/26 8:47 PM</td>
+<td style="font-weight: 400;" width="148">6/11/26 8:47 PM</td>
+<td style="font-weight: 400;" width="204">US HWY 231 S/Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-090664</td>
+<td style="font-weight: 400;" width="148">6/11/26 8:48 PM</td>
+<td style="font-weight: 400;" width="148">6/11/26 8:48 PM</td>
+<td style="font-weight: 400;" width="204">Cherry Ln/US HWY 231 N</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<br/>
+<p>*EMPV=Electronic Motorized Personal Vehicle (Elec. Scooter/Elec. Skateboard/Segway/Etc.)</p>
+<p>An&#160;<a href="index.php">archived daily crime log</a>&#160;is available.</p>
 		</section>
 	
     
