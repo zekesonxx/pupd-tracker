@@ -698,7 +698,7 @@
   
     	<section class="content__group">
   					<h3>Thursday, June 25, 2026</h3>
-Will be posted soon.
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
@@ -741,14 +741,14 @@ td
 	mso-pattern:black none;
 	white-space:normal;}
 --></style>
-<div ccp_infra_copy_id="ee65d98d-d688-4967-a914-c5b10928b8e7" ccp_infra_timestamp="1781113794588" ccp_infra_user_hash="2268918294" ccp_infra_version="3" data-ccp-timestamp="1781113794588">Will be posted soon.</div>
+<p ccp_infra_copy_id="ee65d98d-d688-4967-a914-c5b10928b8e7" ccp_infra_timestamp="1781113794588" ccp_infra_user_hash="2268918294" ccp_infra_version="3" data-ccp-timestamp="1781113794588">Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
   					<h3>Tuesday, June 23, 2026</h3>
-Will be posted soon.
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
@@ -758,36 +758,72 @@ Will be posted soon.
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171"><strong>Nature</strong></th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172"><strong>Case Number</strong></th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148"><strong>Date/Time Occurred</strong></th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148"><strong>Date/Time Reported</strong></th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204"><strong>General Location</strong></th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189"><strong>Disposition&#160;</strong></th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="172">2026PU00747</td>
-<td style="font-weight: 400;" width="148">6/19/26 8:00 AM</td>
-<td style="font-weight: 400;" width="148">6/19/26</td>
-<td style="font-weight: 400;" width="204">Physical Facilities Service</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="171">
+<p>Hit &amp; Run</p>
+</td>
+<td style="font-weight: 400;" width="172">
+<p>2026PU00747</p>
+</td>
+<td style="font-weight: 400;" width="148">
+<p>6/19/26 8:00 AM</p>
+</td>
+<td style="font-weight: 400;" width="148">
+<p>6/19/26</p>
+</td>
+<td style="font-weight: 400;" width="204">
+<p>Physical Facilities Service</p>
+</td>
+<td style="font-weight: 400;" width="189">
+<p>Under Investigation</p>
+</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Driving While Suspended</td>
-<td style="font-weight: 400;" width="172">2026PU00749</td>
-<td style="font-weight: 400;" width="148">6/20/26 4:21 PM</td>
-<td style="font-weight: 400;" width="148">6/20/26 4:55 PM</td>
-<td style="font-weight: 400;" width="204">N Russell St/N Mitch Daniels Blvd</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
+<td style="font-weight: 400;" width="171">
+<p>Driving While Suspended</p>
+</td>
+<td style="font-weight: 400;" width="172">
+<p>2026PU00749</p>
+</td>
+<td style="font-weight: 400;" width="148">
+<p>6/20/26 4:21 PM</p>
+</td>
+<td style="font-weight: 400;" width="148">
+<p>6/20/26 4:55 PM</p>
+</td>
+<td style="font-weight: 400;" width="204">
+<p>N Russell St/N Mitch Daniels Blvd</p>
+</td>
+<td style="font-weight: 400;" width="189">
+<p>Arrest Made</p>
+</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft-Bike</td>
-<td style="font-weight: 400;" width="172">2026PU00751</td>
-<td style="font-weight: 400;" width="148">5/1/26 11:00 PM</td>
-<td style="font-weight: 400;" width="148">6/21/26 3:47 PM</td>
-<td style="font-weight: 400;" width="204">Crosswalk Common Apts</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="171">
+<p>Theft-Bike</p>
+</td>
+<td style="font-weight: 400;" width="172">
+<p>2026PU00751</p>
+</td>
+<td style="font-weight: 400;" width="148">
+<p>5/1/26 11:00 PM</p>
+</td>
+<td style="font-weight: 400;" width="148">
+<p>6/21/26 3:47 PM</p>
+</td>
+<td style="font-weight: 400;" width="204">
+<p>Crosswalk Common Apts</p>
+</td>
+<td style="font-weight: 400;" width="189">
+<p>Under Investigation</p>
+</td>
 </tr>
 </tbody>
 </table>
