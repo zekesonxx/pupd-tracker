@@ -748,80 +748,111 @@ td
   
     	<section class="content__group">
   					<h3>Tuesday, June 23, 2026</h3>
-<p>Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Road Rage</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-096002</td>
+<td style="font-weight: 400;" width="148">6/21/26 2:22 PM</td>
+<td style="font-weight: 400;" width="148">6/21/26 2:22 PM</td>
+<td style="font-weight: 400;" width="204">W Stadium Ave/ N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
   					<h3>Monday, June 22, 2026</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
+<table cellpadding="5" cellspacing="3" width="25%">
 <tbody>
 <tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171"><strong>Nature</strong></th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172"><strong>Case Number</strong></th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148"><strong>Date/Time Occurred</strong></th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148"><strong>Date/Time Reported</strong></th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204"><strong>General Location</strong></th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189"><strong>Disposition&#160;</strong></th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">
+<p>Nature</p>
+</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">
+<p>Case Number</p>
+</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">
+<p>Date/Time Occurred</p>
+</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">
+<p>Date/Time Reported</p>
+</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="204">
+<p>General Location</p>
+</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">
+<p>Disposition&#160;</p>
+</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">
+<td width="171">
 <p>Hit &amp; Run</p>
 </td>
-<td style="font-weight: 400;" width="172">
+<td width="172">
 <p>2026PU00747</p>
 </td>
-<td style="font-weight: 400;" width="148">
+<td width="148">
 <p>6/19/26 8:00 AM</p>
 </td>
-<td style="font-weight: 400;" width="148">
+<td width="148">
 <p>6/19/26</p>
 </td>
-<td style="font-weight: 400;" width="204">
+<td width="204">
 <p>Physical Facilities Service</p>
 </td>
-<td style="font-weight: 400;" width="189">
+<td width="189">
 <p>Under Investigation</p>
 </td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">
+<td width="171">
 <p>Driving While Suspended</p>
 </td>
-<td style="font-weight: 400;" width="172">
+<td width="172">
 <p>2026PU00749</p>
 </td>
-<td style="font-weight: 400;" width="148">
+<td width="148">
 <p>6/20/26 4:21 PM</p>
 </td>
-<td style="font-weight: 400;" width="148">
+<td width="148">
 <p>6/20/26 4:55 PM</p>
 </td>
-<td style="font-weight: 400;" width="204">
+<td width="204">
 <p>N Russell St/N Mitch Daniels Blvd</p>
 </td>
-<td style="font-weight: 400;" width="189">
+<td width="189">
 <p>Arrest Made</p>
 </td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">
+<td width="171">
 <p>Theft-Bike</p>
 </td>
-<td style="font-weight: 400;" width="172">
+<td width="172">
 <p>2026PU00751</p>
 </td>
-<td style="font-weight: 400;" width="148">
+<td width="148">
 <p>5/1/26 11:00 PM</p>
 </td>
-<td style="font-weight: 400;" width="148">
+<td width="148">
 <p>6/21/26 3:47 PM</p>
 </td>
-<td style="font-weight: 400;" width="204">
+<td width="204">
 <p>Crosswalk Common Apts</p>
 </td>
-<td style="font-weight: 400;" width="189">
+<td width="189">
 <p>Under Investigation</p>
 </td>
 </tr>
@@ -1409,7 +1440,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>June 22, 2026</span></em></p>
+        <p><em>Last modified: <span>June 23, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
