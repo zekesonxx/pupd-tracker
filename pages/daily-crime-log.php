@@ -741,7 +741,50 @@ td
 	mso-pattern:black none;
 	white-space:normal;}
 --></style>
-<p ccp_infra_copy_id="ee65d98d-d688-4967-a914-c5b10928b8e7" ccp_infra_timestamp="1781113794588" ccp_infra_user_hash="2268918294" ccp_infra_version="3" data-ccp-timestamp="1781113794588">Will be posted soon.</p>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Possession</td>
+<td style="font-weight: 400;" width="172">2026PU00752</td>
+<td style="font-weight: 400;" width="148">6/23/26 8:55 AM</td>
+<td style="font-weight: 400;" width="148">6/23/26 9:33 AM</td>
+<td style="font-weight: 400;" width="204">1st St Towers</td>
+<td style="font-weight: 400;" width="189">Referred for<br/>Internal Disciplinary<br/>Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">2026PU00754</td>
+<td style="font-weight: 400;" width="148">6/22/26 10:00 AM</td>
+<td style="font-weight: 400;" width="148">6/23/26 12:33 PM</td>
+<td style="font-weight: 400;" width="204">200 Blk Nimits Dr</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00755</td>
+<td style="font-weight: 400;" width="148">6/23/26 7:35 PM</td>
+<td style="font-weight: 400;" width="148">6/23/26 7:56 PM</td>
+<td style="font-weight: 400;" width="204">CoRec</td>
+<td style="font-weight: 400;" width="189">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated/<br/>Drug Law Violation/<br/>Reckless Driving</td>
+<td style="font-weight: 400;" width="172">2026PU00756</td>
+<td style="font-weight: 400;" width="148">6/24/26 12:58 AM</td>
+<td style="font-weight: 400;" width="148">6/24/26 1:25 AM</td>
+<td style="font-weight: 400;" width="204">Purdue Airport</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -853,7 +896,7 @@ td
 <p>Crosswalk Common Apts</p>
 </td>
 <td width="189">
-<p>Under Investigation</p>
+<p>Arrest Made</p>
 </td>
 </tr>
 </tbody>
@@ -1440,7 +1483,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>June 23, 2026</span></em></p>
+        <p><em>Last modified: <span>June 24, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
