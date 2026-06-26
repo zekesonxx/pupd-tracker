@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			051826 Daily Crime Log - 
+			062226 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -665,127 +665,14 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, May 22, 2026</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Reckless Driver</td>
-<td style="font-weight: 400;" width="172">CAD# 2026-079444</td>
-<td style="font-weight: 400;" width="148">5/21/26 3:20 PM</td>
-<td style="font-weight: 400;" width="148">5/21/26 3:20 PM</td>
-<td style="font-weight: 400;" width="204">W State St/N Chauncey Ave</td>
-<td style="font-weight: 400;" width="189">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Friday, June 26, 2026</h3>
+<p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, May 21, 2026</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Driving Never Receiving License</td>
-<td style="font-weight: 400;" width="172">2026PU00696</td>
-<td style="font-weight: 400;" width="148">5/20/26 11:23 PM</td>
-<td style="font-weight: 400;" width="148">5/20/26 11:44 PM</td>
-<td style="font-weight: 400;" width="204">US 231/ Airport Rd</td>
-<td style="font-weight: 400;" width="189">Closed</td>
-</tr>
-</tbody>
-</table>
-		</section>
-	
-          <div class="clearfix"></div>
-  
-    	<section class="content__group">
-  					<h3>Wednesday, May 20, 2026</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="171">Criminal Mischief</td>
-<td style="font-weight: 400;" width="172">2026PU00692</td>
-<td style="font-weight: 400;" width="148">5/5/26 11:00 AM</td>
-<td style="font-weight: 400;" width="148">5/19/26 12:45 PM</td>
-<td style="font-weight: 400;" width="204">Elliott Hall of Music</td>
-<td style="font-weight: 400;" width="189">Suspended</td>
-</tr>
-</tbody>
-</table>
-		</section>
-	
-          <div class="clearfix"></div>
-  
-    	<section class="content__group">
-  					<h3>Tuesday, May 19, 2026</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="204">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
-</tr>
-<tr>
-<td width="171">Hit &amp; Run</td>
-<td width="172">2026PU00690</td>
-<td width="148">5/16/26 3:43 AM</td>
-<td width="148">5/18/26 9:10 AM</td>
-<td width="204">Grant St Parking Garage</td>
-<td width="189">Under Investigation</td>
-</tr>
-<tr>
-<td width="171">Theft-Bike</td>
-<td width="172">2026PU00691</td>
-<td width="148">5/10/26 3:30 AM</td>
-<td width="148">5/18/26 1:04 PM</td>
-<td width="204">Earhart Hall</td>
-<td width="189">Suspended</td>
-</tr>
-<tr>
-<td width="171">Operating While Intoxicated/ Drug Law Violation</td>
-<td width="172">CAD# 2026-076333</td>
-<td width="148">5/16/26 12:24 AM</td>
-<td width="148">5/16/26 12:24 AM</td>
-<td width="204">US HWY 231 S/S River Rd</td>
-<td width="189">Documented in 2026WL01202</td>
-</tr>
-</tbody>
-</table>
-		</section>
-	
-          <div class="clearfix"></div>
-  
-    	<section class="content__group">
-  					<h3>Monday, May 18, 2026</h3>
+  					<h3>Thursday, June 25, 2026</h3>
 <table cellpadding="5" cellspacing="3" width="100%">
 <tbody>
 <tr>
@@ -798,51 +685,229 @@
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Hit &amp; Run</td>
-<td style="font-weight: 400;" width="172">2026PU00680</td>
-<td style="font-weight: 400;" width="148">5/15/26 9:00 AM</td>
-<td style="font-weight: 400;" width="148">5/15/26 3:46 PM</td>
-<td style="font-weight: 400;" width="204">400 Blk Steely St</td>
+<td style="font-weight: 400;" width="172">2026PU00759</td>
+<td style="font-weight: 400;" width="148">6/24/26 9:02 AM</td>
+<td style="font-weight: 400;" width="148">6/24/26 6:16 PM</td>
+<td style="font-weight: 400;" width="204">Farmhouse Fraternity</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU00760</td>
+<td style="font-weight: 400;" width="148">4/1/26 12:00 AM</td>
+<td style="font-weight: 400;" width="148">6/24/26 8:08 PM</td>
+<td style="font-weight: 400;" width="204">McCutcheon Parking Garage</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">2026PU00761</td>
+<td style="font-weight: 400;" width="148">6/24/26 9:42 PM</td>
+<td style="font-weight: 400;" width="148">6/24/26 10:32 PM</td>
+<td style="font-weight: 400;" width="204">Meredith South</td>
+<td style="font-weight: 400;" width="189">Unfounded</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Wednesday, June 24, 2026</h3>
+<style><!--
+table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+td
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl18
+	{text-align:left;
+	vertical-align:middle;
+	white-space:normal;}
+.xl20
+	{text-align:left;
+	vertical-align:middle;
+	background:#AEAAAA;
+	mso-pattern:black none;
+	white-space:normal;}
+--></style>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Possession</td>
+<td style="font-weight: 400;" width="172">2026PU00752</td>
+<td style="font-weight: 400;" width="148">6/23/26 8:55 AM</td>
+<td style="font-weight: 400;" width="148">6/23/26 9:33 AM</td>
+<td style="font-weight: 400;" width="204">1st St Towers</td>
+<td style="font-weight: 400;" width="189">Referred for<br/>Internal Disciplinary<br/>Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">2026PU00754</td>
+<td style="font-weight: 400;" width="148">6/22/26 10:00 AM</td>
+<td style="font-weight: 400;" width="148">6/23/26 12:33 PM</td>
+<td style="font-weight: 400;" width="204">200 Blk Nimits Dr</td>
 <td style="font-weight: 400;" width="189">Under Investigation</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>
-<td style="font-weight: 400;" width="172">2026PU00682</td>
-<td style="font-weight: 400;" width="148">5/15/26 3:00 PM</td>
-<td style="font-weight: 400;" width="148">5/15/26 5:18 PM</td>
-<td style="font-weight: 400;" width="204">Alpha Chi Ro</td>
-<td style="font-weight: 400;" width="189">Suspended</td>
+<td style="font-weight: 400;" width="172">2026PU00755</td>
+<td style="font-weight: 400;" width="148">6/23/26 7:35 PM</td>
+<td style="font-weight: 400;" width="148">6/23/26 7:56 PM</td>
+<td style="font-weight: 400;" width="204">CoRec</td>
+<td style="font-weight: 400;" width="189">Unfounded</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Drug Law Violation</td>
-<td style="font-weight: 400;" width="172">2026PU00684</td>
-<td style="font-weight: 400;" width="148">5/15/26 11:16 PM</td>
-<td style="font-weight: 400;" width="148">5/15/26 11:39 PM</td>
-<td style="font-weight: 400;" width="204">US 231/ Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated/<br/>Drug Law Violation/<br/>Reckless Driving</td>
+<td style="font-weight: 400;" width="172">2026PU00756</td>
+<td style="font-weight: 400;" width="148">6/24/26 12:58 AM</td>
+<td style="font-weight: 400;" width="148">6/24/26 1:25 AM</td>
+<td style="font-weight: 400;" width="204">Purdue Airport</td>
 <td style="font-weight: 400;" width="189">Arrest Made</td>
 </tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Tuesday, June 23, 2026</h3>
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
 <tr>
-<td style="font-weight: 400;" width="171">Fraud</td>
-<td style="font-weight: 400;" width="172">2026PU00686</td>
-<td style="font-weight: 400;" width="148">5/15/26 12:00 PM</td>
-<td style="font-weight: 400;" width="148">5/16/26 9:22 PM</td>
-<td style="font-weight: 400;" width="204">Kappa Kappa Gamma</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft-EMPV</td>
-<td style="font-weight: 400;" width="172">2026PU00688</td>
-<td style="font-weight: 400;" width="148">5/15/26 10:00 AM</td>
-<td style="font-weight: 400;" width="148">5/17/26 2:53 PM</td>
-<td style="font-weight: 400;" width="204">First St Towers</td>
-<td style="font-weight: 400;" width="189">Suspended</td>
+<td style="font-weight: 400;" width="171">Road Rage</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-096002</td>
+<td style="font-weight: 400;" width="148">6/21/26 2:22 PM</td>
+<td style="font-weight: 400;" width="148">6/21/26 2:22 PM</td>
+<td style="font-weight: 400;" width="204">W Stadium Ave/ N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+		</section>
+	
+          <div class="clearfix"></div>
+  
+    	<section class="content__group">
+  					<h3>Monday, June 22, 2026</h3>
+<table cellpadding="5" cellspacing="3" width="25%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">
+<p>Nature</p>
+</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">
+<p>Case Number</p>
+</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">
+<p>Date/Time Occurred</p>
+</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">
+<p>Date/Time Reported</p>
+</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="204">
+<p>General Location</p>
+</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">
+<p>Disposition&#160;</p>
+</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Driving While Suspended/ Drug Law Violation</td>
-<td style="font-weight: 400;" width="172">2026PU00689</td>
-<td style="font-weight: 400;" width="148">5/17/26 11:22 PM</td>
-<td style="font-weight: 400;" width="148">5/17/26 11:46 PM</td>
-<td style="font-weight: 400;" width="204">S Grant St/ Harrison St</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
+<td width="171">
+<p>Hit &amp; Run</p>
+</td>
+<td width="172">
+<p>2026PU00747</p>
+</td>
+<td width="148">
+<p>6/19/26 8:00 AM</p>
+</td>
+<td width="148">
+<p>6/19/26</p>
+</td>
+<td width="204">
+<p>Physical Facilities Service</p>
+</td>
+<td width="189">
+<p>Under Investigation</p>
+</td>
+</tr>
+<tr>
+<td width="171">
+<p>Driving While Suspended</p>
+</td>
+<td width="172">
+<p>2026PU00749</p>
+</td>
+<td width="148">
+<p>6/20/26 4:21 PM</p>
+</td>
+<td width="148">
+<p>6/20/26 4:55 PM</p>
+</td>
+<td width="204">
+<p>N Russell St/N Mitch Daniels Blvd</p>
+</td>
+<td width="189">
+<p>Arrest Made</p>
+</td>
+</tr>
+<tr>
+<td width="171">
+<p>Theft-Bike</p>
+</td>
+<td width="172">
+<p>2026PU00751</p>
+</td>
+<td width="148">
+<p>5/1/26 11:00 PM</p>
+</td>
+<td width="148">
+<p>6/21/26 3:47 PM</p>
+</td>
+<td width="204">
+<p>Crosswalk Common Apts</p>
+</td>
+<td width="189">
+<p>Arrest Made</p>
+</td>
 </tr>
 </tbody>
 </table>
