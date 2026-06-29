@@ -755,7 +755,74 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, June 29, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">2026PU00765</td>
+<td style="font-weight: 400;" width="148">6/26/26 2:08 PM</td>
+<td style="font-weight: 400;" width="148">6/26/26 2:38 PM</td>
+<td style="font-weight: 400;" width="204">Hilltop Apts</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="172">2026PU00766</td>
+<td style="font-weight: 400;" width="148">6/26/26 10:30 AM</td>
+<td style="font-weight: 400;" width="148">6/26/26 3:40 PM</td>
+<td style="font-weight: 400;" width="204">Smith Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="172">2026PU00769</td>
+<td style="font-weight: 400;" width="148">6/27/26 1:12 AM</td>
+<td style="font-weight: 400;" width="148">6/27/26 1:32 AM</td>
+<td style="font-weight: 400;" width="204">US 231/ SR 26</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving While Suspended</td>
+<td style="font-weight: 400;" width="172">2026PU00772</td>
+<td style="font-weight: 400;" width="148">6/27/26 12:40 AM</td>
+<td style="font-weight: 400;" width="148">6/27/26 12:40 AM</td>
+<td style="font-weight: 400;" width="204">US 231/ Airport Rd</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving Never Receiving License</td>
+<td style="font-weight: 400;" width="172">2026PU00775</td>
+<td style="font-weight: 400;" width="148">6/27/26 9:29 PM</td>
+<td style="font-weight: 400;" width="148">6/27/26 9:29 PM</td>
+<td style="font-weight: 400;" width="204">S River Rd/ US 231</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving While Suspended</td>
+<td style="font-weight: 400;" width="172">2026PU00781</td>
+<td style="font-weight: 400;" width="148">6/28/26 9:47 PM</td>
+<td style="font-weight: 400;" width="148">6/28/26 10:12 PM</td>
+<td style="font-weight: 400;" width="204">S Martin Jischke Dr/ US 231</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving While Suspended</td>
+<td style="font-weight: 400;" width="172">2026PU00782</td>
+<td style="font-weight: 400;" width="148">6/28/26 10:21 PM</td>
+<td style="font-weight: 400;" width="148">6/28/26 10:45 PM</td>
+<td style="font-weight: 400;" width="204">W State St/ US 231</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1338,7 +1405,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>June 26, 2026</span></em></p>
+        <p><em>Last modified: <span>June 29, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
