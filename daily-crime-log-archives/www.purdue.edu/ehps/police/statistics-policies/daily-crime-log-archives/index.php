@@ -650,11 +650,7 @@
 <li><a href="051826-daily-crime-log.php" title="051826 Daily Crime Log">Week of May 18, 2026</a></li>
 <li><a href="051126-daily-crime-log.php" title="051126 Daily Crime Log">Week of May 11, 2026</a></li>
 <li><a href="050426-daily-crime-log.php" title="050426 Daily Crime Log">Week of May 4, 2026</a></li>
-<li><a href="042726-daily-crime-log.php" title="042726 Daily Crime Log">Week of April 27, 2026</a></li>
-<li><a href="042026-daily-crime-log.php" title="042026 Daily Crime Log">Week of April 20, 2026</a></li>
-<li><a href="041326-daily-crime-log.php" title="041326 Daily Crime Log">Week of April 13, 2026</a></li>
-<li><a href="040626-daily-crime-log.php" title="040626 Daily Crime Log">Week of April 6, 2026</a></li>
-<li><a href="033026-daily-crime-log.php" title="033026 Daily Crime Log">Week of March 30, 2026</a></li>
+<li><a href="042726-daily-crime-log.php" title="042726 Daily Crime Log">Week of April 27, 2026</a><a href="2026-archive/033026-daily-crime-log.php" title="033026 Daily Crime Log"></a></li>
 </ul>
 		</section>
 	
@@ -1230,7 +1226,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>June 26, 2026</span></em></p>
+        <p><em>Last modified: <span>July 1, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
