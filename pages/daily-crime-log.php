@@ -741,7 +741,64 @@ td
 	mso-pattern:black none;
 	white-space:normal;}
 --></style>
-Will be posted soon.
+<style><!--
+table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+td
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl18
+	{text-align:left;
+	vertical-align:middle;
+	white-space:normal;}
+.xl20
+	{text-align:left;
+	vertical-align:middle;
+	background:#AEAAAA;
+	mso-pattern:black none;
+	white-space:normal;}
+--></style>
+<div ccp_infra_copy_id="919d6cf1-b96b-43a7-94cf-9b1cad261257" ccp_infra_timestamp="1783537113134" ccp_infra_user_hash="2268918294" ccp_infra_version="3" data-ccp-timestamp="1783537113134">
+<table cellpadding="5" cellspacing="3" width="100%"><colgroup><col width="171"/><col width="172"/><col span="2" width="148"/><col width="204"/><col width="189"/></colgroup>
+<tbody>
+<tr height="20">
+<th class="xl20" height="20" scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th class="xl20" scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th class="xl20" scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th class="xl20" scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th class="xl20" scope="col" style="text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th class="xl20" scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr height="20">
+<td class="xl18" height="20" width="171">Driving While Suspended</td>
+<td class="xl18" width="172">CAD# 2026-104923</td>
+<td class="xl18" width="148">7/6/26 11:40 PM</td>
+<td class="xl18" width="148">7/6/26 11:40 PM</td>
+<td class="xl18" width="204">US HWY 231 S/Airport Rd</td>
+<td class="xl18" width="189">Documented in 2026WL01624</td>
+</tr>
+</tbody>
+</table>
+</div>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1448,7 +1505,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>July 7, 2026</span></em></p>
+        <p><em>Last modified: <span>July 8, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
