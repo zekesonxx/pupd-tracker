@@ -407,6 +407,11 @@
         
                                                             
         
+        <li role="none"><a href="flock-safety.php" role="menuitem">Flock Safety</a></li>
+                                                    
+        
+                                                            
+        
         <li role="none"><a href="crime-security-procedures.php" role="menuitem">Operating Procedures for Gathering and Reporting Crime Statistics</a></li>
                                                     
         
@@ -641,6 +646,11 @@
         
                 
     
+    <li role="none"><a href="flock-safety.php" role="menuitem">Flock Safety</a></li>
+                                                                            
+        
+                
+    
     <li role="none"><a href="crime-security-procedures.php" role="menuitem">Operating Procedures for Gathering and Reporting Crime Statistics</a></li>
                                                                             
         
@@ -791,7 +801,50 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, July 20, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud</td>
+<td style="font-weight: 400;" width="172">2026PU00842</td>
+<td style="font-weight: 400;" width="148">7/17/26 1:47 PM</td>
+<td style="font-weight: 400;" width="148">7/17/26 2:15 PM</td>
+<td style="font-weight: 400;" width="204">Earhart Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Domestic Battery</td>
+<td style="font-weight: 400;" width="172">2026PU00842</td>
+<td style="font-weight: 400;" width="148">7/17/26 11:09 PM</td>
+<td style="font-weight: 400;" width="148">7/17/26 11:29 PM</td>
+<td style="font-weight: 400;" width="204">Grant St Garage</td>
+<td style="font-weight: 400;" width="189">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Fraud/ Intimidation</td>
+<td style="font-weight: 400;" width="172">2026PU00844</td>
+<td style="font-weight: 400;" width="148">7/18/26 12:39 PM</td>
+<td style="font-weight: 400;" width="148">7/18/26 2:57 PM</td>
+<td style="font-weight: 400;" width="204">107 North MacArthur Drive West Lafayette</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00849</td>
+<td style="font-weight: 400;" width="148">7/20/26 12:29 AM</td>
+<td style="font-weight: 400;" width="148">7/20/26 12:44 AM</td>
+<td style="font-weight: 400;" width="204">1275 1st Street West Lafayette</td>
+<td style="font-weight: 400;" width="189">Unfounded</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1374,7 +1427,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>July 17, 2026</span></em></p>
+        <p><em>Last modified: <span>July 20, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
