@@ -787,7 +787,28 @@ td
 	mso-pattern:black none;
 	white-space:normal;}
 --></style>
-<div ccp_infra_copy_id="919d6cf1-b96b-43a7-94cf-9b1cad261257" ccp_infra_timestamp="1783537113134" ccp_infra_user_hash="2268918294" ccp_infra_version="3" data-ccp-timestamp="1783537113134">Will be posted soon.</div>
+<div ccp_infra_copy_id="919d6cf1-b96b-43a7-94cf-9b1cad261257" ccp_infra_timestamp="1783537113134" ccp_infra_user_hash="2268918294" ccp_infra_version="3" data-ccp-timestamp="1783537113134">
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">2026PU00854</td>
+<td style="font-weight: 400;" width="148">7/21/26 10:46 AM</td>
+<td style="font-weight: 400;" width="148">7/21/26 12:39 PM</td>
+<td style="font-weight: 400;" width="204">Harrison St Garage</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+</tbody>
+</table>
+</div>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1446,7 +1467,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>July 21, 2026</span></em></p>
+        <p><em>Last modified: <span>July 22, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
