@@ -407,6 +407,11 @@
         
                                                             
         
+        <li role="none"><a href="../../flock-safety.php" role="menuitem">Flock Safety</a></li>
+                                                    
+        
+                                                            
+        
         <li role="none"><a href="../../crime-security-procedures.php" role="menuitem">Operating Procedures for Gathering and Reporting Crime Statistics</a></li>
                                                     
         
@@ -627,7 +632,12 @@
                 
     <ul aria-label="Side Navigation" role="menu">
                                      <li role="none">2026-archive</li>
-                                            </ul>
+                                                                                                                
+        
+                
+    
+    <li role="none"><a href="030926-daily-crime-log.php" role="menuitem">West Lafayette Daily Crime Log</a></li>
+                            </ul>
 </nav>
 
 
