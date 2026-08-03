@@ -656,11 +656,6 @@
 <li><a href="061526-daily-crime-log.php" title="061526 Daily Crime Log">Week of June 15, 2026</a></li>
 <li><a href="060826-daily-crime-log.php" title="060826 Daily Crime Log">Week of June 8, 2026</a></li>
 <li><a href="060126-daily-crime-log.php" title="060126 Daily Crime Log">Week of June 1, 2026</a></li>
-<li><a href="052526-daily-crime-log.php" title="052526 Daily Crime Log">Week of May 25, 2026</a></li>
-<li><a href="051826-daily-crime-log.php" title="051826 Daily Crime Log">Week of May 18, 2026</a></li>
-<li><a href="051126-daily-crime-log.php" title="051126 Daily Crime Log">Week of May 11, 2026</a></li>
-<li><a href="050426-daily-crime-log.php" title="050426 Daily Crime Log">Week of May 4, 2026</a></li>
-<li><a href="042726-daily-crime-log.php" title="042726 Daily Crime Log">Week of April 27, 2026</a><a href="2026-archive/033026-daily-crime-log.php" title="033026 Daily Crime Log"></a></li>
 </ul>
 		</section>
 	
@@ -1236,7 +1231,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>July 31, 2026</span></em></p>
+        <p><em>Last modified: <span>August 3, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
