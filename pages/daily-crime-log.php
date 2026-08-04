@@ -794,7 +794,114 @@ td
   
     	<section class="content__group">
   					<h3>Tuesday, August 4, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: top;" width="179">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: top;" width="180">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: top;" width="155">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: top;" width="155">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: top;" width="214">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: top;" width="198">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Resisting Law Enforcement</td>
+<td style="font-weight: 400;" width="180">2026PU00887</td>
+<td style="font-weight: 400;" width="155">8/3/26 2:43 PM</td>
+<td style="font-weight: 400;" width="155">8/3/26 2:47 PM</td>
+<td style="font-weight: 400;" width="214">Waldron St/ 2nd St</td>
+<td style="font-weight: 400;" width="198">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Trespass</td>
+<td style="font-weight: 400;" width="180">2026PU00888</td>
+<td style="font-weight: 400;" width="155">8/3/26 8:55 PM</td>
+<td style="font-weight: 400;" width="155">8/3/26 9:18 PM</td>
+<td style="font-weight: 400;" width="214">Stewart Center</td>
+<td style="font-weight: 400;" width="198">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Battery</td>
+<td style="font-weight: 400;" width="180">CAD# 2026-119228</td>
+<td style="font-weight: 400;" width="155">8/1/26 11:19 PM</td>
+<td style="font-weight: 400;" width="155">8/1/26 11:19 PM</td>
+<td style="font-weight: 400;" width="214">Blackbird Apts.</td>
+<td style="font-weight: 400;" width="198">Documented in 2026WL01816</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Drug Law Violation/Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="180">CAD# 2026-119239</td>
+<td style="font-weight: 400;" width="155">8/1/26 11:57 PM</td>
+<td style="font-weight: 400;" width="155">8/1/26 11:57 PM</td>
+<td style="font-weight: 400;" width="214">Blackbird Apts.</td>
+<td style="font-weight: 400;" width="198">Documented in 2026WL01817, 2026WL01820</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="180">9 Diciplinary Referrals</td>
+<td style="font-weight: 400;" width="155">6/12/26 11:30 PM</td>
+<td style="font-weight: 400;" width="155">6/13/26 12:44 AM</td>
+<td style="font-weight: 400;" width="214">First St. Towers</td>
+<td style="font-weight: 400;" width="198">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Drug Law Violation</td>
+<td style="font-weight: 400;" width="180">2 Disciplinary Referrals</td>
+<td style="font-weight: 400;" width="155">6/18/26 10:30 AM</td>
+<td style="font-weight: 400;" width="155">6/18/26 1:47 PM</td>
+<td style="font-weight: 400;" width="214">Provenance Apts.</td>
+<td style="font-weight: 400;" width="198">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Drug Law Violation</td>
+<td style="font-weight: 400;" width="180">2 Disciplinary Referrals</td>
+<td style="font-weight: 400;" width="155">6/18/26 10:30 AM</td>
+<td style="font-weight: 400;" width="155">6/18/26 2:35 PM</td>
+<td style="font-weight: 400;" width="214">Provenance Apts.</td>
+<td style="font-weight: 400;" width="198">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="180">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="155">6/23/26 8:30 PM</td>
+<td style="font-weight: 400;" width="155">6/23/26 10:41 AM</td>
+<td style="font-weight: 400;" width="214">First St. Towers</td>
+<td style="font-weight: 400;" width="198">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="180">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="155">7/23/26 1:16 PM</td>
+<td style="font-weight: 400;" width="155">7/23/26 1:16 PM</td>
+<td style="font-weight: 400;" width="214">Provenance Apts.</td>
+<td style="font-weight: 400;" width="198">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="180">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="155">7/23/26 1:16 PM</td>
+<td style="font-weight: 400;" width="155">7/23/26 1:16 PM</td>
+<td style="font-weight: 400;" width="214">Provenance Apts.</td>
+<td style="font-weight: 400;" width="198">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Drug Law Violation</td>
+<td style="font-weight: 400;" width="180">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="155">7/23/26 4:00 PM</td>
+<td style="font-weight: 400;" width="155">7/24/26 4:35 PM</td>
+<td style="font-weight: 400;" width="214">Blackbird Apts.</td>
+<td style="font-weight: 400;" width="198">Judicial Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="179">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="180">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="155">7/23/26 4:00 PM</td>
+<td style="font-weight: 400;" width="155">7/23/26 4:35 PM</td>
+<td style="font-weight: 400;" width="214">Blackbird Apts.</td>
+<td style="font-weight: 400;" width="198">Judicial Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1419,7 +1526,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>August 3, 2026</span></em></p>
+        <p><em>Last modified: <span>August 4, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
