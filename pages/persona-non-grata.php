@@ -960,7 +960,7 @@
 </tr>
 <tr>
 <td width="204">Kallenberger, Ashley M.</td>
-<td width="211">Entire WL Purdue Campus</td>
+<td width="211">Purdue Memorial Union &amp; Union Club Hotel</td>
 <td width="76">8/10/27</td>
 </tr>
 <tr>
