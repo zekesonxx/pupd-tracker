@@ -1024,6 +1024,11 @@
 <td width="76">5/22/29</td>
 </tr>
 <tr>
+<td width="204">Michalowski, Ignacy</td>
+<td width="211">Purdue Memorial Union &amp; Hotel</td>
+<td width="76">8/18/27</td>
+</tr>
+<tr>
 <td width="204">Miller, Annika</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">10/13/26</td>
@@ -1217,11 +1222,6 @@
 <td width="204">Theesfeld, Benjamin</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">8/14/31</td>
-</tr>
-<tr>
-<td width="204">T., D. (Juvenile)</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">8/18/26</td>
 </tr>
 <tr>
 <td width="204">Thomas, Kenneth D. B.</td>
