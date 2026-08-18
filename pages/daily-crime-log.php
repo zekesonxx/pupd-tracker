@@ -794,7 +794,122 @@ td
   
     	<section class="content__group">
   					<h3>Tuesday, August 18, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00941</td>
+<td style="font-weight: 400;" width="148">8/17/26 8:08 AM</td>
+<td style="font-weight: 400;" width="148">8/17/26 8:45 AM</td>
+<td style="font-weight: 400;" width="204">Physics Building</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00943</td>
+<td style="font-weight: 400;" width="148">10/1/23 8:00 AM</td>
+<td style="font-weight: 400;" width="148">8/17/26 12:41 PM</td>
+<td style="font-weight: 400;" width="204">Owen Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">2026PU00945</td>
+<td style="font-weight: 400;" width="148">8/17/26 7:45 AM</td>
+<td style="font-weight: 400;" width="148">8/17/26 6:35 PM</td>
+<td style="font-weight: 400;" width="204">250 North McCutcheon Drive West Lafayette</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Battery</td>
+<td style="font-weight: 400;" width="172">2026PU00947</td>
+<td style="font-weight: 400;" width="148">8/17/26 9:00 PM</td>
+<td style="font-weight: 400;" width="148">8/17/26 10:34 PM</td>
+<td style="font-weight: 400;" width="204">1250 1st Street West Lafayette</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Battery/ Resisting Law Enforcement/ Public Intoxication</td>
+<td style="font-weight: 400;" width="172">2026PU00948</td>
+<td style="font-weight: 400;" width="148">8/18/26 12:27 AM</td>
+<td style="font-weight: 400;" width="148">8/18/26 1:35 AM</td>
+<td style="font-weight: 400;" width="204">201 North Grant Street West Lafayette</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-127027</td>
+<td style="font-weight: 400;" width="148">8/15/26 6:00 PM</td>
+<td style="font-weight: 400;" width="148">8/15/26 6:00 PM</td>
+<td style="font-weight: 400;" width="204">US HWY 231 S/S River Rd</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-127101</td>
+<td style="font-weight: 400;" width="148">8/15/26 8:11 PM</td>
+<td style="font-weight: 400;" width="148">8/15/26 8:11 PM</td>
+<td style="font-weight: 400;" width="204">E Fowler Ave/Littleston St</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-127102</td>
+<td style="font-weight: 400;" width="148">8/15/26 8:13 PM</td>
+<td style="font-weight: 400;" width="148">8/15/26 8:13 PM</td>
+<td style="font-weight: 400;" width="204">W Stadium Ave/N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-127146</td>
+<td style="font-weight: 400;" width="148">8/15/26 9:50 PM</td>
+<td style="font-weight: 400;" width="148">8/15/26 9:50 PM</td>
+<td style="font-weight: 400;" width="204">N River Rd/E State St</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-127232</td>
+<td style="font-weight: 400;" width="148">8/16/26 12:55 AM</td>
+<td style="font-weight: 400;" width="148">8/16/26 12:55 AM</td>
+<td style="font-weight: 400;" width="204">Provenance</td>
+<td style="font-weight: 400;" width="189">Documented in 2026WL01921</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-127391</td>
+<td style="font-weight: 400;" width="148">8/16/26 10:41 AM</td>
+<td style="font-weight: 400;" width="148">8/16/26 10:41 AM</td>
+<td style="font-weight: 400;" width="204">Cary Quad South</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-127687</td>
+<td style="font-weight: 400;" width="148">8/16/26 11:24 PM</td>
+<td style="font-weight: 400;" width="148">8/16/26 11:24 PM</td>
+<td style="font-weight: 400;" width="204">US HWY 231 S/Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Harassment</td>
+<td style="font-weight: 400;" width="172">CSA</td>
+<td style="font-weight: 400;" width="148">Unknown Date &amp; Time</td>
+<td style="font-weight: 400;" width="148">Unknown Date &amp; Time</td>
+<td style="font-weight: 400;" width="204">Earhart Hall</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1475,7 +1590,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>August 17, 2026</span></em></p>
+        <p><em>Last modified: <span>August 18, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
