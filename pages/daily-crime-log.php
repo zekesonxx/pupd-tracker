@@ -715,7 +715,60 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, August 19, 2026</h3>
-<div ccp_infra_copy_id="919d6cf1-b96b-43a7-94cf-9b1cad261257" ccp_infra_timestamp="1783537113134" ccp_infra_user_hash="2268918294" ccp_infra_version="3" data-ccp-timestamp="1783537113134">Will be posted soon.</div>
+<div ccp_infra_copy_id="919d6cf1-b96b-43a7-94cf-9b1cad261257" ccp_infra_timestamp="1783537113134" ccp_infra_user_hash="2268918294" ccp_infra_version="3" data-ccp-timestamp="1783537113134">
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU00949</td>
+<td style="font-weight: 400;" width="148">8/17/26 3:00 PM</td>
+<td style="font-weight: 400;" width="148">8/18/26 11:23 AM</td>
+<td style="font-weight: 400;" width="204">Shreve Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU00950</td>
+<td style="font-weight: 400;" width="148">8/13/26 12:00 PM</td>
+<td style="font-weight: 400;" width="148">8/18/26 11:49 AM</td>
+<td style="font-weight: 400;" width="204">Mackey Arena</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated/ Minor Consumpition</td>
+<td style="font-weight: 400;" width="172">2026PU00951</td>
+<td style="font-weight: 400;" width="148">8/19/26 2:35 AM</td>
+<td style="font-weight: 400;" width="148">8/19/26 3:06 AM</td>
+<td style="font-weight: 400;" width="204">1400 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU00952</td>
+<td style="font-weight: 400;" width="148">8/19/26 4:15 AM</td>
+<td style="font-weight: 400;" width="148">8/19/26 4:33 AM</td>
+<td style="font-weight: 400;" width="204">100 Foundry Dr</td>
+<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-128319</td>
+<td style="font-weight: 400;" width="148">8/17/26 11:17 PM</td>
+<td style="font-weight: 400;" width="148">8/17/26 11:17 PM</td>
+<td style="font-weight: 400;" width="204">N University St/W Stadium Ave</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+</div>
 <style><!--
 table
 	{mso-displayed-decimal-separator:"\.";
@@ -818,7 +871,7 @@ td
 <td style="font-weight: 400;" width="148">10/1/23 8:00 AM</td>
 <td style="font-weight: 400;" width="148">8/17/26 12:41 PM</td>
 <td style="font-weight: 400;" width="204">Owen Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Hit &amp; Run</td>
@@ -1590,7 +1643,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>August 18, 2026</span></em></p>
+        <p><em>Last modified: <span>August 19, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
