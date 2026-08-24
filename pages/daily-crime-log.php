@@ -801,7 +801,194 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, August 24, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition</th>
+</tr>
+<tr>
+<td width="171">Minor Consumption/ Public Intoxication</td>
+<td width="172">2026PU00973</td>
+<td width="148">8/21/26 11:29 PM</td>
+<td width="148">8/21/26 11:41 PM</td>
+<td width="204">Chill Zone</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption/ Public Intoxication</td>
+<td width="172">2026PU00974</td>
+<td width="148">8/22/26 12:07 AM</td>
+<td width="148">8/22/26 12:25 AM</td>
+<td width="204">Hilltop Apts</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU00975</td>
+<td width="148">8/22/26 12:21 AM</td>
+<td width="148">8/22/26 12:49 AM</td>
+<td width="204">Frieda Parker Hall</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Trespass</td>
+<td width="172">2026PU00979</td>
+<td width="148">8/22/26 11:02 AM</td>
+<td width="148">8/22/26 11:22 AM</td>
+<td width="204">900 Blk Ahlers Dr</td>
+<td width="189">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="172">2026PU00981</td>
+<td width="148">8/20/26 9:00 PM</td>
+<td width="148">8/22/26 4:33 PM</td>
+<td width="204">Tarkington Hall</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Criminal Mischief</td>
+<td width="172">2026PU00982</td>
+<td width="148">8/21/26 12:00 PM</td>
+<td width="148">8/22/26 6:58 PM</td>
+<td width="204">Ross-Ade Stadium</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Driving While Suspended</td>
+<td width="172">2026PU00983</td>
+<td width="148">8/22/26 6:38 PM</td>
+<td width="148">8/22/26 7:01 PM</td>
+<td width="204">US 231 Hwy/ S River Rd</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Minor Possession</td>
+<td width="172">2026PU00984</td>
+<td width="148">8/22/26 9:12 PM</td>
+<td width="148">8/22/26 9:36 PM</td>
+<td width="204">1200 Blk 3rd St</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Operating While Intoxicated</td>
+<td width="172">2026PU00985</td>
+<td width="148">8/22/26 10:25 PM</td>
+<td width="148">8/22/26 11:11 PM</td>
+<td width="204">Ahlers Dr/ S River Rd</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Fraud</td>
+<td width="172">2026PU00986</td>
+<td width="148">8/22/26 8:00 AM</td>
+<td width="148">8/22/26 11:22 PM</td>
+<td width="204">Owen Hall</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU00988</td>
+<td width="148">8/23/26 12:21 AM</td>
+<td width="148">8/23/26 12:50 AM</td>
+<td width="204">Cary Quadrangle</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU00989</td>
+<td width="148">8/23/26 1:32 AM</td>
+<td width="148">8/23/26 1:53 AM</td>
+<td width="204">Wiley Hall</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU00990</td>
+<td width="148">8/23/26 1:43 AM</td>
+<td width="148">8/23/26 2:05 AM</td>
+<td width="204">Shreve Hall</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU00991</td>
+<td width="148">8/23/26 12:45 AM</td>
+<td width="148">8/23/26 2:32 AM</td>
+<td width="204">1100 Blk 3rd St</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU00992</td>
+<td width="148">8/23/26 3:42 AM</td>
+<td width="148">8/23/26 4:00 AM</td>
+<td width="204">University Church</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Operating While Intoxicated/ Minor Possession of Alcohol</td>
+<td width="172">2026PU00993</td>
+<td width="148">8/23/26 8:51 AM</td>
+<td width="148">8/23/26 9:28 AM</td>
+<td width="204">700 Blk Ahlers Dr</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2026PU00994</td>
+<td width="148">8/21/26 2:25 PM</td>
+<td width="148">8/23/26 12:12 PM</td>
+<td width="204">Meredith South</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Criminal Mischief</td>
+<td width="172">2026PU00995</td>
+<td width="148">8/23/26 1:07 PM</td>
+<td width="148">8/23/26 1:08 PM</td>
+<td width="204">Pao Hall</td>
+<td width="189">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Criminal Mischief</td>
+<td width="172">2026PU00999</td>
+<td width="148">8/24/26 12:56 AM</td>
+<td width="148">8/24/26 12:57 AM</td>
+<td width="204">Purdue Memorial Union</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="172">CAD# 2026-130184</td>
+<td width="148">8/20/26 9:25 PM</td>
+<td width="148">8/20/26 9:25 PM</td>
+<td width="204">W Stadium Ave/Northwestern Ave</td>
+<td width="189">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="172">CAD# 2026-130281</td>
+<td width="148">8/21/26 12:54 AM</td>
+<td width="148">8/21/26 12:54 AM</td>
+<td width="204">Shreve Hall</td>
+<td width="189">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Residential Entry</td>
+<td width="172">CSA</td>
+<td width="148">8/23/26 3:00 AM</td>
+<td width="148">8/23/26 11:09 AM</td>
+<td width="204">Wiley Hall</td>
+<td width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1384,7 +1571,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>August 21, 2026</span></em></p>
+        <p><em>Last modified: <span>August 24, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
