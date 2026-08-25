@@ -794,7 +794,170 @@ td
   
     	<section class="content__group">
   					<h3>Tuesday, August 25, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU01000</td>
+<td style="font-weight: 400;" width="148">8/21/26 5:30 PM</td>
+<td style="font-weight: 400;" width="148">8/24/26 8:29 AM</td>
+<td style="font-weight: 400;" width="204">Lilly Hall</td>
+<td style="font-weight: 400;" width="189">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU01001</td>
+<td style="font-weight: 400;" width="148">8/18/26 5:00 PM</td>
+<td style="font-weight: 400;" width="148">8/24/26 8:02 AM</td>
+<td style="font-weight: 400;" width="204">Mollenkopf Athletic Center</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU01002</td>
+<td style="font-weight: 400;" width="148">8/23/26 9:00 PM</td>
+<td style="font-weight: 400;" width="148">8/24/26 11:14 AM</td>
+<td style="font-weight: 400;" width="204">Hilltop Apts</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU01003</td>
+<td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
+<td style="font-weight: 400;" width="148">8/24/26 1:16 PM</td>
+<td style="font-weight: 400;" width="204">Hansen Building</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU01004</td>
+<td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
+<td style="font-weight: 400;" width="148">8/24/26 3:19 PM</td>
+<td style="font-weight: 400;" width="204">Rawls Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU01005</td>
+<td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
+<td style="font-weight: 400;" width="148">8/24/26 4:50 PM</td>
+<td style="font-weight: 400;" width="204">Rawls Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU01006</td>
+<td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
+<td style="font-weight: 400;" width="148">8/24/26 4:52 PM</td>
+<td style="font-weight: 400;" width="204">Wood St Garage</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU01007</td>
+<td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
+<td style="font-weight: 400;" width="148">8/24/26 6:06 PM</td>
+<td style="font-weight: 400;" width="204">Hawkins Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU01008</td>
+<td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
+<td style="font-weight: 400;" width="148">8/24/26 6:08 PM</td>
+<td style="font-weight: 400;" width="204">Krannert Center</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU01009</td>
+<td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
+<td style="font-weight: 400;" width="148">8/24/26 6:10 PM</td>
+<td style="font-weight: 400;" width="204">Rawls Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU01010</td>
+<td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
+<td style="font-weight: 400;" width="148">8/24/26 6:11 PM</td>
+<td style="font-weight: 400;" width="204">Smith Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU01011</td>
+<td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
+<td style="font-weight: 400;" width="148">8/24/26 6:13 PM</td>
+<td style="font-weight: 400;" width="204">Lilly Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU01013</td>
+<td style="font-weight: 400;" width="148">8/21/26 7:00 PM</td>
+<td style="font-weight: 400;" width="148">8/24/26 8:01 PM</td>
+<td style="font-weight: 400;" width="204">Honors College North</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">2026PU01014</td>
+<td style="font-weight: 400;" width="148">8/24/26 8:10 PM</td>
+<td style="font-weight: 400;" width="148">8/24/26 9:48 PM</td>
+<td style="font-weight: 400;" width="204">University St Garage</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-130930</td>
+<td style="font-weight: 400;" width="148">8/22/26 1:52 AM</td>
+<td style="font-weight: 400;" width="148">8/22/26 1:52 AM</td>
+<td style="font-weight: 400;" width="204">800 Blk W Stadium Ave</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-130966</td>
+<td style="font-weight: 400;" width="148">8/22/26 2:40 AM</td>
+<td style="font-weight: 400;" width="148">8/22/26 2:40 AM</td>
+<td style="font-weight: 400;" width="204">Harrison St/S Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Public Intoxication</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-131481</td>
+<td style="font-weight: 400;" width="148">8/23/26 12:21 AM</td>
+<td style="font-weight: 400;" width="148">8/23/26 12:21 AM</td>
+<td style="font-weight: 400;" width="204">US HWY 231 N/Cumberland Ave</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Never Receiving a License</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-131820</td>
+<td style="font-weight: 400;" width="148">8/23/26 3:58 PM</td>
+<td style="font-weight: 400;" width="148">8/23/26 3:58 PM</td>
+<td style="font-weight: 400;" width="204">US HWY 231 S/Ahlers Dr</td>
+<td style="font-weight: 400;" width="189">Documented in 2026WL01978</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Sexual Assault</td>
+<td style="font-weight: 400;" width="172">CSA</td>
+<td style="font-weight: 400;" width="148">8/22/26 11:40 PM</td>
+<td style="font-weight: 400;" width="148">8/25/26 12:06 AM</td>
+<td style="font-weight: 400;" width="204">Unknown Campus Location</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1571,7 +1734,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>August 24, 2026</span></em></p>
+        <p><em>Last modified: <span>August 25, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
