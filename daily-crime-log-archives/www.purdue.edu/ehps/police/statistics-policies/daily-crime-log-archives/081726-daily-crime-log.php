@@ -798,7 +798,7 @@
 <td style="font-weight: 400;" width="148">8/19/26 8:46 AM</td>
 <td style="font-weight: 400;" width="148">8/19/26 8:46 AM</td>
 <td style="font-weight: 400;" width="204">Forney Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
@@ -995,8 +995,8 @@ td
 <td style="font-weight: 400;" width="172">2026PU00945</td>
 <td style="font-weight: 400;" width="148">8/17/26 7:45 AM</td>
 <td style="font-weight: 400;" width="148">8/17/26 6:35 PM</td>
-<td style="font-weight: 400;" width="204">250 North McCutcheon Drive West Lafayette</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="204">McCutcheon Parking Garage</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Battery</td>
@@ -1760,7 +1760,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>August 21, 2026</span></em></p>
+        <p><em>Last modified: <span>August 26, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
