@@ -708,7 +708,82 @@
   
     	<section class="content__group">
   					<h3>Thursday, August 27, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU01025</td>
+<td style="font-weight: 400;" width="148">8/26/26 6:59 AM</td>
+<td style="font-weight: 400;" width="148">8/26/26 7:00 AM</td>
+<td style="font-weight: 400;" width="204">Knoy Hall</td>
+<td style="font-weight: 400;" width="189">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Motor Vehicle Parts/ Accessories</td>
+<td style="font-weight: 400;" width="172">2026PU01028</td>
+<td style="font-weight: 400;" width="148">8/26/26 8:00 AM</td>
+<td style="font-weight: 400;" width="148">8/26/26 3:45 PM</td>
+<td style="font-weight: 400;" width="204">200 Blk Nimitz Dr</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="172">2026PU01030</td>
+<td style="font-weight: 400;" width="148">8/26/26 5:44 PM</td>
+<td style="font-weight: 400;" width="148">8/26/26 6:13 PM</td>
+<td style="font-weight: 400;" width="204">3rd &amp; West</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="172">2026PU01032</td>
+<td style="font-weight: 400;" width="148">8/27/26 12:54 AM</td>
+<td style="font-weight: 400;" width="148">8/27/26 1:40 AM</td>
+<td style="font-weight: 400;" width="204">200 Blk N Grant St</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-133200</td>
+<td style="font-weight: 400;" width="148">8/25/26 5:10 PM</td>
+<td style="font-weight: 400;" width="148">8/25/26 5:10 PM</td>
+<td style="font-weight: 400;" width="204">Hawkins Graduate House</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Vehicle</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-133259</td>
+<td style="font-weight: 400;" width="148">8/25/26 7:02 PM</td>
+<td style="font-weight: 400;" width="148">8/25/26 7:02 PM</td>
+<td style="font-weight: 400;" width="204">Blackbird Farms</td>
+<td style="font-weight: 400;" width="189">Documented in 2026WL01993</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-133357</td>
+<td style="font-weight: 400;" width="148">8/25/26 9:41 PM</td>
+<td style="font-weight: 400;" width="148">8/25/26 9:41 PM</td>
+<td style="font-weight: 400;" width="204">Hawkins Graduate House</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-133855</td>
+<td style="font-weight: 400;" width="148">8/26/26 3:28 PM</td>
+<td style="font-weight: 400;" width="148">8/26/26 3:28 PM</td>
+<td style="font-weight: 400;" width="204">Northwestern Ave/W Stadium Ave</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -887,7 +962,7 @@ td
 <td style="font-weight: 400;" width="148">8/23/26 9:00 PM</td>
 <td style="font-weight: 400;" width="148">8/24/26 11:14 AM</td>
 <td style="font-weight: 400;" width="204">Hilltop Apts</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -895,7 +970,7 @@ td
 <td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
 <td style="font-weight: 400;" width="148">8/24/26 1:16 PM</td>
 <td style="font-weight: 400;" width="204">Hansen Building</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -903,7 +978,7 @@ td
 <td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
 <td style="font-weight: 400;" width="148">8/24/26 3:19 PM</td>
 <td style="font-weight: 400;" width="204">Rawls Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -911,7 +986,7 @@ td
 <td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
 <td style="font-weight: 400;" width="148">8/24/26 4:50 PM</td>
 <td style="font-weight: 400;" width="204">Rawls Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -919,7 +994,7 @@ td
 <td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
 <td style="font-weight: 400;" width="148">8/24/26 4:52 PM</td>
 <td style="font-weight: 400;" width="204">Wood St Garage</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -927,7 +1002,7 @@ td
 <td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
 <td style="font-weight: 400;" width="148">8/24/26 6:06 PM</td>
 <td style="font-weight: 400;" width="204">Hawkins Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -935,7 +1010,7 @@ td
 <td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
 <td style="font-weight: 400;" width="148">8/24/26 6:08 PM</td>
 <td style="font-weight: 400;" width="204">Krannert Center</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -943,7 +1018,7 @@ td
 <td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
 <td style="font-weight: 400;" width="148">8/24/26 6:10 PM</td>
 <td style="font-weight: 400;" width="204">Rawls Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -951,7 +1026,7 @@ td
 <td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
 <td style="font-weight: 400;" width="148">8/24/26 6:11 PM</td>
 <td style="font-weight: 400;" width="204">Smith Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Criminal Mischief</td>
@@ -959,7 +1034,7 @@ td
 <td style="font-weight: 400;" width="148">5/6/26 9:41 AM</td>
 <td style="font-weight: 400;" width="148">8/24/26 6:13 PM</td>
 <td style="font-weight: 400;" width="204">Lilly Hall</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft-Bike</td>
@@ -1073,7 +1148,7 @@ td
 <td width="148">8/20/26 9:00 PM</td>
 <td width="148">8/22/26 4:33 PM</td>
 <td width="204">Tarkington Hall</td>
-<td width="189">Under Investigation</td>
+<td width="189">Suspended</td>
 </tr>
 <tr>
 <td width="171">Criminal Mischief</td>
@@ -1081,7 +1156,7 @@ td
 <td width="148">8/21/26 12:00 PM</td>
 <td width="148">8/22/26 6:58 PM</td>
 <td width="204">Ross-Ade Stadium</td>
-<td width="189">Under Investigation</td>
+<td width="189">Suspended</td>
 </tr>
 <tr>
 <td width="171">Driving While Suspended</td>
@@ -1169,7 +1244,7 @@ td
 <td width="148">8/21/26 2:25 PM</td>
 <td width="148">8/23/26 12:12 PM</td>
 <td width="204">Meredith South</td>
-<td width="189">Under Investigation</td>
+<td width="189">Suspended</td>
 </tr>
 <tr>
 <td width="171">Criminal Mischief</td>
@@ -1177,7 +1252,7 @@ td
 <td width="148">8/23/26 1:07 PM</td>
 <td width="148">8/23/26 1:08 PM</td>
 <td width="204">Pao Hall</td>
-<td width="189">Nothing Further</td>
+<td width="189">Suspended</td>
 </tr>
 <tr>
 <td width="171">Criminal Mischief</td>
@@ -1795,7 +1870,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>August 26, 2026</span></em></p>
+        <p><em>Last modified: <span>August 27, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
