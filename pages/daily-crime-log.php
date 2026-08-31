@@ -801,7 +801,186 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, August 31, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Driving While Suspended</td>
+<td style="font-weight: 400;" width="172">2026PU01036</td>
+<td style="font-weight: 400;" width="148">8/28/26 10:20 AM</td>
+<td style="font-weight: 400;" width="148">8/28/26 10:22 AM</td>
+<td style="font-weight: 400;" width="204">Harrison St/ S Grant St</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU01037</td>
+<td style="font-weight: 400;" width="148">8/27/26 1:00 PM</td>
+<td style="font-weight: 400;" width="148">8/28/26 11:00 AM</td>
+<td style="font-weight: 400;" width="204">Hicks Undergraduate Library</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">2026PU01039</td>
+<td style="font-weight: 400;" width="148">8/27/26 2:45 PM</td>
+<td style="font-weight: 400;" width="148">8/28/26 2:57 PM</td>
+<td style="font-weight: 400;" width="204">200 Blk Nimitz Dr</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU01040</td>
+<td style="font-weight: 400;" width="148">8/24/26 8:55 AM</td>
+<td style="font-weight: 400;" width="148">8/28/26 3:53 PM</td>
+<td style="font-weight: 400;" width="204">Biomedical Building</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Harassment</td>
+<td style="font-weight: 400;" width="172">2026PU01041</td>
+<td style="font-weight: 400;" width="148">8/1/26 8:00 AM</td>
+<td style="font-weight: 400;" width="148">8/28/26 4:49 PM</td>
+<td style="font-weight: 400;" width="204">Meredith South</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Possession</td>
+<td style="font-weight: 400;" width="172">2026PU01042</td>
+<td style="font-weight: 400;" width="148">8/28/26 9:04 PM</td>
+<td style="font-weight: 400;" width="148">8/28/26 9:42 PM</td>
+<td style="font-weight: 400;" width="204">N Russell St/N 5th St</td>
+<td style="font-weight: 400;" width="189">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU01044</td>
+<td style="font-weight: 400;" width="148">8/29/26 12:53 AM</td>
+<td style="font-weight: 400;" width="148">8/29/26 1:14 AM</td>
+<td style="font-weight: 400;" width="204">Acacia House</td>
+<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">2026PU01045</td>
+<td style="font-weight: 400;" width="148">8/29/26 1:08 AM</td>
+<td style="font-weight: 400;" width="148">8/29/26 1:39 AM</td>
+<td style="font-weight: 400;" width="204">1200 Blk 1st St</td>
+<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Battery</td>
+<td style="font-weight: 400;" width="172">2026PU01047</td>
+<td style="font-weight: 400;" width="148">8/29/26 4:56 AM</td>
+<td style="font-weight: 400;" width="148">8/29/26 5:19 AM</td>
+<td style="font-weight: 400;" width="204">1300 Blk 3rd St</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU01048</td>
+<td style="font-weight: 400;" width="148">8/28/26 10:30 AM</td>
+<td style="font-weight: 400;" width="148">8/29/26 3:37 PM</td>
+<td style="font-weight: 400;" width="204">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU01049</td>
+<td style="font-weight: 400;" width="148">8/28/26 4:00 PM</td>
+<td style="font-weight: 400;" width="148">8/29/26 6:10 PM</td>
+<td style="font-weight: 400;" width="204">Aspire Apts</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="172">2026PU01050</td>
+<td style="font-weight: 400;" width="148">8/29/26 9:32 PM</td>
+<td style="font-weight: 400;" width="148">8/29/26 10:17 PM</td>
+<td style="font-weight: 400;" width="204">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU01051</td>
+<td style="font-weight: 400;" width="148">8/29/26 11:11 PM</td>
+<td style="font-weight: 400;" width="148">8/29/26 11:40 PM</td>
+<td style="font-weight: 400;" width="204">Aspire Apts</td>
+<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU01052</td>
+<td style="font-weight: 400;" width="148">8/30/26 12:04 AM</td>
+<td style="font-weight: 400;" width="148">8/30/26 12:31 AM</td>
+<td style="font-weight: 400;" width="204">Academy Park</td>
+<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU01054</td>
+<td style="font-weight: 400;" width="148">8/30/26 2:15 AM</td>
+<td style="font-weight: 400;" width="148">8/30/26 2:38 AM</td>
+<td style="font-weight: 400;" width="204">Wiley Hall</td>
+<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU01055</td>
+<td style="font-weight: 400;" width="148">8/30/26 3:10 AM</td>
+<td style="font-weight: 400;" width="148">8/30/26 3:49 AM</td>
+<td style="font-weight: 400;" width="204">Electrical Engineering</td>
+<td style="font-weight: 400;" width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Hit &amp; Run</td>
+<td style="font-weight: 400;" width="172">2026PU01056</td>
+<td style="font-weight: 400;" width="148">8/30/26 6:26 AM</td>
+<td style="font-weight: 400;" width="148">8/30/26 7:02 AM</td>
+<td style="font-weight: 400;" width="204">Golf Course Maintenance Barn</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU01057</td>
+<td style="font-weight: 400;" width="148">8/30/26 12:01 AM</td>
+<td style="font-weight: 400;" width="148">8/30/26 11:55 AM</td>
+<td style="font-weight: 400;" width="204">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU01059</td>
+<td style="font-weight: 400;" width="148">8/29/26 8:00 PM</td>
+<td style="font-weight: 400;" width="148">8/30/26 6:27 PM</td>
+<td style="font-weight: 400;" width="204">Tarkington Hall</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Blackmail</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-134872</td>
+<td style="font-weight: 400;" width="148">8/28/26 1:07 AM</td>
+<td style="font-weight: 400;" width="148">8/28/26 1:07 AM</td>
+<td style="font-weight: 400;" width="204">Cary Quad South</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="171">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">CSA</td>
+<td style="font-weight: 400;" width="148">8/29/26 10:20 PM</td>
+<td style="font-weight: 400;" width="148">8/30/26 12:41 AM</td>
+<td style="font-weight: 400;" width="204">Aspire Apts</td>
+<td style="font-weight: 400;" width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1384,7 +1563,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>August 28, 2026</span></em></p>
+        <p><em>Last modified: <span>August 31, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
