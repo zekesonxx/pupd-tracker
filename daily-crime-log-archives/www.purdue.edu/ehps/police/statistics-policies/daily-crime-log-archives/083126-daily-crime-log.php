@@ -697,7 +697,7 @@
 <td width="148">9/2/26 3:30 PM</td>
 <td width="148">9/3/26 9:00 AM</td>
 <td width="204">Hawkins Graduate House</td>
-<td width="189">Under Investigation</td>
+<td width="189">Suspended</td>
 </tr>
 <tr>
 <td width="171">Theft-Bike</td>
@@ -753,7 +753,7 @@
 <td width="148">9/4/26 1:23 AM</td>
 <td width="148">9/4/26 1:37 AM</td>
 <td width="204">Earhart Hall</td>
-<td width="189">Under Investigation</td>
+<td width="189">Unfounded</td>
 </tr>
 <tr>
 <td width="171">Minor Consumption</td>
@@ -859,7 +859,7 @@
 <td style="font-weight: 400;" width="148">9/2/26 9:30 PM</td>
 <td style="font-weight: 400;" width="148">9/3/26 1:45 AM</td>
 <td style="font-weight: 400;" width="204">Wilmeth Active Learning Center</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft-Bike</td>
@@ -1171,7 +1171,7 @@ td
 <td style="font-weight: 400;" width="148">8/28/26 9:04 PM</td>
 <td style="font-weight: 400;" width="148">8/28/26 9:42 PM</td>
 <td style="font-weight: 400;" width="204">N Russell St/N 5th St</td>
-<td style="font-weight: 400;" width="189">Arrest Made</td>
+<td style="font-weight: 400;" width="189">Closed</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Minor Consumption</td>
@@ -1877,7 +1877,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>September 4, 2026</span></em></p>
+        <p><em>Last modified: <span>September 10, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
