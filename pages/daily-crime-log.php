@@ -795,7 +795,74 @@ td
   
     	<section class="content__group">
   					<h3>Tuesday, September 15, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition</th>
+</tr>
+<tr>
+<td width="171">Fraud</td>
+<td width="172">2026PU01171</td>
+<td width="148">9/8/26 11:30 AM</td>
+<td width="148">9/14/26 3:28 PM</td>
+<td width="204">South Hall</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-EMPV</td>
+<td width="172">2026PU01173</td>
+<td width="148">9/4/26 12:30 AM</td>
+<td width="148">9/14/26 10:23 PM</td>
+<td width="204">Windsor Dining Court</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2026PU01175</td>
+<td width="148">9/14/26 4:30 PM</td>
+<td width="148">9/15/26 12:36 AM</td>
+<td width="204">CoRec</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Criminal Mischief</td>
+<td width="172">2026PU01177</td>
+<td width="148">9/15/26 1:18 AM</td>
+<td width="148">9/15/26 3:53 AM</td>
+<td width="204">Earhart Residence Hall</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Theft-EMPV</td>
+<td width="172">2026PU01178</td>
+<td width="148">9/14/26 7:00 PM</td>
+<td width="148">9/15/26 4:14 AM</td>
+<td width="204">Tarkington Residence Hall</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Reckless Driver</td>
+<td width="172">CAD# 2026-144589</td>
+<td width="148">9/11/26 11:47 PM</td>
+<td width="148">9/11/26 11:47 PM</td>
+<td width="204">E State St/N River Rd</td>
+<td width="189">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Criminal Mischief</td>
+<td width="172">CAD# 2026-144941</td>
+<td width="148">9/12/26 4:44 PM</td>
+<td width="148">9/12/26 4:44 PM</td>
+<td width="204">Armory</td>
+<td width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1524,7 +1591,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>September 14, 2026</span></em></p>
+        <p><em>Last modified: <span>September 15, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
