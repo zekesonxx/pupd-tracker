@@ -801,7 +801,178 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, September 21, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="171">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="148">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="204">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2026PU01196</td>
+<td width="148">9/16/26 10:00 PM</td>
+<td width="148">9/18/26 4:14 PM</td>
+<td width="204">Meredith Hall</td>
+<td width="189">Unfounded</td>
+</tr>
+<tr>
+<td width="171">Theft</td>
+<td width="172">2026PU01197</td>
+<td width="148">9/18/26 8:48 PM</td>
+<td width="148">9/18/26 9:08 PM</td>
+<td width="204">CoRec</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Public Intoxication/ Minor Consumption</td>
+<td width="172">2026PU01198</td>
+<td width="148">9/18/26 9:41 PM</td>
+<td width="148">9/18/26 10:10 PM</td>
+<td width="204">Waldron St/ 1st St</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU01199</td>
+<td width="148">9/18/26 11:30 PM</td>
+<td width="148">9/18/26 11:38 PM</td>
+<td width="204">3rd &amp; West</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Drug Law Violation</td>
+<td width="172">2026PU01200</td>
+<td width="148">9/18/26 11:03 PM</td>
+<td width="148">9/18/26 11:40 PM</td>
+<td width="204">South Hall</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU01201</td>
+<td width="148">9/19/26 1:14 AM</td>
+<td width="148">9/19/26 1:28 AM</td>
+<td width="204">600 Blk Mitch Daniels Blvd</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU01202</td>
+<td width="148">9/19/26 12:59 AM</td>
+<td width="148">9/19/26 1:38 AM</td>
+<td width="204">3rd &amp; West</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU01204</td>
+<td width="148">9/19/26 4:04 AM</td>
+<td width="148">9/19/26 4:26 AM</td>
+<td width="204">Hillenbrand Hall</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU01205</td>
+<td width="148">9/19/26 4:00 AM</td>
+<td width="148">9/19/26 4:31 AM</td>
+<td width="204">Hawkins Hall</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Theft-Bike</td>
+<td width="172">2026PU01206</td>
+<td width="148">9/18/26 8:00 AM</td>
+<td width="148">9/19/26 11:03 AM</td>
+<td width="204">Shreve Hall</td>
+<td width="189">Suspended</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU01211</td>
+<td width="148">9/19/26 10:54 PM</td>
+<td width="148">9/19/26 11:27 PM</td>
+<td width="204">Hillenbrand Hall</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU01212</td>
+<td width="148">9/20/26 12:46 AM</td>
+<td width="148">9/20/26 12:53 AM</td>
+<td width="204">Sigma Kappa</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU01213</td>
+<td width="148">9/20/26 12:33 AM</td>
+<td width="148">9/20/26 1:02 AM</td>
+<td width="204">Meredith South</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU01215</td>
+<td width="148">9/20/26 1:12 AM</td>
+<td width="148">9/20/26 1:28 AM</td>
+<td width="204">Wiley Hall</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU01217</td>
+<td width="148">9/20/26 1:50 AM</td>
+<td width="148">9/20/26 2:07 AM</td>
+<td width="204">Meredith South</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Minor Consumption</td>
+<td width="172">2026PU01218</td>
+<td width="148">9/20/26 1:52 AM</td>
+<td width="148">9/20/26 2:11 AM</td>
+<td width="204">Meredith South</td>
+<td width="189">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="171">Driving While Suspended</td>
+<td width="172">2026PU01221</td>
+<td width="148">9/20/26 9:38 PM</td>
+<td width="148">9/20/26 9:53 PM</td>
+<td width="204">US 231 Hwy/ Mitch Daniels Blvd</td>
+<td width="189">Arrest Made</td>
+</tr>
+<tr>
+<td width="171">Harassment</td>
+<td width="172">2026PU01222</td>
+<td width="148">9/21/26 5:10 AM</td>
+<td width="148">9/21/26 5:43 AM</td>
+<td width="204">South Hall</td>
+<td width="189">Under Investigation</td>
+</tr>
+<tr>
+<td width="171">Reckless Driving</td>
+<td width="172">CAD# 2026-148080</td>
+<td width="148">9/17/26 6:58 PM</td>
+<td width="148">9/17/26 6:58 PM</td>
+<td width="204">US 231 Hwy/ S River Rd</td>
+<td width="189">Nothing Further</td>
+</tr>
+<tr>
+<td width="171">Rape</td>
+<td width="172">CSA</td>
+<td width="148">Spring 2026</td>
+<td width="148">9/18/26 3:15 PM</td>
+<td width="204">Unknown On Campus Housing</td>
+<td width="189">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1384,7 +1555,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>September 18, 2026</span></em></p>
+        <p><em>Last modified: <span>September 21, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
