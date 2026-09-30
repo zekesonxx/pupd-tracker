@@ -707,7 +707,7 @@
 <td style="font-weight: 400;" width="149">9/23/26 6:00 PM</td>
 <td style="font-weight: 400;" width="146">9/24/26 10:54 AM</td>
 <td style="font-weight: 400;" width="201">Purdue Police Department</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
+<td style="font-weight: 400;" width="192">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Drug Law Violation</td>
@@ -845,7 +845,7 @@
 <td width="148">9/22/26 11:00 PM</td>
 <td width="148">9/23/26 10:38 AM</td>
 <td width="204">Harrison Hall</td>
-<td width="189">Under Investigation</td>
+<td width="189">Suspended</td>
 </tr>
 <tr>
 <td width="171">Theft-Bike</td>
@@ -861,7 +861,7 @@
 <td width="148">9/23/26 3:44 PM</td>
 <td width="148">9/23/26 4:13 PM</td>
 <td width="204">Purdue Surplus Store</td>
-<td width="189">Under Investigation</td>
+<td width="189">Suspended</td>
 </tr>
 <tr>
 <td width="171">Theft-Bike</td>
@@ -869,7 +869,7 @@
 <td width="148">9/22/26 7:00 PM</td>
 <td width="148">9/23/26 9:37 PM</td>
 <td width="204">Krannert Center</td>
-<td width="189">Under Investigation</td>
+<td width="189">Suspended</td>
 </tr>
 <tr>
 <td width="171">Reckless Driver</td>
@@ -1030,20 +1030,20 @@ td
 <th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="189">Disposition&#160;</th>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft-EMPV</td>
+<td style="font-weight: 400;" width="171">Theft-Bike</td>
 <td style="font-weight: 400;" width="172">2026PU01223</td>
 <td style="font-weight: 400;" width="148">9/18/26 4:20 PM</td>
 <td style="font-weight: 400;" width="148">9/21/26 11:06 AM</td>
 <td style="font-weight: 400;" width="204">Meredith South</td>
-<td style="font-weight: 400;" width="189">Suspended</td>
+<td style="font-weight: 400;" width="189">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="171">Theft-Bike</td>
+<td style="font-weight: 400;" width="171">Theft-EMPV</td>
 <td style="font-weight: 400;" width="172">2026PU01224</td>
 <td style="font-weight: 400;" width="148">9/20/26 11:30 AM</td>
 <td style="font-weight: 400;" width="148">9/21/26 12:45 PM</td>
 <td style="font-weight: 400;" width="204">Meredith South</td>
-<td style="font-weight: 400;" width="189">Under Investigation</td>
+<td style="font-weight: 400;" width="189">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="171">Theft</td>
@@ -1879,7 +1879,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>September 25, 2026</span></em></p>
+        <p><em>Last modified: <span>September 30, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
