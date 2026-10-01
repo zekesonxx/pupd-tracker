@@ -654,12 +654,7 @@
 <li><a href="082426-daily-crime-log.php" title="082426 Daily Crime Log">Week of August 24, 2026</a></li>
 <li><a href="081726-daily-crime-log.php" title="081726 Daily Crime Log">Week of August 17, 2026</a></li>
 <li><a href="081026-daily-crime-log.php" title="081026 Daily Crime Log">Week of August 10, 2026</a></li>
-<li><a href="080326-daily-crime-log.php" title="080326 Daily Crime Log">Week of August 3, 2026</a></li>
-<li><a href="072726-daily-crime-log.php" title="072726 Daily Crime Log">Week of July 27, 2026</a></li>
-<li><a href="072026-daily-crime-log.php" title="072026 Daily Crime Log">Week of July 20, 2026</a></li>
-<li><a href="071326-daily-crime-log.php" title="071326 Daily Crime Log">Week of July 13, 2026</a></li>
-<li><a href="070626-daily-crime-log.php" title="070626 Daily Crime Log">Week of July 6, 2026</a></li>
-<li><a href="062926-daily-crime-log.php" title="062926 Daily Crime Log">Week of June 29, 2026</a><a href="2026-archive/060126-daily-crime-log.php" title="060126 Daily Crime Log"></a></li>
+<li><a href="080326-daily-crime-log.php" title="080326 Daily Crime Log">Week of August 3, 2026</a><a href="2026-archive/062926-daily-crime-log.php" title="062926 Daily Crime Log"></a><a href="2026-archive/060126-daily-crime-log.php" title="060126 Daily Crime Log"></a></li>
 </ul>
 		</section>
 	
@@ -1235,7 +1230,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>September 25, 2026</span></em></p>
+        <p><em>Last modified: <span>October 1, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         

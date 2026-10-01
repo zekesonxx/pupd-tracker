@@ -708,7 +708,58 @@
   
     	<section class="content__group">
   					<h3>Thursday, October 1, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="181">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="146">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="192">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;">Theft-Bike</td>
+<td style="font-weight: 400;">2026PU01303</td>
+<td style="font-weight: 400;">9/29/26 11:30 AM</td>
+<td style="font-weight: 400;">9/30/26 11:23 AM</td>
+<td style="font-weight: 400;">Shreve Hall</td>
+<td style="font-weight: 400;">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Intimidation</td>
+<td style="font-weight: 400;" width="172">2026PU01304</td>
+<td style="font-weight: 400;" width="149">9/29/26 7:30 AM</td>
+<td style="font-weight: 400;" width="146">9/30/26 1:48 PM</td>
+<td style="font-weight: 400;" width="201">Wetherill Building</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">2026PU01305</td>
+<td style="font-weight: 400;" width="149">9/30/26 11:12 PM</td>
+<td style="font-weight: 400;" width="146">9/30/26 11:41 PM</td>
+<td style="font-weight: 400;" width="201">Pike House</td>
+<td style="font-weight: 400;" width="192">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-155909</td>
+<td style="font-weight: 400;" width="149">9/29/26 7:46 PM</td>
+<td style="font-weight: 400;" width="146">9/29/26 7:46 PM</td>
+<td style="font-weight: 400;" width="201">Mitch Daniels Blvd/US HWY 231 S</td>
+<td style="font-weight: 400;" width="192">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Reckless Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-156151</td>
+<td style="font-weight: 400;" width="149">9/30/26 7:50 AM</td>
+<td style="font-weight: 400;" width="146">9/30/26 7:50 AM</td>
+<td style="font-weight: 400;" width="201">US HWY 231 S/Airport Rd</td>
+<td style="font-weight: 400;" width="192">Documented in 2026WL02324</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1731,7 +1782,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>September 30, 2026</span></em></p>
+        <p><em>Last modified: <span>October 1, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
