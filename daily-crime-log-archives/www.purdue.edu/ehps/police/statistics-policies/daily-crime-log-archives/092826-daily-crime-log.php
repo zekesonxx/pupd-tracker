@@ -755,7 +755,7 @@
 <td style="font-weight: 400;">9/29/26 11:30 AM</td>
 <td style="font-weight: 400;">9/30/26 11:23 AM</td>
 <td style="font-weight: 400;">Shreve Hall</td>
-<td style="font-weight: 400;">Under Investigation</td>
+<td style="font-weight: 400;">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Intimidation</td>
@@ -814,7 +814,7 @@
 <td style="font-weight: 400;">9/29/26 8:02 AM</td>
 <td style="font-weight: 400;">9/29/26 8:23 AM</td>
 <td style="font-weight: 400;">Earhart Hall</td>
-<td style="font-weight: 400;">Under Investigation</td>
+<td style="font-weight: 400;">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Theft-EMPV</td>
@@ -822,7 +822,7 @@
 <td style="font-weight: 400;" width="149">9/29/26 11:20 AM</td>
 <td style="font-weight: 400;" width="146">9/29/26 2:59 PM</td>
 <td style="font-weight: 400;" width="201">Aspire Apts</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
+<td style="font-weight: 400;" width="192">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Theft</td>
@@ -846,7 +846,7 @@
 <td style="font-weight: 400;" width="149">9/29/26 7:17 PM</td>
 <td style="font-weight: 400;" width="146">9/29/26 10:48 PM</td>
 <td style="font-weight: 400;" width="201">100 Foundry Dr</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
+<td style="font-weight: 400;" width="192">Arrest Made</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Minor Consumption</td>
@@ -1017,7 +1017,7 @@ td
 <td style="font-weight: 400;">9/26/26 7:00 PM</td>
 <td style="font-weight: 400;">9/28/26 3:45 PM</td>
 <td style="font-weight: 400;">McCutcheon Garage</td>
-<td style="font-weight: 400;">Under Investigation</td>
+<td style="font-weight: 400;">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;">Hit &amp; Run</td>
@@ -1147,7 +1147,7 @@ td
 <td>9/26/26 9:09 PM</td>
 <td>9/26/26 9:24 PM</td>
 <td>Winifred Parker Hall</td>
-<td>Under Investigation</td>
+<td>Suspended</td>
 </tr>
 <tr>
 <td>Minor Consumption</td>
@@ -1813,7 +1813,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>October 2, 2026</span></em></p>
+        <p><em>Last modified: <span>October 6, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         

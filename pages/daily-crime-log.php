@@ -794,7 +794,82 @@ td
   
     	<section class="content__group">
   					<h3>Tuesday, October 6, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="181">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="146">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="192">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU01338</td>
+<td style="font-weight: 400;" width="149">10/2/26 4:00 PM</td>
+<td style="font-weight: 400;" width="146">10/5/26 10:10 AM</td>
+<td style="font-weight: 400;" width="201">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft-Bike</td>
+<td style="font-weight: 400;" width="172">2026PU01339</td>
+<td style="font-weight: 400;" width="149">10/4/26 7:00 PM</td>
+<td style="font-weight: 400;" width="146">10/5/26 2:44 PM</td>
+<td style="font-weight: 400;" width="201">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU01340</td>
+<td style="font-weight: 400;" width="149">10/2/26 12:00 PM</td>
+<td style="font-weight: 400;" width="146">10/5/26 3:19 PM</td>
+<td style="font-weight: 400;" width="201">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft-EMPV</td>
+<td style="font-weight: 400;" width="172">2026PU01341</td>
+<td style="font-weight: 400;" width="149">10/1/26 5:30 PM</td>
+<td style="font-weight: 400;" width="146">10/5/26 5:17 PM</td>
+<td style="font-weight: 400;" width="201">Harrison Hall</td>
+<td style="font-weight: 400;" width="192">Unfounded</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Harassment</td>
+<td style="font-weight: 400;" width="172">2026PU01342</td>
+<td style="font-weight: 400;" width="149">10/5/26 7:05 PM</td>
+<td style="font-weight: 400;" width="146">10/5/26 7:23 PM</td>
+<td style="font-weight: 400;" width="201">First St Towers</td>
+<td style="font-weight: 400;" width="192">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft-EMPV</td>
+<td style="font-weight: 400;" width="172">2026PU01344</td>
+<td style="font-weight: 400;" width="149">8/28/26 6:00 PM</td>
+<td style="font-weight: 400;" width="146">10/5/26 11:27 PM</td>
+<td style="font-weight: 400;" width="201">Wiley Hall</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Drug Law Violation/ Driving Never Receiving License</td>
+<td style="font-weight: 400;" width="172">2026PU01345</td>
+<td style="font-weight: 400;" width="149">10/6/26 2:30 AM</td>
+<td style="font-weight: 400;" width="146">10/6/26 3:52 AM</td>
+<td style="font-weight: 400;" width="201">Ahlers Dr/ S River Rd</td>
+<td style="font-weight: 400;" width="192">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Public Intoxication</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-158024</td>
+<td style="font-weight: 400;" width="149">10/3/26 12:56 AM</td>
+<td style="font-weight: 400;" width="146">10/3/26 12:56 AM</td>
+<td style="font-weight: 400;" width="201">5th St/N Russell St</td>
+<td style="font-weight: 400;" width="192">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1539,7 +1614,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>October 5, 2026</span></em></p>
+        <p><em>Last modified: <span>October 6, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
