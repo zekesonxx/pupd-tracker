@@ -715,7 +715,212 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, October 7, 2026</h3>
-<div ccp_infra_copy_id="919d6cf1-b96b-43a7-94cf-9b1cad261257" ccp_infra_timestamp="1783537113134" ccp_infra_user_hash="2268918294" ccp_infra_version="3" data-ccp-timestamp="1783537113134">Will be posted soon.</div>
+<div ccp_infra_copy_id="919d6cf1-b96b-43a7-94cf-9b1cad261257" ccp_infra_timestamp="1783537113134" ccp_infra_user_hash="2268918294" ccp_infra_version="3" data-ccp-timestamp="1783537113134">
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="181">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="146">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="192">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Intimidation</td>
+<td style="font-weight: 400;" width="172">2026PU01346</td>
+<td style="font-weight: 400;" width="149">10/6/26 11:14 AM</td>
+<td style="font-weight: 400;" width="146">10/6/26 11:44 AM</td>
+<td style="font-weight: 400;" width="201">First St Towers</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft-BiKe</td>
+<td style="font-weight: 400;" width="172">2026PU01347</td>
+<td style="font-weight: 400;" width="149">9/22/26 8:00 PM</td>
+<td style="font-weight: 400;" width="146">10/6/26 12:40 PM</td>
+<td style="font-weight: 400;" width="201">Wetherill Building</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU01349</td>
+<td style="font-weight: 400;" width="149">9/29/26 11:15 AM</td>
+<td style="font-weight: 400;" width="146">10/6/26 3:39 PM</td>
+<td style="font-weight: 400;" width="201">Hagle Hall</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft-EMPV</td>
+<td style="font-weight: 400;" width="172">2026PU01351</td>
+<td style="font-weight: 400;" width="149">10/5/26 8:50 AM</td>
+<td style="font-weight: 400;" width="146">10/6/26 4:12 PM</td>
+<td style="font-weight: 400;" width="201">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft-BiKe</td>
+<td style="font-weight: 400;" width="172">2026PU01352</td>
+<td style="font-weight: 400;" width="149">10/5/26 2:50 AM</td>
+<td style="font-weight: 400;" width="146">10/6/26 8:13 PM</td>
+<td style="font-weight: 400;" width="201">Knoy Hall</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">4 Disciplinary Refferals</td>
+<td style="font-weight: 400;" width="149">9/19/26 12:36 AM</td>
+<td style="font-weight: 400;" width="146">9/19/26 2:22 AM</td>
+<td style="font-weight: 400;" width="201">Meredith Hall</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="149">9/19/26 4:00 AM</td>
+<td style="font-weight: 400;" width="146">9/19/26 5:38 AM</td>
+<td style="font-weight: 400;" width="201">Hawkins Hall</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="149">9/19/26 4:00 AM</td>
+<td style="font-weight: 400;" width="146">9/19/26 6:25 AM</td>
+<td style="font-weight: 400;" width="201">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">8 Disciplinary Refferals</td>
+<td style="font-weight: 400;" width="149">9/19/26 10:30 PM</td>
+<td style="font-weight: 400;" width="146">9/20/26 12:37 AM</td>
+<td style="font-weight: 400;" width="201">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="149">9/20/26 12:30 AM</td>
+<td style="font-weight: 400;" width="146">9/20/26 1:40 AM</td>
+<td style="font-weight: 400;" width="201">Meredith South</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="149">9/20/26 1:00 AM</td>
+<td style="font-weight: 400;" width="146">9/20/26 1:47 AM</td>
+<td style="font-weight: 400;" width="201">Wiley Hall</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="149">9/20/26 1:45 AM</td>
+<td style="font-weight: 400;" width="146">9/20/26 2:52 AM</td>
+<td style="font-weight: 400;" width="201">Meredith South</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="149">9/20/26 1:45 AM</td>
+<td style="font-weight: 400;" width="146">9/20/26 3:11 AM</td>
+<td style="font-weight: 400;" width="201">Meredith South</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">2 Disciplinary Referrals</td>
+<td style="font-weight: 400;" width="149">9/21/26 8:00 PM</td>
+<td style="font-weight: 400;" width="146">9/21/26 11:17 PM</td>
+<td style="font-weight: 400;" width="201">Hawkins Hall</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">2 Disciplinary Referrals</td>
+<td style="font-weight: 400;" width="149">9/22/26 8:15 PM</td>
+<td style="font-weight: 400;" width="146">9/22/26 9:21 PM</td>
+<td style="font-weight: 400;" width="201">South Hall</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="149">9/23/26 10:15 PM</td>
+<td style="font-weight: 400;" width="146">9/23/26 11:07 PM</td>
+<td style="font-weight: 400;" width="201">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Drug Law Violation</td>
+<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="149">9/24/26 1:18 PM</td>
+<td style="font-weight: 400;" width="146">9/24/26 2:39 PM</td>
+<td style="font-weight: 400;" width="201">Meredith Hall</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">3 Disciplinary Referrals</td>
+<td style="font-weight: 400;" width="149">9/24/26 11:15 PM</td>
+<td style="font-weight: 400;" width="146">9/25/26 11:15 PM</td>
+<td style="font-weight: 400;" width="201">3rd and West Apts.</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="149">9/25/26 12:14 AM</td>
+<td style="font-weight: 400;" width="146">9/25/26 10:23 AM</td>
+<td style="font-weight: 400;" width="201">South Hall</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="149">9/25/26 10:15 PM</td>
+<td style="font-weight: 400;" width="146">9/25/26 11:21 PM</td>
+<td style="font-weight: 400;" width="201">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="149">9/25/26 11:15 PM</td>
+<td style="font-weight: 400;" width="146">9/26/26 12:40 AM</td>
+<td style="font-weight: 400;" width="201">Wiley Hall</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">7 Disciplinary Referrals</td>
+<td style="font-weight: 400;" width="149">9/26/26 10:15 PM</td>
+<td style="font-weight: 400;" width="146">9/26/26 11:04 PM</td>
+<td style="font-weight: 400;" width="201">Winifred Parker Hall</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="149">9/27/26 1:34 AM</td>
+<td style="font-weight: 400;" width="146">9/27/26 1:34 AM</td>
+<td style="font-weight: 400;" width="201">Wiley Hall</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Liquor Law Violation</td>
+<td style="font-weight: 400;" width="172">1 Disciplinary Referral</td>
+<td style="font-weight: 400;" width="149">9/28/26 12:30 AM</td>
+<td style="font-weight: 400;" width="146">9/28/26 1:11 AM</td>
+<td style="font-weight: 400;" width="201">Harrison Hall</td>
+<td style="font-weight: 400;" width="192">Disciplinary Review</td>
+</tr>
+</tbody>
+</table>
+</div>
 <style><!--
 table
 	{mso-displayed-decimal-separator:"\.";
@@ -900,7 +1105,7 @@ td
 <td style="font-weight: 400;" width="149">10/2/26 2:00 PM</td>
 <td style="font-weight: 400;" width="146">10/2/26 2:34 PM</td>
 <td style="font-weight: 400;" width="201">Pi Beta Phi</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
+<td style="font-weight: 400;" width="192">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Theft</td>
@@ -908,7 +1113,7 @@ td
 <td style="font-weight: 400;" width="149">9/25/26 5:30 PM</td>
 <td style="font-weight: 400;" width="146">10/2/26 5:34 PM</td>
 <td style="font-weight: 400;" width="201">Wilmeth Active Learning Center</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
+<td style="font-weight: 400;" width="192">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Intimidation</td>
@@ -916,7 +1121,7 @@ td
 <td style="font-weight: 400;" width="149">10/2/26 8:45 PM</td>
 <td style="font-weight: 400;" width="146">10/2/26 9:21 PM</td>
 <td style="font-weight: 400;" width="201">Frieda Parker Hall</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
+<td style="font-weight: 400;" width="192">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Theft-EMPV</td>
@@ -924,7 +1129,7 @@ td
 <td style="font-weight: 400;" width="149">10/1/26 1:30 AM</td>
 <td style="font-weight: 400;" width="146">10/2/26 9:48 PM</td>
 <td style="font-weight: 400;" width="201">South Hall</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
+<td style="font-weight: 400;" width="192">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Theft-EMPV</td>
@@ -1614,7 +1819,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>October 6, 2026</span></em></p>
+        <p><em>Last modified: <span>October 7, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
