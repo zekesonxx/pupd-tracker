@@ -759,7 +759,7 @@
 <td style="font-weight: 400;" width="192">Under Investigation</td>
 </tr>
 <tr>
-<td style="font-weight: 400;" width="181">Criminal Mischief</td>
+<td style="font-weight: 400;" width="181">Arson/ Criminal Mischief</td>
 <td style="font-weight: 400;" width="172">2026PU01361</td>
 <td style="font-weight: 400;" width="149">10/7/26 6:46 PM</td>
 <td style="font-weight: 400;" width="146">10/7/26 6:51 PM</td>
