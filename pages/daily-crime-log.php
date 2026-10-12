@@ -801,7 +801,98 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, October 12, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="181">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="146">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="192">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Voyeurism/ Resisting Law Enforcement/ Battery</td>
+<td style="font-weight: 400;" width="172">2026PU01367</td>
+<td style="font-weight: 400;" width="149">10/9/26 1:15 PM</td>
+<td style="font-weight: 400;" width="146">10/9/26 2:00 PM</td>
+<td style="font-weight: 400;" width="201">Owek Hall</td>
+<td style="font-weight: 400;" width="192">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Residential Entry/ Theft</td>
+<td style="font-weight: 400;" width="172">2026PU01368</td>
+<td style="font-weight: 400;" width="149">10/9/26 2:15 AM</td>
+<td style="font-weight: 400;" width="146">10/9/26 2:52 PM</td>
+<td style="font-weight: 400;" width="201">South Hall</td>
+<td style="font-weight: 400;" width="192">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU01370</td>
+<td style="font-weight: 400;" width="149">10/9/26 9:11 PM</td>
+<td style="font-weight: 400;" width="146">10/9/26 9:42 PM</td>
+<td style="font-weight: 400;" width="201">Frieda Parker Hall</td>
+<td style="font-weight: 400;" width="192">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU01371</td>
+<td style="font-weight: 400;" width="149">10/8/26 7:22 PM</td>
+<td style="font-weight: 400;" width="146">10/10/26 4:57 PM</td>
+<td style="font-weight: 400;" width="201">Wilmeth Active Learning Center</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Public Intoxication/ Theft/ Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU01373</td>
+<td style="font-weight: 400;" width="149">10/10/26 8:02 PM</td>
+<td style="font-weight: 400;" width="146">10/10/26 8:03 PM</td>
+<td style="font-weight: 400;" width="201">Ross-Ade Stadium</td>
+<td style="font-weight: 400;" width="192">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft/ Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU01374</td>
+<td style="font-weight: 400;" width="149">10/10/26 8:22 PM</td>
+<td style="font-weight: 400;" width="146">10/10/26 8:39 PM</td>
+<td style="font-weight: 400;" width="201">Wiley Hall</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Fraud</td>
+<td style="font-weight: 400;" width="172">2026PU01379</td>
+<td style="font-weight: 400;" width="149">10/11/26 4:24 PM</td>
+<td style="font-weight: 400;" width="146">10/11/26 4:44 PM</td>
+<td style="font-weight: 400;" width="201">South Hall</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft-EMPV</td>
+<td style="font-weight: 400;" width="172">2026PU01381</td>
+<td style="font-weight: 400;" width="149">10/10/26 4:30 PM</td>
+<td style="font-weight: 400;" width="146">10/11/26 7:41 PM</td>
+<td style="font-weight: 400;" width="201">Pierce Hall</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Reckless Driving</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-161989</td>
+<td style="font-weight: 400;" width="149">10/9/26 9:08 AM</td>
+<td style="font-weight: 400;" width="146">10/9/26 9:08 AM</td>
+<td style="font-weight: 400;" width="201">S River Rd/ US 231</td>
+<td style="font-weight: 400;" width="192">Nothing Further</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Reckless Driving</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-161794</td>
+<td style="font-weight: 400;" width="149">10/8/26 9:52 PM</td>
+<td style="font-weight: 400;" width="146">10/8/26 9:52 PM</td>
+<td style="font-weight: 400;" width="201">US 231/ S Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="192">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1384,7 +1475,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>October 9, 2026</span></em></p>
+        <p><em>Last modified: <span>October 12, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
