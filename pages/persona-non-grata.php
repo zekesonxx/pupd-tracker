@@ -724,6 +724,11 @@
 <td width="76">10/12/28</td>
 </tr>
 <tr>
+<td width="204">Bean, Nathan</td>
+<td width="211">Entire WL Purdue Campus</td>
+<td width="76">10/12/31</td>
+</tr>
+<tr>
 <td width="204">Beard, Corbin S.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/18/28</td>
