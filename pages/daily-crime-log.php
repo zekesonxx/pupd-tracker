@@ -715,7 +715,68 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Wednesday, October 14, 2026</h3>
-<div ccp_infra_copy_id="919d6cf1-b96b-43a7-94cf-9b1cad261257" ccp_infra_timestamp="1783537113134" ccp_infra_user_hash="2268918294" ccp_infra_version="3" data-ccp-timestamp="1783537113134">Will be posted soon.</div>
+<div ccp_infra_copy_id="919d6cf1-b96b-43a7-94cf-9b1cad261257" ccp_infra_timestamp="1783537113134" ccp_infra_user_hash="2268918294" ccp_infra_version="3" data-ccp-timestamp="1783537113134">
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; width: 181px; text-align: left; vertical-align: middle;" width="181">Nature</th>
+<td style="font-weight: 400;" width="172">Case Number</td>
+<td style="font-weight: 400;" width="149">Date/Time Occurred</td>
+<td style="font-weight: 400;" width="146">Date/Time Reported</td>
+<td style="font-weight: 400;" width="201">General Location</td>
+<td style="font-weight: 400;" width="192">Disposition&#160;</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Trespass</td>
+<td style="font-weight: 400;" width="172">2026PU01384</td>
+<td style="font-weight: 400;" width="149">9/26/26 2:20 AM</td>
+<td style="font-weight: 400;" width="146">10/12/26 3:01 PM</td>
+<td style="font-weight: 400;" width="201">Dauch Alumni Center</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft-EMPV</td>
+<td style="font-weight: 400;" width="172">2026PU01386</td>
+<td style="font-weight: 400;" width="149">10/13/26 1:52 PM</td>
+<td style="font-weight: 400;" width="146">10/13/26 2:22 PM</td>
+<td style="font-weight: 400;" width="201">Aspire Apts</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Fraud</td>
+<td style="font-weight: 400;" width="172">2026PU01389</td>
+<td style="font-weight: 400;" width="149">10/2/26 12:52 AM</td>
+<td style="font-weight: 400;" width="146">10/13/26 6:18 PM</td>
+<td style="font-weight: 400;" width="201">South Hall</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU01391</td>
+<td style="font-weight: 400;" width="149">10/8/26 11:39 PM</td>
+<td style="font-weight: 400;" width="146">10/13/26 11:45 PM</td>
+<td style="font-weight: 400;" width="201">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU01392</td>
+<td style="font-weight: 400;" width="149">10/13/26 9:00 PM</td>
+<td style="font-weight: 400;" width="146">10/14/26 2:00 AM</td>
+<td style="font-weight: 400;" width="201">Aspire Apts</td>
+<td style="font-weight: 400;" width="192">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Drunk Driver</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-164554</td>
+<td style="font-weight: 400;" width="149">10/13/26 12:42 PM</td>
+<td style="font-weight: 400;" width="146">10/13/26 12:42 PM</td>
+<td style="font-weight: 400;" width="201">US HWY 231 S/ S River Rd</td>
+<td style="font-weight: 400;" width="192">Nothing Further</td>
+</tr>
+</tbody>
+</table>
+</div>
 <style><!--
 table
 	{mso-displayed-decimal-separator:"\.";
@@ -892,7 +953,7 @@ td
 <td style="font-weight: 400;" width="149">10/11/26 4:24 PM</td>
 <td style="font-weight: 400;" width="146">10/11/26 4:44 PM</td>
 <td style="font-weight: 400;" width="201">South Hall</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
+<td style="font-weight: 400;" width="192">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Theft-EMPV</td>
@@ -900,7 +961,7 @@ td
 <td style="font-weight: 400;" width="149">10/10/26 4:30 PM</td>
 <td style="font-weight: 400;" width="146">10/11/26 7:41 PM</td>
 <td style="font-weight: 400;" width="201">Pierce Hall</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
+<td style="font-weight: 400;" width="192">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Reckless Driving</td>
@@ -1502,7 +1563,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>October 13, 2026</span></em></p>
+        <p><em>Last modified: <span>October 14, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
