@@ -787,7 +787,7 @@
 <td style="font-weight: 400;" width="149">9/11/26 3:03 PM</td>
 <td style="font-weight: 400;" width="146">10/7/26 3:41 PM</td>
 <td style="font-weight: 400;" width="201">Math Building</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
+<td style="font-weight: 400;" width="192">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Arson/ Criminal Mischief</td>
@@ -862,7 +862,7 @@
 <td style="font-weight: 400;" width="149">10/5/26 8:50 AM</td>
 <td style="font-weight: 400;" width="146">10/6/26 4:12 PM</td>
 <td style="font-weight: 400;" width="201">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
+<td style="font-weight: 400;" width="192">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Theft-BiKe</td>
@@ -870,7 +870,7 @@
 <td style="font-weight: 400;" width="149">10/5/26 2:50 AM</td>
 <td style="font-weight: 400;" width="146">10/6/26 8:13 PM</td>
 <td style="font-weight: 400;" width="201">Knoy Hall</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
+<td style="font-weight: 400;" width="192">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Liquor Law Violation</td>
@@ -1925,7 +1925,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>October 9, 2026</span></em></p>
+        <p><em>Last modified: <span>October 15, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
