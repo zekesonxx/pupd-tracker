@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			101926 Daily Crime Log - 
+			102626 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -700,78 +700,22 @@
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Friday, October 23, 2026</h3>
+  					<h3>Friday, October 30, 2026</h3>
 <p>Will be posted soon.</p>
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Thursday, October 22, 2026</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Nature</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="146">Date/Time Reported</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="201">General Location</th>
-<th scope="col" style="text-align: left; vertical-align: middle;" width="192">Disposition</th>
-</tr>
-<tr>
-<td width="181">Hit &amp; Run</td>
-<td width="172">2026PU01445</td>
-<td width="149">10/21/26 6:00 AM</td>
-<td width="146">10/21/26 1:20 PM</td>
-<td width="201">Pao Hall</td>
-<td width="192">Under Investigation</td>
-</tr>
-<tr>
-<td width="181">Minor Consumption</td>
-<td width="172">2026PU01449</td>
-<td width="149">10/22/26 12:53 AM</td>
-<td width="146">10/22/26 1:16 AM</td>
-<td width="201">W Stadium Ave/McCormick Rd</td>
-<td width="192">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Thursday, October 29, 2026</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Wednesday, October 21, 2026</h3>
-<div ccp_infra_copy_id="919d6cf1-b96b-43a7-94cf-9b1cad261257" ccp_infra_timestamp="1783537113134" ccp_infra_user_hash="2268918294" ccp_infra_version="3" data-ccp-timestamp="1783537113134">
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="181">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="146">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="192">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Theft-Bike</td>
-<td style="font-weight: 400;" width="172">2026PU01441</td>
-<td style="font-weight: 400;" width="149">10/20/26 11:50 AM</td>
-<td style="font-weight: 400;" width="146">10/20/26 6:49 PM</td>
-<td style="font-weight: 400;" width="201">Lambertus Hall</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Theft-EMPV</td>
-<td style="font-weight: 400;" width="172">2026PU01442</td>
-<td style="font-weight: 400;" width="149">10/2/26 2:30 PM</td>
-<td style="font-weight: 400;" width="146">10/20/26 10:02 PM</td>
-<td style="font-weight: 400;" width="201">3rd &amp; West</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
-</tr>
-</tbody>
-</table>
-</div>
+  					<h3>Wednesday, October 28, 2026</h3>
+<div ccp_infra_copy_id="919d6cf1-b96b-43a7-94cf-9b1cad261257" ccp_infra_timestamp="1783537113134" ccp_infra_user_hash="2268918294" ccp_infra_version="3" data-ccp-timestamp="1783537113134">Will be posted soon.</div>
 <style><!--
 table
 	{mso-displayed-decimal-separator:"\.";
@@ -849,253 +793,15 @@ td
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Tuesday, October 20, 2026</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="181">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="146">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="192">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Theft-EMPV</td>
-<td style="font-weight: 400;" width="172">2026PU01431</td>
-<td style="font-weight: 400;" width="149">10/19/26 1:30 AM</td>
-<td style="font-weight: 400;" width="146">10/19/26 4:10 PM</td>
-<td style="font-weight: 400;" width="201">Harrison Hall</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Theft</td>
-<td style="font-weight: 400;" width="172">2026PU01432</td>
-<td style="font-weight: 400;" width="149">10/19/26 1:00 PM</td>
-<td style="font-weight: 400;" width="146">10/19/26 8:07 PM</td>
-<td style="font-weight: 400;" width="201">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Theft-EMPV</td>
-<td style="font-weight: 400;" width="172">2026PU01433</td>
-<td style="font-weight: 400;" width="149">9/1/26 4:00 PM</td>
-<td style="font-weight: 400;" width="146">10/19/26 9:24 PM</td>
-<td style="font-weight: 400;" width="201">South Hall</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Blackmail</td>
-<td style="font-weight: 400;" width="172">2026PU01434</td>
-<td style="font-weight: 400;" width="149">10/20/26 1:10 AM</td>
-<td style="font-weight: 400;" width="146">10/20/26 1:35 AM</td>
-<td style="font-weight: 400;" width="201">318 N Russell St</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Reckless Driver/Traffic</td>
-<td style="font-weight: 400;" width="172">CAD# 2026-167061</td>
-<td style="font-weight: 400;" width="149">10/16/26 11:40 PM</td>
-<td style="font-weight: 400;" width="146">10/16/26 11:40 PM</td>
-<td style="font-weight: 400;" width="201">1st St / N MacArthur Dr</td>
-<td style="font-weight: 400;" width="192">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Reckless Driver/Traffic</td>
-<td style="font-weight: 400;" width="172">CAD# 2026-167623</td>
-<td style="font-weight: 400;" width="149">10/18/26 12:25 AM</td>
-<td style="font-weight: 400;" width="146">10/18/26 12:25 AM</td>
-<td style="font-weight: 400;" width="201">Mitch Daniels Blvd / N Martin Jischke Dr</td>
-<td style="font-weight: 400;" width="192">Nothing Further</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Reckless Driver/Traffic</td>
-<td style="font-weight: 400;" width="172">CAD# 2026-167614</td>
-<td style="font-weight: 400;" width="149">10/18/26 12:01 AM</td>
-<td style="font-weight: 400;" width="146">10/18/26 12:01 AM</td>
-<td style="font-weight: 400;" width="201">200 Nimitz Dr RV Lot</td>
-<td style="font-weight: 400;" width="192">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Tuesday, October 27, 2026</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
   
     	<section class="content__group">
-  					<h3>Monday, October 19, 2026</h3>
-<table cellpadding="5" cellspacing="3" width="100%">
-<tbody>
-<tr>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="181">Nature</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="146">Date/Time Reported</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
-<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="192">Disposition&#160;</th>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Fraud</td>
-<td style="font-weight: 400;" width="172">2026PU01408</td>
-<td style="font-weight: 400;" width="149">10/16/26 11:00 AM</td>
-<td style="font-weight: 400;" width="146">10/16/26 6:49 PM</td>
-<td style="font-weight: 400;" width="201">Honors College South</td>
-<td style="font-weight: 400;" width="192">Suspended</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Disorderly Conduct/ Resisting Law Enforcement, Trespass</td>
-<td style="font-weight: 400;" width="172">2026PU01409</td>
-<td style="font-weight: 400;" width="149">10/16/26 9:36 PM</td>
-<td style="font-weight: 400;" width="146">10/16/26 9:36 PM</td>
-<td style="font-weight: 400;" width="201">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="192">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Trespass/ Disorderly Conduct</td>
-<td style="font-weight: 400;" width="172">2026PU01410</td>
-<td style="font-weight: 400;" width="149">10/16/26 9:30 PM</td>
-<td style="font-weight: 400;" width="146">10/16/26 9:37 PM</td>
-<td style="font-weight: 400;" width="201">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="192">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Theft</td>
-<td style="font-weight: 400;" width="172">2026PU01411</td>
-<td style="font-weight: 400;" width="149">10/16/26 9:18 PM</td>
-<td style="font-weight: 400;" width="146">10/16/26 9:43 PM</td>
-<td style="font-weight: 400;" width="201">Lilly Hall</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Theft</td>
-<td style="font-weight: 400;" width="172">2026PU01412</td>
-<td style="font-weight: 400;" width="149">10/16/26 9:14 PM</td>
-<td style="font-weight: 400;" width="146">10/16/26 10:01 PM</td>
-<td style="font-weight: 400;" width="201">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="192">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2026PU01413</td>
-<td style="font-weight: 400;" width="149">10/16/26 10:35 PM</td>
-<td style="font-weight: 400;" width="146">10/16/26 10:36 PM</td>
-<td style="font-weight: 400;" width="201">Ross-Ade Stadium</td>
-<td style="font-weight: 400;" width="192">Referred for Internal Disciplinary Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Battery</td>
-<td style="font-weight: 400;" width="172">2026PU01414</td>
-<td style="font-weight: 400;" width="149">10/16/26 1:30 AM</td>
-<td style="font-weight: 400;" width="146">10/17/26 12:32 AM</td>
-<td style="font-weight: 400;" width="201">South Hall</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Drug Law Violation</td>
-<td style="font-weight: 400;" width="172">2026PU01415</td>
-<td style="font-weight: 400;" width="149">10/17/26 12:28 AM</td>
-<td style="font-weight: 400;" width="146">10/17/26 12:55 AM</td>
-<td style="font-weight: 400;" width="201">Meredith South</td>
-<td style="font-weight: 400;" width="192">Referred for Internal Disciplinary Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2026PU01416</td>
-<td style="font-weight: 400;" width="149">10/17/26 1:15 AM</td>
-<td style="font-weight: 400;" width="146">10/17/26 1:23 AM</td>
-<td style="font-weight: 400;" width="201">Vawter Hall</td>
-<td style="font-weight: 400;" width="192">Referred for Internal Disciplinary Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Operating While Intoxicated</td>
-<td style="font-weight: 400;" width="172">2026PU01417</td>
-<td style="font-weight: 400;" width="149">10/17/26 1:19 AM</td>
-<td style="font-weight: 400;" width="146">10/17/26 2:03 AM</td>
-<td style="font-weight: 400;" width="201">University St Garage</td>
-<td style="font-weight: 400;" width="192">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2026PU01418</td>
-<td style="font-weight: 400;" width="149">10/17/26 4:05 AM</td>
-<td style="font-weight: 400;" width="146">10/17/26 4:14 AM</td>
-<td style="font-weight: 400;" width="201">Honors College South</td>
-<td style="font-weight: 400;" width="192">Referred for Internal Disciplinary Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2026PU01419</td>
-<td style="font-weight: 400;" width="149">10/17/26 3:17 AM</td>
-<td style="font-weight: 400;" width="146">10/17/26 4:23 AM</td>
-<td style="font-weight: 400;" width="201">Mitch Daniels Blvd/ Marsteller St</td>
-<td style="font-weight: 400;" width="192">Arrest Made</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Theft-Bike</td>
-<td style="font-weight: 400;" width="172">2026PU01420</td>
-<td style="font-weight: 400;" width="149">10/16/26 4:30 PM</td>
-<td style="font-weight: 400;" width="146">10/17/26 12:07 PM</td>
-<td style="font-weight: 400;" width="201">Wilmeth Active Learning Center</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Theft</td>
-<td style="font-weight: 400;" width="172">2026PU01422</td>
-<td style="font-weight: 400;" width="149">10/17/26 5:41 PM</td>
-<td style="font-weight: 400;" width="146">10/17/26 6:57 PM</td>
-<td style="font-weight: 400;" width="201">Purdue Memorial Union</td>
-<td style="font-weight: 400;" width="192">Suspended</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Battery</td>
-<td style="font-weight: 400;" width="172">2026PU01423</td>
-<td style="font-weight: 400;" width="149">10/17/26 7:01 PM</td>
-<td style="font-weight: 400;" width="146">10/17/26 6:43 PM</td>
-<td style="font-weight: 400;" width="201">Lambertus Hall</td>
-<td style="font-weight: 400;" width="192">Referred for Internal Disciplinary Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2026PU01424</td>
-<td style="font-weight: 400;" width="149">10/18/26 12:27 AM</td>
-<td style="font-weight: 400;" width="146">10/18/26 12:51 AM</td>
-<td style="font-weight: 400;" width="201">Frieda Parker Hall</td>
-<td style="font-weight: 400;" width="192">Referred for Internal Disciplinary Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2026PU01425</td>
-<td style="font-weight: 400;" width="149">10/18/26 12:30 AM</td>
-<td style="font-weight: 400;" width="146">10/18/26 12:54 AM</td>
-<td style="font-weight: 400;" width="201">Sigma Phi Epsilon</td>
-<td style="font-weight: 400;" width="192">Referred for Internal Disciplinary Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Residential Entry/ Minor Consumption</td>
-<td style="font-weight: 400;" width="172">2026PU01426</td>
-<td style="font-weight: 400;" width="149">10/18/26 4:15 AM</td>
-<td style="font-weight: 400;" width="146">10/18/26 4:45 AM</td>
-<td style="font-weight: 400;" width="201">McCutcheon Hall</td>
-<td style="font-weight: 400;" width="192">Referred for Internal Disciplinary Review</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Fraud</td>
-<td style="font-weight: 400;" width="172">2026PU01427</td>
-<td style="font-weight: 400;" width="149">8/25/26 3:50 PM</td>
-<td style="font-weight: 400;" width="146">10/18/26 10:59 AM</td>
-<td style="font-weight: 400;" width="201">Tarkington Hall</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
-</tr>
-<tr>
-<td style="font-weight: 400;" width="181">Reckless Driver</td>
-<td style="font-weight: 400;" width="172">CAD# 2026-166292</td>
-<td style="font-weight: 400;" width="149">10/15/26 9:49 PM</td>
-<td style="font-weight: 400;" width="146">10/15/26 9:49 PM</td>
-<td style="font-weight: 400;" width="201">Mitch Daniels Blvd / S University St</td>
-<td style="font-weight: 400;" width="192">Nothing Further</td>
-</tr>
-</tbody>
-</table>
+  					<h3>Monday, October 26, 2026</h3>
+Will be posted soon.
 		</section>
 	
           <div class="clearfix"></div>
@@ -1678,7 +1384,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>October 22, 2026</span></em></p>
+        <p><em>Last modified: <span>October 23, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
