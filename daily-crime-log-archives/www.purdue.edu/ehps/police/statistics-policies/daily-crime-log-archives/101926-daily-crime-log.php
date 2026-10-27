@@ -713,7 +713,7 @@
 <td style="font-weight: 400;" width="149">10/21/26 11:45 AM</td>
 <td style="font-weight: 400;" width="146">10/22/26 1:27 PM</td>
 <td style="font-weight: 400;" width="201">Math Building</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
+<td style="font-weight: 400;" width="192">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Theft-Bike</td>
@@ -921,7 +921,7 @@ td
 <td style="font-weight: 400;" width="149">10/19/26 1:30 AM</td>
 <td style="font-weight: 400;" width="146">10/19/26 4:10 PM</td>
 <td style="font-weight: 400;" width="201">Harrison Hall</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
+<td style="font-weight: 400;" width="192">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Theft</td>
@@ -945,7 +945,7 @@ td
 <td style="font-weight: 400;" width="149">10/20/26 1:10 AM</td>
 <td style="font-weight: 400;" width="146">10/20/26 1:35 AM</td>
 <td style="font-weight: 400;" width="201">318 N Russell St</td>
-<td style="font-weight: 400;" width="192">Under Investigation</td>
+<td style="font-weight: 400;" width="192">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Reckless Driver/Traffic</td>
@@ -1027,7 +1027,7 @@ td
 <td style="font-weight: 400;" width="149">10/16/26 9:14 PM</td>
 <td style="font-weight: 400;" width="146">10/16/26 10:01 PM</td>
 <td style="font-weight: 400;" width="201">Hillenbrand Hall</td>
-<td style="font-weight: 400;" width="192">Arrest Made</td>
+<td style="font-weight: 400;" width="192">Suspended</td>
 </tr>
 <tr>
 <td style="font-weight: 400;" width="181">Minor Consumption</td>
@@ -1733,7 +1733,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>October 26, 2026</span></em></p>
+        <p><em>Last modified: <span>October 27, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
