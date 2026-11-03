@@ -794,7 +794,58 @@ td
   
     	<section class="content__group">
   					<h3>Tuesday, November 3, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="181">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="146">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="191">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="172">2026PU01556</td>
+<td style="font-weight: 400;" width="149">11/2/26 9:25 AM</td>
+<td style="font-weight: 400;" width="146">11/2/26 10:26 AM</td>
+<td style="font-weight: 400;" width="201">1700 Blk Mitch Daniels Blvd</td>
+<td style="font-weight: 400;" width="191">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Blackmail</td>
+<td style="font-weight: 400;" width="172">2026PU01558</td>
+<td style="font-weight: 400;" width="149">11/2/26 5:00 PM</td>
+<td style="font-weight: 400;" width="146">11/2/26 6:23 PM</td>
+<td style="font-weight: 400;" width="201">Hawkins Hall</td>
+<td style="font-weight: 400;" width="191">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU01560</td>
+<td style="font-weight: 400;" width="149">10/30/26 8:00 AM</td>
+<td style="font-weight: 400;" width="146">11/3/26 12:31 AM</td>
+<td style="font-weight: 400;" width="201">Hawkins Hall</td>
+<td style="font-weight: 400;" width="191">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="172">2026PU01561</td>
+<td style="font-weight: 400;" width="149">11/3/26 12:09 AM</td>
+<td style="font-weight: 400;" width="146">11/3/26 1:18 AM</td>
+<td style="font-weight: 400;" width="201">Harrison St/ S University St</td>
+<td style="font-weight: 400;" width="191">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Vandalism</td>
+<td style="font-weight: 400;" width="172">CSA</td>
+<td style="font-weight: 400;" width="149">11/1/26 12:00 PM</td>
+<td style="font-weight: 400;" width="146">11/3/26 1:11 AM</td>
+<td style="font-weight: 400;" width="201">Grant 333</td>
+<td style="font-weight: 400;" width="191">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1619,7 +1670,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>November 2, 2026</span></em></p>
+        <p><em>Last modified: <span>November 3, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
