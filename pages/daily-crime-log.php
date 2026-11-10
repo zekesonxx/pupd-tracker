@@ -18,7 +18,7 @@
 		
 		
 		<title>
-			110226 Daily Crime Log - 
+			110926 Daily Crime Log - 
 			 Police Department -  Purdue University
 		</title>
 		<link href="https://www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
@@ -801,7 +801,138 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, November 9, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="181">Nature</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="146">Date/Time Reported</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="text-align: left; vertical-align: middle;" width="191">Disposition</th>
+</tr>
+<tr>
+<td width="181">Harassment</td>
+<td width="172">2026PU01588</td>
+<td width="149">11/4/26 9:30 AM</td>
+<td width="146">11/6/26 3:12 PM</td>
+<td width="201">Neil Armstrong Hall of Engineering</td>
+<td width="191">Under Investigation</td>
+</tr>
+<tr>
+<td width="181">Theft</td>
+<td width="172">2026PU01590</td>
+<td width="149">11/6/26 8:00 AM</td>
+<td width="146">11/6/26 5:18 PM</td>
+<td width="201">Aspire</td>
+<td width="191">Under Investigation</td>
+</tr>
+<tr>
+<td width="181">Minor Consumption</td>
+<td width="172">2026PU01592</td>
+<td width="149">11/6/26 11:29 PM</td>
+<td width="146">11/6/26 11:50 PM</td>
+<td width="201">Harrison Hall</td>
+<td width="191">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="181">Minor Consumption</td>
+<td width="172">2026PU01593</td>
+<td width="149">11/7/26 12:54 AM</td>
+<td width="146">11/7/26 1:19 AM</td>
+<td width="201">Chi Omega</td>
+<td width="191">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="181">Minor Consumption</td>
+<td width="172">2026PU01594</td>
+<td width="149">11/7/26 1:13 AM</td>
+<td width="146">11/7/26 1:35 AM</td>
+<td width="201">Shreve Hall</td>
+<td width="191">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="181">Minor Consumption</td>
+<td width="172">2026PU01595</td>
+<td width="149">11/7/26 1:30 AM</td>
+<td width="146">11/7/26 3:10 AM</td>
+<td width="201">Wiley Hall</td>
+<td width="191">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td width="181">Operating While Intoxicated</td>
+<td width="172">2026PU01596</td>
+<td width="149">11/7/26 3:22 AM</td>
+<td width="146">11/7/26 4:05 AM</td>
+<td width="201">Cherry Ln/Northwestern Ave</td>
+<td width="191">Nothing Further</td>
+</tr>
+<tr>
+<td width="181">Operating While Intoxicated</td>
+<td width="172">2026PU01597</td>
+<td width="149">11/7/26 3:22 AM</td>
+<td width="146">11/7/26 4:40 AM</td>
+<td width="201">Cherry Ln/Northwestern Ave</td>
+<td width="191">Arrest Made</td>
+</tr>
+<tr>
+<td width="181">Minor Consumption/Public Intoxication</td>
+<td width="172">2026PU01598</td>
+<td width="149">11/7/26 4:38 AM</td>
+<td width="146">11/7/26 5:02 AM</td>
+<td width="201">Sigma Nu</td>
+<td width="191">Arrest Made</td>
+</tr>
+<tr>
+<td width="181">Theft</td>
+<td width="172">2026PU01600</td>
+<td width="149">11/7/26 8:52 PM</td>
+<td width="146">11/7/26 9:10 PM</td>
+<td width="201">South Hall</td>
+<td width="191">Under Investigation</td>
+</tr>
+<tr>
+<td width="181">Residential Entry/Harassment/Theft</td>
+<td width="172">2026PU01601</td>
+<td width="149">11/7/26 10:41 PM</td>
+<td width="146">11/7/26 11:07 PM</td>
+<td width="201">Hillenbrand Hall</td>
+<td width="191">Under Investigation</td>
+</tr>
+<tr>
+<td width="181">Reckless Driver</td>
+<td width="172">2026PU01602</td>
+<td width="149">11/7/26 10:58 PM</td>
+<td width="146">11/7/26 11:08 PM</td>
+<td width="201">Oval Dr/Mitch Daniels Blvd</td>
+<td width="191">Arrest Made</td>
+</tr>
+<tr>
+<td width="181">Theft</td>
+<td width="172">2026PU01603</td>
+<td width="149">11/7/26 4:00 PM</td>
+<td width="146">11/8/26 3:02 AM</td>
+<td width="201">Stanley Coulter Hall</td>
+<td width="191">Under Investigation</td>
+</tr>
+<tr>
+<td width="181">Reckless Driver</td>
+<td width="172">CAD# 2026-179589</td>
+<td width="149">11/6/26 5:44 AM</td>
+<td width="146">11/6/26 5:44 AM</td>
+<td width="201">S River Rd/ 231 Hwy</td>
+<td width="191">Nothing Further</td>
+</tr>
+<tr>
+<td width="181">Stalking</td>
+<td width="172">CSA</td>
+<td width="149">Unknown Date 6:00 AM</td>
+<td width="146">11/6/26 Unknown Time</td>
+<td width="201">On-Campus Housing</td>
+<td width="191">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1384,7 +1515,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>November 6, 2026</span></em></p>
+        <p><em>Last modified: <span>November 9, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
