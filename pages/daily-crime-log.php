@@ -708,7 +708,26 @@
   
     	<section class="content__group">
   					<h3>Thursday, November 12, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="181">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="146">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="191">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Public Intoxication/Minor Consumption</td>
+<td style="font-weight: 400;" width="172">CAD# 2026-179504</td>
+<td style="font-weight: 400;" width="149">11/6/26 12:00 AM</td>
+<td style="font-weight: 400;" width="146">11/6/26 12:00 AM</td>
+<td style="font-weight: 400;" width="201">W State St/N Grant St</td>
+<td style="font-weight: 400;" width="191">Documented in 2026WL02666</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -921,7 +940,7 @@ td
 <td width="149">11/6/26 8:00 AM</td>
 <td width="146">11/6/26 5:18 PM</td>
 <td width="201">Aspire</td>
-<td width="191">Under Investigation</td>
+<td width="191">Suspended</td>
 </tr>
 <tr>
 <td width="181">Minor Consumption</td>
@@ -985,7 +1004,7 @@ td
 <td width="149">11/7/26 8:52 PM</td>
 <td width="146">11/7/26 9:10 PM</td>
 <td width="201">South Hall</td>
-<td width="191">Under Investigation</td>
+<td width="191">Suspended</td>
 </tr>
 <tr>
 <td width="181">Residential Entry/Harassment/Theft</td>
@@ -993,7 +1012,7 @@ td
 <td width="149">11/7/26 10:41 PM</td>
 <td width="146">11/7/26 11:07 PM</td>
 <td width="201">Hillenbrand Hall</td>
-<td width="191">Under Investigation</td>
+<td width="191">Suspended</td>
 </tr>
 <tr>
 <td width="181">Reckless Driver</td>
@@ -1009,7 +1028,7 @@ td
 <td width="149">11/7/26 4:00 PM</td>
 <td width="146">11/8/26 3:02 AM</td>
 <td width="201">Stanley Coulter Hall</td>
-<td width="191">Under Investigation</td>
+<td width="191">Suspended</td>
 </tr>
 <tr>
 <td width="181">Reckless Driver</td>
@@ -1611,7 +1630,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>November 11, 2026</span></em></p>
+        <p><em>Last modified: <span>November 12, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
