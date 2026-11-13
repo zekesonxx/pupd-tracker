@@ -695,7 +695,7 @@
 	
       
     	<section class="content__group">
-  					<h3>Updated Thursday, November 12, 2026</h3>
+  					<h3>Updated Friday, November 13, 2026</h3>
 <table width="100%">
 <tbody>
 <tr>
@@ -717,11 +717,6 @@
 <td width="204">Arroyo, Paolo N.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">9/10/26</td>
-</tr>
-<tr>
-<td width="204">Bajer-Tupaj, Peter</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">11/14/26</td>
 </tr>
 <tr>
 <td width="204">Baker, Lindsey D.</td>
