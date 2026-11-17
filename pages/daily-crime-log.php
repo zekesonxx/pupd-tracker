@@ -801,7 +801,170 @@ Will be posted soon.
   
     	<section class="content__group">
   					<h3>Monday, November 16, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="181">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="146">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="191">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU01636</td>
+<td style="font-weight: 400;" width="149">11/12/26 10:30 AM</td>
+<td style="font-weight: 400;" width="146">11/13/26 1:10 PM</td>
+<td style="font-weight: 400;" width="201">Wiley Hall</td>
+<td style="font-weight: 400;" width="191">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Intimidation</td>
+<td style="font-weight: 400;" width="172">2026PU01638</td>
+<td style="font-weight: 400;" width="149">11/13/26 2:46 PM</td>
+<td style="font-weight: 400;" width="146">11/13/26 3:16 PM</td>
+<td style="font-weight: 400;" width="201">Smalley Center</td>
+<td style="font-weight: 400;" width="191">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU01639</td>
+<td style="font-weight: 400;" width="149">11/13/26 4:57 PM</td>
+<td style="font-weight: 400;" width="146">11/13/26 4:59 PM</td>
+<td style="font-weight: 400;" width="201">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="191">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU01641</td>
+<td style="font-weight: 400;" width="149">11/13/26 10:58 PM</td>
+<td style="font-weight: 400;" width="146">11/13/26 11:17 PM</td>
+<td style="font-weight: 400;" width="201">Windsor Hall</td>
+<td style="font-weight: 400;" width="191">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU01642</td>
+<td style="font-weight: 400;" width="149">11/13/26 11:31 PM</td>
+<td style="font-weight: 400;" width="146">11/13/26 11:54 PM</td>
+<td style="font-weight: 400;" width="201">Earhart Hall</td>
+<td style="font-weight: 400;" width="191">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU01643</td>
+<td style="font-weight: 400;" width="149">11/14/26 2:23 AM</td>
+<td style="font-weight: 400;" width="146">11/14/26 2:32 AM</td>
+<td style="font-weight: 400;" width="201">Tarkington Hall</td>
+<td style="font-weight: 400;" width="191">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Operating While Intoxicated</td>
+<td style="font-weight: 400;" width="172">2026PU01644</td>
+<td style="font-weight: 400;" width="149">11/14/26 4:58 AM</td>
+<td style="font-weight: 400;" width="146">11/14/26 6:23 AM</td>
+<td style="font-weight: 400;" width="201">Nimitz Dr/ Gates Rd</td>
+<td style="font-weight: 400;" width="191">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Trespass</td>
+<td style="font-weight: 400;" width="172">2026PU01645</td>
+<td style="font-weight: 400;" width="149">11/14/26 6:40 AM</td>
+<td style="font-weight: 400;" width="146">11/14/26 7:09 AM</td>
+<td style="font-weight: 400;" width="201">Purdue Memorial Union</td>
+<td style="font-weight: 400;" width="191">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU01647</td>
+<td style="font-weight: 400;" width="149">11/14/26 7:04 PM</td>
+<td style="font-weight: 400;" width="146">11/14/26 8:03 PM</td>
+<td style="font-weight: 400;" width="201">Honors College North</td>
+<td style="font-weight: 400;" width="191">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU01648</td>
+<td style="font-weight: 400;" width="149">11/14/26 10:26 PM</td>
+<td style="font-weight: 400;" width="146">11/14/26 10:45 PM</td>
+<td style="font-weight: 400;" width="201">McCutcheon Hall</td>
+<td style="font-weight: 400;" width="191">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Public Intoxicatoin/ Disorderly Conduct/ Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU01649</td>
+<td style="font-weight: 400;" width="149">11/14/26 11:22 PM</td>
+<td style="font-weight: 400;" width="146">11/15/26 12:55 AM</td>
+<td style="font-weight: 400;" width="201">Tarkington Hall</td>
+<td style="font-weight: 400;" width="191">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU01650</td>
+<td style="font-weight: 400;" width="149">11/15/26 1:39 AM</td>
+<td style="font-weight: 400;" width="146">11/15/26 2:02 AM</td>
+<td style="font-weight: 400;" width="201">First St Towers</td>
+<td style="font-weight: 400;" width="191">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Public Intoxicatoin/ Resisting Law Enforcement/ Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU01651</td>
+<td style="font-weight: 400;" width="149">11/15/26 2:42 AM</td>
+<td style="font-weight: 400;" width="146">11/15/26 3:44 AM</td>
+<td style="font-weight: 400;" width="201">South Hall</td>
+<td style="font-weight: 400;" width="191">Arrest Made</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft/ Fraud</td>
+<td style="font-weight: 400;" width="172">2026PU01652</td>
+<td style="font-weight: 400;" width="149">11/13/26 10:15 PM</td>
+<td style="font-weight: 400;" width="146">11/15/26 11:50 AM</td>
+<td style="font-weight: 400;" width="201">University St Garage</td>
+<td style="font-weight: 400;" width="191">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU01653</td>
+<td style="font-weight: 400;" width="149">11/15/26 12:10 PM</td>
+<td style="font-weight: 400;" width="146">11/15/26 12:28 PM</td>
+<td style="font-weight: 400;" width="201">University St Garage</td>
+<td style="font-weight: 400;" width="191">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU01654</td>
+<td style="font-weight: 400;" width="149">11/14/26 7:00 PM</td>
+<td style="font-weight: 400;" width="146">11/15/26 2:09 PM</td>
+<td style="font-weight: 400;" width="201">500 Blk N Martin Jischke Dr</td>
+<td style="font-weight: 400;" width="191">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Fraud</td>
+<td style="font-weight: 400;" width="172">2026PU01655</td>
+<td style="font-weight: 400;" width="149">11/15/26 10:00 AM</td>
+<td style="font-weight: 400;" width="146">11/15/26 3:13 PM</td>
+<td style="font-weight: 400;" width="201">Hillenbrand Hall</td>
+<td style="font-weight: 400;" width="191">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Minor Consumption</td>
+<td style="font-weight: 400;" width="172">2026PU01657</td>
+<td style="font-weight: 400;" width="149">11/14/26 11:22 PM</td>
+<td style="font-weight: 400;" width="146">11/15/26 6:20 PM</td>
+<td style="font-weight: 400;" width="201">Tarkington Hall</td>
+<td style="font-weight: 400;" width="191">Referred for Internal Disciplinary Review</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Rape</td>
+<td style="font-weight: 400;" width="172">CSA</td>
+<td style="font-weight: 400;" width="149">11/8/26 5:00 AM</td>
+<td style="font-weight: 400;" width="146">11/13/26 5:30 PM</td>
+<td style="font-weight: 400;" width="201">On-Campus Housing</td>
+<td style="font-weight: 400;" width="191">Nothing Further</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1384,7 +1547,7 @@ Will be posted soon.
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>November 13, 2026</span></em></p>
+        <p><em>Last modified: <span>November 16, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
