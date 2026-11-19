@@ -708,7 +708,58 @@
   
     	<section class="content__group">
   					<h3>Thursday, November 19, 2026</h3>
-Will be posted soon.
+<table cellpadding="5" cellspacing="3" width="100%">
+<tbody>
+<tr>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="181">Nature</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="172">Case Number</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="149">Date/Time Occurred</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="146">Date/Time Reported</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="201">General Location</th>
+<th scope="col" style="font-weight: 400; text-align: left; vertical-align: middle;" width="191">Disposition&#160;</th>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU01665</td>
+<td style="font-weight: 400;" width="149">10/26/26 12:00 AM</td>
+<td style="font-weight: 400;" width="146">11/18/26 10:57 AM</td>
+<td style="font-weight: 400;" width="201">University Church</td>
+<td style="font-weight: 400;" width="191">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft/ Criminal Mischeif</td>
+<td style="font-weight: 400;" width="172">2026PU01666</td>
+<td style="font-weight: 400;" width="149">11/18/26 11:00 AM</td>
+<td style="font-weight: 400;" width="146">11/18/26 4:46 PM</td>
+<td style="font-weight: 400;" width="201">South Hall</td>
+<td style="font-weight: 400;" width="191">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Criminal Mischief</td>
+<td style="font-weight: 400;" width="172">2026PU01667</td>
+<td style="font-weight: 400;" width="149">11/18/26 3:52 PM</td>
+<td style="font-weight: 400;" width="146">11/18/26 4:16 PM</td>
+<td style="font-weight: 400;" width="201">Memorial Mall</td>
+<td style="font-weight: 400;" width="191">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Theft</td>
+<td style="font-weight: 400;" width="172">2026PU01668</td>
+<td style="font-weight: 400;" width="149">10/29/26 2:40 PM</td>
+<td style="font-weight: 400;" width="146">11/18/26 6:52 PM</td>
+<td style="font-weight: 400;" width="201">South Hall</td>
+<td style="font-weight: 400;" width="191">Under Investigation</td>
+</tr>
+<tr>
+<td style="font-weight: 400;" width="181">Fraud</td>
+<td style="font-weight: 400;" width="172">2026PU01670</td>
+<td style="font-weight: 400;" width="149">11/19/26 1:47 AM</td>
+<td style="font-weight: 400;" width="146">11/19/26 2:03 AM</td>
+<td style="font-weight: 400;" width="201">Math Building</td>
+<td style="font-weight: 400;" width="191">Referred fro Internal Disciplinary Review</td>
+</tr>
+</tbody>
+</table>
 		</section>
 	
           <div class="clearfix"></div>
@@ -1635,7 +1686,7 @@ td
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>November 18, 2026</span></em></p>
+        <p><em>Last modified: <span>November 19, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
