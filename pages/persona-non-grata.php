@@ -1241,7 +1241,7 @@
 <tr>
 <td width="204">Stidham, Jacob I.</td>
 <td width="211">Entire WL Purdue Campus</td>
-<td width="76">12/13/26</td>
+<td width="76">11/25/31</td>
 </tr>
 <tr>
 <td width="204">Theesfeld, Benjamin</td>
@@ -1287,11 +1287,6 @@
 <td width="204">VanVactor, Jaden C.</td>
 <td width="211">Entire WL Purdue Campus</td>
 <td width="76">10/9/27</td>
-</tr>
-<tr>
-<td width="204">Veach, Nathaniel</td>
-<td width="211">Entire WL Purdue Campus</td>
-<td width="76">10/22/26</td>
 </tr>
 <tr>
 <td width="204">Walton, Arion</td>
@@ -1934,7 +1929,7 @@
 
 <section class="footer__contact">
     <article class="footer__contact--list">
-        <p><em>Last modified: <span>November 24, 2026</span></em></p>
+        <p><em>Last modified: <span>November 25, 2026</span></em></p>
         <p>Purdue University, 610 Purdue Mall, West Lafayette, IN, 47907, 765-494-4600</p> 
 		<p><a href="https://www.purdue.edu/purdue/disclaimer.php" target="_blank">&copy; 2026 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php" target="_blank">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php" target="_blank">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a> | <a href="https://www.purdue.edu/brand/" target="_blank">Brand Toolkit</a> | <a href="mailto:police@purdue.edu" rel="noopener" target="_blank">Maintained by Purdue University Police Department</a></p>
         
